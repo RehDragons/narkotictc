@@ -1,0 +1,295 @@
+﻿[2024.08.29-23.14.55:925][ 10]Log file open, 08/30/24 01:14:55
+[2024.08.29-23.14.55:925][ 10]2024.08.29_23.14.55: [CCA_ASABot_C_2147186023] Loading INI Settings
+[2024.08.29-23.14.55:938][ 10]2024.08.29_23.14.55: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.08.29-23.15.44:681][ 27]2024.08.29_23.15.44: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.08.29-23.15.44:689][ 27]2024.08.29_23.15.44: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.08.29-23.15.44:701][ 27]2024.08.29_23.15.44: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.08.29-23.15.44:713][ 27]2024.08.29_23.15.44: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.08.29-23.15.44:723][ 27]2024.08.29_23.15.44: [WBUI] [CCA]  Updated Settings
+[2024.08.29-23.16.22:740][109]2024.08.29_23.16.22: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.08.29-23.16.47:220][828]2024.08.29_23.16.47: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.08.29-23.19.12:168][152]2024.08.29_23.19.12: Saving world...
+[2024.08.29-23.19.12:179][152]2024.08.29_23.19.12: World Save Complete. Took: 0.571842
+[2024.08.29-23.24.12:174][121]2024.08.29_23.24.12: Saving world...
+[2024.08.29-23.24.12:181][121]2024.08.29_23.24.12: World Save Complete. Took: 0.564902
+[2024.08.29-23.28.46:920][344]2024.08.29_23.28.46: AdminCmd: TeleportToPlayer 685611945  (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.28.46:927][344]2024.08.29_23.28.46: SERVER: Teleported To RehDragon - Lvl 28
+[2024.08.29-23.29.12:182][ 82]2024.08.29_23.29.12: Saving world...
+[2024.08.29-23.29.12:187][ 82]2024.08.29_23.29.12: World Save Complete. Took: 0.550948
+[2024.08.29-23.30.22:704][197]2024.08.29_23.30.22: AdminCmd: GiveCreativeMode (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.30.48:768][977]2024.08.29_23.30.48: AdminCmd: TeleportPlayerIdToMe 685611945  (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.31.05:857][490]2024.08.29_23.31.05: AdminCmd: ghost (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.31.13:766][727]2024.08.29_23.31.13: AdminCmd: ghost (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.31.16:572][811]2024.08.29_23.31.16: AdminCmd: walk (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.34.12:198][ 63]2024.08.29_23.34.12: Saving world...
+[2024.08.29-23.34.12:205][ 63]2024.08.29_23.34.12: World Save Complete. Took: 0.558445
+[2024.08.29-23.39.12:230][ 34]2024.08.29_23.39.12: Saving world...
+[2024.08.29-23.39.12:242][ 34]2024.08.29_23.39.12: World Save Complete. Took: 0.585038
+[2024.08.29-23.44.12:219][883]2024.08.29_23.44.12: Saving world...
+[2024.08.29-23.44.12:225][883]2024.08.29_23.44.12: World Save Complete. Took: 0.565038
+[2024.08.29-23.47.56:358][603]2024.08.29_23.47.56: AdminCmd: setplayerpos -104566.019569 233026.94076 -14272.949961 (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.47.56:369][603]2024.08.29_23.47.56: AdminCmd:  (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.49.12:236][852]2024.08.29_23.49.12: Saving world...
+[2024.08.29-23.49.12:249][852]2024.08.29_23.49.12: World Save Complete. Took: 0.570979
+[2024.08.29-23.54.12:238][763]2024.08.29_23.54.12: Saving world...
+[2024.08.29-23.54.12:245][763]2024.08.29_23.54.12: World Save Complete. Took: 0.553180
+[2024.08.29-23.59.12:272][630]2024.08.29_23.59.12: Saving world...
+[2024.08.29-23.59.12:277][630]2024.08.29_23.59.12: World Save Complete. Took: 0.572245
+[2024.08.30-00.00.29:641][949]2024.08.30_00.00.29: Got__Heem_ [UniqueNetId:000284fbd4cd46878f201e25c12c458f Platform:None] joined this ARK!
+[2024.08.30-00.00.46:455][452]2024.08.30_00.00.46: Tribe Tribe of Se7en, ID 1602035370: Day 5, 19:04:34: <RichColor Color="0, 1, 1, 1">Se7en was added to the Tribe!</>)
+[2024.08.30-00.00.46:463][452]2024.08.30_00.00.46: Player Got__Heem_ with ID 865477850 joined tribe Tribe of Se7en with ID 1602035370.
+[2024.08.30-00.01.39:446][  9]2024.08.30_00.01.39: Tribe Tribe of Shwat, ID 1432275875: Day 5, 19:14:51: <RichColor Color="1, 0, 0, 1">World barrier destroyed 'Shwat - Lvl 16' at X=227410.903 Y=17464.404 Z=58381.840!</>)
+[2024.08.30-00.01.41:396][ 67]2024.08.30_00.01.41: Tribe Tribe of Se7en, ID 1602035370: Day 5, 19:15:14: <RichColor Color="0, 1, 0, 1">Se7en Tamed a Pteranodon - Lvl 150 (Pteranodon)!</>)
+[2024.08.30-00.01.41:407][ 67]2024.08.30_00.01.41: Se7en of Tribe Tribe of Se7en Tamed a Pteranodon - Lvl 150 (Pteranodon)!
+[2024.08.30-00.01.41:419][ 67]2024.08.30_00.01.41: Tribe Tribe of Se7en, ID 1602035370: Day 5, 19:15:14: Se7en froze Pteranodon - Lvl 150 (Pteranodon))
+[2024.08.30-00.04.12:285][531]2024.08.30_00.04.12: Saving world...
+[2024.08.30-00.04.12:291][531]2024.08.30_00.04.12: World Save Complete. Took: 0.569050
+[2024.08.30-00.09.12:319][498]2024.08.30_00.09.12: Saving world...
+[2024.08.30-00.09.12:334][498]2024.08.30_00.09.12: World Save Complete. Took: 0.582493
+[2024.08.30-00.13.14:404][751]2024.08.30_00.13.14: Got__Heem_ [UniqueNetId:000284fbd4cd46878f201e25c12c458f Platform:None] left this ARK!
+[2024.08.30-00.14.12:339][470]2024.08.30_00.14.12: Saving world...
+[2024.08.30-00.14.12:347][470]2024.08.30_00.14.12: World Save Complete. Took: 0.577304
+[2024.08.30-00.18.31:263][219]2024.08.30_00.18.31: Got__Heem_ [UniqueNetId:000284fbd4cd46878f201e25c12c458f Platform:None] joined this ARK!
+[2024.08.30-00.19.12:347][426]2024.08.30_00.19.12: Saving world...
+[2024.08.30-00.19.12:362][426]2024.08.30_00.19.12: World Save Complete. Took: 0.574267
+[2024.08.30-00.24.12:381][341]2024.08.30_00.24.12: Saving world...
+[2024.08.30-00.24.12:386][341]2024.08.30_00.24.12: World Save Complete. Took: 0.592872
+[2024.08.30-00.25.06:027][946]2024.08.30_00.25.06: Tribe Tribe of Se7en, ID 1602035370: Day 6, 06:22:20: <RichColor Color="1, 0, 0, 1">Your 'Campfire (Locked) ' was destroyed!</>)
+[2024.08.30-00.29.12:373][260]2024.08.30_00.29.12: Saving world...
+[2024.08.30-00.29.12:387][260]2024.08.30_00.29.12: World Save Complete. Took: 0.592209
+[2024.08.30-00.34.12:407][232]2024.08.30_00.34.12: Saving world...
+[2024.08.30-00.34.12:413][232]2024.08.30_00.34.12: World Save Complete. Took: 0.589680
+[2024.08.30-00.37.57:030][894]2024.08.30_00.37.57: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] left this ARK!
+[2024.08.30-00.38.19:586][556]2024.08.30_00.38.19: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.08.30-00.39.12:390][969]2024.08.30_00.39.12: Saving world...
+[2024.08.30-00.39.12:404][969]2024.08.30_00.39.12: World Save Complete. Took: 0.572805
+[2024.08.30-00.41.05:409][145]2024.08.30_00.41.05: Tribe Tribe of Shwat, ID 1432275875: Day 6, 09:28:12: <RichColor Color="1, 0, 0, 1">Tribemember Shwat - Lvl 16 was killed!</>)
+[2024.08.30-00.41.05:418][145]2024.08.30_00.41.05: Shwat - Lvl 16 (Tribe of Shwat) was killed!
+[2024.08.30-00.41.07:031][193]2024.08.30_00.41.07: Got__Heem_ (Se7en): Hello
+[2024.08.30-00.43.12:705][959]2024.08.30_00.43.12: Tribe Tribe of Shwat, ID 1432275875: Day 6, 09:52:49: <RichColor Color="1, 1, 0, 1">Shwat was removed from the Tribe!</>)
+[2024.08.30-00.43.12:715][959]2024.08.30_00.43.12: Player Shwat with ID 531296528 removed from tribe Tribe of Shwat with ID 1432275875.
+[2024.08.30-00.43.12:797][959]2024.08.30_00.43.12: Tribe Tribe of Shwat1, ID 1826266890: Day 6, 09:52:49: <RichColor Color="0, 1, 1, 1">Shwat was added to the Tribe!</>)
+[2024.08.30-00.43.12:804][959]2024.08.30_00.43.12: Player MartyrD0nk3y with ID 175703758 joined tribe Tribe of Shwat1 with ID 1826266890.
+[2024.08.30-00.43.24:439][282]2024.08.30_00.43.24: MartyrD0nk3y (Shwat): Ayooo
+[2024.08.30-00.44.12:440][696]2024.08.30_00.44.12: Saving world...
+[2024.08.30-00.44.12:453][696]2024.08.30_00.44.12: World Save Complete. Took: 0.595996
+[2024.08.30-00.49.12:446][922]2024.08.30_00.49.12: Saving world...
+[2024.08.30-00.49.12:460][922]2024.08.30_00.49.12: World Save Complete. Took: 0.593587
+[2024.08.30-00.51.32:671][ 94]2024.08.30_00.51.32: Tribe Shwat Team, ID 1826266890: Day 6, 11:29:44: <RichColor Color="1, 0, 0, 1">Tribemember Shwat - Lvl 1 was killed!</>)
+[2024.08.30-00.51.32:672][ 94]2024.08.30_00.51.32: Shwat - Lvl 1 (Shwat Team) was killed!
+[2024.08.30-00.52.32:797][846]2024.08.30_00.52.32: Got__Heem_ (Se7en): Drops are weak ...
+[2024.08.30-00.52.55:864][535]2024.08.30_00.52.55: Tribe Shwat Team, ID 1826266890: Day 6, 11:45:49: <RichColor Color="1, 0, 0, 1">Tribemember Shwat - Lvl 1 was killed by a Ceratosaurus - Lvl 9!</>)
+[2024.08.30-00.52.55:872][535]2024.08.30_00.52.55: Shwat - Lvl 1 (Shwat Team) was killed by a Ceratosaurus - Lvl 9 ()!
+[2024.08.30-00.53.10:204][945]2024.08.30_00.53.10: MartyrD0nk3y (Shwat): working on that now
+[2024.08.30-00.53.31:464][554]2024.08.30_00.53.31: Got__Heem_ (Se7en): Nice
+[2024.08.30-00.54.08:160][633]2024.08.30_00.54.08: MartyrD0nk3y (Shwat): We just launched this one today so still ironing out issues. If you notice anything just let us know
+[2024.08.30-00.54.10:812][711]2024.08.30_00.54.10: SERVER: monkeywhisper: .
+[2024.08.30-00.54.12:479][742]2024.08.30_00.54.12: Saving world...
+[2024.08.30-00.54.12:483][742]2024.08.30_00.54.12: World Save Complete. Took: 0.600721
+[2024.08.30-00.54.35:054][416]2024.08.30_00.54.35: SERVER: monkeywhisper: Get to work Donkey!
+[2024.08.30-00.54.46:485][757]2024.08.30_00.54.46: Got__Heem_ (Se7en): Thanks for hosting
+[2024.08.30-00.55.06:350][351]2024.08.30_00.55.06: SERVER: monkeywhisper: You are welcome, it's hosted by my hosting company. 
+[2024.08.30-00.55.15:643][629]2024.08.30_00.55.15: MartyrD0nk3y (Shwat): NP, we got tired of nitrados laggy ass servers, this one will NOT lag.
+[2024.08.30-00.55.40:619][376]2024.08.30_00.55.40: Got__Heem_ (Se7en): Awesome
+[2024.08.30-00.56.59:661][741]2024.08.30_00.56.59: Got__Heem_ (Se7en): Says 4 man,  but I Cant make a tribe
+[2024.08.30-00.59.12:471][704]2024.08.30_00.59.12: Saving world...
+[2024.08.30-00.59.12:483][704]2024.08.30_00.59.12: World Save Complete. Took: 0.587001
+[2024.08.30-00.59.58:382][ 79]2024.08.30_00.59.58: AdminCmd: TeleportToPlayer 685611945  (PlayerName: MartyrD0nk3y, ARKID: 175703758, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.30-00.59.58:396][ 79]2024.08.30_00.59.58: SERVER: Teleported To RehDragon - Lvl 28
+[2024.08.30-01.00.12:587][500]2024.08.30_01.00.12: Tribe Shwat Team, ID 1826266890: Day 6, 13:10:20: <RichColor Color="0, 1, 1, 1">Tribe of RehDragon tribe was merged in by RehDragon!</>)
+[2024.08.30-01.00.12:624][500]2024.08.30_01.00.12: Tribe Tribe of RehDragon, ID 1843336968: Day 6, 13:10:20: <RichColor Color="1, 1, 0, 1">RehDragon was removed from the Tribe!</>)
+[2024.08.30-01.00.12:627][500]2024.08.30_01.00.12: Player RehDragon with ID 685611945 removed from tribe Tribe of RehDragon with ID 1843336968.
+[2024.08.30-01.00.12:684][500]2024.08.30_01.00.12: Tribe Shwat Team, ID 1826266890: Day 6, 13:10:20: <RichColor Color="0, 1, 1, 1">RehDragon was added to the Tribe by Shwat!</>)
+[2024.08.30-01.00.12:694][500]2024.08.30_01.00.12: Player RehDragon with ID 685611945 joined tribe Shwat Team with ID 1826266890 Invited by Player Shwat with ID 175703758.
+[2024.08.30-01.00.46:541][515]2024.08.30_01.00.46: MartyrD0nk3y (Shwat): It should have auto made your tribe when you joined, are you not able to invite someone?
+[2024.08.30-01.01.53:695][529]2024.08.30_01.01.53: Got__Heem_ (Se7en): Oh, Idk. Cant name your tribe?
+[2024.08.30-01.02.08:728][980]2024.08.30_01.02.08: RehDragon (RehDragon): you should be able to rename it from the trible
+[2024.08.30-01.02.09:899][ 15]2024.08.30_01.02.09: MartyrD0nk3y (Shwat): Yeah you can, go to tribe tab and click the little pencil
+[2024.08.30-01.02.41:934][975]2024.08.30_01.02.41: MartyrD0nk3y (Shwat): I may disable auto create so as not to confuse people.
+[2024.08.30-01.03.19:042][ 89]2024.08.30_01.03.19: Got__Heem_ (Se7en): Got it. Thanks. Different then what i was at before
+[2024.08.30-01.04.12:487][662]2024.08.30_01.04.12: Saving world...
+[2024.08.30-01.04.12:495][662]2024.08.30_01.04.12: World Save Complete. Took: 0.587660
+[2024.08.30-01.04.15:338][747]2024.08.30_01.04.15: Tribe Shwat Team, ID 1826266890: Day 6, 13:57:26: <RichColor Color="1, 0, 0, 1">Tribemember Shwat - Lvl 1 was killed!</>)
+[2024.08.30-01.04.15:339][747]2024.08.30_01.04.15: Shwat - Lvl 1 (Shwat Team) was killed! [KillerSID: 175703758]
+[2024.08.30-01.05.14:332][497]2024.08.30_01.05.14: Tribe Shwat Team, ID 1826266890: Day 6, 14:08:52: <RichColor Color="0, 1, 0, 1">Shwat Tamed a Pteranodon - Lvl 150 (Pteranodon)!</>)
+[2024.08.30-01.05.14:342][497]2024.08.30_01.05.14: Shwat of Tribe Shwat Team Tamed a Pteranodon - Lvl 150 (Pteranodon)!
+[2024.08.30-01.05.14:354][497]2024.08.30_01.05.14: Tribe Shwat Team, ID 1826266890: Day 6, 14:08:52: Shwat froze Pteranodon - Lvl 150 (Pteranodon))
+[2024.08.30-01.08.54:942][ 89]2024.08.30_01.08.54: Tribe Shwat Team, ID 1826266890: Day 6, 14:51:30: <RichColor Color="1, 0, 0, 1">Tribemember Shwat - Lvl 42 was killed!</>)
+[2024.08.30-01.08.54:949][ 89]2024.08.30_01.08.54: Shwat - Lvl 42 (Shwat Team) was killed!
+[2024.08.30-01.09.12:533][592]2024.08.30_01.09.12: Saving world...
+[2024.08.30-01.09.12:545][592]2024.08.30_01.09.12: World Save Complete. Took: 0.604852
+[2024.08.30-01.11.02:105][873]2024.08.30_01.11.02: Got__Heem_ (Se7en): Is there a discord or line chat?
+[2024.08.30-01.11.03:007][900]2024.08.30_01.11.03: SERVER: nARKotic invite: https://discord.gg/ctTnAypmRU
+[2024.08.30-01.11.31:502][753]2024.08.30_01.11.31: Got__Heem_ (Se7en): Nice
+[2024.08.30-01.11.37:635][937]2024.08.30_01.11.37: MartyrD0nk3y (Shwat): press F1 then click the discord link just FYI its still being worked on lol
+[2024.08.30-01.11.41:397][ 50]2024.08.30_01.11.41: SERVER: nARKotic invite: https://discord.gg/Rcs44vkjsg
+[2024.08.30-01.13.35:683][370]2024.08.30_01.13.35: Got__Heem_ (Se7en): All good. Thanks.
+[2024.08.30-01.14.12:550][454]2024.08.30_01.14.12: Saving world...
+[2024.08.30-01.14.12:560][454]2024.08.30_01.14.12: World Save Complete. Took: 0.596681
+[2024.08.30-01.14.23:981][796]2024.08.30_01.14.23: Roque_VI [UniqueNetId:0002250f8b3c49179f19e3e4c7a50f6a Platform:None] joined this ARK!
+[2024.08.30-01.16.31:790][545]2024.08.30_01.16.31: Tribe Tribe of Rogue, ID 1645415827: Day 6, 16:20:05: <RichColor Color="0, 1, 1, 1">Rogue was added to the Tribe!</>)
+[2024.08.30-01.16.31:796][545]2024.08.30_01.16.31: Player Roque_VI with ID 92384463 joined tribe Tribe of Rogue with ID 1645415827.
+[2024.08.30-01.17.38:214][322]2024.08.30_01.17.38: Tribe Ruckus, ID 1602035370: Day 6, 16:32:53: <RichColor Color="0, 1, 1, 1">Tribe of Rogue tribe was merged in by Rogue!</>)
+[2024.08.30-01.17.38:246][322]2024.08.30_01.17.38: Tribe Tribe of Rogue, ID 1645415827: Day 6, 16:32:53: <RichColor Color="1, 1, 0, 1">Rogue was removed from the Tribe!</>)
+[2024.08.30-01.17.38:250][322]2024.08.30_01.17.38: Player Rogue with ID 92384463 removed from tribe Tribe of Rogue with ID 1645415827.
+[2024.08.30-01.17.38:308][322]2024.08.30_01.17.38: Tribe Ruckus, ID 1602035370: Day 6, 16:32:53: <RichColor Color="0, 1, 1, 1">Rogue was added to the Tribe by Se7en!</>)
+[2024.08.30-01.17.38:317][322]2024.08.30_01.17.38: Player Rogue with ID 92384463 joined tribe Ruckus with ID 1602035370 Invited by Player Se7en with ID 865477850.
+[2024.08.30-01.18.12:417][325]2024.08.30_01.18.12: Tribe Ruckus, ID 1602035370: Day 6, 16:39:28: <RichColor Color="0, 1, 0, 1">Se7en Tamed a Pteranodon - Lvl 150 (Pteranodon)!</>)
+[2024.08.30-01.18.12:424][325]2024.08.30_01.18.12: Se7en of Tribe Ruckus Tamed a Pteranodon - Lvl 150 (Pteranodon)!
+[2024.08.30-01.18.12:436][325]2024.08.30_01.18.12: Tribe Ruckus, ID 1602035370: Day 6, 16:39:28: Rogue froze Pteranodon - Lvl 150 (Pteranodon))
+[2024.08.30-01.19.12:538][ 93]2024.08.30_01.19.12: Saving world...
+[2024.08.30-01.19.12:552][ 93]2024.08.30_01.19.12: World Save Complete. Took: 0.582606
+[2024.08.30-01.24.12:566][520]2024.08.30_01.24.12: Saving world...
+[2024.08.30-01.24.12:576][520]2024.08.30_01.24.12: World Save Complete. Took: 0.592613
+[2024.08.30-01.27.37:698][662]2024.08.30_01.27.37: Got__Heem_ [UniqueNetId:000284fbd4cd46878f201e25c12c458f Platform:None] left this ARK!
+[2024.08.30-01.29.12:574][454]2024.08.30_01.29.12: Saving world...
+[2024.08.30-01.29.12:587][454]2024.08.30_01.29.12: World Save Complete. Took: 0.584865
+[2024.08.30-01.30.23:440][578]2024.08.30_01.30.23: Roque_VI [UniqueNetId:0002250f8b3c49179f19e3e4c7a50f6a Platform:None] left this ARK!
+[2024.08.30-01.34.12:591][425]2024.08.30_01.34.12: Saving world...
+[2024.08.30-01.34.12:600][425]2024.08.30_01.34.12: World Save Complete. Took: 0.585319
+[2024.08.30-01.39.12:598][400]2024.08.30_01.39.12: Saving world...
+[2024.08.30-01.39.12:607][400]2024.08.30_01.39.12: World Save Complete. Took: 0.576884
+[2024.08.30-01.44.12:618][368]2024.08.30_01.44.12: Saving world...
+[2024.08.30-01.44.12:622][368]2024.08.30_01.44.12: World Save Complete. Took: 0.575884
+[2024.08.30-01.49.12:647][347]2024.08.30_01.49.12: Saving world...
+[2024.08.30-01.49.12:660][347]2024.08.30_01.49.12: World Save Complete. Took: 0.596858
+[2024.08.30-01.54.12:643][317]2024.08.30_01.54.12: Saving world...
+[2024.08.30-01.54.12:647][317]2024.08.30_01.54.12: World Save Complete. Took: 0.567687
+[2024.08.30-01.59.12:674][294]2024.08.30_01.59.12: Saving world...
+[2024.08.30-01.59.12:680][294]2024.08.30_01.59.12: World Save Complete. Took: 0.590468
+[2024.08.30-02.04.12:674][268]2024.08.30_02.04.12: Saving world...
+[2024.08.30-02.04.12:678][268]2024.08.30_02.04.12: World Save Complete. Took: 0.564853
+[2024.08.30-02.05.05:212][843]2024.08.30_02.05.05: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] left this ARK!
+[2024.08.30-02.09.12:694][249]2024.08.30_02.09.12: Saving world...
+[2024.08.30-02.09.12:700][249]2024.08.30_02.09.12: World Save Complete. Took: 0.580194
+[2024.08.30-02.14.12:719][232]2024.08.30_02.14.12: Saving world...
+[2024.08.30-02.14.12:724][232]2024.08.30_02.14.12: World Save Complete. Took: 0.575416
+[2024.08.30-02.19.12:731][211]2024.08.30_02.19.12: Saving world...
+[2024.08.30-02.19.12:744][211]2024.08.30_02.19.12: World Save Complete. Took: 0.586226
+[2024.08.30-02.24.12:753][193]2024.08.30_02.24.12: Saving world...
+[2024.08.30-02.24.12:767][193]2024.08.30_02.24.12: World Save Complete. Took: 0.592268
+[2024.08.30-02.29.12:760][166]2024.08.30_02.29.12: Saving world...
+[2024.08.30-02.29.12:767][166]2024.08.30_02.29.12: World Save Complete. Took: 0.571927
+[2024.08.30-02.34.12:755][143]2024.08.30_02.34.12: Saving world...
+[2024.08.30-02.34.12:759][143]2024.08.30_02.34.12: World Save Complete. Took: 0.557950
+[2024.08.30-02.39.12:762][122]2024.08.30_02.39.12: Saving world...
+[2024.08.30-02.39.12:774][122]2024.08.30_02.39.12: World Save Complete. Took: 0.570997
+[2024.08.30-02.44.12:792][ 95]2024.08.30_02.44.12: Saving world...
+[2024.08.30-02.44.12:802][ 95]2024.08.30_02.44.12: World Save Complete. Took: 0.589236
+[2024.08.30-02.49.12:812][ 74]2024.08.30_02.49.12: Saving world...
+[2024.08.30-02.49.12:818][ 74]2024.08.30_02.49.12: World Save Complete. Took: 0.579652
+[2024.08.30-02.54.12:864][ 51]2024.08.30_02.54.12: Saving world...
+[2024.08.30-02.54.12:880][ 51]2024.08.30_02.54.12: World Save Complete. Took: 0.617989
+[2024.08.30-02.59.12:863][ 33]2024.08.30_02.59.12: Saving world...
+[2024.08.30-02.59.12:876][ 33]2024.08.30_02.59.12: World Save Complete. Took: 0.586035
+[2024.08.30-03.04.12:867][  8]2024.08.30_03.04.12: Saving world...
+[2024.08.30-03.04.12:870][  8]2024.08.30_03.04.12: World Save Complete. Took: 0.565664
+[2024.08.30-03.05.59:947][218]2024.08.30_03.05.59: KIBO [UniqueNetId:0002feec0f06490684b3da9d7b8656ea Platform:None] joined this ARK!
+[2024.08.30-03.06.27:530][ 43]2024.08.30_03.06.27: Tribe Tribe of XGG, ID 1055893860: Day 7, 20:12:56: <RichColor Color="0, 1, 1, 1">XGG was added to the Tribe!</>)
+[2024.08.30-03.06.27:537][ 43]2024.08.30_03.06.27: Player KIBO with ID 125446264 joined tribe Tribe of XGG with ID 1055893860.
+[2024.08.30-03.09.12:899][975]2024.08.30_03.09.12: Saving world...
+[2024.08.30-03.09.12:910][975]2024.08.30_03.09.12: World Save Complete. Took: 0.583922
+[2024.08.30-03.10.55:393][ 48]2024.08.30_03.10.55: Tribe Tribe of XGG, ID 1055893860: Day 7, 23:02:45: <RichColor Color="1, 0, 0, 1">Tribemember XGG - Lvl 100 was killed!</>)
+[2024.08.30-03.10.55:403][ 48]2024.08.30_03.10.55: XGG - Lvl 100 (Tribe of XGG) was killed!
+[2024.08.30-03.12.28:958][852]2024.08.30_03.12.28: Tribe Tribe of XGG, ID 1055893860: Day 8, 00:13:45: <RichColor Color="0, 1, 0, 1">XGG Tamed a Pteranodon - Lvl 150 (Pteranodon)!</>)
+[2024.08.30-03.12.28:967][852]2024.08.30_03.12.28: XGG of Tribe Tribe of XGG Tamed a Pteranodon - Lvl 150 (Pteranodon)!
+[2024.08.30-03.12.28:979][852]2024.08.30_03.12.28: Tribe Tribe of XGG, ID 1055893860: Day 8, 00:13:45: XGG froze Pteranodon - Lvl 150 (Pteranodon))
+[2024.08.30-03.14.12:929][952]2024.08.30_03.14.12: Saving world...
+[2024.08.30-03.14.12:942][952]2024.08.30_03.14.12: World Save Complete. Took: 0.588417
+[2024.08.30-03.19.12:944][923]2024.08.30_03.19.12: Saving world...
+[2024.08.30-03.19.12:955][923]2024.08.30_03.19.12: World Save Complete. Took: 0.583662
+[2024.08.30-03.24.12:974][812]2024.08.30_03.24.12: Saving world...
+[2024.08.30-03.24.12:978][812]2024.08.30_03.24.12: World Save Complete. Took: 0.580757
+[2024.08.30-03.29.13:014][764]2024.08.30_03.29.13: Saving world...
+[2024.08.30-03.29.13:022][764]2024.08.30_03.29.13: World Save Complete. Took: 0.593707
+[2024.08.30-03.34.13:022][695]2024.08.30_03.34.13: Saving world...
+[2024.08.30-03.34.13:032][695]2024.08.30_03.34.13: World Save Complete. Took: 0.587819
+[2024.08.30-03.39.13:026][432]2024.08.30_03.39.13: Saving world...
+[2024.08.30-03.39.13:033][432]2024.08.30_03.39.13: World Save Complete. Took: 0.580470
+[2024.08.30-03.44.13:026][341]2024.08.30_03.44.13: Saving world...
+[2024.08.30-03.44.13:033][341]2024.08.30_03.44.13: World Save Complete. Took: 0.578216
+[2024.08.30-03.46.45:815][918]2024.08.30_03.46.45: Tribe Tribe of XGG, ID 1055893860: Day 8, 10:36:01: XGG froze Pteranodon - Lvl 215 (Pteranodon))
+[2024.08.30-03.49.13:068][237]2024.08.30_03.49.13: Saving world...
+[2024.08.30-03.49.13:079][237]2024.08.30_03.49.13: World Save Complete. Took: 0.617820
+[2024.08.30-03.54.13:063][170]2024.08.30_03.54.13: Saving world...
+[2024.08.30-03.54.13:073][170]2024.08.30_03.54.13: World Save Complete. Took: 0.599595
+[2024.08.30-03.55.54:003][195]2024.08.30_03.55.54: Blakeavelli [UniqueNetId:0002dce1497b4e7a9e1e6d0aea23b989 Platform:None] joined this ARK!
+[2024.08.30-03.59.13:074][145]2024.08.30_03.59.13: Saving world...
+[2024.08.30-03.59.13:081][145]2024.08.30_03.59.13: World Save Complete. Took: 0.587397
+[2024.08.30-03.59.27:966][590]2024.08.30_03.59.27: Tribe Tribe of Yo Daddy, ID 1252050207: Day 8, 13:03:31: <RichColor Color="0, 1, 1, 1">Yo Daddy was added to the Tribe!</>)
+[2024.08.30-03.59.27:977][590]2024.08.30_03.59.27: Player Blakeavelli with ID 962293530 joined tribe Tribe of Yo Daddy with ID 1252050207.
+[2024.08.30-04.01.55:660][944]2024.08.30_04.01.55: Blakeavelli [UniqueNetId:0002dce1497b4e7a9e1e6d0aea23b989 Platform:None] left this ARK!
+[2024.08.30-04.03.37:571][996]2024.08.30_04.03.37: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] left this ARK!
+[2024.08.30-04.04.13:094][ 23]2024.08.30_04.04.13: Saving world...
+[2024.08.30-04.04.13:108][ 23]2024.08.30_04.04.13: World Save Complete. Took: 0.595220
+[2024.08.30-04.04.29:009][500]2024.08.30_04.04.29: nickalda [UniqueNetId:0002fa55e0904ad6963055b41af5eb3d Platform:None] joined this ARK!
+[2024.08.30-04.06.32:622][207]2024.08.30_04.06.32: Tribe Tribe of Life, ID 1178879582: Day 8, 14:25:42: <RichColor Color="0, 1, 1, 1">Life was added to the Tribe!</>)
+[2024.08.30-04.06.32:625][207]2024.08.30_04.06.32: Player nickalda with ID 289861057 joined tribe Tribe of Life with ID 1178879582.
+[2024.08.30-04.07.20:379][626]2024.08.30_04.07.20: nickalda (Life): Looking 4 tribe
+[2024.08.30-04.08.25:565][581]2024.08.30_04.08.25: Tribe Tribe of XGG, ID 1055893860: Day 8, 14:47:36: XGG froze Pteranodon - Lvl 215 (Pteranodon))
+[2024.08.30-04.09.13:126][989]2024.08.30_04.09.13: Saving world...
+[2024.08.30-04.09.13:135][989]2024.08.30_04.09.13: World Save Complete. Took: 0.599504
+[2024.08.30-04.14.13:137][914]2024.08.30_04.14.13: Saving world...
+[2024.08.30-04.14.13:150][914]2024.08.30_04.14.13: World Save Complete. Took: 0.596562
+[2024.08.30-04.19.13:156][800]2024.08.30_04.19.13: Saving world...
+[2024.08.30-04.19.13:170][800]2024.08.30_04.19.13: World Save Complete. Took: 0.592874
+[2024.08.30-04.24.13:175][760]2024.08.30_04.24.13: Saving world...
+[2024.08.30-04.24.13:189][760]2024.08.30_04.24.13: World Save Complete. Took: 0.611310
+[2024.08.30-04.29.13:194][710]2024.08.30_04.29.13: Saving world...
+[2024.08.30-04.29.13:206][710]2024.08.30_04.29.13: World Save Complete. Took: 0.621085
+[2024.08.30-04.31.56:293][599]2024.08.30_04.31.56: Tribe Tribe of Life, ID 1178879582: Day 8, 19:20:54: <RichColor Color="0, 1, 0, 1">Life Tamed a Pegomastax - Lvl 10 (Pegomastax)!</>)
+[2024.08.30-04.31.56:297][599]2024.08.30_04.31.56: Life of Tribe Tribe of Life Tamed a Pegomastax - Lvl 10 (Pegomastax)!
+[2024.08.30-04.31.56:527][606]2024.08.30_04.31.56: Tribe Tribe of Life, ID 1178879582: Day 8, 19:20:54: <RichColor Color="1, 0, 0, 1">Your Pegomastax - Lvl 10 (Pegomastax) was killed by Life - Lvl 85-289861057 (Tribe of Life)!</>)
+[2024.08.30-04.31.56:529][606]2024.08.30_04.31.56: Tribe Tribe of Life, ID 1178879582: Day 8, 19:20:54: <RichColor Color="1, 0, 1, 1">Your Tribe killed Pegomastax - Lvl 10 (Pegomastax) (Tribe of Life)!</>)
+[2024.08.30-04.31.56:540][606]2024.08.30_04.31.56: Pegomastax - Lvl 10 (Pegomastax) (Tribe of Life) was killed by Life - Lvl 85-289861057 (Tribe of Life)! [KillerSID: 289861057]
+[2024.08.30-04.32.35:091][762]2024.08.30_04.32.35: Z O R O [UniqueNetId:00026e00e6474f40beeda1650ab19e52 Platform:None] joined this ARK!
+[2024.08.30-04.33.27:250][324]2024.08.30_04.33.27: Tribe Tribe of Z O R O, ID 1610544522: Day 8, 19:38:32: <RichColor Color="0, 1, 1, 1">Z O R O was added to the Tribe!</>)
+[2024.08.30-04.33.27:259][324]2024.08.30_04.33.27: Player Z O R O with ID 806758280 joined tribe Tribe of Z O R O with ID 1610544522.
+[2024.08.30-04.34.13:209][657]2024.08.30_04.34.13: Saving world...
+[2024.08.30-04.34.13:220][657]2024.08.30_04.34.13: World Save Complete. Took: 0.621896
+[2024.08.30-04.36.19:536][411]2024.08.30_04.36.19: nickalda [UniqueNetId:0002fa55e0904ad6963055b41af5eb3d Platform:None] left this ARK!
+[2024.08.30-04.36.54:371][452]2024.08.30_04.36.54: Tribe Tribe of Z O R O, ID 1610544522: Day 8, 20:18:39: <RichColor Color="0, 1, 0, 1">Z O R O Tamed a Pteranodon - Lvl 150 (Pteranodon)!</>)
+[2024.08.30-04.36.54:375][452]2024.08.30_04.36.54: Z O R O of Tribe Tribe of Z O R O Tamed a Pteranodon - Lvl 150 (Pteranodon)!
+[2024.08.30-04.36.54:387][452]2024.08.30_04.36.54: Tribe Tribe of Z O R O, ID 1610544522: Day 8, 20:18:39: Z O R O froze Pteranodon - Lvl 150 (Pteranodon))
+[2024.08.30-04.39.13:212][595]2024.08.30_04.39.13: Saving world...
+[2024.08.30-04.39.13:220][595]2024.08.30_04.39.13: World Save Complete. Took: 0.597442
+[2024.08.30-04.41.03:724][894]2024.08.30_04.41.03: Tribe Tribe of Z O R O, ID 1610544522: Day 8, 23:10:58: <RichColor Color="1, 0, 0, 1">Your Pteranodon - Lvl 199 (Pteranodon) was killed!</>)
+[2024.08.30-04.41.03:742][894]2024.08.30_04.41.03: Tribe Ruckus, ID 1602035370: Day 8, 23:10:58: <RichColor Color="1, 0, 1, 1">Your Tribe killed Pteranodon - Lvl 199 (Pteranodon) (Tribe of Z O R O)!</>)
+[2024.08.30-04.41.03:751][894]2024.08.30_04.41.03: Pteranodon - Lvl 199 (Pteranodon) (Tribe of Z O R O) was killed!
+[2024.08.30-04.43.29:196][247]2024.08.30_04.43.29: Tribe Tribe of Z O R O, ID 1610544522: Day 9, 01:01:12: <RichColor Color="1, 0, 0, 1">Tribemember Z O R O - Lvl 92 was killed!</>)
+[2024.08.30-04.43.29:201][247]2024.08.30_04.43.29: Z O R O - Lvl 92 (Tribe of Z O R O) was killed!
+[2024.08.30-04.44.13:222][541]2024.08.30_04.44.13: Saving world...
+[2024.08.30-04.44.13:231][541]2024.08.30_04.44.13: World Save Complete. Took: 0.587830
+[2024.08.30-04.49.13:235][452]2024.08.30_04.49.13: Saving world...
+[2024.08.30-04.49.13:243][452]2024.08.30_04.49.13: World Save Complete. Took: 0.600736
+[2024.08.30-04.51.27:548][478]2024.08.30_04.51.27: KIBO [UniqueNetId:0002feec0f06490684b3da9d7b8656ea Platform:None] left this ARK!
+[2024.08.30-04.52.17:626][943]2024.08.30_04.52.17: Tribe Tribe of Z O R O, ID 1610544522: Day 9, 05:52:44: <RichColor Color="0, 1, 0, 1">Z O R O Tamed a Pteranodon - Lvl 4 (Pteranodon)!</>)
+[2024.08.30-04.52.17:629][943]2024.08.30_04.52.17: Z O R O of Tribe Tribe of Z O R O Tamed a Pteranodon - Lvl 4 (Pteranodon)!
+[2024.08.30-04.54.13:263][393]2024.08.30_04.54.13: Saving world...
+[2024.08.30-04.54.13:269][393]2024.08.30_04.54.13: World Save Complete. Took: 0.598264
+[2024.08.30-04.55.38:147][931]2024.08.30_04.55.38: Z O R O [UniqueNetId:00026e00e6474f40beeda1650ab19e52 Platform:None] left this ARK!
+[2024.08.30-04.56.52:738][168]2024.08.30_04.56.52: Tribe Tribe of Z O R O, ID 1610544522: Day 9, 06:46:01: <RichColor Color="0, 1, 0, 1">Your Tribe Tamed a Pteranodon - Lvl 37 (Pteranodon)!</>)
+[2024.08.30-04.56.52:744][168]2024.08.30_04.56.52: Tribe  Tamed a Pteranodon - Lvl 37 (Pteranodon)!
+[2024.08.30-04.59.13:270][382]2024.08.30_04.59.13: Saving world...
+[2024.08.30-04.59.13:278][382]2024.08.30_04.59.13: World Save Complete. Took: 0.585394
+[2024.08.30-05.04.13:301][399]2024.08.30_05.04.13: Saving world...
+[2024.08.30-05.04.13:305][399]2024.08.30_05.04.13: World Save Complete. Took: 0.605360
+[2024.08.30-05.09.13:318][412]2024.08.30_05.09.13: Saving world...
+[2024.08.30-05.09.13:324][412]2024.08.30_05.09.13: World Save Complete. Took: 0.597924
+[2024.08.30-05.14.13:366][445]2024.08.30_05.14.13: Saving world...
+[2024.08.30-05.14.13:375][445]2024.08.30_05.14.13: World Save Complete. Took: 0.629818
+[2024.08.30-05.19.13:358][484]2024.08.30_05.19.13: Saving world...
+[2024.08.30-05.19.13:363][484]2024.08.30_05.19.13: World Save Complete. Took: 0.611934
+[2024.08.30-05.24.13:376][519]2024.08.30_05.24.13: Saving world...
+[2024.08.30-05.24.13:385][519]2024.08.30_05.24.13: World Save Complete. Took: 0.604538
+[2024.08.30-05.29.13:377][560]2024.08.30_05.29.13: Saving world...
+[2024.08.30-05.29.13:384][560]2024.08.30_05.29.13: World Save Complete. Took: 0.590228
+[2024.08.30-05.34.13:379][602]2024.08.30_05.34.13: Saving world...
+[2024.08.30-05.34.13:393][602]2024.08.30_05.34.13: World Save Complete. Took: 0.584583
+[2024.08.30-05.39.13:423][644]2024.08.30_05.39.13: Saving world...
+[2024.08.30-05.39.13:432][644]2024.08.30_05.39.13: World Save Complete. Took: 0.610195
+[2024.08.30-05.41.04:245][976]2024.08.30_05.41.04: KIBO [UniqueNetId:0002feec0f06490684b3da9d7b8656ea Platform:None] joined this ARK!
+[2024.08.30-05.43.16:569][942]2024.08.30_05.43.16: SERVER: martyrd0nk3y: Server is going to quickly restart to bump up the loot drops.
+[2024.08.30-05.44.13:451][631]2024.08.30_05.44.13: Saving world...
+[2024.08.30-05.44.13:459][631]2024.08.30_05.44.13: World Save Complete. Took: 0.623520
+[2024.08.30-05.45.46:112][409]2024.08.30_05.45.46: SERVER: martyrd0nk3y: Server shutting down for restart to fix loot drops. Will be back up in 2-3 minutes!

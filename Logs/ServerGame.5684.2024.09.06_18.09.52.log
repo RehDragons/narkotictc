@@ -1,0 +1,592 @@
+﻿[2024.09.06-18.10.10:994][  8]Log file open, 09/06/24 20:10:10
+[2024.09.06-18.10.10:994][  8]2024.09.06_18.10.10: [CCA_ASABot_C_2147476376] Loading INI Settings
+[2024.09.06-18.10.11:007][  8]2024.09.06_18.10.11: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.09.06-18.11.22:658][ 12]2024.09.06_18.11.22: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.09.06-18.11.22:663][ 12]2024.09.06_18.11.22: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.06-18.11.22:675][ 12]2024.09.06_18.11.22: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.06-18.11.22:687][ 12]2024.09.06_18.11.22: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.06-18.11.22:697][ 12]2024.09.06_18.11.22: [WBUI] [CCA]  Updated Settings
+[2024.09.06-18.11.54:314][911]2024.09.06_18.11.54: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] joined this ARK!
+[2024.09.06-18.11.54:586][918]2024.09.06_18.11.54: Dark--Animal [UniqueNetId:0002bd6d12f74c40abaa6c5346389739 Platform:None] joined this ARK!
+[2024.09.06-18.12.15:228][475]2024.09.06_18.12.15: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.09.06-18.12.30:256][884]2024.09.06_18.12.30: DepthViking [UniqueNetId:0002ea81a0154bea893e6bce16f8b238 Platform:None] joined this ARK!
+[2024.09.06-18.12.56:915][549]2024.09.06_18.12.56: Animals_Woman [UniqueNetId:0002f05d3f984d6c874882587e90b804 Platform:None] joined this ARK!
+[2024.09.06-18.13.30:008][303]2024.09.06_18.13.30: Adolescent Ravager - Lvl 223 (Ravager) () was killed!
+[2024.09.06-18.13.47:846][640]2024.09.06_18.13.47: DiggityDankDabz [UniqueNetId:0002d900478044c38e207a71981c97c4 Platform:None] joined this ARK!
+[2024.09.06-18.13.55:143][728]2024.09.06_18.13.55: EBK_Scorpion [UniqueNetId:0002b29fea694e3aa84ba819a4cd3297 Platform:None] joined this ARK!
+[2024.09.06-18.14.28:790][216]2024.09.06_18.14.28: ortapfel05 [UniqueNetId:00020b23468046af8a9b8c14936aab12 Platform:None] joined this ARK!
+[2024.09.06-18.14.53:422][570]2024.09.06_18.14.53: Saving world...
+[2024.09.06-18.14.53:437][570]2024.09.06_18.14.53: World Save Complete. Took: 0.591780
+[2024.09.06-18.14.58:538][645]2024.09.06_18.14.58: Tribe Tribe of Apfel, ID 1374872641: Day 19, 03:16:15: <RichColor Color="0, 1, 1, 1">Apfel was added to the Tribe!</>)
+[2024.09.06-18.14.58:545][645]2024.09.06_18.14.58: Player ortapfel05 with ID 276492792 joined tribe Tribe of Apfel with ID 1374872641.
+[2024.09.06-18.15.34:536][135]2024.09.06_18.15.34: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] joined this ARK!
+[2024.09.06-18.16.05:438][553]2024.09.06_18.16.05: SERVER: martyrd0nk3y: Well, it worked for most items being limited to 10k but the bullets still stack too high, we are NOT going to restart again, we will work on it and add it with the next restart tomorrow. Sorry guys.
+[2024.09.06-18.16.29:973][940]2024.09.06_18.16.29: ortapfel05 [UniqueNetId:00020b23468046af8a9b8c14936aab12 Platform:None] left this ARK!
+[2024.09.06-18.16.56:903][418]2024.09.06_18.16.56: EBK_Scorpion (Seth): Its all good gotta do what you gotta do
+[2024.09.06-18.17.36:153][132]2024.09.06_18.17.36: SERVER: martyrd0nk3y: Yup, we will fix it for the next restart. Have fun everyone and as always let us know any suggestions / issues and we will work on them!
+[2024.09.06-18.19.32:146][199]2024.09.06_18.19.32: DEAD JOKER1X (Lucifer): Bruh
+[2024.09.06-18.19.53:433][507]2024.09.06_18.19.53: Saving world...
+[2024.09.06-18.19.53:445][507]2024.09.06_18.19.53: World Save Complete. Took: 0.579718
+[2024.09.06-18.20.06:582][684]2024.09.06_18.20.06: DiggityDankDabz (Diggs): Lost so many bullets and mats ):
+[2024.09.06-18.20.17:597][824]2024.09.06_18.20.17: DiggityDankDabz (Diggs): 60k ingot to 10k
+[2024.09.06-18.21.02:521][396]2024.09.06_18.21.02: DEAD JOKER1X (Lucifer): Yea lost bullets when u changed stack...
+[2024.09.06-18.21.20:979][674]2024.09.06_18.21.20: EBK_Scorpion (Seth): From what i didnt lose anything i dont think
+[2024.09.06-18.21.54:470][202]2024.09.06_18.21.54: DEAD JOKER1X (Lucifer): They only stack to 500 and ours were well over that
+[2024.09.06-18.22.15:071][572]2024.09.06_18.22.15: DEAD JOKER1X (Lucifer): So most bullets went poof
+[2024.09.06-18.22.37:222][961]2024.09.06_18.22.37: DiggityDankDabz (Diggs): We had stacks over 50k of each mat and now they all 10k.  Bullets and mats did
+[2024.09.06-18.22.39:336][996]2024.09.06_18.22.39: SERVER: martyrd0nk3y: It looks like anything that was over 10k got reduced down instead of splitting them up. Sorry guys, it should have split them but ark is gonna ark. They are SUPPOSED to only go to 150. (for ARB)
+[2024.09.06-18.23.02:095][381]2024.09.06_18.23.02: DiggityDankDabz (Diggs): Ok is what it is ):
+[2024.09.06-18.23.17:488][652]2024.09.06_18.23.17: DEAD JOKER1X (Lucifer): Oh ***************
+[2024.09.06-18.23.18:606][671]2024.09.06_18.23.18: EBK_Scorpion (Seth): Lmao average Ark moment
+[2024.09.06-18.23.20:119][697]2024.09.06_18.23.20: SERVER: martyrd0nk3y: Sorry everyone, but I wont modify stacks again so it wont happen again.
+[2024.09.06-18.23.43:581][ 80]2024.09.06_18.23.43: DiggityDankDabz (Diggs): 150 good size for arb tho
+[2024.09.06-18.23.59:191][343]2024.09.06_18.23.59: SERVER: martyrd0nk3y: can anyone confirm how high ARB stacks currently?
+[2024.09.06-18.24.11:598][562]2024.09.06_18.24.11: SERVER: monkeywhisper: Sorry about that everyone. We will place in the shop a free care package for the issue!
+[2024.09.06-18.24.16:133][638]2024.09.06_18.24.16: DiggityDankDabz (Diggs): 500
+[2024.09.06-18.24.25:479][808]2024.09.06_18.24.25: DEAD JOKER1X (Lucifer): Dude i literally lost like 10+ hours of grinding
+[2024.09.06-18.24.34:777][978]2024.09.06_18.24.34: DepthViking (Viking): cant even access the shop lol
+[2024.09.06-18.24.40:342][ 71]2024.09.06_18.24.40: EBK_Scorpion (Seth): In bullets?
+[2024.09.06-18.24.44:509][140]2024.09.06_18.24.44: SERVER: monkeywhisper: Hold R and access it.
+[2024.09.06-18.24.51:858][262]2024.09.06_18.24.51: SERVER: martyrd0nk3y: is everyone cool with sticking to 500 or would you like me to drop it to 150 for tomorrows restart?
+[2024.09.06-18.24.53:475][280]2024.09.06_18.24.53: Saving world...
+[2024.09.06-18.24.53:481][280]2024.09.06_18.24.53: World Save Complete. Took: 0.581678
+[2024.09.06-18.24.55:252][308]2024.09.06_18.24.55: DEAD JOKER1X (Lucifer): No everything all our mats
+[2024.09.06-18.25.00:292][394]2024.09.06_18.25.00: DiggityDankDabz (Diggs): Same but its new server and its ark they are trying
+[2024.09.06-18.25.14:782][640]2024.09.06_18.25.14: Unavailable name (Banana): you could change the slot amount of the turrets instead
+[2024.09.06-18.25.21:221][747]2024.09.06_18.25.21: EBK_Scorpion (Seth): What about console we dont have a R lmao
+[2024.09.06-18.25.36:030][993]2024.09.06_18.25.36: DiggityDankDabz (Diggs): Hold x
+[2024.09.06-18.25.37:768][ 21]2024.09.06_18.25.37: Unavailable name (Banana): instead of 58 slots just make it like 17 or 18 slots
+[2024.09.06-18.25.52:135][242]2024.09.06_18.25.52: Unavailable name (Banana): at current stack for arb
+[2024.09.06-18.25.59:844][359]2024.09.06_18.25.59: EBK_Scorpion (Seth): Oh shii thanks
+[2024.09.06-18.26.15:716][611]2024.09.06_18.26.15: Unavailable name (Banana): this would be very similar in ammo count
+[2024.09.06-18.26.23:612][738]2024.09.06_18.26.23: Unavailable name (Banana): and nobody would lose ammo again
+[2024.09.06-18.26.31:900][876]2024.09.06_18.26.31: SERVER: martyrd0nk3y: I can do that, I dont want to touch stacks again so people dont lose anything else. I will reduce max turret slots to 17.
+[2024.09.06-18.27.06:572][452]2024.09.06_18.27.06: SERVER: martyrd0nk3y: This will be applied on the next restart (tomorrow) Make sure you do not put more then 17 stacks of ammo in your turrets to minimize loss.
+[2024.09.06-18.27.27:984][804]2024.09.06_18.27.27: DiggityDankDabz (Diggs): Roger that
+[2024.09.06-18.28.30:295][707]2024.09.06_18.28.30: Tribe Tribe of Twitch, ID 1139608408: Day 19, 08:40:22: <RichColor Color="0, 1, 0, 1">Twitch Tamed an Aberrant Otter - Lvl 7 (Aberrant Otter)!</>)
+[2024.09.06-18.28.30:297][707]2024.09.06_18.28.30: Twitch of Tribe Tribe of Twitch Tamed an Aberrant Otter - Lvl 7 (Aberrant Otter)!
+[2024.09.06-18.29.27:761][618]2024.09.06_18.29.27: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.09.06-18.29.42:034][835]2024.09.06_18.29.42: MonkeyWhisper [UniqueNetId:0002b1971bca45939cfb7acd896bb5ee Platform:None] joined this ARK!
+[2024.09.06-18.29.53:497][965]2024.09.06_18.29.53: Saving world...
+[2024.09.06-18.29.53:512][965]2024.09.06_18.29.53: World Save Complete. Took: 0.555554
+[2024.09.06-18.30.24:405][404]2024.09.06_18.30.24: SERVER: monkeywhisper: We are currently working on a package in the F2 shop to give everyone a bunch of mats / ammo to reimburse for the losses.
+[2024.09.06-18.31.21:521][261]2024.09.06_18.31.21: King_Gaizka2196 [UniqueNetId:0002042285de42ffb9d9e7bec69095c4 Platform:None] joined this ARK!
+[2024.09.06-18.31.53:412][685]2024.09.06_18.31.53: Tribe Tribe of Twitch, ID 1139608408: Day 19, 10:01:16: <RichColor Color="0, 1, 0, 1">Twitch Tamed an Aberrant Otter - Lvl 179 (Aberrant Otter)!</>)
+[2024.09.06-18.31.53:415][685]2024.09.06_18.31.53: Twitch of Tribe Tribe of Twitch Tamed an Aberrant Otter - Lvl 179 (Aberrant Otter)!
+[2024.09.06-18.32.34:749][227]2024.09.06_18.32.34: Tribe Tribe of King, ID 1853649941: Day 19, 10:17:48: <RichColor Color="0, 1, 1, 1">King was added to the Tribe!</>)
+[2024.09.06-18.32.34:760][227]2024.09.06_18.32.34: Player King_Gaizka2196 with ID 666700292 joined tribe Tribe of King with ID 1853649941.
+[2024.09.06-18.33.15:175][756]2024.09.06_18.33.15: Tribe Shwat Team, ID 1482354014: Day 19, 10:33:59: <RichColor Color="1, 0, 1, 1">Your Tribe killed Adolescent Ravager - Lvl 223 (Ravager)!</>)
+[2024.09.06-18.33.15:184][756]2024.09.06_18.33.15: Adolescent Ravager - Lvl 223 (Ravager) () was killed by Queen Cersei - Lvl 231 (Ravager) (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-18.34.03:464][427]2024.09.06_18.34.03: Tribe Tribe of Twitch, ID 1139608408: Day 19, 10:53:18: <RichColor Color="1, 0, 0, 1">Your Aberrant Otter - Lvl 7 (Aberrant Otter) was killed by Twitch - Lvl 89-649302128 (Tribe of Twitch)!</>)
+[2024.09.06-18.34.03:472][427]2024.09.06_18.34.03: Tribe Tribe of Twitch, ID 1139608408: Day 19, 10:53:18: <RichColor Color="1, 0, 1, 1">Your Tribe killed Aberrant Otter - Lvl 7 (Aberrant Otter) (Tribe of Twitch)!</>)
+[2024.09.06-18.34.03:482][427]2024.09.06_18.34.03: Aberrant Otter - Lvl 7 (Aberrant Otter) (Tribe of Twitch) was killed by Twitch - Lvl 89-649302128 (Tribe of Twitch)! [KillerSID: 649302128]
+[2024.09.06-18.34.09:852][517]2024.09.06_18.34.09: King_Gaizka2196 [UniqueNetId:0002042285de42ffb9d9e7bec69095c4 Platform:None] left this ARK!
+[2024.09.06-18.34.48:368][ 81]2024.09.06_18.34.48: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-18.34.53:594][155]2024.09.06_18.34.53: Saving world...
+[2024.09.06-18.34.53:609][155]2024.09.06_18.34.53: World Save Complete. Took: 0.611671
+[2024.09.06-18.35.35:867][757]2024.09.06_18.35.35: bllthebull [UniqueNetId:000247ed27c04a05963696309993857a Platform:None] joined this ARK!
+[2024.09.06-18.36.07:144][204]2024.09.06_18.36.07: bllthebull [UniqueNetId:000247ed27c04a05963696309993857a Platform:None] left this ARK!
+[2024.09.06-18.36.07:308][206]2024.09.06_18.36.07: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] left this ARK!
+[2024.09.06-18.36.24:958][475]2024.09.06_18.36.24: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.09.06-18.36.43:278][728]2024.09.06_18.36.43: Segev-_- [UniqueNetId:00025c7f8d3e4c06905be81ff74e9f8d Platform:None] joined this ARK!
+[2024.09.06-18.36.51:921][856]2024.09.06_18.36.51: Tribe Shwat Team, ID 1482354014: Day 19, 12:00:01: <RichColor Color="1, 0, 1, 1">RehDragon claimed 'Baby Ravager - Lvl 223 (Ravager)'!</>)
+[2024.09.06-18.37.05:410][ 55]2024.09.06_18.37.05: Segev-_- [UniqueNetId:00025c7f8d3e4c06905be81ff74e9f8d Platform:None] left this ARK!
+[2024.09.06-18.37.25:764][357]2024.09.06_18.37.25: Tribe HELLS ARMY, ID 1136584465: Day 19, 12:13:35: <RichColor Color="1, 0, 0, 1">Tribemember Lucifer - Lvl 105 was killed!</>)
+[2024.09.06-18.37.25:765][357]2024.09.06_18.37.25: Lucifer - Lvl 105 (HELLS ARMY) was killed!
+[2024.09.06-18.37.27:945][391]2024.09.06_18.37.27: Tribe Tribe of Twitch, ID 1139608408: Day 19, 12:14:27: <RichColor Color="1, 0, 0, 1">Tribemember Fluffy - Lvl 11 was killed!</>)
+[2024.09.06-18.37.27:953][391]2024.09.06_18.37.27: Fluffy - Lvl 11 (Tribe of Twitch) was killed!
+[2024.09.06-18.37.49:928][730]2024.09.06_18.37.49: Tribe Shwat Team, ID 1482354014: Day 19, 12:23:04: <RichColor Color="1, 0, 0, 1">Your Baby Ravager - Lvl 223 (Ravager) was killed by Rick Scott - Lvl 94-827279825 (Shwat Team)!</>)
+[2024.09.06-18.37.49:938][730]2024.09.06_18.37.49: Tribe Shwat Team, ID 1482354014: Day 19, 12:23:04: <RichColor Color="1, 0, 1, 1">Your Tribe killed Baby Ravager - Lvl 223 (Ravager) (Shwat Team)!</>)
+[2024.09.06-18.37.49:948][730]2024.09.06_18.37.49: Baby Ravager - Lvl 223 (Ravager) (Shwat Team) was killed by Rick Scott - Lvl 94-827279825 (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-18.38.23:005][262]2024.09.06_18.38.23: bllthebull [UniqueNetId:000247ed27c04a05963696309993857a Platform:None] joined this ARK!
+[2024.09.06-18.38.51:081][729]2024.09.06_18.38.51: bllthebull [UniqueNetId:000247ed27c04a05963696309993857a Platform:None] left this ARK!
+[2024.09.06-18.39.53:589][790]2024.09.06_18.39.53: Saving world...
+[2024.09.06-18.39.53:599][790]2024.09.06_18.39.53: World Save Complete. Took: 0.547435
+[2024.09.06-18.40.41:593][506]2024.09.06_18.40.41: Tribe Tribe of Javivi, ID 1113665124: Day 19, 13:31:19: <RichColor Color="1, 0, 0, 1">Your Aberrant Parasaur - Lvl 149 (Aberrant Parasaur) was killed by an Aberrant Dire Bear - Lvl 140!</>)
+[2024.09.06-18.40.41:597][506]2024.09.06_18.40.41: Aberrant Parasaur - Lvl 149 (Aberrant Parasaur) (Tribe of Javivi) was killed by an Aberrant Dire Bear - Lvl 140 ()!
+[2024.09.06-18.40.48:906][609]2024.09.06_18.40.48: Tribe Tribe of Seth, ID 1359636722: Day 19, 13:34:13: <RichColor Color="0, 1, 0, 1">Seth Tamed a Juvenile Bulbdog - Lvl 140 (Bulbdog)!</>)
+[2024.09.06-18.40.48:910][609]2024.09.06_18.40.48: Seth of Tribe Tribe of Seth Tamed a Juvenile Bulbdog - Lvl 140 (Bulbdog)!
+[2024.09.06-18.41.20:480][ 85]2024.09.06_18.41.20: Tribe Tribe of Mango, ID 1773629605: Day 19, 13:46:50: <RichColor Color="0, 1, 0, 1">Diggs Tamed a Bulbdog - Lvl 300 (Bulbdog)!</>)
+[2024.09.06-18.41.20:482][ 85]2024.09.06_18.41.20: Diggs of Tribe Tribe of Mango Tamed a Bulbdog - Lvl 300 (Bulbdog)!
+[2024.09.06-18.41.20:494][ 85]2024.09.06_18.41.20: Tribe Tribe of Mango, ID 1773629605: Day 19, 13:46:50: Diggs froze Bulbdog - Lvl 300 (Bulbdog))
+[2024.09.06-18.41.29:090][219]2024.09.06_18.41.29: Tribe Tribe of Javivi, ID 1113665124: Day 19, 13:50:19: <RichColor Color="1, 0, 0, 1">Your Aberrant Moschops - Lvl 237 (Aberrant Moschops) was killed!</>)
+[2024.09.06-18.41.29:093][219]2024.09.06_18.41.29: Aberrant Moschops - Lvl 237 (Aberrant Moschops) (Tribe of Javivi) was killed!
+[2024.09.06-18.42.00:498][682]2024.09.06_18.42.00: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-18.42.23:811][ 32]2024.09.06_18.42.23: Tribe Tribe of Seth, ID 1359636722: Day 19, 14:12:12: <RichColor Color="1, 0, 0, 1">Your Juvenile Bulbdog - Lvl 140 (Bulbdog) was killed by a Ravager - Lvl 145!</>)
+[2024.09.06-18.42.23:816][ 32]2024.09.06_18.42.23: Juvenile Bulbdog - Lvl 140 (Bulbdog) (Tribe of Seth) was killed by a Ravager - Lvl 145 ()!
+[2024.09.06-18.42.34:947][198]2024.09.06_18.42.34: Tribe Tribe of Javivi, ID 1113665124: Day 19, 14:16:39: <RichColor Color="1, 0, 0, 1">Tribemember Jamonsito rico - Lvl 43 was killed by an Aberrant Raptor - Lvl 120!</>)
+[2024.09.06-18.42.34:957][198]2024.09.06_18.42.34: Jamonsito rico - Lvl 43 (Tribe of Javivi) was killed by an Aberrant Raptor - Lvl 120 ()!
+[2024.09.06-18.42.50:713][420]2024.09.06_18.42.50: Tribe Shwat Team, ID 1482354014: Day 19, 14:22:57: <RichColor Color="1, 0, 1, 1">Rick Scott claimed 'Baby Ravager - Lvl 223 (Ravager)'!</>)
+[2024.09.06-18.42.54:248][475]2024.09.06_18.42.54: Tribe Tribe of Twitch, ID 1139608408: Day 19, 14:24:22: <RichColor Color="0, 1, 0, 1">Twitch Tamed a Juvenile Aberrant Megalosaurus - Lvl 135 (Aberrant Megalosaurus)!</>)
+[2024.09.06-18.42.54:256][475]2024.09.06_18.42.54: Twitch of Tribe Tribe of Twitch Tamed a Juvenile Aberrant Megalosaurus - Lvl 135 (Aberrant Megalosaurus)!
+[2024.09.06-18.42.56:892][517]2024.09.06_18.42.56: Tribe Tribe of Twitch, ID 1139608408: Day 19, 14:25:25: <RichColor Color="0, 1, 0, 1">Twitch Tamed a Juvenile Aberrant Megalosaurus - Lvl 137 (Aberrant Megalosaurus)!</>)
+[2024.09.06-18.42.56:896][517]2024.09.06_18.42.56: Twitch of Tribe Tribe of Twitch Tamed a Juvenile Aberrant Megalosaurus - Lvl 137 (Aberrant Megalosaurus)!
+[2024.09.06-18.44.53:642][452]2024.09.06_18.44.53: Saving world...
+[2024.09.06-18.44.53:651][452]2024.09.06_18.44.53: World Save Complete. Took: 0.551334
+[2024.09.06-18.45.19:469][877]2024.09.06_18.45.19: DEAD JOKER1X (Lucifer): How many heavies does everybody have on their base?
+[2024.09.06-18.45.26:481][972]2024.09.06_18.45.26: Tribe  Tamed a Baby Ravager - Lvl 225 (Ravager)!
+[2024.09.06-18.45.33:462][ 63]2024.09.06_18.45.33: bllthebull [UniqueNetId:000247ed27c04a05963696309993857a Platform:None] joined this ARK!
+[2024.09.06-18.45.52:995][263]2024.09.06_18.45.52: bllthebull [UniqueNetId:000247ed27c04a05963696309993857a Platform:None] left this ARK!
+[2024.09.06-18.46.24:194][615]2024.09.06_18.46.24: Tribe  Tamed a Baby Ravager - Lvl 225 (Ravager)!
+[2024.09.06-18.46.24:200][615]2024.09.06_18.46.24: Tribe  Tamed a Baby Ravager - Lvl 225 (Ravager)!
+[2024.09.06-18.47.51:607][540]2024.09.06_18.47.51: Tribe Shwat Team, ID 1482354014: Day 19, 16:22:43: <RichColor Color="1, 0, 1, 1">Rick Scott claimed 'Baby Ravager - Lvl 225 (Ravager)'!</>)
+[2024.09.06-18.47.58:200][611]2024.09.06_18.47.58: Tribe Shwat Team, ID 1482354014: Day 19, 16:25:21: <RichColor Color="1, 0, 1, 1">Rick Scott claimed 'Baby Ravager - Lvl 225 (Ravager)'!</>)
+[2024.09.06-18.48.17:880][841]2024.09.06_18.48.17: Tribe Shwat Team, ID 1482354014: Day 19, 16:33:14: <RichColor Color="1, 0, 1, 1">RehDragon claimed 'Baby Ravager - Lvl 225 (Ravager)'!</>)
+[2024.09.06-18.49.53:686][304]2024.09.06_18.49.53: Saving world...
+[2024.09.06-18.49.53:694][304]2024.09.06_18.49.53: World Save Complete. Took: 0.571004
+[2024.09.06-18.50.17:287][682]2024.09.06_18.50.17: Tribe Tribe of Twitch, ID 1139608408: Day 19, 17:20:58: <RichColor Color="1, 0, 0, 1">Your Juvenile Aberrant Megalosaurus - Lvl 137 (Aberrant Megalosaurus) was killed by an Aberrant Arthropluera - Lvl 145!</>)
+[2024.09.06-18.50.17:289][682]2024.09.06_18.50.17: Juvenile Aberrant Megalosaurus - Lvl 137 (Aberrant Megalosaurus) (Tribe of Twitch) was killed by an Aberrant Arthropluera - Lvl 145 ()!
+[2024.09.06-18.52.19:488][772]2024.09.06_18.52.19: Tribe  Tamed a Baby Ravager - Lvl 225 (Ravager)!
+[2024.09.06-18.52.34:169][ 16]2024.09.06_18.52.34: Tribe Tribe of Viking, ID 1402125346: Day 19, 18:15:43: <RichColor Color="0, 1, 0, 1">Your Tribe Tamed a Ravager - Lvl 217 (Ravager)!</>)
+[2024.09.06-18.52.34:176][ 16]2024.09.06_18.52.34: Tribe Tribe of Viking Tamed a Ravager - Lvl 217 (Ravager)!
+[2024.09.06-18.54.20:649][927]2024.09.06_18.54.20: Tribe Tribe of glainglain, ID 1178740962: Day 19, 18:58:19: <RichColor Color="1, 0, 0, 1">Tribemember glainglain - Lvl 1 was killed by a Basilisk - Lvl 80!</>)
+[2024.09.06-18.54.20:653][927]2024.09.06_18.54.20: glainglain - Lvl 1 (Tribe of glainglain) was killed by a Basilisk - Lvl 80 ()!
+[2024.09.06-18.54.53:738][488]2024.09.06_18.54.53: Saving world...
+[2024.09.06-18.54.53:743][488]2024.09.06_18.54.53: World Save Complete. Took: 0.589464
+[2024.09.06-18.55.24:626][990]2024.09.06_18.55.24: EBK_Scorpion (Seth): Bruh There's a basalisk right outside my house
+[2024.09.06-18.57.51:958][416]2024.09.06_18.57.51: DEAD JOKER1X (Lucifer): Hows long everyone been on server
+[2024.09.06-18.58.09:441][759]2024.09.06_18.58.09: EBK_Scorpion (Seth): Just joined today
+[2024.09.06-18.58.19:968][977]2024.09.06_18.58.19: Dark--Animal (Twitch): Today
+[2024.09.06-18.59.53:755][816]2024.09.06_18.59.53: Saving world...
+[2024.09.06-18.59.53:765][816]2024.09.06_18.59.53: World Save Complete. Took: 0.607458
+[2024.09.06-19.00.30:588][587]2024.09.06_19.00.30: DEAD JOKER1X (Lucifer): HM hours?
+[2024.09.06-19.00.43:482][877]2024.09.06_19.00.43: Dark--Animal (Twitch): 1
+[2024.09.06-19.00.59:987][263]2024.09.06_19.00.59: EBK_Scorpion (Seth): Probably like 3hrs
+[2024.09.06-19.01.43:163][192]2024.09.06_19.01.43: DEAD JOKER1X (Lucifer): Nice im on 16h
+[2024.09.06-19.02.31:496][278]2024.09.06_19.02.31: EBK_Scorpion (Seth): Oh nice i played when it first dropped but i was in single player
+[2024.09.06-19.04.53:736][318]2024.09.06_19.04.53: Saving world...
+[2024.09.06-19.04.53:749][318]2024.09.06_19.04.53: World Save Complete. Took: 0.586539
+[2024.09.06-19.07.41:658][145]2024.09.06_19.07.41: DEAD JOKER1X (Lucifer): Was a huge waste of time since ive lost most of what we have grinded
+[2024.09.06-19.07.52:321][387]2024.09.06_19.07.52: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-19.08.19:200][990]2024.09.06_19.08.19: Tribe Shwat Team, ID 1482354014: Day 20, 00:33:17: <RichColor Color="1, 0, 1, 1">Rick Scott claimed 'Juvenile Ravager - Lvl 225 (Ravager)'!</>)
+[2024.09.06-19.08.53:775][775]2024.09.06_19.08.53: EBK_Scorpion (Seth): Ig but you can just get them back plus they said we'd bullets and mats
+[2024.09.06-19.09.29:490][513]2024.09.06_19.09.29: EBK_Scorpion (Seth): Give us*
+[2024.09.06-19.09.37:846][663]2024.09.06_19.09.37: Tribe Shwat Team, ID 1482354014: Day 20, 01:04:45: <RichColor Color="1, 0, 1, 1">Your Tribe killed Baby Ravager - Lvl 223 (Ravager)!</>)
+[2024.09.06-19.09.37:851][663]2024.09.06_19.09.37: Baby Ravager - Lvl 223 (Ravager) () was killed by Rick Scott - Lvl 94-827279825 (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-19.09.53:733][950]2024.09.06_19.09.53: Saving world...
+[2024.09.06-19.09.53:744][950]2024.09.06_19.09.53: World Save Complete. Took: 0.566621
+[2024.09.06-19.12.09:935][555]2024.09.06_19.12.09: DEAD JOKER1X (Lucifer): Nope they arnt replacing anywhere near what we lost,
+[2024.09.06-19.12.26:942][849]2024.09.06_19.12.26: Tribe Aberrants, ID 1359636722: Day 20, 02:12:19: <RichColor Color="0, 1, 0, 1">Seth Tamed a Bulbdog - Lvl 179 (Bulbdog)!</>)
+[2024.09.06-19.12.26:951][849]2024.09.06_19.12.26: Seth of Tribe Aberrants Tamed a Bulbdog - Lvl 179 (Bulbdog)!
+[2024.09.06-19.12.39:409][ 66]2024.09.06_19.12.39: DepthViking (Viking): lol i dont even see a kit
+[2024.09.06-19.12.42:066][107]2024.09.06_19.12.42: Tribe Aberrants, ID 1359636722: Day 20, 02:18:22: <RichColor Color="0, 1, 0, 1">Seth Tamed a Juvenile Ravager - Lvl 40 (Ravager)!</>)
+[2024.09.06-19.12.42:072][107]2024.09.06_19.12.42: Seth of Tribe Aberrants Tamed a Juvenile Ravager - Lvl 40 (Ravager)!
+[2024.09.06-19.13.06:426][557]2024.09.06_19.13.06: EBK_Scorpion (Seth): They said tm i think
+[2024.09.06-19.13.46:153][276]2024.09.06_19.13.46: SERVER: we will not face this issue in the future. We appreciate your understanding.
+[2024.09.06-19.13.46:160][276]2024.09.06_19.13.46: SERVER: martyrd0nk3y: Ok, so we know this wont get everything back that some people lost, and some people will gain things they didnt have in the first place. But the best we could come up with in the interest of fairness is a reimbursement pack in the F2 store. This pack will be available for 30 minutes and can be redeemed ONE time per tribemate (so max 4). Im adding it in right now since we can do this without a restart. Moving forwards items stacks will NOT be modified so
+[2024.09.06-19.14.12:815][859]2024.09.06_19.14.12: SERVER: martyrd0nk3y: We dont face this issue in the future. We appreciate your understanding and apologize for any issues this may have caused with you or your tribe mates
+[2024.09.06-19.14.53:789][743]2024.09.06_19.14.53: Saving world...
+[2024.09.06-19.14.53:803][743]2024.09.06_19.14.53: World Save Complete. Took: 0.614734
+[2024.09.06-19.15.08:000][  8]2024.09.06_19.15.08: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] left this ARK!
+[2024.09.06-19.15.09:282][ 33]2024.09.06_19.15.09: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-19.15.15:606][173]2024.09.06_19.15.15: SERVER: monkeywhisper: Pack will be available for 30 minutes and can be redeemed ONE time per tribemate. Press F2 or hold R for the shop.
+[2024.09.06-19.15.24:829][365]2024.09.06_19.15.24: MonkeyWhisper [UniqueNetId:0002b1971bca45939cfb7acd896bb5ee Platform:None] left this ARK!
+[2024.09.06-19.15.25:569][381]2024.09.06_19.15.25: MartyrD0nk3y (Shwat): Its up now.
+[2024.09.06-19.15.33:662][544]2024.09.06_19.15.33: DepthViking [UniqueNetId:0002ea81a0154bea893e6bce16f8b238 Platform:None] left this ARK!
+[2024.09.06-19.15.38:527][647]2024.09.06_19.15.38: Dark--Animal [UniqueNetId:0002bd6d12f74c40abaa6c5346389739 Platform:None] left this ARK!
+[2024.09.06-19.15.45:370][792]2024.09.06_19.15.45: MonkeyWhisper [UniqueNetId:0002b1971bca45939cfb7acd896bb5ee Platform:None] joined this ARK!
+[2024.09.06-19.15.49:054][839]2024.09.06_19.15.49: Animals_Woman [UniqueNetId:0002f05d3f984d6c874882587e90b804 Platform:None] left this ARK!
+[2024.09.06-19.15.49:632][850]2024.09.06_19.15.49: DEAD JOKER1X (Lucifer): Loooooool
+[2024.09.06-19.16.01:867][133]2024.09.06_19.16.01: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] joined this ARK!
+[2024.09.06-19.16.14:313][427]2024.09.06_19.16.14: DepthViking [UniqueNetId:0002ea81a0154bea893e6bce16f8b238 Platform:None] joined this ARK!
+[2024.09.06-19.16.18:764][526]2024.09.06_19.16.18: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] left this ARK!
+[2024.09.06-19.16.28:234][728]2024.09.06_19.16.28: Dark--Animal [UniqueNetId:0002bd6d12f74c40abaa6c5346389739 Platform:None] joined this ARK!
+[2024.09.06-19.16.41:788][992]2024.09.06_19.16.41: SERVER: martyrd0nk3y: Ok well thats way too much for the tiny little ark inventories. Im going to have to split this up.
+[2024.09.06-19.16.42:982][  9]2024.09.06_19.16.42: EBK_Scorpion [UniqueNetId:0002b29fea694e3aa84ba819a4cd3297 Platform:None] left this ARK!
+[2024.09.06-19.16.55:309][287]2024.09.06_19.16.55: SERVER: martyrd0nk3y: if you didnt claim it yet, dont.
+[2024.09.06-19.17.07:293][564]2024.09.06_19.17.07: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] left this ARK!
+[2024.09.06-19.17.09:009][605]2024.09.06_19.17.09: SERVER: monkeywhisper: It will crash you if you do
+[2024.09.06-19.17.18:795][828]2024.09.06_19.17.18: EBK_Scorpion [UniqueNetId:0002b29fea694e3aa84ba819a4cd3297 Platform:None] joined this ARK!
+[2024.09.06-19.17.27:723][  8]2024.09.06_19.17.27: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.09.06-19.17.42:359][294]2024.09.06_19.17.42: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] joined this ARK!
+[2024.09.06-19.18.01:265][672]2024.09.06_19.18.01: MonkeyWhisper (Rick Scott): Welp, I guess it was just me that crashed when testing the pack. Lol
+[2024.09.06-19.18.13:795][937]2024.09.06_19.18.13: SERVER: martyrd0nk3y: Well it worked, but it will cause you to crash upon claiming apparently possibly.
+[2024.09.06-19.18.21:007][100]2024.09.06_19.18.21: DepthViking (Viking): no i did as well but i still got everything
+[2024.09.06-19.18.39:365][495]2024.09.06_19.18.39: SERVER: martyrd0nk3y: Yup, sorry for the crash if it happens but go ahead and redeem it and get your mats
+[2024.09.06-19.19.23:496][423]2024.09.06_19.19.23: MrPenguin2212 [UniqueNetId:0002acf37cd14844ba16e8bac3628aa8 Platform:None] joined this ARK!
+[2024.09.06-19.19.53:793][ 56]2024.09.06_19.19.53: Saving world...
+[2024.09.06-19.19.53:807][ 56]2024.09.06_19.19.53: World Save Complete. Took: 0.611485
+[2024.09.06-19.19.56:197][109]2024.09.06_19.19.56: Animals_Woman [UniqueNetId:0002f05d3f984d6c874882587e90b804 Platform:None] joined this ARK!
+[2024.09.06-19.20.41:469][998]2024.09.06_19.20.41: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] left this ARK!
+[2024.09.06-19.21.16:781][737]2024.09.06_19.21.16: MrPenguin2212 [UniqueNetId:0002acf37cd14844ba16e8bac3628aa8 Platform:None] left this ARK!
+[2024.09.06-19.22.01:329][652]2024.09.06_19.22.01: Tribe Shwat Team, ID 1482354014: Day 20, 06:00:35: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Ravager - Lvl 223 (Ravager)!</>)
+[2024.09.06-19.22.01:337][652]2024.09.06_19.22.01: Juvenile Ravager - Lvl 223 (Ravager) () was killed by Rick Scott - Lvl 94-827279825 (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-19.24.53:768][ 19]2024.09.06_19.24.53: Saving world...
+[2024.09.06-19.24.53:774][ 19]2024.09.06_19.24.53: World Save Complete. Took: 0.569347
+[2024.09.06-19.28.29:370][183]2024.09.06_19.28.29: Tribe  Tamed a Baby Ravager - Lvl 222 (Ravager)!
+[2024.09.06-19.29.53:830][ 75]2024.09.06_19.29.53: Saving world...
+[2024.09.06-19.29.53:845][ 75]2024.09.06_19.29.53: World Save Complete. Took: 0.608199
+[2024.09.06-19.31.08:438][870]2024.09.06_19.31.08: Tribe  Tamed a Baby Ravager - Lvl 225 (Ravager)!
+[2024.09.06-19.31.36:936][563]2024.09.06_19.31.36: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-19.31.36:946][563]2024.09.06_19.31.36: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-19.31.52:935][950]2024.09.06_19.31.52: King_Gaizka2196 [UniqueNetId:0002042285de42ffb9d9e7bec69095c4 Platform:None] joined this ARK!
+[2024.09.06-19.34.14:976][495]2024.09.06_19.34.14: YAGOSTEA [UniqueNetId:0002a6ea525d4515aa030c47a9d32a0e Platform:None] joined this ARK!
+[2024.09.06-19.34.53:845][187]2024.09.06_19.34.53: Saving world...
+[2024.09.06-19.34.53:857][187]2024.09.06_19.34.53: World Save Complete. Took: 0.582028
+[2024.09.06-19.35.50:502][192]2024.09.06_19.35.50: Tribe Aberrants, ID 1359636722: Day 20, 11:31:45: <RichColor Color="0, 1, 0, 1">Seth Tamed an Aberrant Iguanodon - Lvl 157 (Aberrant Iguanodon)!</>)
+[2024.09.06-19.35.50:506][192]2024.09.06_19.35.50: Seth of Tribe Aberrants Tamed an Aberrant Iguanodon - Lvl 157 (Aberrant Iguanodon)!
+[2024.09.06-19.37.21:394][605]2024.09.06_19.37.21: Tribe Tribe of King, ID 1853649941: Day 20, 12:08:06: <RichColor Color="1, 0, 0, 1">Tribemember King - Lvl 39 was killed by an Aberrant Paraceratherium - Lvl 100!</>)
+[2024.09.06-19.37.21:398][605]2024.09.06_19.37.21: King - Lvl 39 (Tribe of King) was killed by an Aberrant Paraceratherium - Lvl 100 ()!
+[2024.09.06-19.37.22:209][614]2024.09.06_19.37.22: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 20, 12:08:25: <RichColor Color="0, 1, 1, 1">YAGOSTEA was added to the Tribe!</>)
+[2024.09.06-19.37.22:213][614]2024.09.06_19.37.22: Player YAGOSTEA with ID 78496271 joined tribe Tribe of YAGOSTEA with ID 1090805701.
+[2024.09.06-19.37.29:854][694]2024.09.06_19.37.29: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] left this ARK!
+[2024.09.06-19.38.21:947][408]2024.09.06_19.38.21: Tribe Tribe of Mango, ID 1773629605: Day 20, 12:32:08: Banana froze FFA)
+[2024.09.06-19.38.46:933][829]2024.09.06_19.38.46: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 20, 12:42:08: <RichColor Color="0, 1, 1, 1">Tribe of King tribe was merged in by King!</>)
+[2024.09.06-19.38.46:967][829]2024.09.06_19.38.46: Tribe Tribe of King, ID 1853649941: Day 20, 12:42:08: <RichColor Color="1, 1, 0, 1">King was removed from the Tribe!</>)
+[2024.09.06-19.38.46:977][829]2024.09.06_19.38.46: Player King with ID 666700292 removed from tribe Tribe of King with ID 1853649941.
+[2024.09.06-19.38.47:025][829]2024.09.06_19.38.47: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 20, 12:42:08: <RichColor Color="0, 1, 1, 1">King was added to the Tribe by YAGOSTEA!</>)
+[2024.09.06-19.38.47:032][829]2024.09.06_19.38.47: Player King with ID 666700292 joined tribe Tribe of YAGOSTEA with ID 1090805701 Invited by Player YAGOSTEA with ID 78496271.
+[2024.09.06-19.39.29:118][479]2024.09.06_19.39.29: DepthViking [UniqueNetId:0002ea81a0154bea893e6bce16f8b238 Platform:None] left this ARK!
+[2024.09.06-19.39.53:869][850]2024.09.06_19.39.53: Saving world...
+[2024.09.06-19.39.53:883][850]2024.09.06_19.39.53: World Save Complete. Took: 0.588642
+[2024.09.06-19.43.13:687][ 55]2024.09.06_19.43.13: Tribe ATOS, ID 1909197093: Day 20, 14:28:47: <RichColor Color="1, 0, 0, 1">Your Bulbdog - Lvl 89 (Bulbdog) was killed by YAGOSTEA - Lvl 49-78496271 (Tribe of YAGOSTEA)!</>)
+[2024.09.06-19.43.13:690][ 55]2024.09.06_19.43.13: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 20, 14:28:47: <RichColor Color="1, 0, 1, 1">Your Tribe killed Bulbdog - Lvl 89 (Bulbdog) (ATOS)!</>)
+[2024.09.06-19.43.13:701][ 55]2024.09.06_19.43.13: Bulbdog - Lvl 89 (Bulbdog) (ATOS) was killed by YAGOSTEA - Lvl 49-78496271 (Tribe of YAGOSTEA)! [KillerSID: 78496271]
+[2024.09.06-19.44.03:211][790]2024.09.06_19.44.03: Tribe Shwat Team, ID 1482354014: Day 20, 14:48:34: <RichColor Color="1, 0, 1, 1">Rick Scott claimed 'Juvenile Ravager - Lvl 225 (Ravager)'!</>)
+[2024.09.06-19.44.53:968][538]2024.09.06_19.44.53: Saving world...
+[2024.09.06-19.44.53:982][538]2024.09.06_19.44.53: World Save Complete. Took: 0.625511
+[2024.09.06-19.44.54:131][539]2024.09.06_19.44.54: Tribe Tribe of Twitch, ID 1139608408: Day 20, 15:08:51: Twitch froze Aberrant Megalosaurus - Lvl 140 (Aberrant Megalosaurus))
+[2024.09.06-19.45.36:535][269]2024.09.06_19.45.36: Tribe  Tamed a Baby Ravager - Lvl 225 (Ravager)!
+[2024.09.06-19.46.49:307][426]2024.09.06_19.46.49: Tribe Shwat Team, ID 1482354014: Day 20, 15:54:57: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Ravager - Lvl 223 (Ravager)!</>)
+[2024.09.06-19.46.49:309][426]2024.09.06_19.46.49: Juvenile Ravager - Lvl 223 (Ravager) () was killed by Queen Raina - Lvl 241 (Ravager) (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-19.46.57:965][560]2024.09.06_19.46.57: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-19.47.00:004][590]2024.09.06_19.47.00: Tribe Shwat Team, ID 1482354014: Day 20, 15:59:13: <RichColor Color="1, 0, 1, 1">Your Tribe killed Baby Ravager - Lvl 225 (Ravager)!</>)
+[2024.09.06-19.47.00:009][590]2024.09.06_19.47.00: Baby Ravager - Lvl 225 (Ravager) () was killed by Queen Raina - Lvl 241 (Ravager) (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-19.47.10:548][747]2024.09.06_19.47.10: Tribe Shwat Team, ID 1482354014: Day 20, 16:03:26: <RichColor Color="1, 0, 1, 1">Your Tribe killed Baby Ravager - Lvl 223 (Ravager)!</>)
+[2024.09.06-19.47.10:554][747]2024.09.06_19.47.10: Baby Ravager - Lvl 223 (Ravager) () was killed by Queen Raina - Lvl 241 (Ravager) (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-19.48.19:315][825]2024.09.06_19.48.19: Tribe Tribe of Javivi, ID 1113665124: Day 20, 16:30:42: <RichColor Color="1, 0, 0, 1">Your Bulbdog - Lvl 240 (Bulbdog) was killed by an Aberrant Dire Bear - Lvl 30!</>)
+[2024.09.06-19.48.19:323][825]2024.09.06_19.48.19: Bulbdog - Lvl 240 (Bulbdog) (Tribe of Javivi) was killed by an Aberrant Dire Bear - Lvl 30 ()!
+[2024.09.06-19.49.53:978][217]2024.09.06_19.49.53: Saving world...
+[2024.09.06-19.49.53:984][217]2024.09.06_19.49.53: World Save Complete. Took: 0.578231
+[2024.09.06-19.49.55:732][240]2024.09.06_19.49.55: Tribe Shwat Team, ID 1482354014: Day 20, 17:09:12: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Ravager - Lvl 223 (Ravager)!</>)
+[2024.09.06-19.49.55:741][240]2024.09.06_19.49.55: Juvenile Ravager - Lvl 223 (Ravager) () was killed by Rick Scott - Lvl 94-827279825 (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-19.49.59:899][298]2024.09.06_19.49.59: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 20, 17:10:51: <RichColor Color="0, 1, 0, 1">YAGOSTEA Tamed a Bulbdog - Lvl 187 (Bulbdog)!</>)
+[2024.09.06-19.49.59:909][298]2024.09.06_19.49.59: YAGOSTEA of Tribe Tribe of YAGOSTEA Tamed a Bulbdog - Lvl 187 (Bulbdog)!
+[2024.09.06-19.50.23:893][633]2024.09.06_19.50.23: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 20, 17:20:27: <RichColor Color="0, 1, 0, 1">King Tamed a Bulbdog - Lvl 164 (Bulbdog)!</>)
+[2024.09.06-19.50.23:905][633]2024.09.06_19.50.23: King of Tribe Tribe of YAGOSTEA Tamed a Bulbdog - Lvl 164 (Bulbdog)!
+[2024.09.06-19.53.21:879][148]2024.09.06_19.53.21: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-19.54.34:026][172]2024.09.06_19.54.34: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] joined this ARK!
+[2024.09.06-19.54.53:974][408]2024.09.06_19.54.53: Saving world...
+[2024.09.06-19.54.53:980][408]2024.09.06_19.54.53: World Save Complete. Took: 0.572691
+[2024.09.06-19.55.15:390][697]2024.09.06_19.55.15: Adolescent Ravager - Lvl 222 (Ravager) () was killed!
+[2024.09.06-19.55.16:551][714]2024.09.06_19.55.16: Tribe  Tamed a Baby Rock Drake - Lvl 175 (Rock Drake)!
+[2024.09.06-19.55.18:117][735]2024.09.06_19.55.18: Tribe HELLS ARMY, ID 1136584465: Day 20, 19:17:52: <RichColor Color="1, 0, 1, 1">Lucifer claimed 'Baby Rock Drake - Lvl 175 (Rock Drake)'!</>)
+[2024.09.06-19.55.40:938][ 51]2024.09.06_19.55.40: Tribe HELLS ARMY, ID 1136584465: Day 20, 19:27:01: Lucifer froze Baby Rock Drake - Lvl 175 (Rock Drake))
+[2024.09.06-19.55.44:926][107]2024.09.06_19.55.44: Tribe  Tamed a Baby Cosmo - Lvl 69 (Cosmo)!
+[2024.09.06-19.55.45:706][118]2024.09.06_19.55.45: Tribe  Tamed a Baby Cosmo - Lvl 28 (Cosmo)!
+[2024.09.06-19.55.47:671][145]2024.09.06_19.55.47: Tribe HELLS ARMY, ID 1136584465: Day 20, 19:29:41: <RichColor Color="1, 0, 1, 1">Lucifer claimed 'Baby Cosmo - Lvl 69 (Cosmo)'!</>)
+[2024.09.06-19.55.51:983][202]2024.09.06_19.55.51: Tribe HELLS ARMY, ID 1136584465: Day 20, 19:31:25: <RichColor Color="1, 0, 1, 1">Lucifer claimed 'Baby Cosmo - Lvl 28 (Cosmo)'!</>)
+[2024.09.06-19.57.12:311][497]2024.09.06_19.57.12: Tribe  Tamed a Baby Ravager - Lvl 225 (Ravager)!
+[2024.09.06-19.58.02:007][429]2024.09.06_19.58.02: Tribe  Tamed a Baby Ravager - Lvl 225 (Ravager)!
+[2024.09.06-19.58.48:221][266]2024.09.06_19.58.48: Tribe Shwat Team, ID 1482354014: Day 20, 20:41:56: <RichColor Color="1, 0, 1, 1">Your Tribe killed Baby Ravager - Lvl 225 (Ravager)!</>)
+[2024.09.06-19.58.48:226][266]2024.09.06_19.58.48: Baby Ravager - Lvl 225 (Ravager) () was killed by Ravager - Lvl 225 (Ravager) (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-19.58.48:954][278]2024.09.06_19.58.48: Tribe Aberrants, ID 1359636722: Day 20, 20:42:13: <RichColor Color="1, 0, 0, 1">Your Ravager - Lvl 76 (Ravager) was killed by Seth - Lvl 75-413779888 (Aberrants)!</>)
+[2024.09.06-19.58.48:964][278]2024.09.06_19.58.48: Tribe Aberrants, ID 1359636722: Day 20, 20:42:13: <RichColor Color="1, 0, 1, 1">Your Tribe killed Ravager - Lvl 76 (Ravager) (Aberrants)!</>)
+[2024.09.06-19.58.48:974][278]2024.09.06_19.58.48: Ravager - Lvl 76 (Ravager) (Aberrants) was killed by Seth - Lvl 75-413779888 (Aberrants)! [KillerSID: 413779888]
+[2024.09.06-19.58.59:517][451]2024.09.06_19.58.59: Tribe Shwat Team, ID 1482354014: Day 20, 20:46:27: <RichColor Color="1, 0, 1, 1">Your Tribe killed Baby Ravager - Lvl 225 (Ravager)!</>)
+[2024.09.06-19.58.59:518][451]2024.09.06_19.58.59: Baby Ravager - Lvl 225 (Ravager) () was killed by Ravager - Lvl 225 (Ravager) (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-19.59.15:549][729]2024.09.06_19.59.15: Tribe Aberrants, ID 1359636722: Day 20, 20:52:52: <RichColor Color="1, 0, 0, 1">Your Aberrant Iguanodon - Lvl 175 (Aberrant Iguanodon) was killed by Seth - Lvl 75-413779888 (Aberrants)!</>)
+[2024.09.06-19.59.15:552][729]2024.09.06_19.59.15: Tribe Aberrants, ID 1359636722: Day 20, 20:52:52: <RichColor Color="1, 0, 1, 1">Your Tribe killed Aberrant Iguanodon - Lvl 175 (Aberrant Iguanodon) (Aberrants)!</>)
+[2024.09.06-19.59.15:562][729]2024.09.06_19.59.15: Aberrant Iguanodon - Lvl 175 (Aberrant Iguanodon) (Aberrants) was killed by Seth - Lvl 75-413779888 (Aberrants)! [KillerSID: 413779888]
+[2024.09.06-19.59.54:007][414]2024.09.06_19.59.54: Saving world...
+[2024.09.06-19.59.54:020][414]2024.09.06_19.59.54: World Save Complete. Took: 0.580661
+[2024.09.06-20.00.12:793][765]2024.09.06_20.00.12: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-20.03.23:506][593]2024.09.06_20.03.23: YAGOSTEA [UniqueNetId:0002a6ea525d4515aa030c47a9d32a0e Platform:None] left this ARK!
+[2024.09.06-20.04.13:769][645]2024.09.06_20.04.13: YAGOSTEA [UniqueNetId:0002a6ea525d4515aa030c47a9d32a0e Platform:None] joined this ARK!
+[2024.09.06-20.04.54:024][403]2024.09.06_20.04.54: Saving world...
+[2024.09.06-20.04.54:038][403]2024.09.06_20.04.54: World Save Complete. Took: 0.585406
+[2024.09.06-20.05.33:289][185]2024.09.06_20.05.33: EBK_Scorpion [UniqueNetId:0002b29fea694e3aa84ba819a4cd3297 Platform:None] left this ARK!
+[2024.09.06-20.07.17:013][301]2024.09.06_20.07.17: EBK_Scorpion [UniqueNetId:0002b29fea694e3aa84ba819a4cd3297 Platform:None] joined this ARK!
+[2024.09.06-20.08.48:187][115]2024.09.06_20.08.48: Tribe Shwat Team, ID 1482354014: Day 21, 00:41:08: <RichColor Color="1, 0, 1, 1">RehDragon claimed 'Juvenile Ravager - Lvl 223 (Ravager)'!</>)
+[2024.09.06-20.08.48:841][127]2024.09.06_20.08.48: Tribe Tribe of Mango, ID 1773629605: Day 21, 00:41:24: Banana froze FFA)
+[2024.09.06-20.09.33:344][ 17]2024.09.06_20.09.33: NW Corrupt [UniqueNetId:0002ca0487a940c999ba2217d34b5ff1 Platform:None] joined this ARK!
+[2024.09.06-20.09.34:503][ 42]2024.09.06_20.09.34: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 21, 00:59:40: <RichColor Color="1, 0, 0, 1">Tribemember YAGOSTEA - Lvl 82 was killed!</>)
+[2024.09.06-20.09.34:505][ 42]2024.09.06_20.09.34: YAGOSTEA - Lvl 82 (Tribe of YAGOSTEA) was killed!
+[2024.09.06-20.09.52:584][389]2024.09.06_20.09.52: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-20.09.54:061][405]2024.09.06_20.09.54: Saving world...
+[2024.09.06-20.09.54:073][405]2024.09.06_20.09.54: World Save Complete. Took: 0.587219
+[2024.09.06-20.09.55:739][434]2024.09.06_20.09.55: Tribe Tribe of Corrupt, ID 1187164082: Day 21, 01:07:58: <RichColor Color="0, 1, 1, 1">Corrupt was added to the Tribe!</>)
+[2024.09.06-20.09.55:751][434]2024.09.06_20.09.55: Player NW Corrupt with ID 663437392 joined tribe Tribe of Corrupt with ID 1187164082.
+[2024.09.06-20.09.58:637][484]2024.09.06_20.09.58: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.09.06-20.11.11:817][755]2024.09.06_20.11.11: NW Corrupt [UniqueNetId:0002ca0487a940c999ba2217d34b5ff1 Platform:None] left this ARK!
+[2024.09.06-20.12.19:957][  2]2024.09.06_20.12.19: Tribe  Tamed a Baby Cosmo - Lvl 67 (Cosmo)!
+[2024.09.06-20.12.25:592][ 84]2024.09.06_20.12.25: Tribe HELLS ARMY, ID 1136584465: Day 21, 02:07:43: <RichColor Color="1, 0, 1, 1">Lucifer claimed 'Baby Cosmo - Lvl 67 (Cosmo)'!</>)
+[2024.09.06-20.12.30:386][151]2024.09.06_20.12.30: Tribe  Tamed a Baby Cosmo - Lvl 49 (Cosmo)!
+[2024.09.06-20.12.32:554][181]2024.09.06_20.12.32: Tribe HELLS ARMY, ID 1136584465: Day 21, 02:10:31: <RichColor Color="1, 0, 1, 1">Lucifer claimed 'Baby Cosmo - Lvl 49 (Cosmo)'!</>)
+[2024.09.06-20.12.37:560][250]2024.09.06_20.12.37: Tribe Tribe of Twitch, ID 1139608408: Day 21, 02:12:32: <RichColor Color="1, 0, 0, 1">Tribemember Fluffy - Lvl 77 was killed!</>)
+[2024.09.06-20.12.37:561][250]2024.09.06_20.12.37: Fluffy - Lvl 77 (Tribe of Twitch) was killed!
+[2024.09.06-20.13.04:266][661]2024.09.06_20.13.04: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 21, 02:23:13: <RichColor Color="1, 0, 0, 1">Tribemember YAGOSTEA - Lvl 85 was killed!</>)
+[2024.09.06-20.13.04:272][661]2024.09.06_20.13.04: YAGOSTEA - Lvl 85 (Tribe of YAGOSTEA) was killed!
+[2024.09.06-20.13.17:313][848]2024.09.06_20.13.17: Tribe Shwat Team, ID 1482354014: Day 21, 02:28:17: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Ravager - Lvl 223 (Ravager)!</>)
+[2024.09.06-20.13.17:314][848]2024.09.06_20.13.17: Juvenile Ravager - Lvl 223 (Ravager) () was killed by RehDragon - Lvl 98-858296109 (Shwat Team)! [KillerSID: 858296109]
+[2024.09.06-20.13.41:852][229]2024.09.06_20.13.41: Tribe Shwat Team, ID 1482354014: Day 21, 02:38:05: <RichColor Color="1, 0, 1, 1">Rick Scott claimed 'Baby Ravager - Lvl 223 (Ravager)'!</>)
+[2024.09.06-20.14.54:082][633]2024.09.06_20.14.54: Saving world...
+[2024.09.06-20.14.54:088][633]2024.09.06_20.14.54: World Save Complete. Took: 0.580060
+[2024.09.06-20.15.59:687][162]2024.09.06_20.15.59: Tribe Aberrants, ID 1359636722: Day 21, 03:33:02: <RichColor Color="0, 1, 0, 1">Seth Tamed an Aberrant Spino - Lvl 119 (Aberrant Spino)!</>)
+[2024.09.06-20.15.59:690][162]2024.09.06_20.15.59: Seth of Tribe Aberrants Tamed an Aberrant Spino - Lvl 119 (Aberrant Spino)!
+[2024.09.06-20.16.27:637][818]2024.09.06_20.16.27: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 21, 03:44:12: <RichColor Color="1, 0, 0, 1">Tribemember King - Lvl 76 was killed!</>)
+[2024.09.06-20.16.27:645][818]2024.09.06_20.16.27: King - Lvl 76 (Tribe of YAGOSTEA) was killed!
+[2024.09.06-20.18.55:058][271]2024.09.06_20.18.55: Tribe  Tamed a Baby Ravager - Lvl 227 (Ravager)!
+[2024.09.06-20.18.55:071][271]2024.09.06_20.18.55: Tribe  Tamed a Baby Ravager - Lvl 227 (Ravager)!
+[2024.09.06-20.19.54:067][455]2024.09.06_20.19.54: Saving world...
+[2024.09.06-20.19.54:078][455]2024.09.06_20.19.54: World Save Complete. Took: 0.569175
+[2024.09.06-20.20.23:498][ 72]2024.09.06_20.20.23: Tribe Shwat Team, ID 1482354014: Day 21, 05:18:19: <RichColor Color="1, 0, 1, 1">Rick Scott claimed 'Baby Ravager - Lvl 227 (Ravager)'!</>)
+[2024.09.06-20.20.27:647][155]2024.09.06_20.20.27: Tribe Shwat Team, ID 1482354014: Day 21, 05:19:58: <RichColor Color="1, 0, 1, 1">Rick Scott claimed 'Baby Ravager - Lvl 227 (Ravager)'!</>)
+[2024.09.06-20.20.55:588][668]2024.09.06_20.20.55: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] left this ARK!
+[2024.09.06-20.21.18:684][ 54]2024.09.06_20.21.18: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.09.06-20.21.39:348][393]2024.09.06_20.21.39: Tribe  Tamed a Baby Cosmo - Lvl 59 (Cosmo)!
+[2024.09.06-20.22.39:378][414]2024.09.06_20.22.39: Tribe Shwat Team, ID 1482354014: Day 21, 06:12:31: Shwat froze Baby Ravager - Lvl 227 (Ravager))
+[2024.09.06-20.24.44:301][519]2024.09.06_20.24.44: Baby Cosmo - Lvl 59 (Cosmo) () was killed!
+[2024.09.06-20.24.54:153][696]2024.09.06_20.24.54: Saving world...
+[2024.09.06-20.24.54:174][696]2024.09.06_20.24.54: World Save Complete. Took: 0.630853
+[2024.09.06-20.25.21:034][134]2024.09.06_20.25.21: Tribe Shwat Team, ID 1482354014: Day 21, 07:16:52: <RichColor Color="1, 0, 0, 1">Your Adolescent Ravager - Lvl 223 (Ravager) was killed!</>)
+[2024.09.06-20.25.21:046][134]2024.09.06_20.25.21: Adolescent Ravager - Lvl 223 (Ravager) (Shwat Team) was killed!
+[2024.09.06-20.25.21:058][134]2024.09.06_20.25.21: Tribe Shwat Team, ID 1482354014: Day 21, 07:16:52: Adolescent Ravager - Lvl 223 (Ravager) starved to death!)
+[2024.09.06-20.25.46:149][502]2024.09.06_20.25.46: Tribe Tribe of Twitch, ID 1139608408: Day 21, 07:26:54: <RichColor Color="0, 1, 0, 1">Twitch Tamed a Baby Aberrant Megalosaurus - Lvl 110 (Aberrant Megalosaurus)!</>)
+[2024.09.06-20.25.46:152][502]2024.09.06_20.25.46: Twitch of Tribe Tribe of Twitch Tamed a Baby Aberrant Megalosaurus - Lvl 110 (Aberrant Megalosaurus)!
+[2024.09.06-20.26.14:257][932]2024.09.06_20.26.14: Tribe Shwat Team, ID 1482354014: Day 21, 07:38:09: <RichColor Color="1, 0, 0, 1">Your Juvenile Ravager - Lvl 223 (Ravager) was killed by Rick Scott - Lvl 94-827279825 (Shwat Team)!</>)
+[2024.09.06-20.26.14:261][932]2024.09.06_20.26.14: Tribe Shwat Team, ID 1482354014: Day 21, 07:38:09: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Ravager - Lvl 223 (Ravager) (Shwat Team)!</>)
+[2024.09.06-20.26.14:271][932]2024.09.06_20.26.14: Juvenile Ravager - Lvl 223 (Ravager) (Shwat Team) was killed by Rick Scott - Lvl 94-827279825 (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-20.29.38:591][ 85]2024.09.06_20.29.38: Tribe Tribe of Twitch, ID 1139608408: Day 21, 08:59:52: <RichColor Color="0, 1, 0, 1">Twitch Tamed a Baby Ravager - Lvl 125 (Ravager)!</>)
+[2024.09.06-20.29.38:600][ 85]2024.09.06_20.29.38: Twitch of Tribe Tribe of Twitch Tamed a Baby Ravager - Lvl 125 (Ravager)!
+[2024.09.06-20.29.44:645][182]2024.09.06_20.29.44: Tribe Tribe of Twitch, ID 1139608408: Day 21, 09:02:18: Twitch froze Baby Ravager - Lvl 125 (Ravager))
+[2024.09.06-20.29.54:152][321]2024.09.06_20.29.54: Saving world...
+[2024.09.06-20.29.54:165][321]2024.09.06_20.29.54: World Save Complete. Took: 0.602882
+[2024.09.06-20.30.30:212][844]2024.09.06_20.30.30: DepthViking [UniqueNetId:0002ea81a0154bea893e6bce16f8b238 Platform:None] joined this ARK!
+[2024.09.06-20.32.02:040][279]2024.09.06_20.32.02: wolverine-silvey [UniqueNetId:0002269b2c07480e99bcaa6a07afa384 Platform:None] joined this ARK!
+[2024.09.06-20.32.14:421][485]2024.09.06_20.32.14: Tribe Tribe of Human, ID 1872426487: Day 21, 10:01:56: <RichColor Color="0, 1, 1, 1">Human was added to the Tribe!</>)
+[2024.09.06-20.32.14:424][485]2024.09.06_20.32.14: Player wolverine-silvey with ID 983215356 joined tribe Tribe of Human with ID 1872426487.
+[2024.09.06-20.33.57:537][149]2024.09.06_20.33.57: YAGOSTEA (YAGOSTEA): /Kit
+[2024.09.06-20.34.13:968][437]2024.09.06_20.34.13: SERVER: This command is disabled!
+[2024.09.06-20.34.50:272][ 84]2024.09.06_20.34.50: Tribe  Tamed a Baby Ravager - Lvl 225 (Ravager)!
+[2024.09.06-20.34.54:157][144]2024.09.06_20.34.54: Saving world...
+[2024.09.06-20.34.54:171][144]2024.09.06_20.34.54: World Save Complete. Took: 0.592490
+[2024.09.06-20.34.57:605][200]2024.09.06_20.34.57: Tribe  Tamed a Baby Cosmo - Lvl 62 (Cosmo)!
+[2024.09.06-20.38.08:719][833]2024.09.06_20.38.08: Baby Cosmo - Lvl 62 (Cosmo) () was killed!
+[2024.09.06-20.38.44:423][291]2024.09.06_20.38.44: Tribe Tribe of Mango, ID 1773629605: Day 21, 12:37:34: <RichColor Color="0, 1, 0, 1">Banana Tamed an Ankylosaurus - Lvl 300 (Ankylosaurus)!</>)
+[2024.09.06-20.38.44:427][291]2024.09.06_20.38.44: Banana of Tribe Tribe of Mango Tamed an Ankylosaurus - Lvl 300 (Ankylosaurus)!
+[2024.09.06-20.38.44:440][291]2024.09.06_20.38.44: Tribe Tribe of Mango, ID 1773629605: Day 21, 12:37:34: Banana froze Ankylosaurus - Lvl 300 (Ankylosaurus))
+[2024.09.06-20.39.15:442][686]2024.09.06_20.39.15: wolverine-silvey [UniqueNetId:0002269b2c07480e99bcaa6a07afa384 Platform:None] left this ARK!
+[2024.09.06-20.39.35:246][974]2024.09.06_20.39.35: MartyrD0nk3y (Shwat): Press F2 to access kit.
+[2024.09.06-20.39.48:873][180]2024.09.06_20.39.48: MartyrD0nk3y (Shwat): (or hold R)
+[2024.09.06-20.39.54:178][253]2024.09.06_20.39.54: Saving world...
+[2024.09.06-20.39.54:185][253]2024.09.06_20.39.54: World Save Complete. Took: 0.582636
+[2024.09.06-20.41.20:905][585]2024.09.06_20.41.20: Tribe  Tamed a Baby Aberrant Otter - Lvl 208 (Aberrant Otter)!
+[2024.09.06-20.41.20:915][585]2024.09.06_20.41.20: Tribe  Tamed a Baby Aberrant Otter - Lvl 208 (Aberrant Otter)!
+[2024.09.06-20.41.20:926][585]2024.09.06_20.41.20: Tribe  Tamed a Baby Aberrant Otter - Lvl 208 (Aberrant Otter)!
+[2024.09.06-20.44.54:197][782]2024.09.06_20.44.54: Saving world...
+[2024.09.06-20.44.54:207][782]2024.09.06_20.44.54: World Save Complete. Took: 0.581844
+[2024.09.06-20.46.01:361][896]2024.09.06_20.46.01: Tribe Tribe of Twitch, ID 1139608408: Day 21, 15:32:15: <RichColor Color="0, 1, 0, 1">Fluffy Tamed a Ravager - Lvl 217 (Ravager)!</>)
+[2024.09.06-20.46.01:372][896]2024.09.06_20.46.01: Fluffy of Tribe Tribe of Twitch Tamed a Ravager - Lvl 217 (Ravager)!
+[2024.09.06-20.46.14:941][130]2024.09.06_20.46.14: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-20.46.14:947][130]2024.09.06_20.46.14: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-20.46.14:957][130]2024.09.06_20.46.14: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-20.46.56:609][763]2024.09.06_20.46.56: Tribe Tribe of Twitch, ID 1139608408: Day 21, 15:54:20: <RichColor Color="0, 1, 0, 1">Twitch Tamed a Juvenile Ravager - Lvl 145 (Ravager)!</>)
+[2024.09.06-20.46.56:619][763]2024.09.06_20.46.56: Twitch of Tribe Tribe of Twitch Tamed a Juvenile Ravager - Lvl 145 (Ravager)!
+[2024.09.06-20.47.41:802][300]2024.09.06_20.47.41: Tribe Tribe of Dardy, ID 1240526783: Day 21, 16:12:03: <RichColor Color="1, 0, 0, 1">Tribemember Dardy - Lvl 5 was killed by RehDragon - Lvl 98-858296109 (Shwat Team)!</>)
+[2024.09.06-20.47.41:805][300]2024.09.06_20.47.41: Tribe Shwat Team, ID 1482354014: Day 21, 16:12:03: <RichColor Color="1, 0, 1, 1">Your Tribe killed Dardy - Lvl 5 (Tribe of Dardy)!</>)
+[2024.09.06-20.47.41:815][300]2024.09.06_20.47.41: Dardy - Lvl 5 (Tribe of Dardy) was killed by RehDragon - Lvl 98 (Shwat Team)! [KillerSID: 858296109]
+[2024.09.06-20.49.54:234][262]2024.09.06_20.49.54: Saving world...
+[2024.09.06-20.49.54:241][262]2024.09.06_20.49.54: World Save Complete. Took: 0.589360
+[2024.09.06-20.51.25:055][682]2024.09.06_20.51.25: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-20.51.53:628][ 64]2024.09.06_20.51.53: Tribe Aberrants, ID 1359636722: Day 21, 17:52:41: <RichColor Color="0, 1, 0, 1">Seth Tamed a Baby Aberrant Triceratops - Lvl 102 (Aberrant Triceratops)!</>)
+[2024.09.06-20.51.53:639][ 64]2024.09.06_20.51.53: Seth of Tribe Aberrants Tamed a Baby Aberrant Triceratops - Lvl 102 (Aberrant Triceratops)!
+[2024.09.06-20.52.23:026][465]2024.09.06_20.52.23: DepthViking [UniqueNetId:0002ea81a0154bea893e6bce16f8b238 Platform:None] left this ARK!
+[2024.09.06-20.52.34:143][614]2024.09.06_20.52.34: Tribe Tribe of Twitch, ID 1139608408: Day 21, 18:08:55: <RichColor Color="0, 1, 0, 1">Twitch Tamed an Aberrant Ankylosaurus - Lvl 202 (Aberrant Ankylosaurus)!</>)
+[2024.09.06-20.52.34:150][614]2024.09.06_20.52.34: Twitch of Tribe Tribe of Twitch Tamed an Aberrant Ankylosaurus - Lvl 202 (Aberrant Ankylosaurus)!
+[2024.09.06-20.52.45:333][760]2024.09.06_20.52.45: Tribe Tribe of Twitch, ID 1139608408: Day 21, 18:13:23: Twitch froze Aberrant Ankylosaurus - Lvl 202 (Aberrant Ankylosaurus))
+[2024.09.06-20.52.50:226][828]2024.09.06_20.52.50: DepthViking [UniqueNetId:0002ea81a0154bea893e6bce16f8b238 Platform:None] joined this ARK!
+[2024.09.06-20.53.27:767][305]2024.09.06_20.53.27: Tribe Tribe of Javivi, ID 1113665124: Day 21, 18:30:13: <RichColor Color="1, 0, 0, 1">Tribemember Javivi - Lvl 70 was killed by an Aberrant Dire Bear - Lvl 30!</>)
+[2024.09.06-20.53.27:774][305]2024.09.06_20.53.27: Javivi - Lvl 70 (Tribe of Javivi) was killed by an Aberrant Dire Bear - Lvl 30 ()!
+[2024.09.06-20.54.54:318][237]2024.09.06_20.54.54: Saving world...
+[2024.09.06-20.54.54:332][237]2024.09.06_20.54.54: World Save Complete. Took: 0.590712
+[2024.09.06-20.55.33:668][668]2024.09.06_20.55.33: Tribe Tribe of Mango, ID 1773629605: Day 21, 19:20:30: Banana froze BNAN - Lvl 310 (Ankylosaurus))
+[2024.09.06-20.55.45:147][804]2024.09.06_20.55.45: Tribe Tribe of Mango, ID 1773629605: Day 21, 19:25:04: Banana froze BNAN)
+[2024.09.06-20.56.40:559][426]2024.09.06_20.56.40: Tribe  Tamed a Baby Ravager - Lvl 216 (Ravager)!
+[2024.09.06-20.57.45:333][183]2024.09.06_20.57.45: Tribe Tribe of Javivi, ID 1113665124: Day 21, 20:13:10: <RichColor Color="1, 0, 0, 1">Tribemember Humano - Lvl 68 was killed by YAGOSTEA - Lvl 89-78496271 (Tribe of YAGOSTEA)!</>)
+[2024.09.06-20.57.45:340][183]2024.09.06_20.57.45: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 21, 20:13:10: <RichColor Color="1, 0, 1, 1">Your Tribe killed Humano - Lvl 68 (Tribe of Javivi)!</>)
+[2024.09.06-20.57.45:350][183]2024.09.06_20.57.45: Humano - Lvl 68 (Tribe of Javivi) was killed by YAGOSTEA - Lvl 89 (Tribe of YAGOSTEA)! [KillerSID: 78496271]
+[2024.09.06-20.58.18:656][566]2024.09.06_20.58.18: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 21, 20:26:29: <RichColor Color="0, 1, 0, 1">Your Tribe Tamed a Ravager - Lvl 217 (Ravager)!</>)
+[2024.09.06-20.58.18:661][566]2024.09.06_20.58.18: Tribe Tribe of YAGOSTEA Tamed a Ravager - Lvl 217 (Ravager)!
+[2024.09.06-20.58.39:711][822]2024.09.06_20.58.39: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 21, 20:34:54: <RichColor Color="1, 0, 0, 1">Tribemember YAGOSTEA - Lvl 90 was killed!</>)
+[2024.09.06-20.58.39:720][822]2024.09.06_20.58.39: YAGOSTEA - Lvl 90 (Tribe of YAGOSTEA) was killed!
+[2024.09.06-20.59.54:445][618]2024.09.06_20.59.54: Saving world...
+[2024.09.06-20.59.54:453][618]2024.09.06_20.59.54: World Save Complete. Took: 0.581577
+[2024.09.06-20.59.55:747][632]2024.09.06_20.59.55: Tribe  Tamed a Baby Cosmo - Lvl 83 (Cosmo)!
+[2024.09.06-21.00.29:337][ 11]2024.09.06_21.00.29: Tribe HELLS ARMY, ID 1136584465: Day 21, 21:18:02: <RichColor Color="1, 0, 1, 1">Lucifer claimed 'Baby Cosmo - Lvl 83 (Cosmo)'!</>)
+[2024.09.06-21.00.52:644][235]2024.09.06_21.00.52: Adolescent Ravager - Lvl 225 (Ravager) () was killed!
+[2024.09.06-21.03.56:981][291]2024.09.06_21.03.56: DepthViking (Viking): anyone need another member im tired of being solo lol
+[2024.09.06-21.04.54:502][ 19]2024.09.06_21.04.54: Saving world...
+[2024.09.06-21.04.54:510][ 19]2024.09.06_21.04.54: World Save Complete. Took: 0.579565
+[2024.09.06-21.05.15:385][291]2024.09.06_21.05.15: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 21, 23:12:25: <RichColor Color="1, 0, 0, 1">Tribemember King - Lvl 85 was killed by RehDragon - Lvl 98-858296109 (Shwat Team)!</>)
+[2024.09.06-21.05.15:389][291]2024.09.06_21.05.15: Tribe Shwat Team, ID 1482354014: Day 21, 23:12:25: <RichColor Color="1, 0, 1, 1">Your Tribe killed King - Lvl 85 (Tribe of YAGOSTEA)!</>)
+[2024.09.06-21.05.15:399][291]2024.09.06_21.05.15: King - Lvl 85 (Tribe of YAGOSTEA) was killed by RehDragon - Lvl 98 (Shwat Team)! [KillerSID: 858296109]
+[2024.09.06-21.05.21:315][365]2024.09.06_21.05.21: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 21, 23:14:47: <RichColor Color="1, 0, 0, 1">Your Ravager - Lvl 238 (Ravager) was killed by RehDragon - Lvl 98-858296109 (Shwat Team)!</>)
+[2024.09.06-21.05.21:327][365]2024.09.06_21.05.21: Tribe Shwat Team, ID 1482354014: Day 21, 23:14:47: <RichColor Color="1, 0, 1, 1">Your Tribe killed Ravager - Lvl 238 (Ravager) (Tribe of YAGOSTEA)!</>)
+[2024.09.06-21.05.21:338][365]2024.09.06_21.05.21: Ravager - Lvl 238 (Ravager) (Tribe of YAGOSTEA) was killed by RehDragon - Lvl 98-858296109 (Shwat Team)! [KillerSID: 858296109]
+[2024.09.06-21.05.22:978][385]2024.09.06_21.05.22: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 21, 23:15:27: <RichColor Color="1, 0, 0, 1">Your Bulbdog - Lvl 201 (Bulbdog) was killed by RehDragon - Lvl 98-858296109 (Shwat Team)!</>)
+[2024.09.06-21.05.22:989][385]2024.09.06_21.05.22: Tribe Shwat Team, ID 1482354014: Day 21, 23:15:27: <RichColor Color="1, 0, 1, 1">Your Tribe killed Bulbdog - Lvl 201 (Bulbdog) (Tribe of YAGOSTEA)!</>)
+[2024.09.06-21.05.22:999][385]2024.09.06_21.05.22: Bulbdog - Lvl 201 (Bulbdog) (Tribe of YAGOSTEA) was killed by RehDragon - Lvl 98-858296109 (Shwat Team)! [KillerSID: 858296109]
+[2024.09.06-21.05.47:740][729]2024.09.06_21.05.47: EBK_Scorpion (Seth): Its square
+[2024.09.06-21.06.39:019][419]2024.09.06_21.06.39: EBK_Scorpion (Seth): Then go to the f1 side then the yellow bag
+[2024.09.06-21.07.06:644][724]2024.09.06_21.07.06: Tribe HELLS ARMY, ID 1136584465: Day 21, 23:56:47: <RichColor Color="1, 0, 0, 1">Your Baby Cosmo - Lvl 83 (Cosmo) was killed!</>)
+[2024.09.06-21.07.06:655][724]2024.09.06_21.07.06: Baby Cosmo - Lvl 83 (Cosmo) (HELLS ARMY) was killed!
+[2024.09.06-21.07.06:668][724]2024.09.06_21.07.06: Tribe HELLS ARMY, ID 1136584465: Day 21, 23:56:47: Baby Cosmo - Lvl 83 (Cosmo) starved to death!)
+[2024.09.06-21.09.54:577][945]2024.09.06_21.09.54: Saving world...
+[2024.09.06-21.09.54:583][945]2024.09.06_21.09.54: World Save Complete. Took: 0.590859
+[2024.09.06-21.11.29:996][ 14]2024.09.06_21.11.29: Tribe  Tamed a Baby Ravager - Lvl 229 (Ravager)!
+[2024.09.06-21.11.30:002][ 14]2024.09.06_21.11.30: Tribe  Tamed a Baby Ravager - Lvl 229 (Ravager)!
+[2024.09.06-21.11.30:932][ 23]2024.09.06_21.11.30: Tribe  Tamed a Baby Ravager - Lvl 225 (Ravager)!
+[2024.09.06-21.11.41:207][132]2024.09.06_21.11.41: Tribe  Tamed a Baby Ravager - Lvl 227 (Ravager)!
+[2024.09.06-21.11.51:470][248]2024.09.06_21.11.51: Tribe  Tamed a Baby Ravager - Lvl 227 (Ravager)!
+[2024.09.06-21.12.01:538][364]2024.09.06_21.12.01: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-21.12.11:566][478]2024.09.06_21.12.11: Tribe Shwat Team, ID 1482354014: Day 22, 01:58:09: <RichColor Color="1, 0, 1, 1">Rick Scott claimed 'Baby Ravager - Lvl 229 (Ravager)'!</>)
+[2024.09.06-21.12.13:773][501]2024.09.06_21.12.13: Tribe Shwat Team, ID 1482354014: Day 22, 01:59:02: <RichColor Color="1, 0, 1, 1">Rick Scott claimed 'Baby Ravager - Lvl 229 (Ravager)'!</>)
+[2024.09.06-21.12.57:276][ 10]2024.09.06_21.12.57: Adolescent Ravager - Lvl 223 (Ravager) () was killed!
+[2024.09.06-21.12.57:571][ 13]2024.09.06_21.12.57: Adolescent Ravager - Lvl 223 (Ravager) () was killed!
+[2024.09.06-21.12.59:426][ 36]2024.09.06_21.12.59: Adolescent Ravager - Lvl 223 (Ravager) () was killed!
+[2024.09.06-21.13.31:392][468]2024.09.06_21.13.31: Adolescent Ravager - Lvl 223 (Ravager) () was killed!
+[2024.09.06-21.13.35:168][517]2024.09.06_21.13.35: Tribe Shwat Team, ID 1482354014: Day 22, 02:31:37: <RichColor Color="1, 0, 1, 1">Your Tribe killed Baby Ravager - Lvl 225 (Ravager)!</>)
+[2024.09.06-21.13.35:175][517]2024.09.06_21.13.35: Baby Ravager - Lvl 225 (Ravager) () was killed by Shwat - Lvl 97-859484274 (Shwat Team)! [KillerSID: 859484274]
+[2024.09.06-21.14.30:162][347]2024.09.06_21.14.30: Tribe  Tamed a Baby Ravager - Lvl 227 (Ravager)!
+[2024.09.06-21.14.54:663][697]2024.09.06_21.14.54: Saving world...
+[2024.09.06-21.14.54:675][697]2024.09.06_21.14.54: World Save Complete. Took: 0.635373
+[2024.09.06-21.15.35:876][288]2024.09.06_21.15.35: Tribe Shwat Team, ID 1482354014: Day 22, 03:19:47: <RichColor Color="1, 0, 1, 1">Rick Scott claimed 'Baby Ravager - Lvl 227 (Ravager)'!</>)
+[2024.09.06-21.16.41:498][269]2024.09.06_21.16.41: Juvenile Ravager - Lvl 216 (Ravager) () was killed!
+[2024.09.06-21.17.45:992][201]2024.09.06_21.17.45: Tribe Shwat Team, ID 1482354014: Day 22, 04:11:51: <RichColor Color="1, 0, 1, 1">Rick Scott claimed 'Juvenile Ravager - Lvl 227 (Ravager)'!</>)
+[2024.09.06-21.17.48:961][235]2024.09.06_21.17.48: Tribe HELLS ARMY, ID 1136584465: Day 22, 04:13:03: <RichColor Color="1, 0, 0, 1">Tribemember Lucifer - Lvl 105 was killed!</>)
+[2024.09.06-21.17.48:972][235]2024.09.06_21.17.48: Lucifer - Lvl 105 (HELLS ARMY) was killed!
+[2024.09.06-21.19.54:703][783]2024.09.06_21.19.54: Saving world...
+[2024.09.06-21.19.54:711][783]2024.09.06_21.19.54: World Save Complete. Took: 0.582768
+[2024.09.06-21.21.11:506][807]2024.09.06_21.21.11: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-21.21.19:866][931]2024.09.06_21.21.19: Tribe Tribe of Twitch, ID 1139608408: Day 22, 05:37:12: Twitch froze Adolescent Ravager - Lvl 145 (Ravager))
+[2024.09.06-21.24.54:766][746]2024.09.06_21.24.54: Saving world...
+[2024.09.06-21.24.54:776][746]2024.09.06_21.24.54: World Save Complete. Took: 0.646022
+[2024.09.06-21.25.40:695][434]2024.09.06_21.25.40: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-21.25.50:801][578]2024.09.06_21.25.50: Tribe HELLS ARMY, ID 1136584465: Day 22, 07:24:55: <RichColor Color="1, 1, 0, 1">Lucifer demolished a 'QoL+ Blueprint Maker (Locked) '!</>)
+[2024.09.06-21.28.57:313][263]2024.09.06_21.28.57: Tribe  Tamed a Baby Ravager - Lvl 217 (Ravager)!
+[2024.09.06-21.29.54:766][ 22]2024.09.06_21.29.54: Saving world...
+[2024.09.06-21.29.54:775][ 22]2024.09.06_21.29.54: World Save Complete. Took: 0.634013
+[2024.09.06-21.30.41:834][599]2024.09.06_21.30.41: june09222007 [UniqueNetId:00025dd389ce490db17aa411fcd6155f Platform:None] joined this ARK!
+[2024.09.06-21.31.13:450][962]2024.09.06_21.31.13: Tribe  Tamed a Baby Aberrant Otter - Lvl 209 (Aberrant Otter)!
+[2024.09.06-21.32.35:422][745]2024.09.06_21.32.35: DEAD JOKER1X (Lucifer): Drakes are so buggy
+[2024.09.06-21.32.46:444][863]2024.09.06_21.32.46: Tribe Tribe of PreadtorPickle4, ID 1173593806: Day 22, 10:11:05: <RichColor Color="0, 1, 1, 1">PreadtorPickle4 was added to the Tribe!</>)
+[2024.09.06-21.32.46:451][863]2024.09.06_21.32.46: Player june09222007 with ID 363333036 joined tribe Tribe of PreadtorPickle4 with ID 1173593806.
+[2024.09.06-21.32.47:729][871]2024.09.06_21.32.47: DepthViking (Viking): they have alwasy been lol
+[2024.09.06-21.33.06:932][ 35]2024.09.06_21.33.06: DEAD JOKER1X (Lucifer): Thats censored
+[2024.09.06-21.33.26:513][207]2024.09.06_21.33.26: Tribe Tribe of PreadtorPickle4, ID 1173593806: Day 22, 10:27:08: <RichColor Color="1, 0, 0, 1">Tribemember PreadtorPickle4 - Lvl 1 was killed by an Aberrant Raptor - Lvl 15!</>)
+[2024.09.06-21.33.26:524][207]2024.09.06_21.33.26: PreadtorPickle4 - Lvl 1 (Tribe of PreadtorPickle4) was killed by an Aberrant Raptor - Lvl 15 ()!
+[2024.09.06-21.34.12:974][604]2024.09.06_21.34.12: Tribe Shwat Team, ID 1482354014: Day 22, 10:45:32: <RichColor Color="1, 0, 0, 1">Your Adolescent Ravager - Lvl 227 (Ravager) was killed!</>)
+[2024.09.06-21.34.12:985][604]2024.09.06_21.34.12: Adolescent Ravager - Lvl 227 (Ravager) (Shwat Team) was killed!
+[2024.09.06-21.34.12:997][604]2024.09.06_21.34.12: Tribe Shwat Team, ID 1482354014: Day 22, 10:45:32: Adolescent Ravager - Lvl 227 (Ravager) starved to death!)
+[2024.09.06-21.34.54:795][903]2024.09.06_21.34.54: Saving world...
+[2024.09.06-21.34.54:810][903]2024.09.06_21.34.54: World Save Complete. Took: 0.589985
+[2024.09.06-21.35.37:035][226]2024.09.06_21.35.37: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] left this ARK!
+[2024.09.06-21.36.09:809][520]2024.09.06_21.36.09: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] joined this ARK!
+[2024.09.06-21.36.14:214][552]2024.09.06_21.36.14: Tribe Tribe of PreadtorPickle4, ID 1173593806: Day 22, 11:33:14: <RichColor Color="1, 0, 0, 1">Tribemember PreadtorPickle4 - Lvl 17 was killed by a Yi Ling - Lvl 135!</>)
+[2024.09.06-21.36.14:224][552]2024.09.06_21.36.14: PreadtorPickle4 - Lvl 17 (Tribe of PreadtorPickle4) was killed by a Yi Ling - Lvl 135 ()!
+[2024.09.06-21.36.46:404][805]2024.09.06_21.36.46: BIGFOOT [UniqueNetId:00021acbaf094a78ab15ec9c1732d4d0 Platform:None] joined this ARK!
+[2024.09.06-21.37.27:924][126]2024.09.06_21.37.27: Tribe Shwat Team, ID 1482354014: Day 22, 12:02:11: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Ravager - Lvl 223 (Ravager)!</>)
+[2024.09.06-21.37.27:936][126]2024.09.06_21.37.27: Juvenile Ravager - Lvl 223 (Ravager) () was killed by Queen Charlotte - Lvl 280 (Ravager) (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-21.37.29:458][138]2024.09.06_21.37.29: Tribe Shwat Team, ID 1482354014: Day 22, 12:02:47: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Ravager - Lvl 217 (Ravager)!</>)
+[2024.09.06-21.37.29:465][138]2024.09.06_21.37.29: Juvenile Ravager - Lvl 217 (Ravager) () was killed by Queen Charlotte - Lvl 280 (Ravager) (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-21.37.30:677][147]2024.09.06_21.37.30: Tribe Shwat Team, ID 1482354014: Day 22, 12:03:17: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Ravager - Lvl 223 (Ravager)!</>)
+[2024.09.06-21.37.30:685][147]2024.09.06_21.37.30: Juvenile Ravager - Lvl 223 (Ravager) () was killed by Queen Charlotte - Lvl 280 (Ravager) (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-21.39.26:822][ 64]2024.09.06_21.39.26: Adolescent Ravager - Lvl 227 (Ravager) () was killed!
+[2024.09.06-21.39.54:856][272]2024.09.06_21.39.54: Saving world...
+[2024.09.06-21.39.54:866][272]2024.09.06_21.39.54: World Save Complete. Took: 0.585485
+[2024.09.06-21.40.14:554][425]2024.09.06_21.40.14: Tribe HELLS ARMY, ID 1136584465: Day 22, 13:08:43: Lucifer froze Rock Drake)
+[2024.09.06-21.42.45:850][547]2024.09.06_21.42.45: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 22, 14:09:03: <RichColor Color="0, 1, 0, 1">King Tamed a Bulbdog - Lvl 59 (Bulbdog)!</>)
+[2024.09.06-21.42.45:860][547]2024.09.06_21.42.45: King of Tribe Tribe of YAGOSTEA Tamed a Bulbdog - Lvl 59 (Bulbdog)!
+[2024.09.06-21.43.24:822][783]2024.09.06_21.43.24: Tribe Tribe of PreadtorPickle4, ID 1173593806: Day 22, 14:24:40: <RichColor Color="1, 0, 0, 1">Tribemember PreadtorPickle4 - Lvl 20 was killed!</>)
+[2024.09.06-21.43.24:833][783]2024.09.06_21.43.24: PreadtorPickle4 - Lvl 20 (Tribe of PreadtorPickle4) was killed!
+[2024.09.06-21.43.48:189][934]2024.09.06_21.43.48: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 22, 14:33:44: <RichColor Color="0, 1, 0, 1">Your Tribe Tamed an Aberrant Spino - Lvl 157 (Aberrant Spino)!</>)
+[2024.09.06-21.43.48:190][934]2024.09.06_21.43.48: Tribe Tribe of YAGOSTEA Tamed an Aberrant Spino - Lvl 157 (Aberrant Spino)!
+[2024.09.06-21.44.19:690][153]2024.09.06_21.44.19: EBK_Scorpion (Seth): Wait
+[2024.09.06-21.44.48:643][337]2024.09.06_21.44.48: EBK_Scorpion (Seth): Do the grapple hooks not work?
+[2024.09.06-21.44.54:911][377]2024.09.06_21.44.54: Saving world...
+[2024.09.06-21.44.54:922][377]2024.09.06_21.44.54: World Save Complete. Took: 0.605265
+[2024.09.06-21.45.21:974][555]2024.09.06_21.45.21: Tribe Tribe of Mango, ID 1773629605: Day 22, 15:10:44: <RichColor Color="0, 1, 0, 1">Banana Tamed a Juvenile Karkinos - Lvl 130 (Karkinos)!</>)
+[2024.09.06-21.45.21:982][555]2024.09.06_21.45.21: Banana of Tribe Tribe of Mango Tamed a Juvenile Karkinos - Lvl 130 (Karkinos)!
+[2024.09.06-21.45.27:219][594]2024.09.06_21.45.27: Tribe Tribe of Mango, ID 1773629605: Day 22, 15:12:50: Banana froze Karkinos)
+[2024.09.06-21.46.13:481][890]2024.09.06_21.46.13: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] left this ARK!
+[2024.09.06-21.46.45:467][ 87]2024.09.06_21.46.45: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] joined this ARK!
+[2024.09.06-21.47.38:426][385]2024.09.06_21.47.38: BIGFOOT [UniqueNetId:00021acbaf094a78ab15ec9c1732d4d0 Platform:None] left this ARK!
+[2024.09.06-21.48.03:811][542]2024.09.06_21.48.03: Tribe Tribe of Twitch, ID 1139608408: Day 22, 16:13:14: <RichColor Color="0, 1, 0, 1">Twitch Tamed a Bulbdog - Lvl 119 (Bulbdog)!</>)
+[2024.09.06-21.48.03:821][542]2024.09.06_21.48.03: Twitch of Tribe Tribe of Twitch Tamed a Bulbdog - Lvl 119 (Bulbdog)!
+[2024.09.06-21.48.04:089][543]2024.09.06_21.48.04: BIGFOOT [UniqueNetId:00021acbaf094a78ab15ec9c1732d4d0 Platform:None] joined this ARK!
+[2024.09.06-21.48.47:548][804]2024.09.06_21.48.47: Tribe Tribe of Twitch, ID 1139608408: Day 22, 16:30:32: Twitch froze Bulbdog)
+[2024.09.06-21.48.48:100][807]2024.09.06_21.48.48: Tribe Tribe of PreadtorPickle4, ID 1173593806: Day 22, 16:30:49: <RichColor Color="1, 0, 0, 1">Tribemember PreadtorPickle4 - Lvl 20 was killed by an Aberrant Stegosaurus - Lvl 35!</>)
+[2024.09.06-21.48.48:106][807]2024.09.06_21.48.48: PreadtorPickle4 - Lvl 20 (Tribe of PreadtorPickle4) was killed by an Aberrant Stegosaurus - Lvl 35 ()!
+[2024.09.06-21.49.11:779][967]2024.09.06_21.49.11: DepthViking (Viking): gotta love cosmo lol
+[2024.09.06-21.49.55:356][236]2024.09.06_21.49.55: Saving world...
+[2024.09.06-21.49.55:366][236]2024.09.06_21.49.55: World Save Complete. Took: 0.608905
+[2024.09.06-21.50.29:099][419]2024.09.06_21.50.29: Tribe Tribe of Hassenbread, ID 1289692360: Day 22, 17:10:46: <RichColor Color="1, 0, 0, 1">Your Aberrant Triceratops - Lvl 85 (Aberrant Triceratops) was killed by an Aberrant Spino - Lvl 30!</>)
+[2024.09.06-21.50.29:111][419]2024.09.06_21.50.29: Aberrant Triceratops - Lvl 85 (Aberrant Triceratops) (Tribe of Hassenbread) was killed by an Aberrant Spino - Lvl 30 ()!
+[2024.09.06-21.51.16:261][725]2024.09.06_21.51.16: Tribe Shwat Team, ID 1482354014: Day 22, 17:29:40: <RichColor Color="0, 1, 0, 1">Rick Scott Tamed a Cosmo - Lvl 209 (Cosmo)!</>)
+[2024.09.06-21.51.16:264][725]2024.09.06_21.51.16: Rick Scott of Tribe Shwat Team Tamed a Cosmo - Lvl 209 (Cosmo)!
+[2024.09.06-21.52.22:724][182]2024.09.06_21.52.22: Tribe Tribe of Twitch, ID 1139608408: Day 22, 17:56:15: <RichColor Color="0, 1, 1, 1">Tribe of PreadtorPickle4 tribe was merged in by PreadtorPickle4!</>)
+[2024.09.06-21.52.22:752][182]2024.09.06_21.52.22: Tribe Tribe of PreadtorPickle4, ID 1173593806: Day 22, 17:56:15: <RichColor Color="1, 1, 0, 1">PreadtorPickle4 was removed from the Tribe!</>)
+[2024.09.06-21.52.22:761][182]2024.09.06_21.52.22: Player PreadtorPickle4 with ID 363333036 removed from tribe Tribe of PreadtorPickle4 with ID 1173593806.
+[2024.09.06-21.52.22:808][182]2024.09.06_21.52.22: Tribe Tribe of Twitch, ID 1139608408: Day 22, 17:56:15: <RichColor Color="0, 1, 1, 1">PreadtorPickle4 was added to the Tribe by Twitch!</>)
+[2024.09.06-21.52.22:816][182]2024.09.06_21.52.22: Player PreadtorPickle4 with ID 363333036 joined tribe Tribe of Twitch with ID 1139608408 Invited by Player Twitch with ID 649302128.
+[2024.09.06-21.52.27:443][217]2024.09.06_21.52.27: Tribe Tribe of Twitch, ID 1139608408: Day 22, 17:58:10: <RichColor Color="1, 0, 0, 1">Tribemember PreadtorPickle4 - Lvl 20 was killed by Twitch - Lvl 98-649302128 (Tribe of Twitch)!</>)
+[2024.09.06-21.52.27:447][217]2024.09.06_21.52.27: Tribe Tribe of Twitch, ID 1139608408: Day 22, 17:58:10: <RichColor Color="1, 0, 1, 1">Your Tribe killed PreadtorPickle4 - Lvl 20 (Tribe of Twitch)!</>)
+[2024.09.06-21.52.27:458][217]2024.09.06_21.52.27: PreadtorPickle4 - Lvl 20 (Tribe of Twitch) was killed by Twitch - Lvl 98 (Tribe of Twitch)! [KillerSID: 649302128]
+[2024.09.06-21.53.35:552][805]2024.09.06_21.53.35: Tribe Tribe of Mango, ID 1773629605: Day 22, 18:25:23: <RichColor Color="1, 1, 0, 1">Mango demolished a 'ARKomatic Wood Baker (Locked) '!</>)
+[2024.09.06-21.53.37:917][829]2024.09.06_21.53.37: Tribe Tribe of Mango, ID 1773629605: Day 22, 18:26:20: <RichColor Color="1, 1, 0, 1">Mango demolished a 'ARKomatic Wood Baker (Locked) '!</>)
+[2024.09.06-21.53.40:002][850]2024.09.06_21.53.40: Tribe Tribe of Mango, ID 1773629605: Day 22, 18:27:10: <RichColor Color="1, 1, 0, 1">Mango demolished a 'ARKomatic Wood Baker (Locked) '!</>)
+[2024.09.06-21.53.42:201][873]2024.09.06_21.53.42: Tribe Tribe of Mango, ID 1773629605: Day 22, 18:28:03: <RichColor Color="1, 1, 0, 1">Mango demolished a 'ARKomatic Wood Baker (Locked) '!</>)
+[2024.09.06-21.53.44:229][893]2024.09.06_21.53.44: Tribe Tribe of Mango, ID 1773629605: Day 22, 18:28:51: <RichColor Color="1, 1, 0, 1">Mango demolished a 'ARKomatic Wood Baker (Locked) '!</>)
+[2024.09.06-21.53.46:121][912]2024.09.06_21.53.46: Tribe Tribe of Mango, ID 1773629605: Day 22, 18:29:37: <RichColor Color="1, 1, 0, 1">Mango demolished a 'ARKomatic Wood Baker (Locked) '!</>)
+[2024.09.06-21.54.14:442][199]2024.09.06_21.54.14: Tribe Tribe of Mango, ID 1773629605: Day 22, 18:40:58: <RichColor Color="1, 0, 0, 1">Your Shinehorn - Lvl 161 (Shinehorn) was killed by a Ravager - Lvl 135!</>)
+[2024.09.06-21.54.14:448][199]2024.09.06_21.54.14: Shinehorn - Lvl 161 (Shinehorn) (Tribe of Mango) was killed by a Ravager - Lvl 135 ()!
+[2024.09.06-21.54.51:836][584]2024.09.06_21.54.51: EBK_Scorpion [UniqueNetId:0002b29fea694e3aa84ba819a4cd3297 Platform:None] left this ARK!
+[2024.09.06-21.54.55:430][609]2024.09.06_21.54.55: Saving world...
+[2024.09.06-21.54.55:439][609]2024.09.06_21.54.55: World Save Complete. Took: 0.674377
+[2024.09.06-21.55.16:661][798]2024.09.06_21.55.16: Tribe Tribe of Twitch, ID 1139608408: Day 22, 19:05:32: <RichColor Color="0, 1, 0, 1">Twitch Tamed a Bulbdog - Lvl 157 (Bulbdog)!</>)
+[2024.09.06-21.55.16:667][798]2024.09.06_21.55.16: Twitch of Tribe Tribe of Twitch Tamed a Bulbdog - Lvl 157 (Bulbdog)!
+[2024.09.06-21.55.20:651][839]2024.09.06_21.55.20: Tribe Tribe of Twitch, ID 1139608408: Day 22, 19:07:07: Twitch froze Bulbdog)
+[2024.09.06-21.56.10:411][286]2024.09.06_21.56.10: EBK_Scorpion [UniqueNetId:0002b29fea694e3aa84ba819a4cd3297 Platform:None] joined this ARK!
+[2024.09.06-21.57.12:005][734]2024.09.06_21.57.12: Tribe Tribe of Twitch, ID 1139608408: Day 22, 19:51:29: <RichColor Color="0, 1, 0, 1">Twitch Tamed a Bulbdog - Lvl 217 (Bulbdog)!</>)
+[2024.09.06-21.57.12:014][734]2024.09.06_21.57.12: Twitch of Tribe Tribe of Twitch Tamed a Bulbdog - Lvl 217 (Bulbdog)!
+[2024.09.06-21.57.16:669][762]2024.09.06_21.57.16: Tribe Tribe of Twitch, ID 1139608408: Day 22, 19:53:18: Twitch froze Bulbdog)
+[2024.09.06-21.57.45:627][948]2024.09.06_21.57.45: Tribe Tribe of Twitch, ID 1139608408: Day 22, 20:04:56: <RichColor Color="0, 1, 0, 1">Twitch Tamed a Bulbdog - Lvl 37 (Bulbdog)!</>)
+[2024.09.06-21.57.45:630][948]2024.09.06_21.57.45: Twitch of Tribe Tribe of Twitch Tamed a Bulbdog - Lvl 37 (Bulbdog)!
+[2024.09.06-21.57.49:649][977]2024.09.06_21.57.49: Tribe Tribe of Twitch, ID 1139608408: Day 22, 20:06:33: Twitch froze Bulbdog)
+[2024.09.06-21.59.44:418][715]2024.09.06_21.59.44: Tribe Tribe of Twitch, ID 1139608408: Day 22, 20:50:35: <RichColor Color="0, 0, 1, 1">Fluffy was promoted to a Tribe Admin by Twitch!</>)
+[2024.09.06-21.59.47:324][738]2024.09.06_21.59.47: Tribe Tribe of Twitch, ID 1139608408: Day 22, 20:51:44: <RichColor Color="0, 0, 1, 1">PreadtorPickle4 was promoted to a Tribe Admin by Twitch!</>)
+[2024.09.06-21.59.55:456][795]2024.09.06_21.59.55: Saving world...
+[2024.09.06-21.59.55:461][795]2024.09.06_21.59.55: World Save Complete. Took: 0.675149
+[2024.09.06-22.04.15:898][825]2024.09.06_22.04.15: Tribe Tribe of YAGOSTEA, ID 1090805701: Day 22, 22:39:03: <RichColor Color="0, 1, 0, 1">King Tamed an Aberrant Spino - Lvl 224 (Aberrant Spino)!</>)
+[2024.09.06-22.04.15:901][825]2024.09.06_22.04.15: King of Tribe Tribe of YAGOSTEA Tamed an Aberrant Spino - Lvl 224 (Aberrant Spino)!
+[2024.09.06-22.04.43:392][ 83]2024.09.06_22.04.43: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.06-22.04.51:186][149]2024.09.06_22.04.51: Tribe  Tamed a Baby Ravager - Lvl 217 (Ravager)!
+[2024.09.06-22.04.55:458][188]2024.09.06_22.04.55: Saving world...
+[2024.09.06-22.04.55:472][188]2024.09.06_22.04.55: World Save Complete. Took: 0.678234
+[2024.09.06-22.06.33:643][186]2024.09.06_22.06.33: Tribe Tribe of Viking, ID 1402125346: Day 22, 23:34:02: <RichColor Color="1, 1, 0, 1">Viking demolished a 'Stone Cliff Platform'!</>)
+[2024.09.06-22.06.38:085][235]2024.09.06_22.06.38: Tribe Tribe of Twitch, ID 1139608408: Day 22, 23:35:50: <RichColor Color="1, 0, 0, 1">Tribemember PreadtorPickle4 - Lvl 42 was killed by an Aberrant Megalosaurus - Lvl 115!</>)
+[2024.09.06-22.06.38:088][235]2024.09.06_22.06.38: PreadtorPickle4 - Lvl 42 (Tribe of Twitch) was killed by an Aberrant Megalosaurus - Lvl 115 ()!
+[2024.09.06-22.06.49:317][331]2024.09.06_22.06.49: Tribe Tribe of Twitch, ID 1139608408: Day 22, 23:39:56: <RichColor Color="0, 1, 0, 1">Twitch Tamed a Juvenile Aberrant Megalosaurus - Lvl 115 (Aberrant Megalosaurus)!</>)
+[2024.09.06-22.06.49:328][331]2024.09.06_22.06.49: Twitch of Tribe Tribe of Twitch Tamed a Juvenile Aberrant Megalosaurus - Lvl 115 (Aberrant Megalosaurus)!
+[2024.09.06-22.06.50:206][340]2024.09.06_22.06.50: Elisia [UniqueNetId:000267e4f0d84f05825d01a3fbc3287d Platform:None] joined this ARK!
+[2024.09.06-22.06.58:266][403]2024.09.06_22.06.58: Tribe Shwat Team, ID 1482354014: Day 22, 23:43:41: <RichColor Color="1, 0, 1, 1">Your Tribe killed Baby Ravager - Lvl 223 (Ravager)!</>)
+[2024.09.06-22.06.58:269][403]2024.09.06_22.06.58: Baby Ravager - Lvl 223 (Ravager) () was killed by Rick Scott - Lvl 94-827279825 (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-22.07.07:335][487]2024.09.06_22.07.07: Tribe Shwat Team, ID 1482354014: Day 22, 23:47:10: <RichColor Color="1, 0, 1, 1">Your Tribe killed Baby Ravager - Lvl 217 (Ravager)!</>)
+[2024.09.06-22.07.07:342][487]2024.09.06_22.07.07: Baby Ravager - Lvl 217 (Ravager) () was killed by Rick Scott - Lvl 94-827279825 (Shwat Team)! [KillerSID: 827279825]
+[2024.09.06-22.07.21:173][613]2024.09.06_22.07.21: Tribe Tribe of Viking, ID 1402125346: Day 22, 23:52:32: <RichColor Color="1, 0, 0, 1">Tribemember Viking - Lvl 93 was killed!</>)
+[2024.09.06-22.07.21:177][613]2024.09.06_22.07.21: Viking - Lvl 93 (Tribe of Viking) was killed! [KillerSID: 719663840]
+[2024.09.06-22.08.45:136][496]2024.09.06_22.08.45: Tribe  Tamed a Baby Ravager - Lvl 229 (Ravager)!
+[2024.09.06-22.08.46:850][515]2024.09.06_22.08.46: Tribe  Tamed a Baby Ravager - Lvl 229 (Ravager)!
+[2024.09.06-22.09.22:929][950]2024.09.06_22.09.22: Tribe Shwat Team, ID 1482354014: Day 23, 00:41:03: <RichColor Color="1, 0, 1, 1">Shwat claimed 'Baby Ravager - Lvl 229 (Ravager)'!</>)
+[2024.09.06-22.09.24:076][964]2024.09.06_22.09.24: Tribe  Tamed a Baby Ravager - Lvl 225 (Ravager)!
+[2024.09.06-22.09.24:343][967]2024.09.06_22.09.24: Tribe  Tamed a Baby Ravager - Lvl 227 (Ravager)!
+[2024.09.06-22.09.28:684][ 18]2024.09.06_22.09.28: Tribe  Tamed a Baby Ravager - Lvl 227 (Ravager)!
+[2024.09.06-22.09.55:487][335]2024.09.06_22.09.55: Saving world...
+[2024.09.06-22.09.55:498][335]2024.09.06_22.09.55: World Save Complete. Took: 0.700135
+[2024.09.06-22.10.24:545][671]2024.09.06_22.10.24: Tribe Shwat Team, ID 1482354014: Day 23, 01:05:35: <RichColor Color="1, 0, 1, 1">Shwat claimed 'Baby Ravager - Lvl 227 (Ravager)'!</>)
+[2024.09.06-22.10.45:006][915]2024.09.06_22.10.45: Tribe Shwat Team, ID 1482354014: Day 23, 01:13:46: <RichColor Color="1, 0, 1, 1">Rick Scott claimed 'Baby Ravager - Lvl 229 (Ravager)'!</>)
+[2024.09.06-22.11.17:748][287]2024.09.06_22.11.17: Tribe Tribe of Twitch, ID 1139608408: Day 23, 01:26:52: <RichColor Color="0, 1, 0, 1">Twitch Tamed a Juvenile Aberrant Gigantopithecus - Lvl 75 (Aberrant Gigantopithecus)!</>)
+[2024.09.06-22.11.17:749][287]2024.09.06_22.11.17: Twitch of Tribe Tribe of Twitch Tamed a Juvenile Aberrant Gigantopithecus - Lvl 75 (Aberrant Gigantopithecus)!
+[2024.09.06-22.11.31:632][386]2024.09.06_22.11.31: Tribe Shwat Team, ID 1482354014: Day 23, 01:31:14: <RichColor Color="1, 0, 1, 1">Rick Scott claimed 'Baby Ravager - Lvl 227 (Ravager)'!</>)
+[2024.09.06-22.11.36:415][422]2024.09.06_22.11.36: Tribe  Tamed a Baby Ravager - Lvl 227 (Ravager)!

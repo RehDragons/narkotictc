@@ -1,0 +1,93 @@
+﻿[2024.08.29-22.12.29:277][ 10]Log file open, 08/30/24 00:12:29
+[2024.08.29-22.12.29:278][ 10]2024.08.29_22.12.29: [CCA_ASABot_C_2147186023] Loading INI Settings
+[2024.08.29-22.12.29:290][ 10]2024.08.29_22.12.29: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.08.29-22.13.17:758][ 26]2024.08.29_22.13.17: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.08.29-22.13.17:762][ 26]2024.08.29_22.13.17: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.08.29-22.13.17:774][ 26]2024.08.29_22.13.17: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.08.29-22.13.17:785][ 26]2024.08.29_22.13.17: [WBUI] [CCA] [Request] Sending request to: https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json
+[2024.08.29-22.13.17:903][ 30]2024.08.29_22.13.17: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.08.29-22.13.17:906][ 30]2024.08.29_22.13.17: [WBUI] [CCA]  Updated Settings
+[2024.08.29-22.13.45:939][825]2024.08.29_22.13.45: Peachy Queen993 [UniqueNetId:0002c505977d4cc0a6244607c86aa7e3 Platform:None] joined this ARK!
+[2024.08.29-22.13.54:608][ 85]2024.08.29_22.13.54: Tribe Tribe of Human, ID 1041603382: Day 4, 16:34:04: <RichColor Color="0, 1, 1, 1">Human was added to the Tribe!</>)
+[2024.08.29-22.13.54:618][ 85]2024.08.29_22.13.54: Player Peachy Queen993 with ID 186958034 joined tribe Tribe of Human with ID 1041603382.
+[2024.08.29-22.14.12:744][623]2024.08.29_22.14.12: Tribe Tribe of Human, ID 1041603382: Day 4, 16:37:45: <RichColor Color="1, 0, 0, 1">Tribemember Human - Lvl 1 was killed by a Dilophosaur - Lvl 120!</>)
+[2024.08.29-22.14.12:751][623]2024.08.29_22.14.12: Human - Lvl 1 (Tribe of Human) was killed by a Dilophosaur - Lvl 120 ()!
+[2024.08.29-22.14.33:350][237]2024.08.29_22.14.33: chimera6259902 [UniqueNetId:00026825d8a64a5597a034520bf5e137 Platform:None] joined this ARK!
+[2024.08.29-22.14.37:491][360]2024.08.29_22.14.37: Tribe Tribe of Human, ID 1041603382: Day 4, 16:42:24: <RichColor Color="0, 1, 0, 1">Human Tamed a Pteranodon - Lvl 150 (Pteranodon)!</>)
+[2024.08.29-22.14.37:496][360]2024.08.29_22.14.37: Human of Tribe Tribe of Human Tamed a Pteranodon - Lvl 150 (Pteranodon)!
+[2024.08.29-22.14.37:509][360]2024.08.29_22.14.37: Tribe Tribe of Human, ID 1041603382: Day 4, 16:42:24: Human froze Pteranodon - Lvl 150 (Pteranodon))
+[2024.08.29-22.14.45:223][590]2024.08.29_22.14.45: Tribe Tribe of Human1, ID 1315687698: Day 4, 16:43:57: <RichColor Color="0, 1, 1, 1">Human was added to the Tribe!</>)
+[2024.08.29-22.14.45:226][590]2024.08.29_22.14.45: Player chimera6259902 with ID 617454475 joined tribe Tribe of Human1 with ID 1315687698.
+[2024.08.29-22.15.30:217][937]2024.08.29_22.15.30: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.08.29-22.16.23:376][513]2024.08.29_22.16.23: MonkeyWhisper [UniqueNetId:0002b1971bca45939cfb7acd896bb5ee Platform:None] joined this ARK!
+[2024.08.29-22.16.45:819][168]2024.08.29_22.16.45: Saving world...
+[2024.08.29-22.16.45:827][168]2024.08.29_22.16.45: World Save Complete. Took: 0.569592
+[2024.08.29-22.16.45:979][171]2024.08.29_22.16.45: Tribe Tribe of Rick Scott, ID 1362034138: Day 4, 17:07:26: <RichColor Color="0, 1, 1, 1">Rick Scott was added to the Tribe!</>)
+[2024.08.29-22.16.45:989][171]2024.08.29_22.16.45: Player MonkeyWhisper with ID 660263264 joined tribe Tribe of Rick Scott with ID 1362034138.
+[2024.08.29-22.17.06:557][765]2024.08.29_22.17.06: chimera6259902 [UniqueNetId:00026825d8a64a5597a034520bf5e137 Platform:None] left this ARK!
+[2024.08.29-22.17.10:111][870]2024.08.29_22.17.10: MonkeyWhisper (Rick Scott): Hey, sorry for restarting the server.
+[2024.08.29-22.17.29:325][444]2024.08.29_22.17.29: MonkeyWhisper (Rick Scott): I was not aware we actually had players playing. We are still setting things up.
+[2024.08.29-22.18.26:203][141]2024.08.29_22.18.26: Tribe Tribe of Human1, ID 1315687698: Day 4, 17:26:47: <RichColor Color="1, 0, 0, 1">Tribemember Human - Lvl 1 was killed by Human - Lvl 19-186958034 (Tribe of Human)!</>)
+[2024.08.29-22.18.26:211][141]2024.08.29_22.18.26: Tribe Tribe of Human, ID 1041603382: Day 4, 17:26:47: <RichColor Color="1, 0, 1, 1">Your Tribe killed Human - Lvl 1 (Tribe of Human1)!</>)
+[2024.08.29-22.18.26:221][141]2024.08.29_22.18.26: Human - Lvl 1 (Tribe of Human1) was killed by Human - Lvl 19 (Tribe of Human)! [KillerSID: 186958034]
+[2024.08.29-22.18.36:497][444]2024.08.29_22.18.36: Peachy Queen993 [UniqueNetId:0002c505977d4cc0a6244607c86aa7e3 Platform:None] left this ARK!
+[2024.08.29-22.19.44:798][489]2024.08.29_22.19.44: MonkeyWhisper [UniqueNetId:0002b1971bca45939cfb7acd896bb5ee Platform:None] left this ARK!
+[2024.08.29-22.19.49:780][638]2024.08.29_22.19.49: Tribe Tribe of Human, ID 1041603382: Day 4, 17:43:04: <RichColor Color="1, 0, 0, 1">Tribemember Human - Lvl 19 was killed!</>)
+[2024.08.29-22.19.49:781][638]2024.08.29_22.19.49: Human - Lvl 19 (Tribe of Human) was killed!
+[2024.08.29-22.21.45:838][102]2024.08.29_22.21.45: Saving world...
+[2024.08.29-22.21.45:848][102]2024.08.29_22.21.45: World Save Complete. Took: 0.566081
+[2024.08.29-22.24.27:061][936]2024.08.29_22.24.27: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.08.29-22.26.45:862][ 27]2024.08.29_22.26.45: Saving world...
+[2024.08.29-22.26.45:876][ 27]2024.08.29_22.26.45: World Save Complete. Took: 0.578645
+[2024.08.29-22.27.24:567][187]2024.08.29_22.27.24: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.08.29-22.27.24:574][187]2024.08.29_22.27.24: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.08.29-22.27.24:585][187]2024.08.29_22.27.24: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.08.29-22.28.37:819][384]2024.08.29_22.28.37: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.08.29-22.28.37:825][384]2024.08.29_22.28.37: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.08.29-22.28.37:836][384]2024.08.29_22.28.37: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.08.29-22.31.45:846][  5]2024.08.29_22.31.45: Saving world...
+[2024.08.29-22.31.45:859][  5]2024.08.29_22.31.45: World Save Complete. Took: 0.553822
+[2024.08.29-22.36.45:889][983]2024.08.29_22.36.45: Saving world...
+[2024.08.29-22.36.45:900][983]2024.08.29_22.36.45: World Save Complete. Took: 0.578068
+[2024.08.29-22.40.52:090][360]2024.08.29_22.40.52: Tribe Tribe of Shwat, ID 1432275875: Day 5, 01:48:51: <RichColor Color="1, 0, 0, 1">Tribemember Shwat - Lvl 14 was killed!</>)
+[2024.08.29-22.40.52:092][360]2024.08.29_22.40.52: Shwat - Lvl 14 (Tribe of Shwat) was killed!
+[2024.08.29-22.41.20:626][208]2024.08.29_22.41.20: AdminCmd: GiveCreativeMode (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-22.41.45:915][948]2024.08.29_22.41.45: Saving world...
+[2024.08.29-22.41.45:926][948]2024.08.29_22.41.45: World Save Complete. Took: 0.570418
+[2024.08.29-22.41.55:114][224]2024.08.29_22.41.55: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.08.29-22.41.55:122][224]2024.08.29_22.41.55: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.08.29-22.41.55:134][224]2024.08.29_22.41.55: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.08.29-22.46.45:912][927]2024.08.29_22.46.45: Saving world...
+[2024.08.29-22.46.45:926][927]2024.08.29_22.46.45: World Save Complete. Took: 0.567832
+[2024.08.29-22.51.45:936][903]2024.08.29_22.51.45: Saving world...
+[2024.08.29-22.51.45:950][903]2024.08.29_22.51.45: World Save Complete. Took: 0.568890
+[2024.08.29-22.56.45:960][887]2024.08.29_22.56.45: Saving world...
+[2024.08.29-22.56.45:971][887]2024.08.29_22.56.45: World Save Complete. Took: 0.568925
+[2024.08.29-22.59.42:622][187]2024.08.29_22.59.42: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.08.29-22.59.42:630][187]2024.08.29_22.59.42: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.08.29-22.59.42:642][187]2024.08.29_22.59.42: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.08.29-23.01.38:166][648]2024.08.29_23.01.38: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.08.29-23.01.38:169][648]2024.08.29_23.01.38: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.08.29-23.01.38:180][648]2024.08.29_23.01.38: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.08.29-23.01.45:970][865]2024.08.29_23.01.45: Saving world...
+[2024.08.29-23.01.45:976][865]2024.08.29_23.01.45: World Save Complete. Took: 0.563152
+[2024.08.29-23.03.11:927][442]2024.08.29_23.03.11: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.08.29-23.03.11:938][442]2024.08.29_23.03.11: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.08.29-23.03.11:949][442]2024.08.29_23.03.11: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.08.29-23.04.40:016][ 83]2024.08.29_23.04.40: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.08.29-23.04.40:027][ 83]2024.08.29_23.04.40: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.08.29-23.04.40:038][ 83]2024.08.29_23.04.40: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.08.29-23.05.21:188][318]2024.08.29_23.05.21: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.08.29-23.05.21:196][318]2024.08.29_23.05.21: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.08.29-23.05.21:207][318]2024.08.29_23.05.21: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.08.29-23.06.18:093][ 24]2024.08.29_23.06.18: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.08.29-23.06.18:101][ 24]2024.08.29_23.06.18: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.08.29-23.06.18:113][ 24]2024.08.29_23.06.18: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.08.29-23.06.45:982][844]2024.08.29_23.06.45: Saving world...
+[2024.08.29-23.06.45:996][844]2024.08.29_23.06.45: World Save Complete. Took: 0.561107
+[2024.08.29-23.07.03:353][363]2024.08.29_23.07.03: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] left this ARK!
+[2024.08.29-23.07.16:841][767]2024.08.29_23.07.16: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] left this ARK!
+[2024.08.29-23.08.08:813][334]2024.08.29_23.08.08: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.08.29-23.08.52:360][626]2024.08.29_23.08.52: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] left this ARK!
+[2024.08.29-23.11.46:022][855]2024.08.29_23.11.46: Saving world...
+[2024.08.29-23.11.46:028][855]2024.08.29_23.11.46: World Save Complete. Took: 0.566606

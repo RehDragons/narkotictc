@@ -1,0 +1,353 @@
+﻿[2024.09.07-04.10.13:413][ 11]Log file open, 09/07/24 06:10:13
+[2024.09.07-04.10.13:413][ 11]2024.09.07_04.10.13: [CCA_ASABot_C_2147476376] Loading INI Settings
+[2024.09.07-04.10.13:430][ 11]2024.09.07_04.10.13: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.09.07-04.11.27:230][ 15]2024.09.07_04.11.27: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.09.07-04.11.27:238][ 15]2024.09.07_04.11.27: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.07-04.11.27:250][ 15]2024.09.07_04.11.27: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.07-04.11.27:262][ 15]2024.09.07_04.11.27: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.07-04.11.27:272][ 15]2024.09.07_04.11.27: [WBUI] [CCA]  Updated Settings
+[2024.09.07-04.11.52:045][704]2024.09.07_04.11.52: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.09.07-04.11.59:559][901]2024.09.07_04.11.59: MonkeyWhisper [UniqueNetId:0002b1971bca45939cfb7acd896bb5ee Platform:None] joined this ARK!
+[2024.09.07-04.12.01:132][946]2024.09.07_04.12.01: Dark--Animal [UniqueNetId:0002bd6d12f74c40abaa6c5346389739 Platform:None] joined this ARK!
+[2024.09.07-04.12.01:873][963]2024.09.07_04.12.01: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.09.07-04.12.13:607][233]2024.09.07_04.12.13: dustydumplins [UniqueNetId:00026355e5ab4989aabe283372c91fd0 Platform:None] joined this ARK!
+[2024.09.07-04.12.50:829][284]2024.09.07_04.12.50: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] joined this ARK!
+[2024.09.07-04.13.44:544][389]2024.09.07_04.13.44: Tribe Tribe of Mango, ID 1773629605: Day 28, 13:55:40: Banana froze H42 M39)
+[2024.09.07-04.14.01:383][751]2024.09.07_04.14.01: MrPenguin2212 [UniqueNetId:0002acf37cd14844ba16e8bac3628aa8 Platform:None] joined this ARK!
+[2024.09.07-04.14.54:448][792]2024.09.07_04.14.54: Saving world...
+[2024.09.07-04.14.54:458][792]2024.09.07_04.14.54: World Save Complete. Took: 0.646582
+[2024.09.07-04.15.07:317][ 82]2024.09.07_04.15.07: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] joined this ARK!
+[2024.09.07-04.15.37:801][710]2024.09.07_04.15.37: Tribe Shwat Team, ID 1482354014: Day 28, 14:40:43: RehDragon froze Reh Ride - Lvl 281 (Ravager))
+[2024.09.07-04.16.12:776][399]2024.09.07_04.16.12: Elisia [UniqueNetId:000267e4f0d84f05825d01a3fbc3287d Platform:None] joined this ARK!
+[2024.09.07-04.17.40:218][902]2024.09.07_04.17.40: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] joined this ARK!
+[2024.09.07-04.17.45:708][977]2024.09.07_04.17.45: Adolescent Ravager - Lvl 225 (Ravager) () was killed!
+[2024.09.07-04.18.50:208][819]2024.09.07_04.18.50: MartyrD0nk3y (Shwat): How does melee on tames look now? I increased it by 0.25 and the health by 0.15
+[2024.09.07-04.19.52:128][480]2024.09.07_04.19.52: Dark--Animal (Twitch): Looks ok to me
+[2024.09.07-04.19.54:540][501]2024.09.07_04.19.54: Saving world...
+[2024.09.07-04.19.54:572][501]2024.09.07_04.19.54: World Save Complete. Took: 0.726751
+[2024.09.07-04.21.01:880][337]2024.09.07_04.21.01: MartyrD0nk3y (Shwat): Test the mod cryo for me
+[2024.09.07-04.21.05:867][387]2024.09.07_04.21.05: MartyrD0nk3y (Shwat): should be 60 seconds
+[2024.09.07-04.21.19:494][571]2024.09.07_04.21.19: Tribe Tribe of Mango, ID 1773629605: Day 28, 16:56:57: Pineapple froze [P] Amara)
+[2024.09.07-04.21.24:236][635]2024.09.07_04.21.24: Tribe Shwat Team, ID 1482354014: Day 28, 16:58:52: RehDragon froze Reh Ride - Lvl 281 (Ravager))
+[2024.09.07-04.21.33:329][768]2024.09.07_04.21.33: Dark--Animal (Twitch): Yep
+[2024.09.07-04.21.39:584][862]2024.09.07_04.21.39: MartyrD0nk3y (Shwat): Nice
+[2024.09.07-04.21.48:868][990]2024.09.07_04.21.48: Tribe Tribe of Twitch, ID 1139608408: Day 28, 17:08:43: Twitch froze Bulbdog - Lvl 37 (Bulbdog))
+[2024.09.07-04.22.35:599][611]2024.09.07_04.22.35: Tribe HELLS ARMY, ID 1136584465: Day 28, 17:27:25: <RichColor Color="1, 0, 0, 1">Tribemember Lucifer - Lvl 105 was killed by Azaria - Lvl 105-523682463 (HELLS ARMY)!</>)
+[2024.09.07-04.22.35:602][611]2024.09.07_04.22.35: Tribe HELLS ARMY, ID 1136584465: Day 28, 17:27:25: <RichColor Color="1, 0, 1, 1">Your Tribe killed Lucifer - Lvl 105 (HELLS ARMY)!</>)
+[2024.09.07-04.22.35:612][611]2024.09.07_04.22.35: Lucifer - Lvl 105 (HELLS ARMY) was killed by Azaria - Lvl 105 (HELLS ARMY)! [KillerSID: 523682463]
+[2024.09.07-04.23.00:030][902]2024.09.07_04.23.00: Tribe NightNight, ID 1804260471: Day 28, 17:37:10: <RichColor Color="1, 0, 0, 1">Tribemember Red - Lvl 88 was killed!</>)
+[2024.09.07-04.23.00:036][902]2024.09.07_04.23.00: Red - Lvl 88 (NightNight) was killed!
+[2024.09.07-04.23.08:770][  1]2024.09.07_04.23.08: Tribe  Tamed a Baby Aberrant Otter - Lvl 190 (Aberrant Otter)!
+[2024.09.07-04.23.11:932][ 37]2024.09.07_04.23.11: KnightCantu [UniqueNetId:0002604be7b64286b865dbc46ee2f43a Platform:None] joined this ARK!
+[2024.09.07-04.24.10:629][632]2024.09.07_04.24.10: Tribe Shwat Team, ID 1482354014: Day 28, 18:04:38: <RichColor Color="1, 0, 0, 1">Your Spike jr - Lvl 354 (Bulbdog) was killed by a Ravager - Lvl 45!</>)
+[2024.09.07-04.24.10:638][632]2024.09.07_04.24.10: Spike jr - Lvl 354 (Bulbdog) (Shwat Team) was killed by a Ravager - Lvl 45 ()!
+[2024.09.07-04.24.34:517][912]2024.09.07_04.24.34: Tribe NightNight, ID 1804260471: Day 28, 18:14:10: <RichColor Color="0, 0, 1, 1">Red was promoted to a Tribe Admin by Cantu!</>)
+[2024.09.07-04.24.35:850][926]2024.09.07_04.24.35: Tribe Tribe of Magneto, ID 1857433100: Day 28, 18:14:42: <RichColor Color="0, 1, 1, 1">Magneto was added to the Tribe!</>)
+[2024.09.07-04.24.35:869][926]2024.09.07_04.24.35: Player TeA 2 Th3 BaG with ID 452853224 joined tribe Tribe of Magneto with ID 1857433100.
+[2024.09.07-04.24.47:409][ 55]2024.09.07_04.24.47: Dark--Animal [UniqueNetId:0002bd6d12f74c40abaa6c5346389739 Platform:None] left this ARK!
+[2024.09.07-04.24.54:574][124]2024.09.07_04.24.54: Saving world...
+[2024.09.07-04.24.55:050][124]2024.09.07_04.24.55: World Save Complete. Took: 1.188940
+[2024.09.07-04.25.10:369][279]2024.09.07_04.25.10: MrPenguin2212 [UniqueNetId:0002acf37cd14844ba16e8bac3628aa8 Platform:None] left this ARK!
+[2024.09.07-04.25.21:490][382]2024.09.07_04.25.21: Tribe NightNight, ID 1804260471: Day 28, 18:31:49: <RichColor Color="1, 0, 0, 1">Tribemember Cantu - Lvl 82 was killed!</>)
+[2024.09.07-04.25.21:503][382]2024.09.07_04.25.21: Cantu - Lvl 82 (NightNight) was killed!
+[2024.09.07-04.25.28:410][460]2024.09.07_04.25.28: Tribe Tribe of Magneto, ID 1857433100: Day 28, 18:34:37: <RichColor Color="1, 0, 0, 1">Tribemember Magneto - Lvl 1 was killed by a Ravager - Lvl 135!</>)
+[2024.09.07-04.25.28:431][460]2024.09.07_04.25.28: Magneto - Lvl 1 (Tribe of Magneto) was killed by a Ravager - Lvl 135 ()!
+[2024.09.07-04.25.31:319][494]2024.09.07_04.25.31: Tribe NightNight, ID 1804260471: Day 28, 18:35:45: <RichColor Color="1, 0, 0, 1">Tribemember Red - Lvl 88 was killed!</>)
+[2024.09.07-04.25.31:334][494]2024.09.07_04.25.31: Red - Lvl 88 (NightNight) was killed!
+[2024.09.07-04.25.51:940][731]2024.09.07_04.25.51: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] left this ARK!
+[2024.09.07-04.26.27:482][163]2024.09.07_04.26.27: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] joined this ARK!
+[2024.09.07-04.26.59:753][500]2024.09.07_04.26.59: Tribe NightNight, ID 1804260471: Day 28, 19:10:35: <RichColor Color="1, 0, 0, 1">Tribemember Cantu - Lvl 82 was killed!</>)
+[2024.09.07-04.26.59:755][500]2024.09.07_04.26.59: Cantu - Lvl 82 (NightNight) was killed!
+[2024.09.07-04.27.12:298][649]2024.09.07_04.27.12: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-04.27.18:296][693]2024.09.07_04.27.18: Tribe NightNight, ID 1804260471: Day 28, 19:17:37: <RichColor Color="1, 0, 0, 1">Tribemember Red - Lvl 88 was killed!</>)
+[2024.09.07-04.27.18:310][693]2024.09.07_04.27.18: Red - Lvl 88 (NightNight) was killed!
+[2024.09.07-04.27.19:800][710]2024.09.07_04.27.19: DiggityDankDabz [UniqueNetId:0002d900478044c38e207a71981c97c4 Platform:None] joined this ARK!
+[2024.09.07-04.27.22:926][740]2024.09.07_04.27.22: Tribe Shwat Team, ID 1482354014: Day 28, 19:19:29: Rick Scott froze Cosmo - Lvl 256 (Cosmo))
+[2024.09.07-04.29.54:593][351]2024.09.07_04.29.54: Saving world...
+[2024.09.07-04.29.54:612][351]2024.09.07_04.29.54: World Save Complete. Took: 0.724079
+[2024.09.07-04.30.43:483][885]2024.09.07_04.30.43: Tribe NightNight, ID 1804260471: Day 28, 20:38:59: <RichColor Color="1, 0, 0, 1">Tribemember Cantu - Lvl 82 was killed by a Ravager - Lvl 60!</>)
+[2024.09.07-04.30.43:494][885]2024.09.07_04.30.43: Cantu - Lvl 82 (NightNight) was killed by a Ravager - Lvl 60 ()!
+[2024.09.07-04.31.28:127][535]2024.09.07_04.31.28: Tribe Tribe of Mango, ID 1773629605: Day 28, 20:56:39: Diggs froze Diggs)
+[2024.09.07-04.31.31:246][583]2024.09.07_04.31.31: Tribe Tribe of Mango, ID 1773629605: Day 28, 20:57:54: Diggs froze Diggs)
+[2024.09.07-04.32.40:625][695]2024.09.07_04.32.40: Tribe Tribe of Mango, ID 1773629605: Day 28, 21:25:38: <RichColor Color="0, 1, 0, 1">Banana Tamed a Bulbdog - Lvl 300 (Bulbdog)!</>)
+[2024.09.07-04.32.40:644][695]2024.09.07_04.32.40: Banana of Tribe Tribe of Mango Tamed a Bulbdog - Lvl 300 (Bulbdog)!
+[2024.09.07-04.32.40:657][695]2024.09.07_04.32.40: Tribe Tribe of Mango, ID 1773629605: Day 28, 21:25:38: Banana froze Bulbdog - Lvl 300 (Bulbdog))
+[2024.09.07-04.33.11:600][199]2024.09.07_04.33.11: Tribe  Tamed a Baby Aberrant Baryonyx - Lvl 201 (Aberrant Baryonyx)!
+[2024.09.07-04.33.12:304][209]2024.09.07_04.33.12: Tribe  Tamed a Baby Aberrant Baryonyx - Lvl 201 (Aberrant Baryonyx)!
+[2024.09.07-04.33.13:001][220]2024.09.07_04.33.13: Tribe  Tamed a Baby Aberrant Baryonyx - Lvl 201 (Aberrant Baryonyx)!
+[2024.09.07-04.33.14:973][250]2024.09.07_04.33.14: Tribe Tribe of Mango, ID 1773629605: Day 28, 21:39:24: <RichColor Color="1, 0, 1, 1">Diggs claimed 'Baby Aberrant Baryonyx - Lvl 201 (Aberrant Baryonyx)'!</>)
+[2024.09.07-04.33.16:954][277]2024.09.07_04.33.16: Tribe Tribe of Mango, ID 1773629605: Day 28, 21:40:11: <RichColor Color="1, 0, 1, 1">Diggs claimed 'Baby Aberrant Baryonyx - Lvl 201 (Aberrant Baryonyx)'!</>)
+[2024.09.07-04.33.19:120][310]2024.09.07_04.33.19: Tribe Tribe of Mango, ID 1773629605: Day 28, 21:41:03: <RichColor Color="1, 0, 1, 1">Diggs claimed 'Baby Aberrant Baryonyx - Lvl 201 (Aberrant Baryonyx)'!</>)
+[2024.09.07-04.33.42:748][699]2024.09.07_04.33.42: Tribe NightNight, ID 1804260471: Day 28, 21:50:31: <RichColor Color="0, 1, 0, 1">Red Tamed a Juvenile Aberrant Megalosaurus - Lvl 100 (Aberrant Megalosaurus)!</>)
+[2024.09.07-04.33.42:767][699]2024.09.07_04.33.42: Red of Tribe NightNight Tamed a Juvenile Aberrant Megalosaurus - Lvl 100 (Aberrant Megalosaurus)!
+[2024.09.07-04.33.47:122][766]2024.09.07_04.33.47: Tribe NightNight, ID 1804260471: Day 28, 21:52:15: <RichColor Color="0, 1, 1, 1">Tribe of Magneto tribe was merged in by Magneto!</>)
+[2024.09.07-04.33.47:164][766]2024.09.07_04.33.47: Tribe Tribe of Magneto, ID 1857433100: Day 28, 21:52:15: <RichColor Color="1, 1, 0, 1">Magneto was removed from the Tribe!</>)
+[2024.09.07-04.33.47:173][766]2024.09.07_04.33.47: Player Magneto with ID 452853224 removed from tribe Tribe of Magneto with ID 1857433100.
+[2024.09.07-04.33.47:221][766]2024.09.07_04.33.47: Tribe NightNight, ID 1804260471: Day 28, 21:52:15: <RichColor Color="0, 1, 1, 1">Magneto was added to the Tribe by Cantu!</>)
+[2024.09.07-04.33.47:230][766]2024.09.07_04.33.47: Player Magneto with ID 452853224 joined tribe NightNight with ID 1804260471 Invited by Player Cantu with ID 495644933.
+[2024.09.07-04.33.58:519][949]2024.09.07_04.33.58: Tribe NightNight, ID 1804260471: Day 28, 21:56:50: <RichColor Color="1, 0, 0, 1">Tribemember Magneto - Lvl 7 was killed by Cantu - Lvl 82-495644933 (NightNight)!</>)
+[2024.09.07-04.33.58:525][949]2024.09.07_04.33.58: Tribe NightNight, ID 1804260471: Day 28, 21:56:50: <RichColor Color="1, 0, 1, 1">Your Tribe killed Magneto - Lvl 7 (NightNight)!</>)
+[2024.09.07-04.33.58:536][949]2024.09.07_04.33.58: Magneto - Lvl 7 (NightNight) was killed by Cantu - Lvl 82 (NightNight)! [KillerSID: 495644933]
+[2024.09.07-04.34.54:605][679]2024.09.07_04.34.54: Saving world...
+[2024.09.07-04.34.54:621][679]2024.09.07_04.34.54: World Save Complete. Took: 0.686650
+[2024.09.07-04.35.44:501][292]2024.09.07_04.35.44: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] left this ARK!
+[2024.09.07-04.36.15:242][656]2024.09.07_04.36.15: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] joined this ARK!
+[2024.09.07-04.36.16:977][673]2024.09.07_04.36.16: Tribe NightNight, ID 1804260471: Day 28, 22:51:22: <RichColor Color="1, 0, 0, 1">Tribemember Cantu - Lvl 82 was killed!</>)
+[2024.09.07-04.36.17:038][673]2024.09.07_04.36.17: Cantu - Lvl 82 (NightNight) was killed! [KillerSID: 495644933]
+[2024.09.07-04.37.21:902][511]2024.09.07_04.37.21: Tribe NightNight, ID 1804260471: Day 28, 23:16:37: <RichColor Color="0, 1, 0, 1">Red Tamed an Aberrant Dung Beetle - Lvl 201 (Aberrant Dung Beetle)!</>)
+[2024.09.07-04.37.21:969][511]2024.09.07_04.37.21: Red of Tribe NightNight Tamed an Aberrant Dung Beetle - Lvl 201 (Aberrant Dung Beetle)!
+[2024.09.07-04.38.19:450][522]2024.09.07_04.38.19: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] left this ARK!
+[2024.09.07-04.38.35:349][782]2024.09.07_04.38.35: Tribe NightNight, ID 1804260471: Day 28, 23:46:11: <RichColor Color="1, 0, 0, 1">Tribemember Magneto - Lvl 9 was killed!</>)
+[2024.09.07-04.38.35:353][782]2024.09.07_04.38.35: Magneto - Lvl 9 (NightNight) was killed!
+[2024.09.07-04.38.39:658][854]2024.09.07_04.38.39: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.09.07-04.38.47:447][961]2024.09.07_04.38.47: RF GHOST A [UniqueNetId:0002412dd61a46de887572b31ef37825 Platform:None] joined this ARK!
+[2024.09.07-04.39.05:129][194]2024.09.07_04.39.05: Tribe Tribe of Nancy, ID 1698688316: Day 28, 23:57:55: <RichColor Color="0, 1, 1, 1">Nancy was added to the Tribe!</>)
+[2024.09.07-04.39.05:133][194]2024.09.07_04.39.05: Player RF GHOST A with ID 668867350 joined tribe Tribe of Nancy with ID 1698688316.
+[2024.09.07-04.39.16:537][334]2024.09.07_04.39.16: Tribe Shwat Team, ID 1482354014: Day 29, 00:02:28: Shwat froze Queen Emma - Lvl 286 (Ravager))
+[2024.09.07-04.39.54:638][739]2024.09.07_04.39.54: Saving world...
+[2024.09.07-04.39.54:646][739]2024.09.07_04.39.54: World Save Complete. Took: 0.687696
+[2024.09.07-04.40.19:106][ 49]2024.09.07_04.40.19: Tribe Shwat Team, ID 1482354014: Day 29, 00:27:04: <RichColor Color="1, 0, 1, 1">Your Tribe killed Ravager - Lvl 227 (Ravager)!</>)
+[2024.09.07-04.40.19:109][ 49]2024.09.07_04.40.19: Ravager - Lvl 227 (Ravager) () was killed by Shwat - Lvl 100-859484274 (Shwat Team)! [KillerSID: 859484274]
+[2024.09.07-04.42.40:438][787]2024.09.07_04.42.40: Tribe Shwat Team, ID 1482354014: Day 29, 01:23:35: RehDragon froze Ravager - Lvl 271 (Ravager))
+[2024.09.07-04.44.01:533][762]2024.09.07_04.44.01: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] left this ARK!
+[2024.09.07-04.44.07:419][824]2024.09.07_04.44.07: Tribe NightNight, ID 1804260471: Day 29, 01:58:22: <RichColor Color="0, 1, 0, 1">Cantu Tamed a Featherlight - Lvl 59 (Featherlight)!</>)
+[2024.09.07-04.44.07:431][824]2024.09.07_04.44.07: Cantu of Tribe NightNight Tamed a Featherlight - Lvl 59 (Featherlight)!
+[2024.09.07-04.44.12:209][885]2024.09.07_04.44.12: MonkeyWhisper (Rick Scott): 42.4 33.8 - about 10 ravagers tamed dinos we don't need, all unclaimed. Feel free to grab. Levels 240ish.
+[2024.09.07-04.44.19:214][970]2024.09.07_04.44.19: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.09.07-04.44.54:736][310]2024.09.07_04.44.54: Saving world...
+[2024.09.07-04.44.54:748][310]2024.09.07_04.44.54: World Save Complete. Took: 0.695144
+[2024.09.07-04.49.10:347][170]2024.09.07_04.49.10: Tribe Tribe of Nancy, ID 1698688316: Day 29, 03:58:23: <RichColor Color="1, 0, 0, 1">Tribemember Nancy - Lvl 66 was killed!</>)
+[2024.09.07-04.49.10:354][170]2024.09.07_04.49.10: Nancy - Lvl 66 (Tribe of Nancy) was killed!
+[2024.09.07-04.49.54:817][578]2024.09.07_04.49.54: Saving world...
+[2024.09.07-04.49.54:829][578]2024.09.07_04.49.54: World Save Complete. Took: 0.727417
+[2024.09.07-04.51.50:087][758]2024.09.07_04.51.50: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] left this ARK!
+[2024.09.07-04.52.31:788][146]2024.09.07_04.52.31: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] joined this ARK!
+[2024.09.07-04.52.49:798][287]2024.09.07_04.52.49: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] left this ARK!
+[2024.09.07-04.53.17:881][522]2024.09.07_04.53.17: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] joined this ARK!
+[2024.09.07-04.54.54:905][449]2024.09.07_04.54.54: Saving world...
+[2024.09.07-04.54.54:914][449]2024.09.07_04.54.54: World Save Complete. Took: 0.753511
+[2024.09.07-04.55.12:689][642]2024.09.07_04.55.12: Tribe Tribe of Nancy, ID 1698688316: Day 29, 06:22:11: <RichColor Color="1, 0, 0, 1">Tribemember Nancy - Lvl 66 was killed by a Yi Ling - Lvl 120!</>)
+[2024.09.07-04.55.12:691][642]2024.09.07_04.55.12: Nancy - Lvl 66 (Tribe of Nancy) was killed by a Yi Ling - Lvl 120 ()!
+[2024.09.07-04.55.56:283][127]2024.09.07_04.55.56: Tribe  Tamed a Baby Aberrant Megalosaurus - Lvl 177 (Aberrant Megalosaurus)!
+[2024.09.07-04.56.07:719][230]2024.09.07_04.56.07: Tribe Tribe of Mango, ID 1773629605: Day 29, 06:44:09: <RichColor Color="1, 0, 1, 1">Diggs claimed 'Baby Aberrant Megalosaurus - Lvl 177 (Aberrant Megalosaurus)'!</>)
+[2024.09.07-04.59.55:067][681]2024.09.07_04.59.55: Saving world...
+[2024.09.07-04.59.55:081][681]2024.09.07_04.59.55: World Save Complete. Took: 0.879395
+[2024.09.07-05.00.13:505][889]2024.09.07_05.00.13: Tribe Tribe of Mango, ID 1773629605: Day 29, 08:20:45: Diggs froze BNAN 125)
+[2024.09.07-05.01.01:008][440]2024.09.07_05.01.01: Tribe Shwat Team, ID 1482354014: Day 29, 08:39:46: Shwat froze Queen Emma - Lvl 287 (Ravager))
+[2024.09.07-05.01.53:729][ 95]2024.09.07_05.01.53: Tribe  Tamed a Baby Aberrant Beelzebufo - Lvl 176 (Aberrant Beelzebufo)!
+[2024.09.07-05.01.55:957][125]2024.09.07_05.01.55: Tribe Tribe of Mango, ID 1773629605: Day 29, 09:01:44: <RichColor Color="1, 0, 1, 1">Diggs claimed 'Baby Aberrant Beelzebufo - Lvl 176 (Aberrant Beelzebufo)'!</>)
+[2024.09.07-05.04.55:050][272]2024.09.07_05.04.55: Saving world...
+[2024.09.07-05.04.55:060][272]2024.09.07_05.04.55: World Save Complete. Took: 0.851643
+[2024.09.07-05.05.35:658][819]2024.09.07_05.05.35: Tribe NightNight, ID 1804260471: Day 29, 10:29:26: <RichColor Color="1, 1, 0, 1">Cantu demolished a 'Metal Foundation'!</>)
+[2024.09.07-05.08.09:721][ 69]2024.09.07_05.08.09: Tribe NightNight, ID 1804260471: Day 29, 11:31:03: <RichColor Color="0, 1, 0, 1">Cantu Tamed a Baby Ravager - Lvl 135 (Ravager)!</>)
+[2024.09.07-05.08.09:729][ 69]2024.09.07_05.08.09: Cantu of Tribe NightNight Tamed a Baby Ravager - Lvl 135 (Ravager)!
+[2024.09.07-05.08.24:864][269]2024.09.07_05.08.24: RF GHOST A [UniqueNetId:0002412dd61a46de887572b31ef37825 Platform:None] left this ARK!
+[2024.09.07-05.09.55:083][393]2024.09.07_05.09.55: Saving world...
+[2024.09.07-05.09.55:093][393]2024.09.07_05.09.55: World Save Complete. Took: 0.845684
+[2024.09.07-05.10.23:349][736]2024.09.07_05.10.23: Tribe NightNight, ID 1804260471: Day 29, 12:24:21: <RichColor Color="1, 0, 0, 1">Your Baby Ravager - Lvl 135 (Ravager) was killed by a Ravager - Lvl 140!</>)
+[2024.09.07-05.10.23:351][736]2024.09.07_05.10.23: Baby Ravager - Lvl 135 (Ravager) (NightNight) was killed by a Ravager - Lvl 140 ()!
+[2024.09.07-05.13.01:679][916]2024.09.07_05.13.01: Tribe  Tamed a Baby Ravager - Lvl 225 (Ravager)!
+[2024.09.07-05.13.02:787][930]2024.09.07_05.13.02: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.07-05.13.42:734][508]2024.09.07_05.13.42: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] joined this ARK!
+[2024.09.07-05.13.54:729][687]2024.09.07_05.13.54: BIGFOOT [UniqueNetId:00021acbaf094a78ab15ec9c1732d4d0 Platform:None] joined this ARK!
+[2024.09.07-05.13.58:376][719]2024.09.07_05.13.58: Tribe NightNight, ID 1804260471: Day 29, 13:49:32: <RichColor Color="0, 1, 0, 1">Magneto Tamed a Bulbdog - Lvl 300 (Bulbdog)!</>)
+[2024.09.07-05.13.58:380][719]2024.09.07_05.13.58: Magneto of Tribe NightNight Tamed a Bulbdog - Lvl 300 (Bulbdog)!
+[2024.09.07-05.13.58:392][719]2024.09.07_05.13.58: Tribe NightNight, ID 1804260471: Day 29, 13:49:32: Magneto froze Bulbdog - Lvl 300 (Bulbdog))
+[2024.09.07-05.14.02:532][763]2024.09.07_05.14.02: Tribe Tribe of Mango, ID 1773629605: Day 29, 13:51:15: <RichColor Color="1, 0, 0, 1">Tribemember Mango - Lvl 105 was killed!</>)
+[2024.09.07-05.14.02:537][763]2024.09.07_05.14.02: Mango - Lvl 105 (Tribe of Mango) was killed!
+[2024.09.07-05.14.40:465][308]2024.09.07_05.14.40: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] left this ARK!
+[2024.09.07-05.14.55:084][527]2024.09.07_05.14.55: Saving world...
+[2024.09.07-05.14.55:095][527]2024.09.07_05.14.55: World Save Complete. Took: 0.824549
+[2024.09.07-05.15.25:758][964]2024.09.07_05.15.25: Tribe NightNight, ID 1804260471: Day 29, 14:24:08: <RichColor Color="0, 1, 0, 1">Cantu Tamed a Ravager - Lvl 142 (Ravager)!</>)
+[2024.09.07-05.15.25:759][964]2024.09.07_05.15.25: Cantu of Tribe NightNight Tamed a Ravager - Lvl 142 (Ravager)!
+[2024.09.07-05.15.34:640][ 68]2024.09.07_05.15.34: Tribe NightNight, ID 1804260471: Day 29, 14:27:41: <RichColor Color="1, 0, 0, 1">Tribemember Red - Lvl 96 was killed!</>)
+[2024.09.07-05.15.34:647][ 68]2024.09.07_05.15.34: Red - Lvl 96 (NightNight) was killed!
+[2024.09.07-05.17.54:666][692]2024.09.07_05.17.54: Tribe Tribe of Mango, ID 1773629605: Day 29, 15:23:29: Diggs froze Diggs - Lvl 202 (Aberrant Baryonyx))
+[2024.09.07-05.18.15:033][933]2024.09.07_05.18.15: Tribe NightNight, ID 1804260471: Day 29, 15:31:38: <RichColor Color="0, 1, 0, 1">Cantu Tamed a Ravager - Lvl 181 (Ravager)!</>)
+[2024.09.07-05.18.15:044][933]2024.09.07_05.18.15: Cantu of Tribe NightNight Tamed a Ravager - Lvl 181 (Ravager)!
+[2024.09.07-05.18.36:734][185]2024.09.07_05.18.36: Tribe NightNight, ID 1804260471: Day 29, 15:40:18: <RichColor Color="0, 1, 0, 1">Red Tamed a Juvenile Ravager - Lvl 125 (Ravager)!</>)
+[2024.09.07-05.18.36:741][185]2024.09.07_05.18.36: Red of Tribe NightNight Tamed a Juvenile Ravager - Lvl 125 (Ravager)!
+[2024.09.07-05.19.00:093][478]2024.09.07_05.19.00: Tribe NightNight, ID 1804260471: Day 29, 15:49:37: <RichColor Color="0, 1, 0, 1">Red Tamed a Bulbdog - Lvl 300 (Bulbdog)!</>)
+[2024.09.07-05.19.00:097][478]2024.09.07_05.19.00: Red of Tribe NightNight Tamed a Bulbdog - Lvl 300 (Bulbdog)!
+[2024.09.07-05.19.00:110][478]2024.09.07_05.19.00: Tribe NightNight, ID 1804260471: Day 29, 15:49:37: Red froze Bulbdog - Lvl 300 (Bulbdog))
+[2024.09.07-05.19.22:448][736]2024.09.07_05.19.22: Tribe NightNight, ID 1804260471: Day 29, 15:58:37: Red froze Juvenile Ravager - Lvl 125 (Ravager))
+[2024.09.07-05.19.55:212][112]2024.09.07_05.19.55: Saving world...
+[2024.09.07-05.19.55:229][112]2024.09.07_05.19.55: World Save Complete. Took: 0.893068
+[2024.09.07-05.20.28:751][484]2024.09.07_05.20.28: Tribe Tribe of Mango, ID 1773629605: Day 29, 16:24:54: Banana froze BNAN)
+[2024.09.07-05.20.42:542][599]2024.09.07_05.20.42: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-05.20.54:476][719]2024.09.07_05.20.54: Tribe Shwat Team, ID 1482354014: Day 29, 16:35:12: RehDragon froze Ravager - Lvl 286 (Ravager))
+[2024.09.07-05.20.54:820][723]2024.09.07_05.20.54: Tribe Shwat Team, ID 1482354014: Day 29, 16:35:21: Shwat froze Queen Emma - Lvl 288 (Ravager))
+[2024.09.07-05.21.07:203][868]2024.09.07_05.21.07: Tribe Shwat Team, ID 1482354014: Day 29, 16:40:18: Rick Scott froze Queen Alice - Lvl 289 (Ravager))
+[2024.09.07-05.21.43:886][276]2024.09.07_05.21.43: Tribe Shwat Team, ID 1482354014: Day 29, 16:54:58: Rick Scott froze Jeffrey - Lvl 351 (Bulbdog))
+[2024.09.07-05.22.09:038][581]2024.09.07_05.22.09: Tribe Tribe of Mango, ID 1773629605: Day 29, 17:05:03: Banana froze BNAN - Lvl 374 (Ankylosaurus))
+[2024.09.07-05.22.53:153][ 65]2024.09.07_05.22.53: Tribe Shwat Team, ID 1482354014: Day 29, 17:22:42: <RichColor Color="1, 0, 0, 1">Tribemember Rick Scott - Lvl 102 was killed by an Aberrant Megalosaurus - Lvl 120!</>)
+[2024.09.07-05.22.53:161][ 65]2024.09.07_05.22.53: Rick Scott - Lvl 102 (Shwat Team) was killed by an Aberrant Megalosaurus - Lvl 120 ()!
+[2024.09.07-05.23.24:071][386]2024.09.07_05.23.24: Tribe Shwat Team, ID 1482354014: Day 29, 17:35:02: RehDragon froze Ravager - Lvl 286 (Ravager))
+[2024.09.07-05.23.32:263][452]2024.09.07_05.23.32: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] joined this ARK!
+[2024.09.07-05.23.32:937][454]2024.09.07_05.23.32: Tribe Shwat Team, ID 1482354014: Day 29, 17:38:07: <RichColor Color="1, 0, 0, 1">Your Cosmo - Lvl 256 (Cosmo) was killed by a Nameless - Lvl 35!</>)
+[2024.09.07-05.23.32:948][454]2024.09.07_05.23.32: Cosmo - Lvl 256 (Cosmo) () was killed by a Nameless - Lvl 35 ()!
+[2024.09.07-05.23.44:948][570]2024.09.07_05.23.44: Tribe Tribe of Mango, ID 1773629605: Day 29, 17:42:56: <RichColor Color="1, 0, 0, 1">Tribemember Mango - Lvl 105 was killed!</>)
+[2024.09.07-05.23.44:957][570]2024.09.07_05.23.44: Mango - Lvl 105 (Tribe of Mango) was killed!
+[2024.09.07-05.24.21:577][893]2024.09.07_05.24.21: Tribe NightNight, ID 1804260471: Day 29, 17:57:10: Magneto froze Ravager - Lvl 142 (Ravager))
+[2024.09.07-05.24.55:123][175]2024.09.07_05.24.55: Saving world...
+[2024.09.07-05.24.55:133][175]2024.09.07_05.24.55: World Save Complete. Took: 0.711691
+[2024.09.07-05.25.51:444][675]2024.09.07_05.25.51: Tribe  Tamed a Baby Aberrant Otter - Lvl 183 (Aberrant Otter)!
+[2024.09.07-05.26.35:922][ 76]2024.09.07_05.26.35: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] left this ARK!
+[2024.09.07-05.26.59:031][301]2024.09.07_05.26.59: Tribe Shwat Team, ID 1482354014: Day 29, 18:59:59: Shwat froze Queen Emma - Lvl 288 (Ravager))
+[2024.09.07-05.27.10:857][405]2024.09.07_05.27.10: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] joined this ARK!
+[2024.09.07-05.27.27:779][540]2024.09.07_05.27.27: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] left this ARK!
+[2024.09.07-05.27.57:376][767]2024.09.07_05.27.57: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] joined this ARK!
+[2024.09.07-05.28.58:286][316]2024.09.07_05.28.58: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-05.29.55:149][808]2024.09.07_05.29.55: Saving world...
+[2024.09.07-05.29.55:156][808]2024.09.07_05.29.55: World Save Complete. Took: 0.697196
+[2024.09.07-05.30.45:569][170]2024.09.07_05.30.45: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] left this ARK!
+[2024.09.07-05.30.55:573][240]2024.09.07_05.30.55: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] joined this ARK!
+[2024.09.07-05.31.08:323][330]2024.09.07_05.31.08: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] left this ARK!
+[2024.09.07-05.31.37:679][571]2024.09.07_05.31.37: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] joined this ARK!
+[2024.09.07-05.32.49:541][ 73]2024.09.07_05.32.49: Tribe NightNight, ID 1804260471: Day 29, 21:16:06: <RichColor Color="1, 0, 0, 1">Your Ravager - Lvl 214 (Ravager) was killed!</>)
+[2024.09.07-05.32.49:549][ 73]2024.09.07_05.32.49: Ravager - Lvl 214 (Ravager) (NightNight) was killed!
+[2024.09.07-05.33.08:727][198]2024.09.07_05.33.08: xRALOWx [UniqueNetId:00025b17669048f4808e60a3d7c63d51 Platform:None] joined this ARK!
+[2024.09.07-05.33.45:913][494]2024.09.07_05.33.45: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 29, 21:37:06: <RichColor Color="0, 1, 1, 1">CHAMUKO 1 was added to the Tribe!</>)
+[2024.09.07-05.33.45:918][494]2024.09.07_05.33.45: Player xRALOWx with ID 302217862 joined tribe Tribe of CHAMUKO 1 with ID 1317458638.
+[2024.09.07-05.33.49:391][523]2024.09.07_05.33.49: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] left this ARK!
+[2024.09.07-05.33.59:124][609]2024.09.07_05.33.59: Tribe Tribe of Mango, ID 1773629605: Day 29, 21:42:25: <RichColor Color="0, 1, 0, 1">Pineapple Tamed an Aberrant Parasaur - Lvl 202 (Aberrant Parasaur)!</>)
+[2024.09.07-05.33.59:126][609]2024.09.07_05.33.59: Pineapple of Tribe Tribe of Mango Tamed an Aberrant Parasaur - Lvl 202 (Aberrant Parasaur)!
+[2024.09.07-05.34.01:238][629]2024.09.07_05.34.01: Tribe Tribe of Mango, ID 1773629605: Day 29, 21:43:14: Pineapple froze Aberrant Parasaur)
+[2024.09.07-05.34.14:875][745]2024.09.07_05.34.14: MrPenguin2212 [UniqueNetId:0002acf37cd14844ba16e8bac3628aa8 Platform:None] joined this ARK!
+[2024.09.07-05.34.15:394][747]2024.09.07_05.34.15: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] joined this ARK!
+[2024.09.07-05.34.26:537][819]2024.09.07_05.34.26: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] left this ARK!
+[2024.09.07-05.34.52:298][ 11]2024.09.07_05.34.52: Tribe Tribe of Rhys, ID 1499893006: Day 29, 22:03:20: <RichColor Color="1, 0, 0, 1">Tribemember Rhys - Lvl 21 was killed by a Ravager - Lvl 85!</>)
+[2024.09.07-05.34.52:308][ 11]2024.09.07_05.34.52: Rhys - Lvl 21 (Tribe of Rhys) was killed by a Ravager - Lvl 85 ()!
+[2024.09.07-05.34.55:242][ 29]2024.09.07_05.34.55: Saving world...
+[2024.09.07-05.34.55:251][ 29]2024.09.07_05.34.55: World Save Complete. Took: 0.717331
+[2024.09.07-05.35.01:620][ 80]2024.09.07_05.35.01: xRALOWx [UniqueNetId:00025b17669048f4808e60a3d7c63d51 Platform:None] left this ARK!
+[2024.09.07-05.35.07:662][124]2024.09.07_05.35.07: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] joined this ARK!
+[2024.09.07-05.35.38:459][325]2024.09.07_05.35.38: xRALOWx [UniqueNetId:00025b17669048f4808e60a3d7c63d51 Platform:None] joined this ARK!
+[2024.09.07-05.35.43:333][351]2024.09.07_05.35.43: KnightCantu [UniqueNetId:0002604be7b64286b865dbc46ee2f43a Platform:None] left this ARK!
+[2024.09.07-05.36.14:022][587]2024.09.07_05.36.14: Tribe NightNight, ID 1804260471: Day 29, 22:33:46: <RichColor Color="1, 0, 0, 1">Your Bulbdog - Lvl 302 (Bulbdog) was killed!</>)
+[2024.09.07-05.36.14:025][587]2024.09.07_05.36.14: Bulbdog - Lvl 302 (Bulbdog) (NightNight) was killed!
+[2024.09.07-05.37.04:398][ 24]2024.09.07_05.37.04: Tribe Tribe of Mango, ID 1773629605: Day 29, 22:53:55: <RichColor Color="1, 0, 0, 1">Your 'Simple Bed' was destroyed!</>)
+[2024.09.07-05.37.04:401][ 24]2024.09.07_05.37.04: Tribe Tribe of Mango, ID 1773629605: Day 29, 22:53:55: <RichColor Color="1, 0, 0, 1">Your 'Simple Bed' was destroyed!</>)
+[2024.09.07-05.37.23:305][195]2024.09.07_05.37.23: TeA 2 Th3 BaG [UniqueNetId:0002346d22ca446ea37bc83f8e18125b Platform:None] left this ARK!
+[2024.09.07-05.37.34:900][288]2024.09.07_05.37.34: xRALOWx [UniqueNetId:00025b17669048f4808e60a3d7c63d51 Platform:None] left this ARK!
+[2024.09.07-05.37.36:048][298]2024.09.07_05.37.36: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 29, 23:06:25: <RichColor Color="1, 0, 0, 1">Tribemember CHAMUKO 1 - Lvl 1 was killed by a Ravager - Lvl 85!</>)
+[2024.09.07-05.37.36:049][298]2024.09.07_05.37.36: CHAMUKO 1 - Lvl 1 (Tribe of CHAMUKO 1) was killed by a Ravager - Lvl 85 ()!
+[2024.09.07-05.37.55:308][484]2024.09.07_05.37.55: Tribe HELLS ARMY, ID 1136584465: Day 29, 23:14:06: <RichColor Color="1, 0, 0, 1">Tribemember Azaria - Lvl 105 was killed!</>)
+[2024.09.07-05.37.55:316][484]2024.09.07_05.37.55: Azaria - Lvl 105 (HELLS ARMY) was killed!
+[2024.09.07-05.38.23:400][771]2024.09.07_05.38.23: Tribe NightNight, ID 1804260471: Day 29, 23:25:12: <RichColor Color="0, 1, 0, 1">Red Tamed a Ravager - Lvl 209 (Ravager)!</>)
+[2024.09.07-05.38.23:401][771]2024.09.07_05.38.23: Red of Tribe NightNight Tamed a Ravager - Lvl 209 (Ravager)!
+[2024.09.07-05.38.56:235][129]2024.09.07_05.38.56: xRALOWx [UniqueNetId:00025b17669048f4808e60a3d7c63d51 Platform:None] joined this ARK!
+[2024.09.07-05.39.32:561][457]2024.09.07_05.39.32: Tribe NightNight, ID 1804260471: Day 29, 23:52:36: <RichColor Color="1, 0, 0, 1">Your Ravager - Lvl 182 (Ravager) was killed!</>)
+[2024.09.07-05.39.32:570][457]2024.09.07_05.39.32: Ravager - Lvl 182 (Ravager) (NightNight) was killed!
+[2024.09.07-05.39.55:280][667]2024.09.07_05.39.55: Saving world...
+[2024.09.07-05.39.55:294][667]2024.09.07_05.39.55: World Save Complete. Took: 0.705584
+[2024.09.07-05.40.09:815][808]2024.09.07_05.40.09: dustydumplins [UniqueNetId:00026355e5ab4989aabe283372c91fd0 Platform:None] left this ARK!
+[2024.09.07-05.41.21:971][542]2024.09.07_05.41.21: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] joined this ARK!
+[2024.09.07-05.41.49:556][825]2024.09.07_05.41.49: Tribe Tribe of Karely, ID 1281012887: Day 30, 00:47:15: <RichColor Color="0, 1, 1, 1">Karely was added to the Tribe!</>)
+[2024.09.07-05.41.49:568][825]2024.09.07_05.41.49: Player xXTORRESXx0396 with ID 373563938 joined tribe Tribe of Karely with ID 1281012887.
+[2024.09.07-05.42.27:326][183]2024.09.07_05.42.27: Tribe Tribe of Mango, ID 1773629605: Day 30, 01:02:22: <RichColor Color="0, 1, 0, 1">Banana Tamed an Aberrant Parasaur - Lvl 74 (Aberrant Parasaur)!</>)
+[2024.09.07-05.42.27:330][183]2024.09.07_05.42.27: Banana of Tribe Tribe of Mango Tamed an Aberrant Parasaur - Lvl 74 (Aberrant Parasaur)!
+[2024.09.07-05.42.40:334][306]2024.09.07_05.42.40: Tribe Tribe of Mango, ID 1773629605: Day 30, 01:07:33: Banana froze Aberrant Parasaur)
+[2024.09.07-05.43.04:989][513]2024.09.07_05.43.04: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] left this ARK!
+[2024.09.07-05.43.21:762][674]2024.09.07_05.43.21: Tribe  Tamed a Baby Cosmo - Lvl 108 (Cosmo)!
+[2024.09.07-05.43.22:299][679]2024.09.07_05.43.22: Tribe  Tamed a Baby Cosmo - Lvl 112 (Cosmo)!
+[2024.09.07-05.43.25:785][714]2024.09.07_05.43.25: Tribe HELLS ARMY, ID 1136584465: Day 30, 01:24:53: <RichColor Color="1, 0, 1, 1">Azaria claimed 'Baby Cosmo - Lvl 112 (Cosmo)'!</>)
+[2024.09.07-05.43.29:140][746]2024.09.07_05.43.29: Tribe HELLS ARMY, ID 1136584465: Day 30, 01:26:14: <RichColor Color="1, 0, 1, 1">Azaria claimed 'Baby Cosmo - Lvl 108 (Cosmo)'!</>)
+[2024.09.07-05.43.38:314][840]2024.09.07_05.43.38: Tribe Tribe of Mango, ID 1773629605: Day 30, 01:29:55: <RichColor Color="0, 1, 0, 1">Banana Tamed an Aberrant Parasaur - Lvl 164 (Aberrant Parasaur)!</>)
+[2024.09.07-05.43.38:326][840]2024.09.07_05.43.38: Banana of Tribe Tribe of Mango Tamed an Aberrant Parasaur - Lvl 164 (Aberrant Parasaur)!
+[2024.09.07-05.43.56:714][ 29]2024.09.07_05.43.56: Tribe Tribe of Mango, ID 1773629605: Day 30, 01:37:16: Banana froze Aberrant Parasaur)
+[2024.09.07-05.44.55:327][546]2024.09.07_05.44.55: Saving world...
+[2024.09.07-05.44.55:341][546]2024.09.07_05.44.55: World Save Complete. Took: 0.694989
+[2024.09.07-05.47.42:849][ 55]2024.09.07_05.47.42: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] joined this ARK!
+[2024.09.07-05.47.55:536][165]2024.09.07_05.47.55: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.07-05.48.23:300][424]2024.09.07_05.48.23: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 03:20:23: <RichColor Color="0, 1, 0, 1">CHAMUKO 1 Tamed an Aberrant Raptor - Lvl 129 (Aberrant Raptor)!</>)
+[2024.09.07-05.48.23:305][424]2024.09.07_05.48.23: CHAMUKO 1 of Tribe Tribe of CHAMUKO 1 Tamed an Aberrant Raptor - Lvl 129 (Aberrant Raptor)!
+[2024.09.07-05.49.55:374][138]2024.09.07_05.49.55: Saving world...
+[2024.09.07-05.49.55:385][138]2024.09.07_05.49.55: World Save Complete. Took: 0.697454
+[2024.09.07-05.50.12:102][288]2024.09.07_05.50.12: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 04:02:04: <RichColor Color="0, 1, 0, 1">CHAMUKO 1 Tamed a Juvenile Aberrant Raptor - Lvl 35 (Aberrant Raptor)!</>)
+[2024.09.07-05.50.12:106][288]2024.09.07_05.50.12: CHAMUKO 1 of Tribe Tribe of CHAMUKO 1 Tamed a Juvenile Aberrant Raptor - Lvl 35 (Aberrant Raptor)!
+[2024.09.07-05.50.38:115][524]2024.09.07_05.50.38: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 04:12:30: <RichColor Color="1, 0, 0, 1">Your Juvenile Aberrant Raptor - Lvl 35 (Aberrant Raptor) was killed by CHAMUKO 1 - Lvl 68-302217862 (Tribe of CHAMUKO 1)!</>)
+[2024.09.07-05.50.38:125][524]2024.09.07_05.50.38: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 04:12:30: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Aberrant Raptor - Lvl 35 (Aberrant Raptor) (Tribe of CHAMUKO 1)!</>)
+[2024.09.07-05.50.38:136][524]2024.09.07_05.50.38: Juvenile Aberrant Raptor - Lvl 35 (Aberrant Raptor) (Tribe of CHAMUKO 1) was killed by CHAMUKO 1 - Lvl 68-302217862 (Tribe of CHAMUKO 1)! [KillerSID: 302217862]
+[2024.09.07-05.51.55:580][264]2024.09.07_05.51.55: Tribe Tribe of Human1, ID 1078279229: Day 30, 04:43:30: <RichColor Color="1, 0, 0, 1">Tribemember Human - Lvl 1 was killed by a Ravager - Lvl 85!</>)
+[2024.09.07-05.51.55:586][264]2024.09.07_05.51.55: Human - Lvl 1 (Tribe of Human1) was killed by a Ravager - Lvl 85 ()!
+[2024.09.07-05.51.55:599][264]2024.09.07_05.51.55: Tribe Tribe of Corrupt, ID 1187164082: Day 30, 04:43:30: <RichColor Color="1, 0, 0, 1">Tribemember Corrupt - Lvl 1 was killed by a Ravager - Lvl 85!</>)
+[2024.09.07-05.51.55:608][264]2024.09.07_05.51.55: Corrupt - Lvl 1 (Tribe of Corrupt) was killed by a Ravager - Lvl 85 ()!
+[2024.09.07-05.52.09:259][410]2024.09.07_05.52.09: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 04:48:56: <RichColor Color="0, 1, 0, 1">CHAMUKO 1 Tamed a Bulbdog - Lvl 67 (Bulbdog)!</>)
+[2024.09.07-05.52.09:266][410]2024.09.07_05.52.09: CHAMUKO 1 of Tribe Tribe of CHAMUKO 1 Tamed a Bulbdog - Lvl 67 (Bulbdog)!
+[2024.09.07-05.53.43:299][344]2024.09.07_05.53.43: RF GHOST A [UniqueNetId:0002412dd61a46de887572b31ef37825 Platform:None] joined this ARK!
+[2024.09.07-05.54.13:323][583]2024.09.07_05.54.13: Tribe ATOS, ID 1909197093: Day 30, 05:38:11: <RichColor Color="1, 0, 0, 1">Tribemember Panda - Lvl 91 was killed by Big Zaddy - Lvl 234 (Aberrant Spino) (Shwat Team)!</>)
+[2024.09.07-05.54.13:330][583]2024.09.07_05.54.13: Tribe Shwat Team, ID 1482354014: Day 30, 05:38:11: <RichColor Color="1, 0, 1, 1">Your Tribe killed Panda - Lvl 91 (ATOS)!</>)
+[2024.09.07-05.54.13:341][583]2024.09.07_05.54.13: Panda - Lvl 91 (ATOS) was killed by Big Zaddy - Lvl 234 (Aberrant Spino) (Shwat Team)! [KillerSID: 827279825]
+[2024.09.07-05.54.29:672][717]2024.09.07_05.54.29: Tribe ATOS, ID 1909197093: Day 30, 05:44:43: <RichColor Color="1, 0, 0, 1">Your Aberrant Stegosaurus - Lvl 245 (Aberrant Stegosaurus) was killed by Big Zaddy - Lvl 234 (Aberrant Spino) (Shwat Team)!</>)
+[2024.09.07-05.54.29:683][717]2024.09.07_05.54.29: Tribe Shwat Team, ID 1482354014: Day 30, 05:44:43: <RichColor Color="1, 0, 1, 1">Your Tribe killed Aberrant Stegosaurus - Lvl 245 (Aberrant Stegosaurus) (ATOS)!</>)
+[2024.09.07-05.54.29:694][717]2024.09.07_05.54.29: Aberrant Stegosaurus - Lvl 245 (Aberrant Stegosaurus) (ATOS) was killed by Big Zaddy - Lvl 234 (Aberrant Spino) (Shwat Team)! [KillerSID: 827279825]
+[2024.09.07-05.54.55:475][943]2024.09.07_05.54.55: Saving world...
+[2024.09.07-05.54.55:487][943]2024.09.07_05.54.55: World Save Complete. Took: 0.737906
+[2024.09.07-05.54.59:999][988]2024.09.07_05.54.59: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 05:56:42: <RichColor Color="0, 1, 1, 1">Tribe of Nancy tribe was merged in by Nancy!</>)
+[2024.09.07-05.55.00:026][988]2024.09.07_05.55.00: Tribe Tribe of Nancy, ID 1698688316: Day 30, 05:56:42: <RichColor Color="1, 1, 0, 1">Nancy was removed from the Tribe!</>)
+[2024.09.07-05.55.00:035][988]2024.09.07_05.55.00: Player Nancy with ID 668867350 removed from tribe Tribe of Nancy with ID 1698688316.
+[2024.09.07-05.55.00:079][988]2024.09.07_05.55.00: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 05:56:42: <RichColor Color="0, 1, 1, 1">Nancy was added to the Tribe by CHAMUKO 1!</>)
+[2024.09.07-05.55.00:091][988]2024.09.07_05.55.00: Player Nancy with ID 668867350 joined tribe Tribe of CHAMUKO 1 with ID 1317458638 Invited by Player CHAMUKO 1 with ID 302217862.
+[2024.09.07-05.55.00:584][993]2024.09.07_05.55.00: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 05:56:56: <RichColor Color="0, 1, 1, 1">Tribe of Karely tribe was merged in by Karely!</>)
+[2024.09.07-05.55.00:610][993]2024.09.07_05.55.00: Tribe Tribe of Karely, ID 1281012887: Day 30, 05:56:56: <RichColor Color="1, 1, 0, 1">Karely was removed from the Tribe!</>)
+[2024.09.07-05.55.00:620][993]2024.09.07_05.55.00: Player Karely with ID 373563938 removed from tribe Tribe of Karely with ID 1281012887.
+[2024.09.07-05.55.00:664][993]2024.09.07_05.55.00: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 05:56:56: <RichColor Color="0, 1, 1, 1">Karely was added to the Tribe by CHAMUKO 1!</>)
+[2024.09.07-05.55.00:675][993]2024.09.07_05.55.00: Player Karely with ID 373563938 joined tribe Tribe of CHAMUKO 1 with ID 1317458638 Invited by Player CHAMUKO 1 with ID 302217862.
+[2024.09.07-05.55.04:438][ 28]2024.09.07_05.55.04: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 05:58:28: <RichColor Color="0, 0, 1, 1">Nancy was promoted to a Tribe Admin by CHAMUKO 1!</>)
+[2024.09.07-05.59.34:768][  9]2024.09.07_05.59.34: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 07:45:56: <RichColor Color="0, 1, 0, 1">Nancy Tamed an Aberrant Parasaur - Lvl 170 (Aberrant Parasaur)!</>)
+[2024.09.07-05.59.34:770][  9]2024.09.07_05.59.34: Nancy of Tribe Tribe of CHAMUKO 1 Tamed an Aberrant Parasaur - Lvl 170 (Aberrant Parasaur)!
+[2024.09.07-05.59.55:548][237]2024.09.07_05.59.55: Saving world...
+[2024.09.07-05.59.55:560][237]2024.09.07_05.59.55: World Save Complete. Took: 0.744893
+[2024.09.07-06.00.12:523][415]2024.09.07_06.00.12: Tribe  Tamed a Baby Ravager - Lvl 225 (Ravager)!
+[2024.09.07-06.02.14:323][704]2024.09.07_06.02.14: Tribe Tribe of Mango, ID 1773629605: Day 30, 08:49:36: Diggs froze Diggs)
+[2024.09.07-06.02.19:738][755]2024.09.07_06.02.19: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 08:51:46: <RichColor Color="0, 1, 0, 1">Nancy Tamed a Baby Aberrant Ovis - Lvl 40 (Aberrant Ovis)!</>)
+[2024.09.07-06.02.19:745][755]2024.09.07_06.02.19: Nancy of Tribe Tribe of CHAMUKO 1 Tamed a Baby Aberrant Ovis - Lvl 40 (Aberrant Ovis)!
+[2024.09.07-06.02.28:749][845]2024.09.07_06.02.28: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-06.02.37:297][934]2024.09.07_06.02.37: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 08:58:48: <RichColor Color="1, 0, 0, 1">Your Baby Aberrant Ovis - Lvl 40 (Aberrant Ovis) was killed by Nancy - Lvl 72-668867350 (Tribe of CHAMUKO 1)!</>)
+[2024.09.07-06.02.37:309][934]2024.09.07_06.02.37: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 08:58:48: <RichColor Color="1, 0, 1, 1">Your Tribe killed Baby Aberrant Ovis - Lvl 40 (Aberrant Ovis) (Tribe of CHAMUKO 1)!</>)
+[2024.09.07-06.02.37:319][934]2024.09.07_06.02.37: Baby Aberrant Ovis - Lvl 40 (Aberrant Ovis) (Tribe of CHAMUKO 1) was killed by Nancy - Lvl 72-668867350 (Tribe of CHAMUKO 1)! [KillerSID: 668867350]
+[2024.09.07-06.02.43:641][  0]2024.09.07_06.02.43: Tribe Tribe of Mango, ID 1773629605: Day 30, 09:01:21: <RichColor Color="0, 1, 0, 1">Banana Tamed an Aberrant Stegosaurus - Lvl 194 (Aberrant Stegosaurus)!</>)
+[2024.09.07-06.02.43:643][  0]2024.09.07_06.02.43: Banana of Tribe Tribe of Mango Tamed an Aberrant Stegosaurus - Lvl 194 (Aberrant Stegosaurus)!
+[2024.09.07-06.02.55:740][122]2024.09.07_06.02.55: Tribe Tribe of Mango, ID 1773629605: Day 30, 09:06:10: Banana froze Aberrant Stegosaurus)
+[2024.09.07-06.03.08:244][245]2024.09.07_06.03.08: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 09:11:10: <RichColor Color="0, 1, 0, 1">CHAMUKO 1 Tamed a Bulbdog - Lvl 217 (Bulbdog)!</>)
+[2024.09.07-06.03.08:254][245]2024.09.07_06.03.08: CHAMUKO 1 of Tribe Tribe of CHAMUKO 1 Tamed a Bulbdog - Lvl 217 (Bulbdog)!
+[2024.09.07-06.03.29:367][414]2024.09.07_06.03.29: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-06.04.04:254][671]2024.09.07_06.04.04: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] left this ARK!
+[2024.09.07-06.04.29:955][898]2024.09.07_06.04.29: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] joined this ARK!
+[2024.09.07-06.04.55:586][115]2024.09.07_06.04.55: Saving world...
+[2024.09.07-06.04.55:595][115]2024.09.07_06.04.55: World Save Complete. Took: 0.701356
+[2024.09.07-06.05.29:165][397]2024.09.07_06.05.29: ileg3nd1602 [UniqueNetId:000260140a234056a472cd3211b5f672 Platform:None] joined this ARK!
+[2024.09.07-06.06.00:000][705]2024.09.07_06.06.00: Tribe Tribe of Floki, ID 1680314491: Day 30, 10:19:25: <RichColor Color="0, 1, 1, 1">Floki was added to the Tribe!</>)
+[2024.09.07-06.06.00:010][705]2024.09.07_06.06.00: Player ileg3nd1602 with ID 684666876 joined tribe Tribe of Floki with ID 1680314491.
+[2024.09.07-06.06.13:723][802]2024.09.07_06.06.13: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] left this ARK!
+[2024.09.07-06.07.07:190][256]2024.09.07_06.07.07: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] joined this ARK!
+[2024.09.07-06.07.48:246][604]2024.09.07_06.07.48: Tribe Tribe of Floki, ID 1680314491: Day 30, 11:02:31: <RichColor Color="0, 1, 0, 1">Floki Tamed a Bulbdog - Lvl 187 (Bulbdog)!</>)
+[2024.09.07-06.07.48:251][604]2024.09.07_06.07.48: Floki of Tribe Tribe of Floki Tamed a Bulbdog - Lvl 187 (Bulbdog)!
+[2024.09.07-06.08.11:278][799]2024.09.07_06.08.11: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 11:11:45: <RichColor Color="1, 0, 0, 1">Tribemember Karely - Lvl 68 was killed by CHAMUKO 1 - Lvl 73-302217862 (Tribe of CHAMUKO 1)!</>)
+[2024.09.07-06.08.11:291][799]2024.09.07_06.08.11: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 11:11:45: <RichColor Color="1, 0, 1, 1">Your Tribe killed Karely - Lvl 68 (Tribe of CHAMUKO 1)!</>)
+[2024.09.07-06.08.11:301][799]2024.09.07_06.08.11: Karely - Lvl 68 (Tribe of CHAMUKO 1) was killed by CHAMUKO 1 - Lvl 73 (Tribe of CHAMUKO 1)! [KillerSID: 302217862]
+[2024.09.07-06.08.15:471][833]2024.09.07_06.08.15: SkT R1ck [UniqueNetId:0002bc7bc2b4490db0a135e20fcc5970 Platform:None] joined this ARK!
+[2024.09.07-06.09.05:130][176]2024.09.07_06.09.05: Tribe Tribe of ChamucoManxX, ID 1811591628: Day 30, 11:33:06: <RichColor Color="0, 1, 1, 1">ChamucoManxX was added to the Tribe!</>)
+[2024.09.07-06.09.05:141][176]2024.09.07_06.09.05: Player SkT R1ck with ID 31719106 joined tribe Tribe of ChamucoManxX with ID 1811591628.
+[2024.09.07-06.09.55:738][535]2024.09.07_06.09.55: Saving world...
+[2024.09.07-06.09.55:753][535]2024.09.07_06.09.55: World Save Complete. Took: 0.718347
+[2024.09.07-06.10.20:646][761]2024.09.07_06.10.20: SkT R1ck [UniqueNetId:0002bc7bc2b4490db0a135e20fcc5970 Platform:None] left this ARK!
+[2024.09.07-06.10.55:374][ 54]2024.09.07_06.10.55: Tribe Shwat Team, ID 1482354014: Day 30, 12:17:01: <RichColor Color="0, 1, 0, 1">Rick Scott Tamed an Anglerfish - Lvl 300 (Anglerfish)!</>)
+[2024.09.07-06.10.55:382][ 54]2024.09.07_06.10.55: Rick Scott of Tribe Shwat Team Tamed an Anglerfish - Lvl 300 (Anglerfish)!
+[2024.09.07-06.10.55:395][ 54]2024.09.07_06.10.55: Tribe Shwat Team, ID 1482354014: Day 30, 12:17:01: Rick Scott froze Anglerfish - Lvl 300 (Anglerfish))
+[2024.09.07-06.10.58:436][ 80]2024.09.07_06.10.58: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 12:18:16: <RichColor Color="0, 1, 0, 1">Karely Tamed a Juvenile Bulbdog - Lvl 80 (Bulbdog)!</>)
+[2024.09.07-06.10.58:440][ 80]2024.09.07_06.10.58: Karely of Tribe Tribe of CHAMUKO 1 Tamed a Juvenile Bulbdog - Lvl 80 (Bulbdog)!
+[2024.09.07-06.11.13:057][207]2024.09.07_06.11.13: SkT R1ck [UniqueNetId:0002bc7bc2b4490db0a135e20fcc5970 Platform:None] joined this ARK!
+[2024.09.07-06.11.19:887][253]2024.09.07_06.11.19: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 12:26:43: <RichColor Color="1, 0, 0, 1">Tribemember Karely - Lvl 68 was killed by CHAMUKO 1 - Lvl 74-302217862 (Tribe of CHAMUKO 1)!</>)
+[2024.09.07-06.11.19:896][253]2024.09.07_06.11.19: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 12:26:43: <RichColor Color="1, 0, 1, 1">Your Tribe killed Karely - Lvl 68 (Tribe of CHAMUKO 1)!</>)
+[2024.09.07-06.11.19:906][253]2024.09.07_06.11.19: Karely - Lvl 68 (Tribe of CHAMUKO 1) was killed by CHAMUKO 1 - Lvl 74 (Tribe of CHAMUKO 1)! [KillerSID: 302217862]
+[2024.09.07-06.11.46:771][447]2024.09.07_06.11.46: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 12:36:34: <RichColor Color="1, 1, 0, 1">Karely was removed from the Tribe!</>)
+[2024.09.07-06.11.46:790][447]2024.09.07_06.11.46: Player Karely with ID 373563938 removed from tribe Tribe of CHAMUKO 1 with ID 1317458638.
+[2024.09.07-06.11.46:903][447]2024.09.07_06.11.46: Tribe Tribe of Aluchi, ID 1766908534: Day 30, 12:36:37: <RichColor Color="0, 1, 1, 1">Aluchi was added to the Tribe!</>)
+[2024.09.07-06.11.46:914][447]2024.09.07_06.11.46: Player xXTORRESXx0396 with ID 194763982 joined tribe Tribe of Aluchi with ID 1766908534.
+[2024.09.07-06.11.59:469][523]2024.09.07_06.11.59: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 12:41:39: <RichColor Color="1, 0, 0, 1">Your Juvenile Bulbdog - Lvl 80 (Bulbdog) was killed by CHAMUKO 1 - Lvl 74-302217862 (Tribe of CHAMUKO 1)!</>)
+[2024.09.07-06.11.59:473][523]2024.09.07_06.11.59: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 12:41:39: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Bulbdog - Lvl 80 (Bulbdog) (Tribe of CHAMUKO 1)!</>)
+[2024.09.07-06.11.59:485][523]2024.09.07_06.11.59: Juvenile Bulbdog - Lvl 80 (Bulbdog) (Tribe of CHAMUKO 1) was killed by CHAMUKO 1 - Lvl 74-302217862 (Tribe of CHAMUKO 1)! [KillerSID: 302217862]
+[2024.09.07-06.12.34:217][798]2024.09.07_06.12.34: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] left this ARK!
+[2024.09.07-06.12.56:231][994]2024.09.07_06.12.56: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] joined this ARK!

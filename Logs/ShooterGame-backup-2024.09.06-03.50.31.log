@@ -1,0 +1,1051 @@
+﻿[2024.09.06-00.48.16:960][  0]Log file open, 09/06/24 02:48:16
+[2024.09.06-00.48.16:960][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2024.09.06-00.48.16:960][  0]LogMemory: Process Physical Memory: 283.27 MB used, 305.48 MB peak
+[2024.09.06-00.48.16:960][  0]LogMemory: Process Virtual Memory: 309.97 MB used, 309.97 MB peak
+[2024.09.06-00.48.16:960][  0]LogMemory: Physical Memory: 5445.55 MB used,  27226.90 MB free, 32672.45 MB total
+[2024.09.06-00.48.16:960][  0]LogMemory: Virtual Memory: 9752.93 MB used,  28039.52 MB free, 37792.45 MB total
+[2024.09.06-00.48.17:535][  0]11
+
+[2024.09.06-00.48.17:543][  0]ARK Version: 52.5
+[2024.09.06-00.48.17:842][  0]LogCFCore: SetSettings called:
+{
+	"defaultLanguage": "en",
+	"gameId": 83374,
+	"apiKey": "*****1aZe",
+	"maxConcurrentInstallations": 3,
+	"modsDirectory": "ShooterGame/Mods",
+	"modsDirectoryMode": "CFCore",
+	"userDataDirectory": "ShooterGame/ModsUserData",
+	"isServer": true,
+	"isServerPcOnly": false,
+	"throttling":
+	{
+		"diskWriteBytesPerSec": 0
+	},
+	"premiumMods":
+	{
+		"publicKeyPem": "*****"
+	},
+	"logger":
+	{
+		"enabled": true,
+		"history": 8,
+		"maxSizeInMB": 2
+	},
+	"dynamicContentCategoryIds": [ 6844 ]
+}
+[2024.09.06-00.48.17:842][  0]LogCFCore: InternalSettings called:
+{
+	"apiBaseUrl": "https://api.curseforge.com",
+	"chunkedUploadServerUrl": "https://chunk-uploads.curseforge.com",
+	"analyticsUrl": "https://analyticsnew.overwolf.com/analytics/Counter",
+	"userAgent": "cfcore.ue 1.0.99",
+	"platform": "windows",
+	"pluginVersion": "1.0.99",
+	"httpFileDownloadTimeoutSecs": 1200
+}
+[2024.09.06-00.48.17:891][  0]LogCFCore: User context not loaded from disk
+[2024.09.06-00.48.18:141][  7]LogCFCore: Query server result: 21 mods
+[2024.09.06-00.48.18:176][  8]LogCFCore: No need to update existing mod: EOS ID Helper (CrossPlay) (980463)
+[2024.09.06-00.48.18:176][  8]LogCFCore: No need to update existing mod: maewings (929521)
+[2024.09.06-00.48.18:176][  8]LogCFCore: No need to update existing mod: Pull It! (940022)
+[2024.09.06-00.48.18:176][  8]LogCFCore: No need to update existing mod: Ammo Box Ascended (967856)
+[2024.09.06-00.48.18:176][  8]LogCFCore: No need to update existing mod: PVP Scoreboard (931903)
+[2024.09.06-00.48.18:176][  8]LogCFCore: No need to update existing mod: Solo Farm Mod (928501)
+[2024.09.06-00.48.18:176][  8]LogCFCore: No need to update existing mod: CliffPlatforms (933872)
+[2024.09.06-00.48.18:176][  8]LogCFCore: No need to update existing mod: Custom Dino Levels (928708)
+[2024.09.06-00.48.18:176][  8]LogCFCore: No need to update existing mod: Utilities Plus (928621)
+[2024.09.06-00.48.18:176][  8]LogCFCore: No need to update existing mod: QoL+ (939228)
+[2024.09.06-00.48.18:176][  8]LogCFCore: No need to update existing mod: Dino+ (Nanny, Hatchey) (937546)
+[2024.09.06-00.48.18:176][  8]LogCFCore: No need to update existing mod: Resonant's Shop Mod (936660)
+[2024.09.06-00.48.18:176][  8]LogCFCore: No need to update existing mod: Super Spyglass Plus (929420)
+[2024.09.06-00.48.18:177][  8]LogCFCore: No need to update existing mod: WBUI2 (931119)
+[2024.09.06-00.48.18:177][  8]LogCFCore: No need to update existing mod: Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+[2024.09.06-00.48.18:177][  8]LogCFCore: No need to update existing mod: TG Stacking Mod 10000-90 (929110)
+[2024.09.06-00.48.18:177][  8]LogCFCore: Mod: Admin Panel (929868) requires upgrade/downgrade (5620117 -> 5696131)
+[2024.09.06-00.48.18:177][  8]LogCFCore: No need to update existing mod: ARKomatic (939055)
+[2024.09.06-00.48.18:177][  8]LogCFCore: No need to update existing mod: Automated Dino Wipes (947733)
+[2024.09.06-00.48.18:177][  8]LogCFCore: No need to update existing mod: ASA-Bot Companion (936882)
+[2024.09.06-00.48.18:177][  8]LogCFCore: No need to update existing mod: Pelayori's Cryo Storage (Crossplay!) (928793)
+[2024.09.06-00.48.18:177][  8]LogCFCore: Request to Install mod 'Admin Panel' (modId=929868, fileId=5696131)
+[2024.09.06-00.48.18:226][  9]LogCFCore: Cleanup possible module ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/929868_5620117 ...
+[2024.09.06-00.48.18:226][  9]LogCFCore: Cleanup possible module ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/929868_5696131 ...
+[2024.09.06-00.48.18:226][  9]LogCFCore: Cleaning up possible 2 output dirs ...
+[2024.09.06-00.48.18:570][ 19]LogCFCore: Starting to download: https://mediafilez.forgecdn.net/files/5696/131/admin%20panel-windowsserver%2056.zip, file id: 1
+[2024.09.06-00.48.18:605][ 21]LogCFCore: Warning: WriteBufferWithThrottling: left_to_write 613236
+[2024.09.06-00.48.18:638][ 21]LogCFCore: Successfully completed chunked download for: https://mediafilez.forgecdn.net/files/5696/131/admin%20panel-windowsserver%2056.zip
+[2024.09.06-00.48.18:672][ 22]LogCFCore: Verifying mod (929868) download ...
+[2024.09.06-00.48.18:743][ 24]LogCFCore: Cleanup temp directory ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/.temp/929868_5696131 ...
+[2024.09.06-00.48.18:743][ 24]LogCFCore: Cleanup possible module ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/.temp/929868_5696131 ...
+[2024.09.06-00.48.18:777][ 25]LogCFCore: Unzipping mod=929868 to ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/.temp/929868_5696131 ...
+[2024.09.06-00.48.18:779][ 26]LogCFCore: Warning: WriteBufferWithThrottling: left_to_write 532
+[2024.09.06-00.48.18:811][ 27]LogCFCore: Warning: WriteBufferWithThrottling: left_to_write 73
+[2024.09.06-00.48.18:845][ 28]LogCFCore: Warning: WriteBufferWithThrottling: left_to_write 23351
+[2024.09.06-00.48.18:880][ 29]LogCFCore: Warning: WriteBufferWithThrottling: left_to_write 14507
+[2024.09.06-00.48.18:921][ 30]LogCFCore: Warning: WriteBufferWithThrottling: left_to_write 720112
+[2024.09.06-00.48.18:948][ 31]LogCFCore: Warning: WriteBufferWithThrottling: left_to_write 14731
+[2024.09.06-00.48.19:015][ 32]LogCFCore: Cleanup possible module ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/929868_5620117 ...
+[2024.09.06-00.48.19:015][ 32]LogCFCore: Cleanup possible module ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/929868_5696131 ...
+[2024.09.06-00.48.19:015][ 32]LogCFCore: Cleaning up possible 2 output dirs ...
+[2024.09.06-00.48.19:049][ 33]LogCFCore: Moving ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/.temp/929868_5696131 to ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/929868_5696131 ...
+[2024.09.06-00.48.19:049][ 33]LogCFCore: Moving ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/.temp/929868_5696131 to ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/929868_5696131 ...
+[2024.09.06-00.48.19:083][ 34]LogCFCore: Cleaning up (modId=929868, fileId=5696131) ...
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: EOS ID Helper (CrossPlay) (980463)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: maewings (929521)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: Pull It! (940022)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: Ammo Box Ascended (967856)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: PVP Scoreboard (931903)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: Solo Farm Mod (928501)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: CliffPlatforms (933872)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: Custom Dino Levels (928708)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: Utilities Plus (928621)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: QoL+ (939228)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: Dino+ (Nanny, Hatchey) (937546)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: Resonant's Shop Mod (936660)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: Super Spyglass Plus (929420)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: WBUI2 (931119)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: TG Stacking Mod 10000-90 (929110)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: Admin Panel (929868)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: ARKomatic (939055)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: Automated Dino Wipes (947733)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: ASA-Bot Companion (936882)
+[2024.09.06-00.48.19:166][ 36]LogCFCore: Mod valid: Pelayori's Cryo Storage (Crossplay!) (928793)
+[2024.09.06-00.48.19:339][ 37]UShooterEngine::LoadGameMods with 21 mods
+[2024.09.06-00.48.19:339][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929420_5509935/SuperSpyglassPlus/Content/PrimalGameData_BP_SSP_Kav.uasset : 929420
+[2024.09.06-00.48.20:056][ 37]UShooterEngine::LoadGameMods Using mod asset Package /SuperSpyglassPlus/PrimalGameData_BP_SSP_Kav as PrimalGameDataOverride.
+[2024.09.06-00.48.20:056][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928621_4856794/UtilsPlus/Content/PrimalGameData_BP_UtilPlus.uasset : 928621
+[2024.09.06-00.48.20:074][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /UtilsPlus/PrimalGameData_BP_UtilPlus with PrimalGameDataOverride.
+[2024.09.06-00.48.20:074][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928708_4894074/LevelTestingMod/Content/PrimalGameData_BP_LevelTesting.uasset : 928708
+[2024.09.06-00.48.20:429][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /LevelTestingMod/PrimalGameData_BP_LevelTesting with PrimalGameDataOverride.
+[2024.09.06-00.48.20:429][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928501_5509903/SoloFarmMod/Content/PrimalGameData_BP_SoloFarmMod.uasset : 928501
+[2024.09.06-00.48.20:447][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /SoloFarmMod/PrimalGameData_BP_SoloFarmMod with PrimalGameDataOverride.
+[2024.09.06-00.48.20:447][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/939055_5639286/ARKomatic/Content/PrimalGameData_BP_ARKomatic.uasset : 939055
+[2024.09.06-00.48.20:464][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /ARKomatic/PrimalGameData_BP_ARKomatic with PrimalGameDataOverride.
+[2024.09.06-00.48.20:464][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929110_5696086/TG_Stack_10000_90/Content/PrimalGameData_TG_Stack_10000_90.uasset : 929110
+[2024.09.06-00.48.20:480][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /TG_Stack_10000_90/PrimalGameData_TG_Stack_10000_90 with PrimalGameDataOverride.
+[2024.09.06-00.48.20:481][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/939228_5078487/QoLPlus/Content/PrimalGameData_QoLPlus.uasset : 939228
+[2024.09.06-00.48.20:592][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /QoLPlus/PrimalGameData_QoLPlus with PrimalGameDataOverride.
+[2024.09.06-00.48.20:592][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/933872_5330183/CliffPlatforms/Content/PrimalGameData_BP_Cliffplatforms.uasset : 933872
+[2024.09.06-00.48.20:609][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /CliffPlatforms/PrimalGameData_BP_Cliffplatforms with PrimalGameDataOverride.
+[2024.09.06-00.48.20:609][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/947733_5521328/AutomatedDinoWipes/Content/PrimalGameData_BP_AutomatedDinoWipes.uasset : 947733
+[2024.09.06-00.48.20:647][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /AutomatedDinoWipes/PrimalGameData_BP_AutomatedDinoWipes with PrimalGameDataOverride.
+[2024.09.06-00.48.20:647][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929912_5669096/EzEngramUnlocker/Content/PrimalGameData_BP_EzEngramUnlocker.uasset : 929912
+[2024.09.06-00.48.20:664][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /EzEngramUnlocker/PrimalGameData_BP_EzEngramUnlocker with PrimalGameDataOverride.
+[2024.09.06-00.48.20:665][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/940022_5102443/PullIt/Content/PrimalGameData_BP_PullIt.uasset : 940022
+[2024.09.06-00.48.20:690][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /PullIt/PrimalGameData_BP_PullIt with PrimalGameDataOverride.
+[2024.09.06-00.48.20:690][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/936660_5568098/ShopMod/Content/PrimalGameData_BP_BlankMod.uasset : 936660
+[2024.09.06-00.48.22:613][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /ShopMod/PrimalGameData_BP_BlankMod with PrimalGameDataOverride.
+[2024.09.06-00.48.22:613][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/931903_5036004/PVPScoreboard/Content/PrimalGameData_BP_PVPScoreboard.uasset : 931903
+[2024.09.06-00.48.22:641][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /PVPScoreboard/PrimalGameData_BP_PVPScoreboard with PrimalGameDataOverride.
+[2024.09.06-00.48.22:641][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/967856_5238619/AmmoBoxAscended/Content/PrimalGameData_BP_AmmoBoxAscended.uasset : 967856
+[2024.09.06-00.48.22:656][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /AmmoBoxAscended/PrimalGameData_BP_AmmoBoxAscended with PrimalGameDataOverride.
+[2024.09.06-00.48.22:656][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928793_5622484/Cryopods/Content/PrimalGameData_BP_Cryopods.uasset : 928793
+[2024.09.06-00.48.22:698][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /Cryopods/PrimalGameData_BP_Cryopods with PrimalGameDataOverride.
+[2024.09.06-00.48.22:698][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/937546_4928343/DPlusMod/Content/PrimalGameData_BP_DPlusMod.uasset : 937546
+[2024.09.06-00.48.22:714][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /DPlusMod/PrimalGameData_BP_DPlusMod with PrimalGameDataOverride.
+[2024.09.06-00.48.22:714][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/980463_5142852/EOSIDHelper/Content/PrimalGameData_BP_EOSIDHelper.uasset : 980463
+[2024.09.06-00.48.22:733][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /EOSIDHelper/PrimalGameData_BP_EOSIDHelper with PrimalGameDataOverride.
+[2024.09.06-00.48.22:733][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929521_5238433/maewings/Content/PrimalGameData_BP_Maewings.uasset : 929521
+[2024.09.06-00.48.22:751][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /maewings/PrimalGameData_BP_Maewings with PrimalGameDataOverride.
+[2024.09.06-00.48.22:752][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/936882_5662285/ASA-Bot-Companion/Content/PrimalGameData_BP_ASABot.uasset : 936882
+[2024.09.06-00.48.22:776][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /ASA-Bot-Companion/PrimalGameData_BP_ASABot with PrimalGameDataOverride.
+[2024.09.06-00.48.22:776][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929868_5696131/AdminPanel/Content/PrimalGameData_BP_AdminPanel.uasset : 929868
+[2024.09.06-00.48.22:859][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /AdminPanel/PrimalGameData_BP_AdminPanel with PrimalGameDataOverride.
+[2024.09.06-00.48.22:859][ 37]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/931119_5531437/WBUI2/Content/PrimalGameData_BP_WBUI.uasset : 931119
+[2024.09.06-00.48.22:897][ 37]UShooterEngine::LoadGameMods Merging mod asset Package /WBUI2/PrimalGameData_BP_WBUI with PrimalGameDataOverride.
+[2024.09.06-00.48.22:897][ 37]Initialize Primal Game Data Override.
+[2024.09.06-00.48.22:914][ 37]Added Explorer Note Entry: DEARJANE_EXP_NOTE_1
+[2024.09.06-00.48.22:914][ 37]Added Explorer Note Entry: DEARJANE_EXP_NOTE_2
+[2024.09.06-00.48.22:914][ 37]Added Explorer Note Entry: DEARJANE_EXP_NOTE_3
+[2024.09.06-00.48.22:914][ 37]Added Explorer Note Entry: DEARJANE_EXP_NOTE_4
+[2024.09.06-00.48.22:914][ 37]Added Explorer Note Entry: DEARJANE_EXP_NOTE_5
+[2024.09.06-00.48.22:914][ 37]Added Explorer Note Entry: DEARJANE_EXP_NOTE_6
+[2024.09.06-00.48.22:914][ 37]Added Explorer Note Entry: DEARJANE_EXP_NOTE_7
+[2024.09.06-00.48.22:917][ 37]Primal Game Data Took 0.00 seconds
+[2024.09.06-00.48.22:922][ 37]Added Explorer Note Entry: DEARJANE_EXP_NOTE_1
+[2024.09.06-00.48.22:922][ 37]Added Explorer Note Entry: DEARJANE_EXP_NOTE_2
+[2024.09.06-00.48.22:922][ 37]Added Explorer Note Entry: DEARJANE_EXP_NOTE_3
+[2024.09.06-00.48.22:922][ 37]Added Explorer Note Entry: DEARJANE_EXP_NOTE_4
+[2024.09.06-00.48.22:922][ 37]Added Explorer Note Entry: DEARJANE_EXP_NOTE_5
+[2024.09.06-00.48.22:922][ 37]Added Explorer Note Entry: DEARJANE_EXP_NOTE_6
+[2024.09.06-00.48.22:922][ 37]Added Explorer Note Entry: DEARJANE_EXP_NOTE_7
+[2024.09.06-00.48.23:530][ 37]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2024.09.06-00.48.23:536][ 37]BattlEye successfully started.
+[2024.09.06-00.48.41:332][ 37]2024.09.06_00.48.41: [CCA_ASABot_C_2147476376] Loading INI Settings
+[2024.09.06-00.48.41:346][ 37]2024.09.06_00.48.41: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.09.06-00.49.04:971][ 37][Pelayori's Cryo Storage] Server mod version: 54
+[2024.09.06-00.49.04:971][ 37]ADW_Version_v0.15
+[2024.09.06-00.49.04:971][ 37]ADW_Begin (UTC Time Now = 0:49)
+[2024.09.06-00.49.04:971][ 37]Admin Panel Active
+[2024.09.06-00.49.04:971][ 37]Admin Panel Version:56
+[2024.09.06-00.49.36:108][ 37]Server: "9/6 [NA](AB1) nARKotic 20x/4man/shop/kits/boosted" has successfully started!
+[2024.09.06-00.49.45:650][ 37]Commandline:  Aberration_WP?listen?Port=27020 -servergamelog -servergamelogincludetribelogs -ServerRCONOutputTribeLogs -Mods=929420,928621,928708,928501,939055,929110,939228,933872,947733,929912,940022,936660,931903,967856,928793,937546,980463,929521,936882,929868,931119
+[2024.09.06-00.49.45:650][ 37]Full Startup: 89.13 seconds
+[2024.09.06-00.49.45:650][ 37]Number of cores 28
+[2024.09.06-00.49.48:332][ 50]2024.09.06_00.49.48: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.09.06-00.49.48:344][ 50]2024.09.06_00.49.48: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.06-00.49.48:356][ 50]2024.09.06_00.49.48: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.06-00.49.48:368][ 50]2024.09.06_00.49.48: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.06-00.49.48:379][ 50]2024.09.06_00.49.48: [WBUI] [CCA]  Updated Settings
+[2024.09.06-00.49.57:126][258]Server has completed startup and is now advertising for join.
+[2024.09.06-00.50.10:337][653]IP for incoming account 0002789f4f984c6787a5898016eb4375 - IP 66.22.146.109
+[2024.09.06-00.50.12:443][716]IP for incoming account 0002a0b12ff54d80a45035c18750b660 - IP 75.162.76.100
+[2024.09.06-00.50.14:403][773]2024.09.06_00.50.14: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.09.06-00.50.16:636][824]2024.09.06_00.50.16: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.09.06-00.53.23:971][321]2024.09.06_00.53.23: Saving world...
+[2024.09.06-00.53.23:983][321]2024.09.06_00.53.23: World Save Complete. Took: 0.498842
+[2024.09.06-00.55.56:590][762]IP for incoming account 00022c98ee0d4e1f9ec59e9b6faea772 - IP 73.183.86.150
+[2024.09.06-00.56.10:190][159]2024.09.06_00.56.10: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] joined this ARK!
+[2024.09.06-00.57.41:336][ 22]IP for incoming account 0002d900478044c38e207a71981c97c4 - IP 47.42.134.47
+[2024.09.06-00.57.47:549][168]2024.09.06_00.57.47: DiggityDankDabz [UniqueNetId:0002d900478044c38e207a71981c97c4 Platform:None] joined this ARK!
+[2024.09.06-00.57.49:154][187]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-00.58.11:325][573]2024.09.06_00.58.11: Unavailable name (Banana): hey admin, just so you know they are investgaiting issues server side ,(for servers that have their priorites for running the ark server set to high)
+[2024.09.06-00.58.23:977][807]2024.09.06_00.58.23: Saving world...
+[2024.09.06-00.58.23:985][807]2024.09.06_00.58.23: World Save Complete. Took: 0.479863
+[2024.09.06-00.58.45:518][219]2024.09.06_00.58.45: RehDragon (RehDragon): Yea saw the announcement.
+[2024.09.06-00.59.21:401][921]2024.09.06_00.59.21: RehDragon (RehDragon): Fyi f1 has our discord now so incase it goes down you can join and any new/status we will let you know there.
+[2024.09.06-00.59.22:450][939]2024.09.06_00.59.22: SERVER: nARKotic invite: https://discord.gg/N4P5RVwvAb
+[2024.09.06-00.59.48:442][377]FNetGUIDCache::PeriodicCleanAndCompact:   2.55ms total time [  2.07ms CleanReferences() and   0.48ms compacting]; ObjectLookup.Num()=9108 [702 removed]; NetGUIDLookup.Num()=8208 [1595 removed]
+[2024.09.06-00.59.58:656][544]2024.09.06_00.59.58: Tribe Tribe of Shwat, ID 1714227183: Day 2, 03:05:41: <RichColor Color="1, 0, 0, 1">Tribemember Shwat - Lvl 40 was killed by an Aberrant Triceratops - Lvl 55!</>)
+[2024.09.06-00.59.58:660][544]2024.09.06_00.59.58: Shwat - Lvl 40 (Tribe of Shwat) was killed by an Aberrant Triceratops - Lvl 55 ()!
+[2024.09.06-01.01.07:884][867]2024.09.06_01.01.07: Tribe Tribe of Mango, ID 1773629605: Day 2, 03:33:22: <RichColor Color="0, 1, 0, 1">Diggs Tamed a Juvenile Aberrant Dire Bear - Lvl 80 (Aberrant Dire Bear)!</>)
+[2024.09.06-01.01.07:892][867]2024.09.06_01.01.07: Diggs of Tribe Tribe of Mango Tamed a Juvenile Aberrant Dire Bear - Lvl 80 (Aberrant Dire Bear)!
+[2024.09.06-01.01.48:493][665]Garbage Collection Triggered!
+[2024.09.06-01.01.50:154][679]IP for incoming account 0002dfc5e31a43239d144f279a7cc8ff - IP 51.14.221.117
+[2024.09.06-01.01.56:347][794]2024.09.06_01.01.56: xrhysglenx [UniqueNetId:0002dfc5e31a43239d144f279a7cc8ff Platform:None] joined this ARK!
+[2024.09.06-01.01.57:193][808]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.02.32:520][435]2024.09.06_01.02.32: Tribe Tribe of Mango, ID 1773629605: Day 2, 04:07:02: <RichColor Color="1, 0, 0, 1">Tribemember Banana - Lvl 73 was killed by a Yi Ling - Lvl 95!</>)
+[2024.09.06-01.02.32:530][435]2024.09.06_01.02.32: Banana - Lvl 73 (Tribe of Mango) was killed by a Yi Ling - Lvl 95 ()!
+[2024.09.06-01.03.24:007][398]2024.09.06_01.03.24: Saving world...
+[2024.09.06-01.03.24:019][398]2024.09.06_01.03.24: World Save Complete. Took: 0.480756
+[2024.09.06-01.03.32:327][545]2024.09.06_01.03.32: Tribe Tribe of Rhys, ID 1499893006: Day 2, 04:30:55: <RichColor Color="0, 1, 1, 1">Rhys was added to the Tribe!</>)
+[2024.09.06-01.03.32:331][545]2024.09.06_01.03.32: Player xrhysglenx with ID 699297503 joined tribe Tribe of Rhys with ID 1499893006.
+[2024.09.06-01.04.22:752][516]2024.09.06_01.04.22: Tribe Shwat Team, ID 1482354014: Day 2, 04:51:05: <RichColor Color="0, 1, 1, 1">Tribe of Shwat tribe was merged in by Shwat!</>)
+[2024.09.06-01.04.22:782][516]2024.09.06_01.04.22: Tribe Tribe of Shwat, ID 1714227183: Day 2, 04:51:05: <RichColor Color="1, 1, 0, 1">Shwat was removed from the Tribe!</>)
+[2024.09.06-01.04.22:782][516]2024.09.06_01.04.22: Player Shwat with ID 859484274 removed from tribe Tribe of Shwat with ID 1714227183.
+[2024.09.06-01.04.22:825][516]2024.09.06_01.04.22: Tribe Shwat Team, ID 1482354014: Day 2, 04:51:05: <RichColor Color="0, 1, 1, 1">Shwat was added to the Tribe by RehDragon!</>)
+[2024.09.06-01.04.22:826][516]2024.09.06_01.04.22: Player Shwat with ID 859484274 joined tribe Shwat Team with ID 1482354014 Invited by Player RehDragon with ID 858296109.
+[2024.09.06-01.05.36:595][907]2024.09.06_01.05.36: xrhysglenx [UniqueNetId:0002dfc5e31a43239d144f279a7cc8ff Platform:None] left this ARK!
+[2024.09.06-01.06.02:490][455]IP for incoming account 00027e6e350b4f458aa49f6ed78cb1fe - IP 104.12.38.88
+[2024.09.06-01.06.07:174][558]2024.09.06_01.06.07: Daddyfatsaac [UniqueNetId:00027e6e350b4f458aa49f6ed78cb1fe Platform:None] joined this ARK!
+[2024.09.06-01.06.08:324][583]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.06.27:275][  0]2024.09.06_01.06.27: Tribe Tribe of Skiddy, ID 1827989144: Day 2, 05:40:53: <RichColor Color="0, 1, 1, 1">Skiddy was added to the Tribe!</>)
+[2024.09.06-01.06.27:284][  0]2024.09.06_01.06.27: Player Daddyfatsaac with ID 136969256 joined tribe Tribe of Skiddy with ID 1827989144.
+[2024.09.06-01.06.42:271][268]2024.09.06_01.06.42: Tribe Tribe of Skiddy, ID 1827989144: Day 2, 05:46:54: <RichColor Color="1, 0, 0, 1">Tribemember Skiddy - Lvl 1 was killed by an Aberrant Raptor - Lvl 60!</>)
+[2024.09.06-01.06.42:273][268]2024.09.06_01.06.42: Skiddy - Lvl 1 (Tribe of Skiddy) was killed by an Aberrant Raptor - Lvl 60 ()!
+[2024.09.06-01.06.53:178][471]IP for incoming account 0002d4db73054edab10ec40e34ce8b65 - IP 67.21.186.193
+[2024.09.06-01.07.04:047][704]2024.09.06_01.07.04: Enarchy [UniqueNetId:0002d4db73054edab10ec40e34ce8b65 Platform:None] joined this ARK!
+[2024.09.06-01.07.42:738][490]2024.09.06_01.07.42: Daddyfatsaac [UniqueNetId:00027e6e350b4f458aa49f6ed78cb1fe Platform:None] left this ARK!
+[2024.09.06-01.08.13:639][102]IP for incoming account 0002128e5b364d82aadbfbd9590f84eb - IP 68.4.120.173
+[2024.09.06-01.08.19:101][214]2024.09.06_01.08.19: GuitarManiac [UniqueNetId:0002128e5b364d82aadbfbd9590f84eb Platform:None] joined this ARK!
+[2024.09.06-01.08.24:035][303]2024.09.06_01.08.24: Saving world...
+[2024.09.06-01.08.24:048][303]2024.09.06_01.08.24: World Save Complete. Took: 0.464456
+[2024.09.06-01.08.42:267][692]2024.09.06_01.08.42: Tribe Tribe of Nami, ID 1236635778: Day 2, 06:34:52: <RichColor Color="0, 1, 1, 1">Nami was added to the Tribe!</>)
+[2024.09.06-01.08.42:277][692]2024.09.06_01.08.42: Player GuitarManiac with ID 211128330 joined tribe Tribe of Nami with ID 1236635778.
+[2024.09.06-01.08.42:458][693]2024.09.06_01.08.42: Tribe Tribe of Enarchy, ID 1451654481: Day 2, 06:34:55: <RichColor Color="0, 1, 1, 1">Enarchy was added to the Tribe!</>)
+[2024.09.06-01.08.42:464][693]2024.09.06_01.08.42: Player Enarchy with ID 877238943 joined tribe Tribe of Enarchy with ID 1451654481.
+[2024.09.06-01.09.09:793][134]2024.09.06_01.09.09: Tribe Tribe of Mango, ID 1773629605: Day 2, 06:45:54: <RichColor Color="1, 0, 0, 1">Tribemember Diggs - Lvl 53 was killed!</>)
+[2024.09.06-01.09.09:800][134]2024.09.06_01.09.09: Diggs - Lvl 53 (Tribe of Mango) was killed!
+[2024.09.06-01.09.48:516][686]FNetGUIDCache::PeriodicCleanAndCompact:   2.59ms total time [  2.11ms CleanReferences() and   0.48ms compacting]; ObjectLookup.Num()=11130 [2847 removed]; NetGUIDLookup.Num()=9842 [3218 removed]
+[2024.09.06-01.10.48:602][609]2024.09.06_01.10.48: Tribe Tribe of Taco, ID 1280585111: Day 2, 07:25:25: <RichColor Color="1, 0, 0, 1">Tribemember Taco - Lvl 19 was killed by an Aberrant Gigantoraptor - Lvl 130!</>)
+[2024.09.06-01.10.48:609][609]2024.09.06_01.10.48: Taco - Lvl 19 (Tribe of Taco) was killed by an Aberrant Gigantoraptor - Lvl 130 ()!
+[2024.09.06-01.11.42:088][502]2024.09.06_01.11.42: Tribe Tribe of Enarchy, ID 1451654481: Day 2, 07:46:48: <RichColor Color="1, 0, 0, 1">Tribemember Enarchy - Lvl 1 was killed by a Basilisk - Lvl 105!</>)
+[2024.09.06-01.11.42:096][502]2024.09.06_01.11.42: Enarchy - Lvl 1 (Tribe of Enarchy) was killed by a Basilisk - Lvl 105 ()!
+[2024.09.06-01.12.48:454][504]IP for incoming account 0002c93ac09b414798090ab71e06c79b - IP 35.145.153.175
+[2024.09.06-01.12.51:752][543]2024.09.06_01.12.51: GuitarManiac (Nami): Anyone on this map?
+[2024.09.06-01.12.54:294][573]2024.09.06_01.12.54: SimeonS367 [UniqueNetId:0002c93ac09b414798090ab71e06c79b Platform:None] joined this ARK!
+[2024.09.06-01.12.55:138][582]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.13.24:092][904]2024.09.06_01.13.24: Saving world...
+[2024.09.06-01.13.24:099][904]2024.09.06_01.13.24: World Save Complete. Took: 0.486935
+[2024.09.06-01.13.29:854][966]2024.09.06_01.13.29: Tribe Tribe of Mango, ID 1773629605: Day 2, 08:29:50: <RichColor Color="0, 1, 0, 1">Diggs Tamed a Juvenile Aberrant Stegosaurus - Lvl 125 (Aberrant Stegosaurus)!</>)
+[2024.09.06-01.13.29:861][966]2024.09.06_01.13.29: Diggs of Tribe Tribe of Mango Tamed a Juvenile Aberrant Stegosaurus - Lvl 125 (Aberrant Stegosaurus)!
+[2024.09.06-01.13.47:341][166]2024.09.06_01.13.47: RehDragon (RehDragon): We have decent amount on
+[2024.09.06-01.13.48:580][179]Garbage Collection Triggered!
+[2024.09.06-01.13.54:580][229]2024.09.06_01.13.54: Tribe Tribe of SimeonS367, ID 1272490742: Day 2, 08:39:20: <RichColor Color="0, 1, 1, 1">SimeonS367 was added to the Tribe!</>)
+[2024.09.06-01.13.54:591][229]2024.09.06_01.13.54: Player SimeonS367 with ID 165324143 joined tribe Tribe of SimeonS367 with ID 1272490742.
+[2024.09.06-01.15.10:324][ 27]2024.09.06_01.15.10: SimeonS367 [UniqueNetId:0002c93ac09b414798090ab71e06c79b Platform:None] left this ARK!
+[2024.09.06-01.15.23:554][191]2024.09.06_01.15.23: GuitarManiac (Nami): how many? And is this the only map or is it clustered?
+[2024.09.06-01.16.19:439][ 31]2024.09.06_01.16.19: MartyrD0nk3y (Shwat): It will be clustered when its stable, but right now with the crashes we dont people to lose alot.
+[2024.09.06-01.17.20:938][970]2024.09.06_01.17.20: GuitarManiac [UniqueNetId:0002128e5b364d82aadbfbd9590f84eb Platform:None] left this ARK!
+[2024.09.06-01.18.12:196][959]2024.09.06_01.18.12: Tribe Tribe of Mango, ID 1773629605: Day 2, 10:22:24: <RichColor Color="1, 0, 0, 1">Your Adolescent Aberrant Dire Bear - Lvl 80 (Aberrant Dire Bear) was killed by a Karkinos - Lvl 140!</>)
+[2024.09.06-01.18.12:200][959]2024.09.06_01.18.12: Adolescent Aberrant Dire Bear - Lvl 80 (Aberrant Dire Bear) (Tribe of Mango) was killed by a Karkinos - Lvl 140 ()!
+[2024.09.06-01.18.24:110][170]2024.09.06_01.18.24: Saving world...
+[2024.09.06-01.18.24:113][170]2024.09.06_01.18.24: World Save Complete. Took: 0.467235
+[2024.09.06-01.19.48:568][811]FNetGUIDCache::PeriodicCleanAndCompact:   3.63ms total time [  3.10ms CleanReferences() and   0.54ms compacting]; ObjectLookup.Num()=13781 [5786 removed]; NetGUIDLookup.Num()=11834 [6423 removed]
+[2024.09.06-01.20.15:258][341]2024.09.06_01.20.15: Tribe Tribe of Mango, ID 1773629605: Day 2, 11:11:36: <RichColor Color="1, 0, 0, 1">Your Juvenile Aberrant Stegosaurus - Lvl 125 (Aberrant Stegosaurus) was killed by an Aberrant Sarco - Lvl 75!</>)
+[2024.09.06-01.20.15:261][341]2024.09.06_01.20.15: Juvenile Aberrant Stegosaurus - Lvl 125 (Aberrant Stegosaurus) (Tribe of Mango) was killed by an Aberrant Sarco - Lvl 75 ()!
+[2024.09.06-01.23.24:143][812]2024.09.06_01.23.24: Saving world...
+[2024.09.06-01.23.24:155][812]2024.09.06_01.23.24: World Save Complete. Took: 0.502692
+[2024.09.06-01.23.39:583][ 82]2024.09.06_01.23.39: Tribe Shwat Team, ID 1482354014: Day 2, 12:33:17: <RichColor Color="0, 1, 0, 1">RehDragon Tamed a Bulbdog - Lvl 187 (Bulbdog)!</>)
+[2024.09.06-01.23.39:591][ 82]2024.09.06_01.23.39: RehDragon of Tribe Shwat Team Tamed a Bulbdog - Lvl 187 (Bulbdog)!
+[2024.09.06-01.23.54:774][349]IP for incoming account 000247ed27c04a05963696309993857a - IP 50.110.43.19
+[2024.09.06-01.23.58:952][424]2024.09.06_01.23.58: bllthebull [UniqueNetId:000247ed27c04a05963696309993857a Platform:None] joined this ARK!
+[2024.09.06-01.23.59:769][438]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.24.40:781][ 96]2024.09.06_01.24.40: Tribe Shwat Team, ID 1482354014: Day 2, 12:57:46: <RichColor Color="0, 1, 0, 1">Shwat Tamed a Bulbdog - Lvl 142 (Bulbdog)!</>)
+[2024.09.06-01.24.40:783][ 96]2024.09.06_01.24.40: Shwat of Tribe Shwat Team Tamed a Bulbdog - Lvl 142 (Bulbdog)!
+[2024.09.06-01.25.30:991][ 11]2024.09.06_01.25.30: Tribe Shwat Team, ID 1482354014: Day 2, 13:17:51: <RichColor Color="0, 1, 0, 1">Shwat Tamed a Juvenile Aberrant Dire Bear - Lvl 80 (Aberrant Dire Bear)!</>)
+[2024.09.06-01.25.30:992][ 11]2024.09.06_01.25.30: Shwat of Tribe Shwat Team Tamed a Juvenile Aberrant Dire Bear - Lvl 80 (Aberrant Dire Bear)!
+[2024.09.06-01.25.43:821][257]2024.09.06_01.25.43: Tribe Tribe of Mango, ID 1773629605: Day 2, 13:22:58: <RichColor Color="0, 1, 0, 1">Diggs Tamed a Baby Karkinos - Lvl 140 (Karkinos)!</>)
+[2024.09.06-01.25.43:823][257]2024.09.06_01.25.43: Diggs of Tribe Tribe of Mango Tamed a Baby Karkinos - Lvl 140 (Karkinos)!
+[2024.09.06-01.25.48:568][350]Garbage Collection Triggered!
+[2024.09.06-01.28.24:122][460]2024.09.06_01.28.24: Saving world...
+[2024.09.06-01.28.24:135][460]2024.09.06_01.28.24: World Save Complete. Took: 0.473693
+[2024.09.06-01.28.32:533][635]IP for incoming account 00020546efbd428091608b43c1bab2d9 - IP 24.101.79.169
+[2024.09.06-01.29.47:450][ 46]2024.09.06_01.29.47: Foo__Foo-_- [UniqueNetId:00020546efbd428091608b43c1bab2d9 Platform:None] joined this ARK!
+[2024.09.06-01.29.48:434][ 64]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.29.48:592][ 67]FNetGUIDCache::PeriodicCleanAndCompact:   3.15ms total time [  2.70ms CleanReferences() and   0.45ms compacting]; ObjectLookup.Num()=13023 [3852 removed]; NetGUIDLookup.Num()=11954 [2965 removed]
+[2024.09.06-01.32.23:884][950]2024.09.06_01.32.23: Tribe Tribe of Mango, ID 1773629605: Day 2, 16:02:39: <RichColor Color="1, 0, 0, 1">Tribemember Diggs - Lvl 76 was killed!</>)
+[2024.09.06-01.32.23:886][950]2024.09.06_01.32.23: Diggs - Lvl 76 (Tribe of Mango) was killed!
+[2024.09.06-01.32.38:272][217]2024.09.06_01.32.38: Tribe Tribe of Papi, ID 1257149759: Day 2, 16:08:24: <RichColor Color="0, 1, 1, 1">Papi was added to the Tribe!</>)
+[2024.09.06-01.32.38:280][217]2024.09.06_01.32.38: Player bllthebull with ID 452710600 joined tribe Tribe of Papi with ID 1257149759.
+[2024.09.06-01.32.51:376][444]2024.09.06_01.32.51: Tribe SHWAT, ID 1451654481: Day 2, 16:13:40: <RichColor Color="1, 0, 0, 1">Tribemember Enarchy - Lvl 31 was killed by an Aberrant Raptor - Lvl 125!</>)
+[2024.09.06-01.32.51:378][444]2024.09.06_01.32.51: Enarchy - Lvl 31 (SHWAT) was killed by an Aberrant Raptor - Lvl 125 ()!
+[2024.09.06-01.33.24:184][ 13]2024.09.06_01.33.24: Saving world...
+[2024.09.06-01.33.24:192][ 13]2024.09.06_01.33.24: World Save Complete. Took: 0.523026
+[2024.09.06-01.35.02:663][835]2024.09.06_01.35.02: Tribe Shwat Team, ID 1482354014: Day 2, 17:06:08: <RichColor Color="1, 0, 0, 1">Your Adolescent Aberrant Dire Bear - Lvl 80 (Aberrant Dire Bear) was killed!</>)
+[2024.09.06-01.35.02:671][835]2024.09.06_01.35.02: Adolescent Aberrant Dire Bear - Lvl 80 (Aberrant Dire Bear) (Shwat Team) was killed!
+[2024.09.06-01.37.48:664][408]Garbage Collection Triggered!
+[2024.09.06-01.38.24:221][871]2024.09.06_01.38.24: Saving world...
+[2024.09.06-01.38.24:232][871]2024.09.06_01.38.24: World Save Complete. Took: 0.496102
+[2024.09.06-01.39.30:142][785]2024.09.06_01.39.30: bllthebull [UniqueNetId:000247ed27c04a05963696309993857a Platform:None] left this ARK!
+[2024.09.06-01.39.44:722][986]IP for incoming account 000247ed27c04a05963696309993857a - IP 50.110.43.19
+[2024.09.06-01.39.48:604][ 39]FNetGUIDCache::PeriodicCleanAndCompact:   3.34ms total time [  2.82ms CleanReferences() and   0.52ms compacting]; ObjectLookup.Num()=14807 [2952 removed]; NetGUIDLookup.Num()=13008 [3670 removed]
+[2024.09.06-01.39.49:028][ 44]2024.09.06_01.39.49: bllthebull [UniqueNetId:000247ed27c04a05963696309993857a Platform:None] joined this ARK!
+[2024.09.06-01.39.50:167][ 54]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.41.30:450][559]IP for incoming account 0002ac7359804f2cb484781eb7402448 - IP 216.106.75.250
+[2024.09.06-01.41.35:861][645]2024.09.06_01.41.35: pizza pony [UniqueNetId:0002ac7359804f2cb484781eb7402448 Platform:None] joined this ARK!
+[2024.09.06-01.41.37:084][665]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.41.59:178][ 17]2024.09.06_01.41.59: Tribe Tribe of Ooga Booga, ID 1091606937: Day 2, 19:52:25: <RichColor Color="0, 1, 1, 1">Ooga Booga was added to the Tribe!</>)
+[2024.09.06-01.41.59:185][ 17]2024.09.06_01.41.59: Player pizza pony with ID 151385044 joined tribe Tribe of Ooga Booga with ID 1091606937.
+[2024.09.06-01.42.04:917][ 80]IP for incoming account 0002cda24a4a4b7ba9d690a567beb670 - IP 100.4.182.24
+[2024.09.06-01.42.10:043][147]IP for incoming account 0002c08569ef4d3a93a6759f395ae2cd - IP 68.48.196.19
+[2024.09.06-01.42.11:195][162]2024.09.06_01.42.11: King_Asta_1 [UniqueNetId:0002cda24a4a4b7ba9d690a567beb670 Platform:None] joined this ARK!
+[2024.09.06-01.42.12:001][172]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.42.14:419][201]IP for incoming account 00024fbb87e142058334f5994dcfabff - IP 162.235.159.35
+[2024.09.06-01.42.19:264][268]2024.09.06_01.42.19: Viprr [UniqueNetId:0002c08569ef4d3a93a6759f395ae2cd Platform:None] joined this ARK!
+[2024.09.06-01.42.20:013][278]2024.09.06_01.42.20: Son--of--Thor [UniqueNetId:00024fbb87e142058334f5994dcfabff Platform:None] joined this ARK!
+[2024.09.06-01.42.20:868][289]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.42.48:809][645]2024.09.06_01.42.48: Tribe Tribe of Viprr, ID 1512213058: Day 2, 20:12:16: <RichColor Color="0, 1, 1, 1">Viprr was added to the Tribe!</>)
+[2024.09.06-01.42.48:813][645]2024.09.06_01.42.48: Player Viprr with ID 633295730 joined tribe Tribe of Viprr with ID 1512213058.
+[2024.09.06-01.42.52:401][689]2024.09.06_01.42.52: bllthebull [UniqueNetId:000247ed27c04a05963696309993857a Platform:None] left this ARK!
+[2024.09.06-01.43.05:545][856]2024.09.06_01.43.05: Foo__Foo-_- [UniqueNetId:00020546efbd428091608b43c1bab2d9 Platform:None] left this ARK!
+[2024.09.06-01.43.24:258][138]2024.09.06_01.43.24: Saving world...
+[2024.09.06-01.43.24:268][138]2024.09.06_01.43.24: World Save Complete. Took: 0.490065
+[2024.09.06-01.43.25:622][157]IP for incoming account 000247ed27c04a05963696309993857a - IP 50.110.43.19
+[2024.09.06-01.43.30:000][224]2024.09.06_01.43.30: bllthebull [UniqueNetId:000247ed27c04a05963696309993857a Platform:None] joined this ARK!
+[2024.09.06-01.43.31:090][234]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.43.41:173][354]2024.09.06_01.43.41: Tribe Tribe of Asta, ID 1231410302: Day 2, 20:33:11: <RichColor Color="0, 1, 1, 1">Asta was added to the Tribe!</>)
+[2024.09.06-01.43.41:179][354]2024.09.06_01.43.41: Player King_Asta_1 with ID 364000503 joined tribe Tribe of Asta with ID 1231410302.
+[2024.09.06-01.43.42:307][361]2024.09.06_01.43.42: Tribe Tribe of Thor, ID 1603820812: Day 2, 20:33:37: <RichColor Color="0, 1, 1, 1">Thor was added to the Tribe!</>)
+[2024.09.06-01.43.42:312][361]2024.09.06_01.43.42: Player Son--of--Thor with ID 37924645 joined tribe Tribe of Thor with ID 1603820812.
+[2024.09.06-01.43.57:204][520]IP for incoming account 00021acbaf094a78ab15ec9c1732d4d0 - IP 107.11.184.93
+[2024.09.06-01.44.02:223][571]2024.09.06_01.44.02: Tribe Tribe of Thor, ID 1603820812: Day 2, 20:41:37: <RichColor Color="1, 0, 0, 1">Tribemember Thor - Lvl 1 was killed by a Ravager - Lvl 125!</>)
+[2024.09.06-01.44.02:228][571]2024.09.06_01.44.02: Thor - Lvl 1 (Tribe of Thor) was killed by a Ravager - Lvl 125 ()!
+[2024.09.06-01.44.03:563][584]2024.09.06_01.44.03: BIGFOOT [UniqueNetId:00021acbaf094a78ab15ec9c1732d4d0 Platform:None] joined this ARK!
+[2024.09.06-01.44.31:355][861]2024.09.06_01.44.31: Viprr [UniqueNetId:0002c08569ef4d3a93a6759f395ae2cd Platform:None] left this ARK!
+[2024.09.06-01.44.58:829][152]2024.09.06_01.44.58: Son--of--Thor [UniqueNetId:00024fbb87e142058334f5994dcfabff Platform:None] left this ARK!
+[2024.09.06-01.44.59:145][155]2024.09.06_01.44.59: pizza pony [UniqueNetId:0002ac7359804f2cb484781eb7402448 Platform:None] left this ARK!
+[2024.09.06-01.45.37:127][636]IP for incoming account 00024fbb87e142058334f5994dcfabff - IP 162.235.159.35
+[2024.09.06-01.45.42:962][715]2024.09.06_01.45.42: Son--of--Thor [UniqueNetId:00024fbb87e142058334f5994dcfabff Platform:None] joined this ARK!
+[2024.09.06-01.45.43:960][728]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.46.33:218][327]2024.09.06_01.46.33: bllthebull [UniqueNetId:000247ed27c04a05963696309993857a Platform:None] left this ARK!
+[2024.09.06-01.47.09:711][758]IP for incoming account 000247ed27c04a05963696309993857a - IP 50.110.43.19
+[2024.09.06-01.47.14:728][824]2024.09.06_01.47.14: bllthebull [UniqueNetId:000247ed27c04a05963696309993857a Platform:None] joined this ARK!
+[2024.09.06-01.47.15:925][835]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.48.00:014][385]2024.09.06_01.48.00: Tribe Tribe of Papi, ID 1257149759: Day 2, 22:16:44: <RichColor Color="1, 0, 0, 1">Tribemember Papi - Lvl 14 was killed!</>)
+[2024.09.06-01.48.00:022][385]2024.09.06_01.48.00: Papi - Lvl 14 (Tribe of Papi) was killed!
+[2024.09.06-01.48.00:575][392]2024.09.06_01.48.00: Son--of--Thor [UniqueNetId:00024fbb87e142058334f5994dcfabff Platform:None] left this ARK!
+[2024.09.06-01.48.24:251][714]2024.09.06_01.48.24: Saving world...
+[2024.09.06-01.48.24:261][714]2024.09.06_01.48.24: World Save Complete. Took: 0.475048
+[2024.09.06-01.48.46:653][ 42]IP for incoming account 00024fbb87e142058334f5994dcfabff - IP 162.235.159.35
+[2024.09.06-01.48.52:318][122]2024.09.06_01.48.52: Son--of--Thor [UniqueNetId:00024fbb87e142058334f5994dcfabff Platform:None] joined this ARK!
+[2024.09.06-01.48.53:840][140]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.49.15:868][436]IP for incoming account 00020546efbd428091608b43c1bab2d9 - IP 24.101.79.169
+[2024.09.06-01.49.20:638][506]2024.09.06_01.49.20: Foo__Foo-_- [UniqueNetId:00020546efbd428091608b43c1bab2d9 Platform:None] joined this ARK!
+[2024.09.06-01.49.21:473][518]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.49.42:392][837]2024.09.06_01.49.42: Tribe Tribe of Thor, ID 1603820812: Day 2, 22:57:40: <RichColor Color="1, 0, 0, 1">Tribemember Thor - Lvl 9 was killed by an Aberrant Spino - Lvl 140!</>)
+[2024.09.06-01.49.42:395][837]2024.09.06_01.49.42: Thor - Lvl 9 (Tribe of Thor) was killed by an Aberrant Spino - Lvl 140 ()!
+[2024.09.06-01.49.48:651][940]FNetGUIDCache::PeriodicCleanAndCompact:   3.94ms total time [  3.39ms CleanReferences() and   0.54ms compacting]; ObjectLookup.Num()=16352 [5798 removed]; NetGUIDLookup.Num()=14049 [6279 removed]
+[2024.09.06-01.49.48:710][940]Garbage Collection Triggered!
+[2024.09.06-01.50.17:830][298]2024.09.06_01.50.17: bllthebull [UniqueNetId:000247ed27c04a05963696309993857a Platform:None] left this ARK!
+[2024.09.06-01.50.41:624][571]IP for incoming account 0002d7b21bea4d73a148c0643bbb2261 - IP 174.174.173.102
+[2024.09.06-01.50.47:063][624]2024.09.06_01.50.47: Shirklord [UniqueNetId:0002d7b21bea4d73a148c0643bbb2261 Platform:None] joined this ARK!
+[2024.09.06-01.52.36:755][792]2024.09.06_01.52.36: Tribe Tribe of Shirky, ID 1396696006: Day 3, 00:06:48: <RichColor Color="0, 1, 1, 1">Shirky was added to the Tribe!</>)
+[2024.09.06-01.52.36:762][792]2024.09.06_01.52.36: Player Shirklord with ID 684993913 joined tribe Tribe of Shirky with ID 1396696006.
+[2024.09.06-01.52.38:559][813]2024.09.06_01.52.38: Tribe SHWAT, ID 1451654481: Day 3, 00:07:32: <RichColor Color="0, 1, 0, 1">Enarchy Tamed an Aberrant Raptor - Lvl 171 (Aberrant Raptor)!</>)
+[2024.09.06-01.52.38:565][813]2024.09.06_01.52.38: Enarchy of Tribe SHWAT Tamed an Aberrant Raptor - Lvl 171 (Aberrant Raptor)!
+[2024.09.06-01.52.45:615][903]2024.09.06_01.52.45: Foo__Foo-_- [UniqueNetId:00020546efbd428091608b43c1bab2d9 Platform:None] left this ARK!
+[2024.09.06-01.53.22:515][423]2024.09.06_01.53.22: Tribe Tribe of Asta, ID 1231410302: Day 3, 00:25:06: <RichColor Color="0, 1, 0, 1">Asta Tamed a Bulbdog - Lvl 149 (Bulbdog)!</>)
+[2024.09.06-01.53.22:518][423]2024.09.06_01.53.22: Asta of Tribe Tribe of Asta Tamed a Bulbdog - Lvl 149 (Bulbdog)!
+[2024.09.06-01.53.24:287][443]2024.09.06_01.53.24: Saving world...
+[2024.09.06-01.53.24:290][443]2024.09.06_01.53.24: World Save Complete. Took: 0.496210
+[2024.09.06-01.53.42:953][726]IP for incoming account 00026f12d32c4bc8bf677e38b05ea7e2 - IP 38.240.204.199
+[2024.09.06-01.54.15:348][242]2024.09.06_01.54.15: RealLEGNA [UniqueNetId:00026f12d32c4bc8bf677e38b05ea7e2 Platform:None] joined this ARK!
+[2024.09.06-01.54.21:254][343]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.56.10:381][ 88]2024.09.06_01.56.10: Tribe Tribe of sr LEGNA, ID 1789906455: Day 3, 01:32:14: <RichColor Color="0, 1, 1, 1">sr LEGNA was added to the Tribe!</>)
+[2024.09.06-01.56.10:391][ 88]2024.09.06_01.56.10: Player RealLEGNA with ID 113662277 joined tribe Tribe of sr LEGNA with ID 1789906455.
+[2024.09.06-01.56.10:823][ 91]2024.09.06_01.56.10: Tribe Tribe of Mango, ID 1773629605: Day 3, 01:32:23: <RichColor Color="1, 0, 0, 1">Tribemember Mango - Lvl 91 was killed!</>)
+[2024.09.06-01.56.10:831][ 91]2024.09.06_01.56.10: Mango - Lvl 91 (Tribe of Mango) was killed!
+[2024.09.06-01.57.17:437][849]IP for incoming account 000254158fc74e0cb843ffd3b72670be - IP 173.29.243.36
+[2024.09.06-01.57.21:638][899]2024.09.06_01.57.21: YourPalMule [UniqueNetId:000254158fc74e0cb843ffd3b72670be Platform:None] joined this ARK!
+[2024.09.06-01.57.22:773][911]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.57.43:119][129]2024.09.06_01.57.43: Tribe Tribe of Kirila, ID 1215743090: Day 3, 02:09:19: <RichColor Color="0, 1, 1, 1">Kirila was added to the Tribe!</>)
+[2024.09.06-01.57.43:131][129]2024.09.06_01.57.43: Player YourPalMule with ID 729338337 joined tribe Tribe of Kirila with ID 1215743090.
+[2024.09.06-01.57.52:159][202]IP for incoming account 00027895834843bea4be75af3e7a1c2e - IP 172.56.176.217
+[2024.09.06-01.57.59:346][264]2024.09.06_01.57.59: EVIL GOD OROCHI [UniqueNetId:00027895834843bea4be75af3e7a1c2e Platform:None] joined this ARK!
+[2024.09.06-01.58.00:718][275]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-01.58.24:308][473]2024.09.06_01.58.24: Saving world...
+[2024.09.06-01.58.24:311][473]2024.09.06_01.58.24: World Save Complete. Took: 0.486239
+[2024.09.06-01.58.32:679][548]2024.09.06_01.58.32: Tribe Tribe of Kirila, ID 1215743090: Day 3, 02:29:07: <RichColor Color="1, 0, 0, 1">Tribemember Kirila - Lvl 1 was killed by an Aberrant Raptor - Lvl 120!</>)
+[2024.09.06-01.58.32:690][548]2024.09.06_01.58.32: Kirila - Lvl 1 (Tribe of Kirila) was killed by an Aberrant Raptor - Lvl 120 ()!
+[2024.09.06-01.58.36:552][581]2024.09.06_01.58.36: Tribe Tribe of Viejo sabroso, ID 1207642538: Day 3, 02:30:39: <RichColor Color="0, 1, 1, 1">Viejo sabroso was added to the Tribe!</>)
+[2024.09.06-01.58.36:562][581]2024.09.06_01.58.36: Player EVIL GOD OROCHI with ID 503824350 joined tribe Tribe of Viejo sabroso with ID 1207642538.
+[2024.09.06-01.58.49:231][679]IP for incoming account 000267e4f0d84f05825d01a3fbc3287d - IP 107.11.184.93
+[2024.09.06-01.58.59:672][758]2024.09.06_01.58.59: Elisia [UniqueNetId:000267e4f0d84f05825d01a3fbc3287d Platform:None] joined this ARK!
+[2024.09.06-01.59.09:920][839]2024.09.06_01.59.09: Tribe Tribe of Viejo sabroso, ID 1207642538: Day 3, 02:43:58: <RichColor Color="1, 0, 0, 1">Tribemember Viejo sabroso - Lvl 1 was killed by an Aberrant Raptor - Lvl 60!</>)
+[2024.09.06-01.59.09:923][839]2024.09.06_01.59.09: Viejo sabroso - Lvl 1 (Tribe of Viejo sabroso) was killed by an Aberrant Raptor - Lvl 60 ()!
+[2024.09.06-01.59.44:189][105]2024.09.06_01.59.44: Tribe Tribe of Asta, ID 1231410302: Day 3, 02:57:39: <RichColor Color="0, 1, 1, 1">Tribe of Thor tribe was merged in by Thor!</>)
+[2024.09.06-01.59.44:220][105]2024.09.06_01.59.44: Tribe Tribe of Thor, ID 1603820812: Day 3, 02:57:39: <RichColor Color="1, 1, 0, 1">Thor was removed from the Tribe!</>)
+[2024.09.06-01.59.44:232][105]2024.09.06_01.59.44: Player Thor with ID 37924645 removed from tribe Tribe of Thor with ID 1603820812.
+[2024.09.06-01.59.44:282][105]2024.09.06_01.59.44: Tribe Tribe of Asta, ID 1231410302: Day 3, 02:57:39: <RichColor Color="0, 1, 1, 1">Thor was added to the Tribe by Asta!</>)
+[2024.09.06-01.59.44:288][105]2024.09.06_01.59.44: Player Thor with ID 37924645 joined tribe Tribe of Asta with ID 1231410302 Invited by Player Asta with ID 364000503.
+[2024.09.06-01.59.48:748][141]FNetGUIDCache::PeriodicCleanAndCompact:   5.40ms total time [  4.46ms CleanReferences() and   0.94ms compacting]; ObjectLookup.Num()=19219 [6528 removed]; NetGUIDLookup.Num()=15894 [7349 removed]
+[2024.09.06-02.00.18:282][395]2024.09.06_02.00.18: YourPalMule [UniqueNetId:000254158fc74e0cb843ffd3b72670be Platform:None] left this ARK!
+[2024.09.06-02.00.25:457][455]2024.09.06_02.00.25: Tribe Tribe of Asta, ID 1231410302: Day 3, 03:14:09: <RichColor Color="0, 1, 0, 1">Asta Tamed a Baby Aberrant Equus - Lvl 55 (Aberrant Equus)!</>)
+[2024.09.06-02.00.25:467][455]2024.09.06_02.00.25: Asta of Tribe Tribe of Asta Tamed a Baby Aberrant Equus - Lvl 55 (Aberrant Equus)!
+[2024.09.06-02.00.27:624][474]2024.09.06_02.00.27: EVIL GOD OROCHI [UniqueNetId:00027895834843bea4be75af3e7a1c2e Platform:None] left this ARK!
+[2024.09.06-02.00.59:124][809]2024.09.06_02.00.59: Tribe Tribe of Mango, ID 1773629605: Day 3, 03:27:38: <RichColor Color="0, 1, 0, 1">Diggs Tamed an Aberrant Moschops - Lvl 89 (Aberrant Moschops)!</>)
+[2024.09.06-02.00.59:126][809]2024.09.06_02.00.59: Diggs of Tribe Tribe of Mango Tamed an Aberrant Moschops - Lvl 89 (Aberrant Moschops)!
+[2024.09.06-02.01.02:184][840]2024.09.06_02.01.02: Tribe Tribe of Mango, ID 1773629605: Day 3, 03:28:52: <RichColor Color="0, 1, 0, 1">Diggs Tamed a Baby Aberrant Moschops - Lvl 60 (Aberrant Moschops)!</>)
+[2024.09.06-02.01.02:186][840]2024.09.06_02.01.02: Diggs of Tribe Tribe of Mango Tamed a Baby Aberrant Moschops - Lvl 60 (Aberrant Moschops)!
+[2024.09.06-02.01.04:039][861]2024.09.06_02.01.04: Tribe Tribe of Mango, ID 1773629605: Day 3, 03:29:36: <RichColor Color="0, 1, 0, 1">Diggs Tamed a Baby Aberrant Moschops - Lvl 60 (Aberrant Moschops)!</>)
+[2024.09.06-02.01.04:045][861]2024.09.06_02.01.04: Diggs of Tribe Tribe of Mango Tamed a Baby Aberrant Moschops - Lvl 60 (Aberrant Moschops)!
+[2024.09.06-02.01.24:229][ 91]2024.09.06_02.01.24: Tribe Tribe of Asta, ID 1231410302: Day 3, 03:37:33: <RichColor Color="0, 1, 0, 1">Asta Tamed a Juvenile Aberrant Equus - Lvl 55 (Aberrant Equus)!</>)
+[2024.09.06-02.01.24:235][ 91]2024.09.06_02.01.24: Asta of Tribe Tribe of Asta Tamed a Juvenile Aberrant Equus - Lvl 55 (Aberrant Equus)!
+[2024.09.06-02.01.48:834][302]Garbage Collection Triggered!
+[2024.09.06-02.02.04:729][451]2024.09.06_02.02.04: Tribe Tribe of Pineapple, ID 1794106717: Day 3, 03:51:58: <RichColor Color="0, 1, 1, 1">Pineapple was added to the Tribe!</>)
+[2024.09.06-02.02.04:734][451]2024.09.06_02.02.04: Player Elisia with ID 556390937 joined tribe Tribe of Pineapple with ID 1794106717.
+[2024.09.06-02.02.53:643][ 35]2024.09.06_02.02.53: Tribe Tribe of Mango, ID 1773629605: Day 3, 04:11:33: <RichColor Color="1, 0, 0, 1">Your Baby Aberrant Moschops - Lvl 60 (Aberrant Moschops) was killed!</>)
+[2024.09.06-02.02.53:644][ 35]2024.09.06_02.02.53: Baby Aberrant Moschops - Lvl 60 (Aberrant Moschops) (Tribe of Mango) was killed!
+[2024.09.06-02.02.53:657][ 35]2024.09.06_02.02.53: Tribe Tribe of Mango, ID 1773629605: Day 3, 04:11:33: Baby Aberrant Moschops - Lvl 60 (Aberrant Moschops) starved to death!)
+[2024.09.06-02.03.08:702][229]2024.09.06_02.03.08: Tribe Tribe of Mango, ID 1773629605: Day 3, 04:17:34: <RichColor Color="1, 0, 0, 1">Your Baby Aberrant Moschops - Lvl 60 (Aberrant Moschops) was killed!</>)
+[2024.09.06-02.03.08:708][229]2024.09.06_02.03.08: Baby Aberrant Moschops - Lvl 60 (Aberrant Moschops) (Tribe of Mango) was killed!
+[2024.09.06-02.03.08:721][229]2024.09.06_02.03.08: Tribe Tribe of Mango, ID 1773629605: Day 3, 04:17:34: Baby Aberrant Moschops - Lvl 60 (Aberrant Moschops) starved to death!)
+[2024.09.06-02.03.24:354][420]2024.09.06_02.03.24: Saving world...
+[2024.09.06-02.03.24:357][420]2024.09.06_02.03.24: World Save Complete. Took: 0.506879
+[2024.09.06-02.03.59:768][878]2024.09.06_02.03.59: Tribe Tribe of Asta, ID 1231410302: Day 3, 04:37:58: <RichColor Color="1, 0, 0, 1">Your Juvenile Aberrant Equus - Lvl 55 (Aberrant Equus) was killed!</>)
+[2024.09.06-02.03.59:772][878]2024.09.06_02.03.59: Juvenile Aberrant Equus - Lvl 55 (Aberrant Equus) (Tribe of Asta) was killed!
+[2024.09.06-02.03.59:785][878]2024.09.06_02.03.59: Tribe Tribe of Asta, ID 1231410302: Day 3, 04:37:58: Juvenile Aberrant Equus - Lvl 55 (Aberrant Equus) starved to death!)
+[2024.09.06-02.04.07:741][973]2024.09.06_02.04.07: Tribe Tribe of Pineapple, ID 1794106717: Day 3, 04:41:09: <RichColor Color="1, 0, 0, 1">Tribemember Pineapple - Lvl 1 was killed by a Ravager - Lvl 65!</>)
+[2024.09.06-02.04.07:746][973]2024.09.06_02.04.07: Pineapple - Lvl 1 (Tribe of Pineapple) was killed by a Ravager - Lvl 65 ()!
+[2024.09.06-02.04.28:404][199]2024.09.06_02.04.28: Elisia [UniqueNetId:000267e4f0d84f05825d01a3fbc3287d Platform:None] left this ARK!
+[2024.09.06-02.04.49:604][408]IP for incoming account 000267e4f0d84f05825d01a3fbc3287d - IP 107.11.184.93
+[2024.09.06-02.04.58:309][498]2024.09.06_02.04.58: Elisia [UniqueNetId:000267e4f0d84f05825d01a3fbc3287d Platform:None] joined this ARK!
+[2024.09.06-02.07.00:743][787]2024.09.06_02.07.00: RealLEGNA (sr LEGNA): HI
+[2024.09.06-02.07.05:661][839]2024.09.06_02.07.05: RehDragon (RehDragon): Hello
+[2024.09.06-02.07.30:218][108]2024.09.06_02.07.30: MartyrD0nk3y (Shwat): Ayo
+[2024.09.06-02.08.09:168][523]2024.09.06_02.08.09: RealLEGNA (sr LEGNA): ALGUIEN,HABLA,ESPA ÑOL
+[2024.09.06-02.08.24:403][673]2024.09.06_02.08.24: Saving world...
+[2024.09.06-02.08.24:415][673]2024.09.06_02.08.24: World Save Complete. Took: 0.515682
+[2024.09.06-02.08.26:351][690]2024.09.06_02.08.26: Tribe Tribe of Pineapple, ID 1794106717: Day 3, 06:24:32: <RichColor Color="1, 0, 0, 1">Tribemember Pineapple - Lvl 1 was killed by an Aberrant Pulmonoscorpius - Lvl 125!</>)
+[2024.09.06-02.08.26:359][690]2024.09.06_02.08.26: Pineapple - Lvl 1 (Tribe of Pineapple) was killed by an Aberrant Pulmonoscorpius - Lvl 125 ()!
+[2024.09.06-02.09.48:832][522]FNetGUIDCache::PeriodicCleanAndCompact:   5.18ms total time [  4.40ms CleanReferences() and   0.78ms compacting]; ObjectLookup.Num()=19569 [7998 removed]; NetGUIDLookup.Num()=16607 [7597 removed]
+[2024.09.06-02.11.28:427][499]2024.09.06_02.11.28: Tribe Tribe of sr LEGNA, ID 1789906455: Day 3, 07:37:18: <RichColor Color="0, 1, 0, 1">sr LEGNA Tamed an Aberrant Moschops - Lvl 104 (Aberrant Moschops)!</>)
+[2024.09.06-02.11.28:435][499]2024.09.06_02.11.28: sr LEGNA of Tribe Tribe of sr LEGNA Tamed an Aberrant Moschops - Lvl 104 (Aberrant Moschops)!
+[2024.09.06-02.11.36:342][575]2024.09.06_02.11.36: Tribe Tribe of Asta, ID 1231410302: Day 3, 07:40:30: <RichColor Color="1, 0, 0, 1">Tribemember Asta - Lvl 63 was killed by Thor - Lvl 69-37924645 (Tribe of Asta)!</>)
+[2024.09.06-02.11.36:353][575]2024.09.06_02.11.36: Tribe Tribe of Asta, ID 1231410302: Day 3, 07:40:30: <RichColor Color="1, 0, 1, 1">Your Tribe killed Asta - Lvl 63 (Tribe of Asta)!</>)
+[2024.09.06-02.11.36:364][575]2024.09.06_02.11.36: Asta - Lvl 63 (Tribe of Asta) was killed by Thor - Lvl 69 (Tribe of Asta)! [KillerSID: 37924645]
+[2024.09.06-02.12.37:167][209]2024.09.06_02.12.37: AdminCmd: TeleportPlayerIdToMe 877238943  (PlayerName: MartyrD0nk3y, ARKID: 859484274, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.09.06-02.12.44:988][305]2024.09.06_02.12.44: Tribe Tribe of Mango, ID 1773629605: Day 3, 08:07:58: <RichColor Color="1, 0, 0, 1">Tribemember Mango - Lvl 95 was killed by a Nameless - Lvl 140!</>)
+[2024.09.06-02.12.44:993][305]2024.09.06_02.12.44: Mango - Lvl 95 (Tribe of Mango) was killed by a Nameless - Lvl 140 ()!
+[2024.09.06-02.12.56:567][477]2024.09.06_02.12.56: Tribe Shwat Team, ID 1482354014: Day 3, 08:12:35: <RichColor Color="0, 1, 1, 1">SHWAT tribe was merged in by Enarchy!</>)
+[2024.09.06-02.12.56:597][477]2024.09.06_02.12.56: Tribe SHWAT, ID 1451654481: Day 3, 08:12:35: <RichColor Color="1, 1, 0, 1">Enarchy was removed from the Tribe!</>)
+[2024.09.06-02.12.56:607][477]2024.09.06_02.12.56: Player Enarchy with ID 877238943 removed from tribe SHWAT with ID 1451654481.
+[2024.09.06-02.12.56:648][477]2024.09.06_02.12.56: Tribe Shwat Team, ID 1482354014: Day 3, 08:12:35: <RichColor Color="0, 1, 1, 1">Enarchy was added to the Tribe by RehDragon!</>)
+[2024.09.06-02.12.56:651][477]2024.09.06_02.12.56: Player Enarchy with ID 877238943 joined tribe Shwat Team with ID 1482354014 Invited by Player RehDragon with ID 858296109.
+[2024.09.06-02.13.17:428][777]IP for incoming account 0002a82ab51647a9b4ea25b5e6c48c15 - IP 186.53.144.233
+[2024.09.06-02.13.24:384][873]2024.09.06_02.13.24: Saving world...
+[2024.09.06-02.13.24:395][873]2024.09.06_02.13.24: World Save Complete. Took: 0.495498
+[2024.09.06-02.13.29:703][956]2024.09.06_02.13.29: xksiaa8 [UniqueNetId:0002a82ab51647a9b4ea25b5e6c48c15 Platform:None] joined this ARK!
+[2024.09.06-02.13.48:869][206]Garbage Collection Triggered!
+[2024.09.06-02.13.57:133][288]2024.09.06_02.13.57: Elisia [UniqueNetId:000267e4f0d84f05825d01a3fbc3287d Platform:None] left this ARK!
+[2024.09.06-02.14.42:502][864]2024.09.06_02.14.42: Tribe Tribe of Asta, ID 1231410302: Day 3, 08:54:15: <RichColor Color="1, 0, 0, 1">Your 'Sleeping Bag' was destroyed!</>)
+[2024.09.06-02.14.42:513][864]2024.09.06_02.14.42: Tribe Tribe of Asta, ID 1231410302: Day 3, 08:54:15: <RichColor Color="1, 0, 0, 1">Your 'Sleeping Bag' was destroyed!</>)
+[2024.09.06-02.15.32:662][476]2024.09.06_02.15.32: Tribe Tribe of xx, ID 1422593335: Day 3, 09:14:18: <RichColor Color="0, 1, 1, 1">xx was added to the Tribe!</>)
+[2024.09.06-02.15.32:666][476]2024.09.06_02.15.32: Player xksiaa8 with ID 972602307 joined tribe Tribe of xx with ID 1422593335.
+[2024.09.06-02.15.35:726][510]2024.09.06_02.15.35: Tribe Tribe of Mango, ID 1773629605: Day 3, 09:15:31: <RichColor Color="0, 1, 0, 1">Banana Tamed an Aberrant Gigantopithecus - Lvl 97 (Aberrant Gigantopithecus)!</>)
+[2024.09.06-02.15.35:735][510]2024.09.06_02.15.35: Banana of Tribe Tribe of Mango Tamed an Aberrant Gigantopithecus - Lvl 97 (Aberrant Gigantopithecus)!
+[2024.09.06-02.16.34:773][239]2024.09.06_02.16.34: Tribe Tribe of Mango, ID 1773629605: Day 3, 09:39:09: <RichColor Color="0, 1, 0, 1">Banana Tamed a Juvenile Karkinos - Lvl 70 (Karkinos)!</>)
+[2024.09.06-02.16.34:783][239]2024.09.06_02.16.34: Banana of Tribe Tribe of Mango Tamed a Juvenile Karkinos - Lvl 70 (Karkinos)!
+[2024.09.06-02.17.06:850][655]IP for incoming account 000267e4f0d84f05825d01a3fbc3287d - IP 107.11.184.93
+[2024.09.06-02.17.20:701][828]2024.09.06_02.17.20: Elisia [UniqueNetId:000267e4f0d84f05825d01a3fbc3287d Platform:None] joined this ARK!
+[2024.09.06-02.17.22:209][843]2024.09.06_02.17.22: Tribe Tribe of Mango, ID 1773629605: Day 3, 09:58:07: <RichColor Color="0, 1, 0, 1">Mango Tamed a Juvenile Bulbdog - Lvl 130 (Bulbdog)!</>)
+[2024.09.06-02.17.22:221][843]2024.09.06_02.17.22: Mango of Tribe Tribe of Mango Tamed a Juvenile Bulbdog - Lvl 130 (Bulbdog)!
+[2024.09.06-02.17.30:501][934]2024.09.06_02.17.30: Tribe Tribe of Mango, ID 1773629605: Day 3, 10:01:26: <RichColor Color="0, 1, 0, 1">Mango Tamed a Juvenile Bulbdog - Lvl 130 (Bulbdog)!</>)
+[2024.09.06-02.17.30:512][934]2024.09.06_02.17.30: Mango of Tribe Tribe of Mango Tamed a Juvenile Bulbdog - Lvl 130 (Bulbdog)!
+[2024.09.06-02.17.45:965][113]2024.09.06_02.17.45: Tribe Tribe of xx, ID 1422593335: Day 3, 10:07:39: <RichColor Color="1, 0, 0, 1">Tribemember xx - Lvl 6 was killed!</>)
+[2024.09.06-02.17.45:973][113]2024.09.06_02.17.45: xx - Lvl 6 (Tribe of xx) was killed! [KillerSID: 972602307]
+[2024.09.06-02.17.48:333][140]2024.09.06_02.17.48: xksiaa8 [UniqueNetId:0002a82ab51647a9b4ea25b5e6c48c15 Platform:None] left this ARK!
+[2024.09.06-02.18.24:397][561]2024.09.06_02.18.24: Saving world...
+[2024.09.06-02.18.24:407][561]2024.09.06_02.18.24: World Save Complete. Took: 0.489921
+[2024.09.06-02.18.25:875][580]2024.09.06_02.18.25: BIGFOOT (Mango): what are the breeding and growth rates?
+[2024.09.06-02.19.06:270][ 95]2024.09.06_02.19.06: MartyrD0nk3y (Shwat): They are boosted pretty high I know maturing is 70x of the top of my head
+[2024.09.06-02.19.48:899][645]FNetGUIDCache::PeriodicCleanAndCompact:   5.05ms total time [  4.33ms CleanReferences() and   0.72ms compacting]; ObjectLookup.Num()=19602 [6440 removed]; NetGUIDLookup.Num()=16576 [6313 removed]
+[2024.09.06-02.20.24:772][141]2024.09.06_02.20.24: BIGFOOT (Mango): 70x sounds high but this bulb dog taking a hot minute for 70x
+[2024.09.06-02.20.42:419][348]2024.09.06_02.20.42: Elisia [UniqueNetId:000267e4f0d84f05825d01a3fbc3287d Platform:None] left this ARK!
+[2024.09.06-02.20.56:894][517]IP for incoming account 000267e4f0d84f05825d01a3fbc3287d - IP 107.11.184.93
+[2024.09.06-02.21.05:935][627]2024.09.06_02.21.05: Elisia [UniqueNetId:000267e4f0d84f05825d01a3fbc3287d Platform:None] joined this ARK!
+[2024.09.06-02.21.35:318][963]2024.09.06_02.21.35: Tribe Tribe of Pineapple, ID 1794106717: Day 3, 11:39:21: <RichColor Color="1, 0, 0, 1">Tribemember Pineapple - Lvl 21 was killed by an Aberrant Raptor - Lvl 150!</>)
+[2024.09.06-02.21.35:321][963]2024.09.06_02.21.35: Pineapple - Lvl 21 (Tribe of Pineapple) was killed by an Aberrant Raptor - Lvl 150 ()!
+[2024.09.06-02.22.05:003][346]2024.09.06_02.22.05: SERVER: monkeywhisper: Let us review the rates to make sure theyre correct and well advise. 
+
+This was thrown together pretty quickly, sorry for any mia configurations!
+[2024.09.06-02.23.24:453][540]2024.09.06_02.23.24: Saving world...
+[2024.09.06-02.23.24:457][540]2024.09.06_02.23.24: World Save Complete. Took: 0.493990
+[2024.09.06-02.24.44:986][531]2024.09.06_02.24.44: BIGFOOT [UniqueNetId:00021acbaf094a78ab15ec9c1732d4d0 Platform:None] left this ARK!
+[2024.09.06-02.24.56:689][691]IP for incoming account 0002f6e0a8874fb685a61ae91dfb21be - IP 35.145.236.174
+[2024.09.06-02.25.02:701][774]2024.09.06_02.25.02: JamKat2845 [UniqueNetId:0002f6e0a8874fb685a61ae91dfb21be Platform:None] joined this ARK!
+[2024.09.06-02.25.04:150][795]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-02.25.42:650][401]2024.09.06_02.25.42: Tribe Tribe of Pineapple, ID 1794106717: Day 3, 13:18:15: <RichColor Color="1, 0, 0, 1">Tribemember Pineapple - Lvl 21 was killed by an Aberrant Raptor - Lvl 130!</>)
+[2024.09.06-02.25.42:653][401]2024.09.06_02.25.42: Pineapple - Lvl 21 (Tribe of Pineapple) was killed by an Aberrant Raptor - Lvl 130 ()!
+[2024.09.06-02.25.45:540][444]IP for incoming account 00021acbaf094a78ab15ec9c1732d4d0 - IP 107.11.184.93
+[2024.09.06-02.25.48:858][503]Garbage Collection Triggered!
+[2024.09.06-02.25.52:160][516]2024.09.06_02.25.52: BIGFOOT [UniqueNetId:00021acbaf094a78ab15ec9c1732d4d0 Platform:None] joined this ARK!
+[2024.09.06-02.26.08:644][732]2024.09.06_02.26.08: BIGFOOT [UniqueNetId:00021acbaf094a78ab15ec9c1732d4d0 Platform:None] left this ARK!
+[2024.09.06-02.26.52:560][346]2024.09.06_02.26.52: RealLEGNA [UniqueNetId:00026f12d32c4bc8bf677e38b05ea7e2 Platform:None] left this ARK!
+[2024.09.06-02.27.15:130][669]IP for incoming account 00021acbaf094a78ab15ec9c1732d4d0 - IP 107.11.184.93
+[2024.09.06-02.27.21:707][760]2024.09.06_02.27.21: BIGFOOT [UniqueNetId:00021acbaf094a78ab15ec9c1732d4d0 Platform:None] joined this ARK!
+[2024.09.06-02.27.30:553][863]2024.09.06_02.27.30: Tribe Tribe of Pineapple, ID 1794106717: Day 3, 14:00:54: <RichColor Color="1, 0, 0, 1">Tribemember Pineapple - Lvl 21 was killed by an Aberrant Raptor - Lvl 20!</>)
+[2024.09.06-02.27.30:559][863]2024.09.06_02.27.30: Pineapple - Lvl 21 (Tribe of Pineapple) was killed by an Aberrant Raptor - Lvl 20 ()!
+[2024.09.06-02.27.37:294][963]2024.09.06_02.27.37: Tribe Tribe of Jam, ID 1252191829: Day 3, 14:03:35: <RichColor Color="0, 1, 1, 1">Jam was added to the Tribe!</>)
+[2024.09.06-02.27.37:301][963]2024.09.06_02.27.37: Player JamKat2845 with ID 215473482 joined tribe Tribe of Jam with ID 1252191829.
+[2024.09.06-02.27.42:792][ 41]2024.09.06_02.27.42: Tribe Tribe of Mango, ID 1773629605: Day 3, 14:05:47: <RichColor Color="0, 1, 0, 1">Mango Tamed a Cosmo - Lvl 14 (Cosmo)!</>)
+[2024.09.06-02.27.42:798][ 41]2024.09.06_02.27.42: Mango of Tribe Tribe of Mango Tamed a Cosmo - Lvl 14 (Cosmo)!
+[2024.09.06-02.27.55:041][214]2024.09.06_02.27.55: Tribe Tribe of Mango, ID 1773629605: Day 3, 14:10:42: <RichColor Color="1, 0, 0, 1">Tribemember Mango - Lvl 95 was killed by an Aberrant Megalosaurus - Lvl 140!</>)
+[2024.09.06-02.27.55:049][214]2024.09.06_02.27.55: Mango - Lvl 95 (Tribe of Mango) was killed by an Aberrant Megalosaurus - Lvl 140 ()!
+[2024.09.06-02.28.24:555][555]2024.09.06_02.28.24: Saving world...
+[2024.09.06-02.28.24:564][555]2024.09.06_02.28.24: World Save Complete. Took: 0.536687
+[2024.09.06-02.28.38:769][712]2024.09.06_02.28.38: Tribe Tribe of Jam, ID 1252191829: Day 3, 14:28:08: <RichColor Color="1, 0, 0, 1">Tribemember Jam - Lvl 1 was killed by a Ravager - Lvl 105!</>)
+[2024.09.06-02.28.38:780][712]2024.09.06_02.28.38: Jam - Lvl 1 (Tribe of Jam) was killed by a Ravager - Lvl 105 ()!
+[2024.09.06-02.29.14:689][105]2024.09.06_02.29.14: Tribe Tribe of Mango, ID 1773629605: Day 3, 14:42:30: <RichColor Color="1, 0, 0, 1">Tribemember Mango - Lvl 95 was killed!</>)
+[2024.09.06-02.29.14:697][105]2024.09.06_02.29.14: Mango - Lvl 95 (Tribe of Mango) was killed!
+[2024.09.06-02.29.18:095][133]2024.09.06_02.29.18: Tribe Tribe of Mango, ID 1773629605: Day 3, 14:43:52: <RichColor Color="1, 0, 0, 1">Your Aberrant Gigantopithecus - Lvl 127 (Aberrant Gigantopithecus) was killed by an Aberrant Megalosaurus - Lvl 55!</>)
+[2024.09.06-02.29.18:107][133]2024.09.06_02.29.18: Aberrant Gigantopithecus - Lvl 127 (Aberrant Gigantopithecus) (Tribe of Mango) was killed by an Aberrant Megalosaurus - Lvl 55 ()!
+[2024.09.06-02.29.20:084][150]2024.09.06_02.29.20: Tribe Tribe of Mango, ID 1773629605: Day 3, 14:44:39: <RichColor Color="1, 0, 0, 1">Your Juvenile Karkinos - Lvl 70 (Karkinos) was killed by Banana - Lvl 98-588640747 (Tribe of Mango)!</>)
+[2024.09.06-02.29.20:087][150]2024.09.06_02.29.20: Tribe Tribe of Mango, ID 1773629605: Day 3, 14:44:39: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Karkinos - Lvl 70 (Karkinos) (Tribe of Mango)!</>)
+[2024.09.06-02.29.20:098][150]2024.09.06_02.29.20: Juvenile Karkinos - Lvl 70 (Karkinos) (Tribe of Mango) was killed by Banana - Lvl 98-588640747 (Tribe of Mango)! [KillerSID: 588640747]
+[2024.09.06-02.29.28:716][228]2024.09.06_02.29.28: Tribe Tribe of Mango, ID 1773629605: Day 3, 14:48:05: <RichColor Color="0, 1, 0, 1">Banana Tamed a Juvenile Aberrant Megalosaurus - Lvl 55 (Aberrant Megalosaurus)!</>)
+[2024.09.06-02.29.28:721][228]2024.09.06_02.29.28: Banana of Tribe Tribe of Mango Tamed a Juvenile Aberrant Megalosaurus - Lvl 55 (Aberrant Megalosaurus)!
+[2024.09.06-02.29.34:390][286]2024.09.06_02.29.34: Tribe Tribe of Jam, ID 1252191829: Day 3, 14:50:22: <RichColor Color="1, 0, 0, 1">Tribemember Jam - Lvl 1 was killed by an Aberrant Sarco - Lvl 145!</>)
+[2024.09.06-02.29.34:395][286]2024.09.06_02.29.34: Jam - Lvl 1 (Tribe of Jam) was killed by an Aberrant Sarco - Lvl 145 ()!
+[2024.09.06-02.29.48:927][446]FNetGUIDCache::PeriodicCleanAndCompact:   5.09ms total time [  4.38ms CleanReferences() and   0.71ms compacting]; ObjectLookup.Num()=20532 [7121 removed]; NetGUIDLookup.Num()=17830 [6668 removed]
+[2024.09.06-02.29.51:329][466]2024.09.06_02.29.51: Tribe Tribe of Mango, ID 1773629605: Day 3, 14:57:07: <RichColor Color="1, 0, 0, 1">Tribemember Mango - Lvl 95 was killed!</>)
+[2024.09.06-02.29.51:330][466]2024.09.06_02.29.51: Mango - Lvl 95 (Tribe of Mango) was killed!
+[2024.09.06-02.30.07:745][633]2024.09.06_02.30.07: Tribe Tribe of Mango, ID 1773629605: Day 3, 15:03:43: <RichColor Color="1, 0, 0, 1">Your Juvenile Aberrant Megalosaurus - Lvl 55 (Aberrant Megalosaurus) was killed by Banana - Lvl 98-588640747 (Tribe of Mango)!</>)
+[2024.09.06-02.30.07:749][633]2024.09.06_02.30.07: Tribe Tribe of Mango, ID 1773629605: Day 3, 15:03:43: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Aberrant Megalosaurus - Lvl 55 (Aberrant Megalosaurus) (Tribe of Mango)!</>)
+[2024.09.06-02.30.07:760][633]2024.09.06_02.30.07: Juvenile Aberrant Megalosaurus - Lvl 55 (Aberrant Megalosaurus) (Tribe of Mango) was killed by Banana - Lvl 98-588640747 (Tribe of Mango)! [KillerSID: 588640747]
+[2024.09.06-02.30.24:524][819]2024.09.06_02.30.24: Tribe Tribe of Pineapple, ID 1794106717: Day 3, 15:10:24: <RichColor Color="0, 1, 0, 1">Pineapple Tamed a Baby Aberrant Dodo - Lvl 130 (Aberrant Dodo)!</>)
+[2024.09.06-02.30.24:530][819]2024.09.06_02.30.24: Pineapple of Tribe Tribe of Pineapple Tamed a Baby Aberrant Dodo - Lvl 130 (Aberrant Dodo)!
+[2024.09.06-02.31.02:093][245]2024.09.06_02.31.02: Tribe Tribe of Pineapple, ID 1794106717: Day 3, 15:25:27: <RichColor Color="1, 0, 0, 1">Your Baby Aberrant Dodo - Lvl 130 (Aberrant Dodo) was killed by Pineapple - Lvl 38-556390937 (Tribe of Pineapple)!</>)
+[2024.09.06-02.31.02:103][245]2024.09.06_02.31.02: Tribe Tribe of Pineapple, ID 1794106717: Day 3, 15:25:27: <RichColor Color="1, 0, 1, 1">Your Tribe killed Baby Aberrant Dodo - Lvl 130 (Aberrant Dodo) (Tribe of Pineapple)!</>)
+[2024.09.06-02.31.02:113][245]2024.09.06_02.31.02: Baby Aberrant Dodo - Lvl 130 (Aberrant Dodo) (Tribe of Pineapple) was killed by Pineapple - Lvl 38-556390937 (Tribe of Pineapple)! [KillerSID: 556390937]
+[2024.09.06-02.31.18:829][399]2024.09.06_02.31.18: Tribe Tribe of Jam, ID 1252191829: Day 3, 15:32:08: <RichColor Color="1, 0, 0, 1">Tribemember Jam - Lvl 1 was killed by a Basilisk - Lvl 15!</>)
+[2024.09.06-02.31.18:837][399]2024.09.06_02.31.18: Jam - Lvl 1 (Tribe of Jam) was killed by a Basilisk - Lvl 15 ()!
+[2024.09.06-02.31.44:489][617]2024.09.06_02.31.44: Tribe Tribe of Jam, ID 1252191829: Day 3, 15:42:21: <RichColor Color="1, 0, 0, 1">Tribemember Jam - Lvl 1 was killed by an Aberrant Paraceratherium - Lvl 95!</>)
+[2024.09.06-02.31.44:490][617]2024.09.06_02.31.44: Jam - Lvl 1 (Tribe of Jam) was killed by an Aberrant Paraceratherium - Lvl 95 ()!
+[2024.09.06-02.32.13:552][898]2024.09.06_02.32.13: Tribe Tribe of Pineapple, ID 1794106717: Day 3, 15:53:57: <RichColor Color="0, 1, 0, 1">Pineapple Tamed a Juvenile Aberrant Parasaur - Lvl 70 (Aberrant Parasaur)!</>)
+[2024.09.06-02.32.13:564][898]2024.09.06_02.32.13: Pineapple of Tribe Tribe of Pineapple Tamed a Juvenile Aberrant Parasaur - Lvl 70 (Aberrant Parasaur)!
+[2024.09.06-02.32.31:929][ 85]IP for incoming account 0002f7eb07f044eab9988e38b6aaf116 - IP 76.14.240.54
+[2024.09.06-02.32.37:020][137]2024.09.06_02.32.37: Skoobie_Mf_Brazy [UniqueNetId:0002f7eb07f044eab9988e38b6aaf116 Platform:None] joined this ARK!
+[2024.09.06-02.32.37:916][146]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-02.32.42:235][188]2024.09.06_02.32.42: Tribe Tribe of Pineapple, ID 1794106717: Day 3, 16:05:27: <RichColor Color="1, 0, 0, 1">Your Juvenile Aberrant Parasaur - Lvl 70 (Aberrant Parasaur) was killed by Pineapple - Lvl 42-556390937 (Tribe of Pineapple)!</>)
+[2024.09.06-02.32.42:243][188]2024.09.06_02.32.42: Tribe Tribe of Pineapple, ID 1794106717: Day 3, 16:05:27: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Aberrant Parasaur - Lvl 70 (Aberrant Parasaur) (Tribe of Pineapple)!</>)
+[2024.09.06-02.32.42:255][188]2024.09.06_02.32.42: Juvenile Aberrant Parasaur - Lvl 70 (Aberrant Parasaur) (Tribe of Pineapple) was killed by Pineapple - Lvl 42-556390937 (Tribe of Pineapple)! [KillerSID: 556390937]
+[2024.09.06-02.33.24:622][622]2024.09.06_02.33.24: Saving world...
+[2024.09.06-02.33.24:636][622]2024.09.06_02.33.24: World Save Complete. Took: 0.543486
+[2024.09.06-02.33.43:666][832]IP for incoming account 00028abeaa5447ba91dc4351e374735f - IP 72.196.207.215
+[2024.09.06-02.33.48:337][881]2024.09.06_02.33.48: BigPapaSmoke_82 [UniqueNetId:00028abeaa5447ba91dc4351e374735f Platform:None] joined this ARK!
+[2024.09.06-02.33.49:213][890]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-02.33.56:600][962]2024.09.06_02.33.56: Tribe Tribe of EBK Skoobie, ID 1890432343: Day 3, 16:35:07: <RichColor Color="0, 1, 1, 1">EBK Skoobie was added to the Tribe!</>)
+[2024.09.06-02.33.56:602][962]2024.09.06_02.33.56: Player Skoobie_Mf_Brazy with ID 302289805 joined tribe Tribe of EBK Skoobie with ID 1890432343.
+[2024.09.06-02.34.10:250][ 85]2024.09.06_02.34.10: Tribe Tribe of Smokey, ID 1077750330: Day 3, 16:40:35: <RichColor Color="0, 1, 1, 1">Smokey was added to the Tribe!</>)
+[2024.09.06-02.34.10:260][ 85]2024.09.06_02.34.10: Player BigPapaSmoke_82 with ID 724524389 joined tribe Tribe of Smokey with ID 1077750330.
+[2024.09.06-02.35.05:469][631]IP for incoming account 00028cfb87c3493189de87b3856bd8d8 - IP 189.155.109.8
+[2024.09.06-02.35.17:233][761]2024.09.06_02.35.17: theNeftGY [UniqueNetId:00028cfb87c3493189de87b3856bd8d8 Platform:None] joined this ARK!
+[2024.09.06-02.35.28:928][870]2024.09.06_02.35.28: Tribe Tribe of Mango, ID 1773629605: Day 3, 17:12:04: <RichColor Color="1, 0, 0, 1">Tribemember Diggs - Lvl 89 was killed by a Basilisk - Lvl 115!</>)
+[2024.09.06-02.35.28:938][870]2024.09.06_02.35.28: Diggs - Lvl 89 (Tribe of Mango) was killed by a Basilisk - Lvl 115 ()!
+[2024.09.06-02.35.35:204][937]2024.09.06_02.35.35: Skoobie_Mf_Brazy [UniqueNetId:0002f7eb07f044eab9988e38b6aaf116 Platform:None] left this ARK!
+[2024.09.06-02.35.39:728][990]2024.09.06_02.35.39: BigPapaSmoke_82 [UniqueNetId:00028abeaa5447ba91dc4351e374735f Platform:None] left this ARK!
+[2024.09.06-02.36.37:015][717]2024.09.06_02.36.37: Tribe Tribe of Jam, ID 1252191829: Day 3, 17:39:17: <RichColor Color="0, 1, 0, 1">Jam Tamed a Bulbdog - Lvl 89 (Bulbdog)!</>)
+[2024.09.06-02.36.37:018][717]2024.09.06_02.36.37: Jam of Tribe Tribe of Jam Tamed a Bulbdog - Lvl 89 (Bulbdog)!
+[2024.09.06-02.36.56:811][974]2024.09.06_02.36.56: Tribe Tribe of Mango, ID 1773629605: Day 3, 17:47:13: <RichColor Color="1, 0, 0, 1">Your Adolescent Bulbdog - Lvl 130 (Bulbdog) was killed by a Basilisk - Lvl 115!</>)
+[2024.09.06-02.36.56:812][974]2024.09.06_02.36.56: Adolescent Bulbdog - Lvl 130 (Bulbdog) (Tribe of Mango) was killed by a Basilisk - Lvl 115 ()!
+[2024.09.06-02.37.48:902][716]Garbage Collection Triggered!
+[2024.09.06-02.38.24:668][198]2024.09.06_02.38.24: Saving world...
+[2024.09.06-02.38.24:674][198]2024.09.06_02.38.24: World Save Complete. Took: 0.536812
+[2024.09.06-02.38.38:106][397]2024.09.06_02.38.38: Tribe Tribe of Pineapple, ID 1794106717: Day 3, 18:26:54: <RichColor Color="0, 1, 0, 1">Pineapple Tamed a Cosmo - Lvl 187 (Cosmo)!</>)
+[2024.09.06-02.38.38:109][397]2024.09.06_02.38.38: Pineapple of Tribe Tribe of Pineapple Tamed a Cosmo - Lvl 187 (Cosmo)!
+[2024.09.06-02.38.46:408][519]2024.09.06_02.38.46: theNeftGY [UniqueNetId:00028cfb87c3493189de87b3856bd8d8 Platform:None] left this ARK!
+[2024.09.06-02.39.08:549][847]2024.09.06_02.39.08: Tribe Tribe of Mango, ID 1773629605: Day 3, 18:39:05: <RichColor Color="1, 0, 0, 1">Tribemember Diggs - Lvl 90 was killed by a Basilisk - Lvl 115!</>)
+[2024.09.06-02.39.08:557][847]2024.09.06_02.39.08: Diggs - Lvl 90 (Tribe of Mango) was killed by a Basilisk - Lvl 115 ()!
+[2024.09.06-02.39.33:203][236]2024.09.06_02.39.33: Tribe Tribe of Mango, ID 1773629605: Day 3, 18:48:57: <RichColor Color="1, 0, 0, 1">Your Aberrant Moschops - Lvl 141 (Aberrant Moschops) was killed by a Basilisk - Lvl 115!</>)
+[2024.09.06-02.39.33:212][236]2024.09.06_02.39.33: Aberrant Moschops - Lvl 141 (Aberrant Moschops) (Tribe of Mango) was killed by a Basilisk - Lvl 115 ()!
+[2024.09.06-02.39.48:958][472]FNetGUIDCache::PeriodicCleanAndCompact:   5.59ms total time [  4.86ms CleanReferences() and   0.73ms compacting]; ObjectLookup.Num()=20098 [9776 removed]; NetGUIDLookup.Num()=16685 [10415 removed]
+[2024.09.06-02.40.11:638][779]2024.09.06_02.40.11: Tribe Shwat Team, ID 1482354014: Day 3, 19:04:18: <RichColor Color="0, 1, 0, 1">Enarchy Tamed a Bulbdog - Lvl 187 (Bulbdog)!</>)
+[2024.09.06-02.40.11:643][779]2024.09.06_02.40.11: Enarchy of Tribe Shwat Team Tamed a Bulbdog - Lvl 187 (Bulbdog)!
+[2024.09.06-02.41.06:800][590]2024.09.06_02.41.06: Tribe Tribe of Mango, ID 1773629605: Day 3, 19:26:22: <RichColor Color="1, 0, 0, 1">Tribemember Diggs - Lvl 90 was killed!</>)
+[2024.09.06-02.41.06:810][590]2024.09.06_02.41.06: Diggs - Lvl 90 (Tribe of Mango) was killed!
+[2024.09.06-02.41.12:096][676]IP for incoming account 00025e39b17641eb96741673cbd35b96 - IP 72.110.95.232
+[2024.09.06-02.41.14:005][707]2024.09.06_02.41.14: Tribe Tribe of Mango, ID 1773629605: Day 3, 19:29:15: <RichColor Color="0, 0, 1, 1">Diggs was promoted to a Tribe Admin by Mango!</>)
+[2024.09.06-02.41.22:765][835]2024.09.06_02.41.22: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] joined this ARK!
+[2024.09.06-02.42.01:939][439]2024.09.06_02.42.01: Tribe Tribe of MrStealUrGirl, ID 1606094892: Day 3, 19:48:25: <RichColor Color="0, 1, 1, 1">MrStealUrGirl was added to the Tribe!</>)
+[2024.09.06-02.42.01:946][439]2024.09.06_02.42.01: Player PirateHunter420 with ID 390821743 joined tribe Tribe of MrStealUrGirl with ID 1606094892.
+[2024.09.06-02.43.24:728][391]2024.09.06_02.43.24: Saving world...
+[2024.09.06-02.43.24:739][391]2024.09.06_02.43.24: World Save Complete. Took: 0.489446
+[2024.09.06-02.43.52:561][711]2024.09.06_02.43.52: Tribe Tribe of Mango, ID 1773629605: Day 3, 20:32:36: <RichColor Color="0, 1, 1, 1">Tribe of Pineapple tribe was merged in by Pineapple!</>)
+[2024.09.06-02.43.52:591][711]2024.09.06_02.43.52: Tribe Tribe of Pineapple, ID 1794106717: Day 3, 20:32:36: <RichColor Color="1, 1, 0, 1">Pineapple was removed from the Tribe!</>)
+[2024.09.06-02.43.52:601][711]2024.09.06_02.43.52: Player Pineapple with ID 556390937 removed from tribe Tribe of Pineapple with ID 1794106717.
+[2024.09.06-02.43.52:641][711]2024.09.06_02.43.52: Tribe Tribe of Mango, ID 1773629605: Day 3, 20:32:36: <RichColor Color="0, 1, 1, 1">Pineapple was added to the Tribe by Diggs!</>)
+[2024.09.06-02.43.52:646][711]2024.09.06_02.43.52: Player Pineapple with ID 556390937 joined tribe Tribe of Mango with ID 1773629605 Invited by Player Diggs with ID 538993423.
+[2024.09.06-02.43.58:014][779]IP for incoming account 00028b24e8a2479081e746885c611eee - IP 167.94.95.85
+[2024.09.06-02.44.02:016][833]2024.09.06_02.44.02: DiggityDankDabz [UniqueNetId:0002d900478044c38e207a71981c97c4 Platform:None] left this ARK!
+[2024.09.06-02.44.03:787][857]2024.09.06_02.44.03: KittynClaws [UniqueNetId:00028b24e8a2479081e746885c611eee Platform:None] joined this ARK!
+[2024.09.06-02.44.05:195][876]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-02.44.06:782][898]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.06-02.44.11:829][965]2024.09.06_02.44.11: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.06-02.44.12:929][978]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-02.44.23:387][122]2024.09.06_02.44.23: Tribe Tribe of Goddess, ID 1165641354: Day 3, 20:44:56: <RichColor Color="0, 1, 1, 1">Goddess was added to the Tribe!</>)
+[2024.09.06-02.44.23:396][122]2024.09.06_02.44.23: Player KittynClaws with ID 272146954 joined tribe Tribe of Goddess with ID 1165641354.
+[2024.09.06-02.44.38:038][309]IP for incoming account 0002d900478044c38e207a71981c97c4 - IP 47.42.134.47
+[2024.09.06-02.44.44:183][384]2024.09.06_02.44.44: DiggityDankDabz [UniqueNetId:0002d900478044c38e207a71981c97c4 Platform:None] joined this ARK!
+[2024.09.06-02.44.45:216][394]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-02.45.21:128][838]2024.09.06_02.45.21: Tribe Tribe of Dnizzle, ID 1770976213: Day 3, 21:08:01: <RichColor Color="0, 1, 1, 1">Dnizzle was added to the Tribe!</>)
+[2024.09.06-02.45.21:137][838]2024.09.06_02.45.21: Player Dom4203444 with ID 777570563 joined tribe Tribe of Dnizzle with ID 1770976213.
+[2024.09.06-02.45.22:256][849]2024.09.06_02.45.22: Tribe Tribe of Mango, ID 1773629605: Day 3, 21:08:28: <RichColor Color="0, 1, 0, 1">Pineapple Tamed a Juvenile Aberrant Raptor - Lvl 150 (Aberrant Raptor)!</>)
+[2024.09.06-02.45.22:260][849]2024.09.06_02.45.22: Pineapple of Tribe Tribe of Mango Tamed a Juvenile Aberrant Raptor - Lvl 150 (Aberrant Raptor)!
+[2024.09.06-02.45.22:906][856]2024.09.06_02.45.22: Tribe Tribe of Mango, ID 1773629605: Day 3, 21:08:45: <RichColor Color="1, 0, 0, 1">Tribemember Diggs - Lvl 91 was killed by an Aberrant Paraceratherium - Lvl 135!</>)
+[2024.09.06-02.45.22:909][856]2024.09.06_02.45.22: Diggs - Lvl 91 (Tribe of Mango) was killed by an Aberrant Paraceratherium - Lvl 135 ()!
+[2024.09.06-02.45.40:871][ 50]2024.09.06_02.45.40: Tribe Tribe of Mango, ID 1773629605: Day 3, 21:15:54: <RichColor Color="1, 0, 0, 1">Tribemember Mango - Lvl 98 was killed!</>)
+[2024.09.06-02.45.40:876][ 50]2024.09.06_02.45.40: Mango - Lvl 98 (Tribe of Mango) was killed!
+[2024.09.06-02.45.42:290][ 65]2024.09.06_02.45.42: Tribe Tribe of Dnizzle, ID 1770976213: Day 3, 21:16:28: <RichColor Color="1, 0, 0, 1">Tribemember Dnizzle - Lvl 1 was killed by a Basilisk - Lvl 45!</>)
+[2024.09.06-02.45.42:295][ 65]2024.09.06_02.45.42: Dnizzle - Lvl 1 (Tribe of Dnizzle) was killed by a Basilisk - Lvl 45 ()!
+[2024.09.06-02.45.45:936][105]2024.09.06_02.45.45: Tribe Tribe of Mango, ID 1773629605: Day 3, 21:17:55: <RichColor Color="0, 1, 0, 1">Pineapple Tamed a Baby Aberrant Raptor - Lvl 150 (Aberrant Raptor)!</>)
+[2024.09.06-02.45.45:946][105]2024.09.06_02.45.45: Pineapple of Tribe Tribe of Mango Tamed a Baby Aberrant Raptor - Lvl 150 (Aberrant Raptor)!
+[2024.09.06-02.46.27:130][541]2024.09.06_02.46.27: KittynClaws [UniqueNetId:00028b24e8a2479081e746885c611eee Platform:None] left this ARK!
+[2024.09.06-02.46.36:896][651]2024.09.06_02.46.36: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.06-02.46.49:056][794]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.06-02.46.53:830][850]2024.09.06_02.46.53: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.06-02.46.55:117][861]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-02.48.24:865][764]2024.09.06_02.48.24: Saving world...
+[2024.09.06-02.48.24:871][764]2024.09.06_02.48.24: World Save Complete. Took: 0.548918
+[2024.09.06-02.48.57:141][ 24]IP for incoming account 0002d7b9e1a94270be99356c1cd341d6 - IP 166.70.236.108
+[2024.09.06-02.49.02:216][ 63]2024.09.06_02.49.02: LitTlep0oPeE [UniqueNetId:0002d7b9e1a94270be99356c1cd341d6 Platform:None] joined this ARK!
+[2024.09.06-02.49.03:437][ 71]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-02.49.26:103][241]2024.09.06_02.49.26: Tribe Tribe of Bevis, ID 1793289896: Day 3, 22:45:50: <RichColor Color="0, 1, 1, 1">Bevis was added to the Tribe!</>)
+[2024.09.06-02.49.26:105][241]2024.09.06_02.49.26: Player LitTlep0oPeE with ID 731875011 joined tribe Tribe of Bevis with ID 1793289896.
+[2024.09.06-02.49.26:197][242]IP for incoming account 00023aa89d8f4925b6156b44efab4124 - IP 67.41.44.146
+[2024.09.06-02.49.33:706][290]2024.09.06_02.49.33: Shirklord [UniqueNetId:0002d7b21bea4d73a148c0643bbb2261 Platform:None] left this ARK!
+[2024.09.06-02.49.34:427][296]2024.09.06_02.49.34: s0rinmarkov721 [UniqueNetId:00023aa89d8f4925b6156b44efab4124 Platform:None] joined this ARK!
+[2024.09.06-02.49.41:789][363]IP for incoming account 000237c2be7742b0b66119572de99b44 - IP 50.82.204.35
+[2024.09.06-02.49.47:227][405]2024.09.06_02.49.47: Rave_Brutality [UniqueNetId:000237c2be7742b0b66119572de99b44 Platform:None] joined this ARK!
+[2024.09.06-02.49.48:075][412]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-02.49.49:020][419]Garbage Collection Triggered!
+[2024.09.06-02.49.50:836][420]FNetGUIDCache::PeriodicCleanAndCompact:   5.77ms total time [  4.94ms CleanReferences() and   0.83ms compacting]; ObjectLookup.Num()=22413 [7539 removed]; NetGUIDLookup.Num()=19389 [7090 removed]
+[2024.09.06-02.49.52:719][433]IP for incoming account 0002da7a88c8443b81c431541ac33145 - IP 75.191.133.241
+[2024.09.06-02.49.57:384][470]2024.09.06_02.49.57: Cjrocks1986 [UniqueNetId:0002da7a88c8443b81c431541ac33145 Platform:None] joined this ARK!
+[2024.09.06-02.49.58:255][476]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-02.51.37:302][285]2024.09.06_02.51.37: Tribe Tribe of Sorin, ID 1422099699: Day 3, 23:37:45: <RichColor Color="0, 1, 1, 1">Sorin was added to the Tribe!</>)
+[2024.09.06-02.51.37:304][285]2024.09.06_02.51.37: Player s0rinmarkov721 with ID 325154021 joined tribe Tribe of Sorin with ID 1422099699.
+[2024.09.06-02.52.51:529][870]2024.09.06_02.52.51: Rave_Brutality [UniqueNetId:000237c2be7742b0b66119572de99b44 Platform:None] left this ARK!
+[2024.09.06-02.52.59:462][940]2024.09.06_02.52.59: Cjrocks1986 [UniqueNetId:0002da7a88c8443b81c431541ac33145 Platform:None] left this ARK!
+[2024.09.06-02.53.24:851][181]2024.09.06_02.53.24: Saving world...
+[2024.09.06-02.53.24:863][181]2024.09.06_02.53.24: World Save Complete. Took: 0.498424
+[2024.09.06-02.53.29:198][224]2024.09.06_02.53.29: Tribe Tribe of Mango, ID 1773629605: Day 4, 00:22:27: <RichColor Color="0, 1, 0, 1">Banana Tamed an Aberrant Electrophorus - Lvl 194 (Aberrant Electrophorus)!</>)
+[2024.09.06-02.53.29:204][224]2024.09.06_02.53.29: Banana of Tribe Tribe of Mango Tamed an Aberrant Electrophorus - Lvl 194 (Aberrant Electrophorus)!
+[2024.09.06-02.53.46:892][394]IP for incoming account 00028d67b0434f87a3f6f75e5c964947 - IP 71.73.227.112
+[2024.09.06-02.53.51:295][435]2024.09.06_02.53.51: King_Skeletor_ [UniqueNetId:00028d67b0434f87a3f6f75e5c964947 Platform:None] joined this ARK!
+[2024.09.06-02.53.52:103][442]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-02.54.02:208][537]IP for incoming account 0002da7a88c8443b81c431541ac33145 - IP 75.191.133.241
+[2024.09.06-02.54.06:636][578]2024.09.06_02.54.06: Cjrocks1986 [UniqueNetId:0002da7a88c8443b81c431541ac33145 Platform:None] joined this ARK!
+[2024.09.06-02.54.07:444][585]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-02.54.10:167][611]2024.09.06_02.54.10: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 00:38:50: <RichColor Color="0, 1, 1, 1">Tribe of MrStealUrGirl tribe was merged in by MrStealUrGirl!</>)
+[2024.09.06-02.54.10:202][611]2024.09.06_02.54.10: Tribe Tribe of MrStealUrGirl, ID 1606094892: Day 4, 00:38:50: <RichColor Color="1, 1, 0, 1">MrStealUrGirl was removed from the Tribe!</>)
+[2024.09.06-02.54.10:212][611]2024.09.06_02.54.10: Player MrStealUrGirl with ID 390821743 removed from tribe Tribe of MrStealUrGirl with ID 1606094892.
+[2024.09.06-02.54.10:254][611]2024.09.06_02.54.10: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 00:38:50: <RichColor Color="0, 1, 1, 1">MrStealUrGirl was added to the Tribe by Dnizzle!</>)
+[2024.09.06-02.54.10:256][611]2024.09.06_02.54.10: Player MrStealUrGirl with ID 390821743 joined tribe Tribe of Dnizzle with ID 1770976213 Invited by Player Dnizzle with ID 777570563.
+[2024.09.06-02.54.32:024][810]2024.09.06_02.54.32: Tribe Tribe of Cj, ID 1724910749: Day 4, 00:47:35: <RichColor Color="0, 1, 1, 1">Cj was added to the Tribe!</>)
+[2024.09.06-02.54.32:028][810]2024.09.06_02.54.32: Player Cjrocks1986 with ID 106437459 joined tribe Tribe of Cj with ID 1724910749.
+[2024.09.06-02.54.50:907][994]IP for incoming account 0002b1971bca45939cfb7acd896bb5ee - IP 104.28.208.216
+[2024.09.06-02.54.55:553][ 35]2024.09.06_02.54.55: Tribe Tribe of Jam, ID 1252191829: Day 4, 00:56:59: <RichColor Color="1, 1, 0, 1">Jam demolished a 'Sleeping Bag'!</>)
+[2024.09.06-02.54.59:432][ 68]2024.09.06_02.54.59: MonkeyWhisper [UniqueNetId:0002b1971bca45939cfb7acd896bb5ee Platform:None] joined this ARK!
+[2024.09.06-02.55.02:506][ 96]2024.09.06_02.55.02: Cjrocks1986 (Cj): Appppppppppopreecccc
+[2024.09.06-02.55.04:680][117]2024.09.06_02.55.04: Tribe Tribe of Bevis, ID 1793289896: Day 4, 01:00:38: <RichColor Color="1, 0, 0, 1">Tribemember Bevis - Lvl 6 was killed!</>)
+[2024.09.06-02.55.04:689][117]2024.09.06_02.55.04: Bevis - Lvl 6 (Tribe of Bevis) was killed! [KillerSID: 731875011]
+[2024.09.06-02.55.20:499][258]2024.09.06_02.55.20: Enarchy (Enarchy): whats up?
+[2024.09.06-02.55.25:029][304]2024.09.06_02.55.25: Tribe Tribe of Bevis, ID 1793289896: Day 4, 01:08:46: <RichColor Color="1, 0, 0, 1">Tribemember Bevis - Lvl 6 was killed by a Basilisk - Lvl 125!</>)
+[2024.09.06-02.55.25:033][304]2024.09.06_02.55.25: Bevis - Lvl 6 (Tribe of Bevis) was killed by a Basilisk - Lvl 125 ()!
+[2024.09.06-02.55.49:219][541]2024.09.06_02.55.49: Tribe Tribe of Rick Scott, ID 1098756687: Day 4, 01:18:23: <RichColor Color="0, 1, 1, 1">Rick Scott was added to the Tribe!</>)
+[2024.09.06-02.55.49:230][541]2024.09.06_02.55.49: Player MonkeyWhisper with ID 827279825 joined tribe Tribe of Rick Scott with ID 1098756687.
+[2024.09.06-02.56.03:185][678]2024.09.06_02.56.03: Tribe Tribe of Rick Scott, ID 1098756687: Day 4, 01:24:00: <RichColor Color="1, 0, 0, 1">Tribemember Rick Scott - Lvl 1 was killed by a Basilisk - Lvl 45!</>)
+[2024.09.06-02.56.03:193][678]2024.09.06_02.56.03: Rick Scott - Lvl 1 (Tribe of Rick Scott) was killed by a Basilisk - Lvl 45 ()!
+[2024.09.06-02.56.15:867][814]2024.09.06_02.56.15: Tribe Tribe of Smokey, ID 1077750330: Day 4, 01:29:04: <RichColor Color="1, 0, 0, 1">Tribemember Smokey - Lvl 6 was killed by Pineapple - Lvl 77-556390937 (Tribe of Mango)!</>)
+[2024.09.06-02.56.15:873][814]2024.09.06_02.56.15: Tribe Tribe of Mango, ID 1773629605: Day 4, 01:29:04: <RichColor Color="1, 0, 1, 1">Your Tribe killed Smokey - Lvl 6 (Tribe of Smokey)!</>)
+[2024.09.06-02.56.15:883][814]2024.09.06_02.56.15: Smokey - Lvl 6 (Tribe of Smokey) was killed by Pineapple - Lvl 77 (Tribe of Mango)! [KillerSID: 556390937]
+[2024.09.06-02.56.54:671][121]2024.09.06_02.56.54: King_Skeletor_ [UniqueNetId:00028d67b0434f87a3f6f75e5c964947 Platform:None] left this ARK!
+[2024.09.06-02.58.13:301][616]IP for incoming account 00021fc1b0504c7f91273e3fef1ef8e6 - IP 68.131.58.204
+[2024.09.06-02.58.14:165][621]2024.09.06_02.58.14: Tribe Tribe of Asta, ID 1231410302: Day 4, 02:16:17: <RichColor Color="1, 0, 0, 1">Tribemember Thor - Lvl 86 was killed!</>)
+[2024.09.06-02.58.14:171][621]2024.09.06_02.58.14: Tribe Tribe of Mango, ID 1773629605: Day 4, 02:16:17: <RichColor Color="1, 0, 1, 1">Your Tribe killed Thor - Lvl 86 (Tribe of Asta)!</>)
+[2024.09.06-02.58.14:182][621]2024.09.06_02.58.14: Thor - Lvl 86 (Tribe of Asta) was killed!
+[2024.09.06-02.58.20:825][665]2024.09.06_02.58.20: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] joined this ARK!
+[2024.09.06-02.58.21:999][673]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-02.58.24:922][690]2024.09.06_02.58.24: Saving world...
+[2024.09.06-02.58.24:928][690]2024.09.06_02.58.24: World Save Complete. Took: 0.507564
+[2024.09.06-02.58.36:459][760]2024.09.06_02.58.36: Tribe Tribe of Mango, ID 1773629605: Day 4, 02:25:08: <RichColor Color="1, 0, 0, 1">Your Adolescent Aberrant Raptor - Lvl 150 (Aberrant Raptor) was killed by Dnizzle - Lvl 43-777570563 (Tribe of Dnizzle)!</>)
+[2024.09.06-02.58.36:462][760]2024.09.06_02.58.36: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 02:25:08: <RichColor Color="1, 0, 1, 1">Your Tribe killed Adolescent Aberrant Raptor - Lvl 150 (Aberrant Raptor) (Tribe of Mango)!</>)
+[2024.09.06-02.58.36:473][760]2024.09.06_02.58.36: Adolescent Aberrant Raptor - Lvl 150 (Aberrant Raptor) (Tribe of Mango) was killed by Dnizzle - Lvl 43-777570563 (Tribe of Dnizzle)! [KillerSID: 777570563]
+[2024.09.06-02.58.40:287][784]2024.09.06_02.58.40: Tribe Tribe of Lucifer, ID 1136584465: Day 4, 02:26:39: <RichColor Color="0, 1, 1, 1">Lucifer was added to the Tribe!</>)
+[2024.09.06-02.58.40:289][784]2024.09.06_02.58.40: Player DEAD JOKER1X with ID 919482755 joined tribe Tribe of Lucifer with ID 1136584465.
+[2024.09.06-02.58.59:234][911]2024.09.06_02.58.59: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] left this ARK!
+[2024.09.06-02.59.12:318][ 12]2024.09.06_02.59.12: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 02:39:27: <RichColor Color="0, 1, 1, 1">Tribe of Bevis tribe was merged in by Bevis!</>)
+[2024.09.06-02.59.12:345][ 12]2024.09.06_02.59.12: Tribe Tribe of Bevis, ID 1793289896: Day 4, 02:39:27: <RichColor Color="1, 1, 0, 1">Bevis was removed from the Tribe!</>)
+[2024.09.06-02.59.12:355][ 12]2024.09.06_02.59.12: Player Bevis with ID 731875011 removed from tribe Tribe of Bevis with ID 1793289896.
+[2024.09.06-02.59.12:397][ 12]2024.09.06_02.59.12: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 02:39:27: <RichColor Color="0, 1, 1, 1">Bevis was added to the Tribe by Dnizzle!</>)
+[2024.09.06-02.59.12:400][ 12]2024.09.06_02.59.12: Player Bevis with ID 731875011 joined tribe Tribe of Dnizzle with ID 1770976213 Invited by Player Dnizzle with ID 777570563.
+[2024.09.06-02.59.22:056][ 79]2024.09.06_02.59.22: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 02:43:22: <RichColor Color="1, 0, 0, 1">Tribemember MrStealUrGirl - Lvl 53 was killed by Pineapple - Lvl 77-556390937 (Tribe of Mango)!</>)
+[2024.09.06-02.59.22:067][ 79]2024.09.06_02.59.22: Tribe Tribe of Mango, ID 1773629605: Day 4, 02:43:22: <RichColor Color="1, 0, 1, 1">Your Tribe killed MrStealUrGirl - Lvl 53 (Tribe of Dnizzle)!</>)
+[2024.09.06-02.59.22:078][ 79]2024.09.06_02.59.22: MrStealUrGirl - Lvl 53 (Tribe of Dnizzle) was killed by Pineapple - Lvl 77 (Tribe of Mango)! [KillerSID: 556390937]
+[2024.09.06-02.59.24:607][ 97]2024.09.06_02.59.24: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 02:44:23: <RichColor Color="1, 0, 0, 1">Tribemember Bevis - Lvl 18 was killed by Dnizzle - Lvl 43-777570563 (Tribe of Dnizzle)!</>)
+[2024.09.06-02.59.24:619][ 97]2024.09.06_02.59.24: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 02:44:23: <RichColor Color="1, 0, 1, 1">Your Tribe killed Bevis - Lvl 18 (Tribe of Dnizzle)!</>)
+[2024.09.06-02.59.24:629][ 97]2024.09.06_02.59.24: Bevis - Lvl 18 (Tribe of Dnizzle) was killed by Dnizzle - Lvl 43 (Tribe of Dnizzle)! [KillerSID: 777570563]
+[2024.09.06-02.59.24:938][ 99]2024.09.06_02.59.24: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 02:44:31: <RichColor Color="1, 0, 0, 1">Tribemember Dnizzle - Lvl 43 was killed by Pineapple - Lvl 77-556390937 (Tribe of Mango)!</>)
+[2024.09.06-02.59.24:949][ 99]2024.09.06_02.59.24: Tribe Tribe of Mango, ID 1773629605: Day 4, 02:44:31: <RichColor Color="1, 0, 1, 1">Your Tribe killed Dnizzle - Lvl 43 (Tribe of Dnizzle)!</>)
+[2024.09.06-02.59.24:960][ 99]2024.09.06_02.59.24: Dnizzle - Lvl 43 (Tribe of Dnizzle) was killed by Pineapple - Lvl 77 (Tribe of Mango)! [KillerSID: 556390937]
+[2024.09.06-02.59.31:834][146]2024.09.06_02.59.31: Tribe Tribe of Jam, ID 1252191829: Day 4, 02:47:13: <RichColor Color="1, 0, 0, 1">Tribemember Jam - Lvl 72 was killed!</>)
+[2024.09.06-02.59.31:844][146]2024.09.06_02.59.31: Jam - Lvl 72 (Tribe of Jam) was killed!
+[2024.09.06-02.59.50:867][280]FNetGUIDCache::PeriodicCleanAndCompact:  10.00ms total time [  8.45ms CleanReferences() and   1.55ms compacting]; ObjectLookup.Num()=24981 [9422 removed]; NetGUIDLookup.Num()=20664 [10580 removed]
+[2024.09.06-03.00.01:511][356]2024.09.06_03.00.01: s0rinmarkov721 [UniqueNetId:00023aa89d8f4925b6156b44efab4124 Platform:None] left this ARK!
+[2024.09.06-03.00.07:727][400]2024.09.06_03.00.07: Tribe Tribe of Asta, ID 1231410302: Day 4, 03:01:27: <RichColor Color="1, 0, 0, 1">Tribemember Asta - Lvl 84 was killed by an Aberrant Arthropluera - Lvl 110!</>)
+[2024.09.06-03.00.07:734][400]2024.09.06_03.00.07: Asta - Lvl 84 (Tribe of Asta) was killed by an Aberrant Arthropluera - Lvl 110 ()!
+[2024.09.06-03.00.22:659][493]2024.09.06_03.00.22: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 03:07:21: <RichColor Color="1, 0, 0, 1">Tribemember Bevis - Lvl 18 was killed by a Basilisk - Lvl 15!</>)
+[2024.09.06-03.00.22:667][493]2024.09.06_03.00.22: Bevis - Lvl 18 (Tribe of Dnizzle) was killed by a Basilisk - Lvl 15 ()!
+[2024.09.06-03.01.06:068][730]2024.09.06_03.01.06: Tribe Tribe of Asta, ID 1231410302: Day 4, 03:24:23: <RichColor Color="1, 0, 0, 1">Your 'Sleeping Bag' was destroyed!</>)
+[2024.09.06-03.01.25:392][846]IP for incoming account 0002acf37cd14844ba16e8bac3628aa8 - IP 24.181.235.32
+[2024.09.06-03.01.31:205][879]2024.09.06_03.01.31: MrPenguin2212 [UniqueNetId:0002acf37cd14844ba16e8bac3628aa8 Platform:None] joined this ARK!
+[2024.09.06-03.01.32:339][886]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.01.49:222][991]Garbage Collection Triggered!
+[2024.09.06-03.01.52:866][992]2024.09.06_03.01.52: Tribe Tribe of Azaria, ID 1571392045: Day 4, 03:41:47: <RichColor Color="0, 1, 1, 1">Azaria was added to the Tribe!</>)
+[2024.09.06-03.01.52:870][992]2024.09.06_03.01.52: Player MrPenguin2212 with ID 523682463 joined tribe Tribe of Azaria with ID 1571392045.
+[2024.09.06-03.01.53:784][998]IP for incoming account 00021fc1b0504c7f91273e3fef1ef8e6 - IP 68.131.58.204
+[2024.09.06-03.01.57:276][ 24]IP for incoming account 0002afac95764e1ba49e58db06a43af5 - IP 96.43.192.88
+[2024.09.06-03.02.00:664][ 47]2024.09.06_03.02.00: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] joined this ARK!
+[2024.09.06-03.02.01:699][ 53]2024.09.06_03.02.01: Killer24577752 [UniqueNetId:0002afac95764e1ba49e58db06a43af5 Platform:None] joined this ARK!
+[2024.09.06-03.02.02:184][ 56]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.02.02:738][ 60]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.02.18:214][161]2024.09.06_03.02.18: Tribe Tribe of Human, ID 1568674158: Day 4, 03:51:54: <RichColor Color="0, 1, 1, 1">Human was added to the Tribe!</>)
+[2024.09.06-03.02.18:218][161]2024.09.06_03.02.18: Player Killer24577752 with ID 180572681 joined tribe Tribe of Human with ID 1568674158.
+[2024.09.06-03.02.50:246][350]2024.09.06_03.02.50: Tribe Tribe of Asta, ID 1231410302: Day 4, 04:04:41: <RichColor Color="0, 1, 0, 1">Thor Tamed a Bulbdog - Lvl 104 (Bulbdog)!</>)
+[2024.09.06-03.02.50:250][350]2024.09.06_03.02.50: Thor of Tribe Tribe of Asta Tamed a Bulbdog - Lvl 104 (Bulbdog)!
+[2024.09.06-03.03.25:064][542]2024.09.06_03.03.25: Saving world...
+[2024.09.06-03.03.25:078][542]2024.09.06_03.03.25: World Save Complete. Took: 0.557953
+[2024.09.06-03.03.28:817][562]2024.09.06_03.03.28: Tribe Tribe of Rick Scott, ID 1098756687: Day 4, 04:20:02: <RichColor Color="1, 0, 0, 1">Tribemember Rick Scott - Lvl 15 was killed by an Aberrant Carnotaurus - Lvl 140!</>)
+[2024.09.06-03.03.28:825][562]2024.09.06_03.03.28: Rick Scott - Lvl 15 (Tribe of Rick Scott) was killed by an Aberrant Carnotaurus - Lvl 140 ()!
+[2024.09.06-03.03.36:867][606]2024.09.06_03.03.36: Tribe Shwat Team, ID 1482354014: Day 4, 04:23:13: <RichColor Color="0, 1, 0, 1">RehDragon Tamed a Bulbdog - Lvl 187 (Bulbdog)!</>)
+[2024.09.06-03.03.36:875][606]2024.09.06_03.03.36: RehDragon of Tribe Shwat Team Tamed a Bulbdog - Lvl 187 (Bulbdog)!
+[2024.09.06-03.04.01:309][732]2024.09.06_03.04.01: Tribe Tribe of Cj, ID 1724910749: Day 4, 04:32:55: <RichColor Color="1, 0, 0, 1">Tribemember Cj - Lvl 51 was killed by Dnizzle - Lvl 62-777570563 (Tribe of Dnizzle)!</>)
+[2024.09.06-03.04.01:321][732]2024.09.06_03.04.01: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 04:32:55: <RichColor Color="1, 0, 1, 1">Your Tribe killed Cj - Lvl 51 (Tribe of Cj)!</>)
+[2024.09.06-03.04.01:332][732]2024.09.06_03.04.01: Cj - Lvl 51 (Tribe of Cj) was killed by Dnizzle - Lvl 62 (Tribe of Dnizzle)! [KillerSID: 777570563]
+[2024.09.06-03.04.58:938][ 66]IP for incoming account 00027e6f55b74465b98517cbfe1d2586 - IP 203.211.78.217
+[2024.09.06-03.05.04:354][100]2024.09.06_03.05.04: CX_HYDR4- [UniqueNetId:00027e6f55b74465b98517cbfe1d2586 Platform:None] joined this ARK!
+[2024.09.06-03.05.05:085][105]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.05.18:473][195]2024.09.06_03.05.18: Killer24577752 [UniqueNetId:0002afac95764e1ba49e58db06a43af5 Platform:None] left this ARK!
+[2024.09.06-03.05.19:786][201]2024.09.06_03.05.19: DiggityDankDabz [UniqueNetId:0002d900478044c38e207a71981c97c4 Platform:None] left this ARK!
+[2024.09.06-03.05.25:968][243]2024.09.06_03.05.25: Tribe Tribe of Human1, ID 1111155388: Day 4, 05:06:47: <RichColor Color="0, 1, 1, 1">Human was added to the Tribe!</>)
+[2024.09.06-03.05.25:976][243]2024.09.06_03.05.25: Player CX_HYDR4- with ID 150401293 joined tribe Tribe of Human1 with ID 1111155388.
+[2024.09.06-03.05.44:801][388]IP for incoming account 0002d900478044c38e207a71981c97c4 - IP 47.42.134.47
+[2024.09.06-03.05.51:131][440]2024.09.06_03.05.51: DiggityDankDabz [UniqueNetId:0002d900478044c38e207a71981c97c4 Platform:None] joined this ARK!
+[2024.09.06-03.05.52:307][450]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.06.23:455][676]2024.09.06_03.06.23: Tribe Shwat Team, ID 1482354014: Day 4, 05:29:28: <RichColor Color="0, 0, 1, 1">Shwat was promoted to a Tribe Admin by RehDragon!</>)
+[2024.09.06-03.06.24:865][687]2024.09.06_03.06.24: Tribe Shwat Team, ID 1482354014: Day 4, 05:30:02: <RichColor Color="0, 0, 1, 1">Enarchy was promoted to a Tribe Admin by RehDragon!</>)
+[2024.09.06-03.06.27:949][708]2024.09.06_03.06.27: Tribe Tribe of Viprr, ID 1512213058: Day 4, 05:31:18: <RichColor Color="1, 0, 0, 1">Tribemember Viprr - Lvl 1 was killed by Lucifer - Lvl 34-919482755 (Tribe of Lucifer)!</>)
+[2024.09.06-03.06.27:952][708]2024.09.06_03.06.27: Tribe Tribe of Lucifer, ID 1136584465: Day 4, 05:31:18: <RichColor Color="1, 0, 1, 1">Your Tribe killed Viprr - Lvl 1 (Tribe of Viprr)!</>)
+[2024.09.06-03.06.27:963][708]2024.09.06_03.06.27: Viprr - Lvl 1 (Tribe of Viprr) was killed by Lucifer - Lvl 34 (Tribe of Lucifer)! [KillerSID: 919482755]
+[2024.09.06-03.06.36:598][767]2024.09.06_03.06.36: Tribe Tribe of Cj, ID 1724910749: Day 4, 05:34:45: <RichColor Color="1, 0, 0, 1">Tribemember Cj - Lvl 51 was killed by a Basilisk - Lvl 45!</>)
+[2024.09.06-03.06.36:606][767]2024.09.06_03.06.36: Cj - Lvl 51 (Tribe of Cj) was killed by a Basilisk - Lvl 45 ()!
+[2024.09.06-03.06.42:858][815]2024.09.06_03.06.42: CX_HYDR4- [UniqueNetId:00027e6f55b74465b98517cbfe1d2586 Platform:None] left this ARK!
+[2024.09.06-03.06.58:993][929]2024.09.06_03.06.58: Tribe Shwat Team, ID 1482354014: Day 4, 05:43:35: <RichColor Color="0, 1, 1, 1">Tribe of Rick Scott tribe was merged in by Rick Scott!</>)
+[2024.09.06-03.06.59:018][929]2024.09.06_03.06.59: Tribe Tribe of Rick Scott, ID 1098756687: Day 4, 05:43:35: <RichColor Color="1, 1, 0, 1">Rick Scott was removed from the Tribe!</>)
+[2024.09.06-03.06.59:030][929]2024.09.06_03.06.59: Player Rick Scott with ID 827279825 removed from tribe Tribe of Rick Scott with ID 1098756687.
+[2024.09.06-03.06.59:072][929]2024.09.06_03.06.59: Tribe Shwat Team, ID 1482354014: Day 4, 05:43:35: <RichColor Color="0, 1, 1, 1">Rick Scott was added to the Tribe by Shwat!</>)
+[2024.09.06-03.06.59:074][929]2024.09.06_03.06.59: Player Rick Scott with ID 827279825 joined tribe Shwat Team with ID 1482354014 Invited by Player Shwat with ID 859484274.
+[2024.09.06-03.07.04:576][969]2024.09.06_03.07.04: Tribe Shwat Team, ID 1482354014: Day 4, 05:45:49: <RichColor Color="0, 0, 1, 1">Rick Scott was promoted to a Tribe Admin by RehDragon!</>)
+[2024.09.06-03.07.11:394][ 18]2024.09.06_03.07.11: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] left this ARK!
+[2024.09.06-03.07.22:458][ 98]IP for incoming account 00027e6f55b74465b98517cbfe1d2586 - IP 203.211.78.217
+[2024.09.06-03.07.23:252][104]2024.09.06_03.07.23: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 05:53:17: <RichColor Color="1, 0, 0, 1">Tribemember Bevis - Lvl 18 was killed!</>)
+[2024.09.06-03.07.23:253][104]2024.09.06_03.07.23: Bevis - Lvl 18 (Tribe of Dnizzle) was killed! [KillerSID: 731875011]
+[2024.09.06-03.07.42:084][257]IP for incoming account 0002a28a09f347cf9c318569a2817bf4 - IP 125.237.197.164
+[2024.09.06-03.07.47:362][300]2024.09.06_03.07.47: Tribe Tribe of Cj, ID 1724910749: Day 4, 06:02:58: <RichColor Color="1, 0, 0, 1">Tribemember Cj - Lvl 51 was killed by an Aberrant Doedicurus - Lvl 140!</>)
+[2024.09.06-03.07.47:368][300]2024.09.06_03.07.47: Cj - Lvl 51 (Tribe of Cj) was killed by an Aberrant Doedicurus - Lvl 140 ()!
+[2024.09.06-03.07.56:282][363]2024.09.06_03.07.56: Tribe Tribe of Mango, ID 1773629605: Day 4, 06:06:27: <RichColor Color="1, 0, 0, 1">Tribemember Diggs - Lvl 92 was killed by a Basilisk - Lvl 15!</>)
+[2024.09.06-03.07.56:287][363]2024.09.06_03.07.56: Diggs - Lvl 92 (Tribe of Mango) was killed by a Basilisk - Lvl 15 ()!
+[2024.09.06-03.08.18:345][514]2024.09.06_03.08.18: ItzaRanga [UniqueNetId:0002a28a09f347cf9c318569a2817bf4 Platform:None] joined this ARK!
+[2024.09.06-03.08.18:479][515]2024.09.06_03.08.18: Tribe Tribe of Lucifer, ID 1136584465: Day 4, 06:15:09: <RichColor Color="0, 1, 1, 1">Tribe of Azaria tribe was merged in by Azaria!</>)
+[2024.09.06-03.08.18:503][515]2024.09.06_03.08.18: Tribe Tribe of Azaria, ID 1571392045: Day 4, 06:15:09: <RichColor Color="1, 1, 0, 1">Azaria was removed from the Tribe!</>)
+[2024.09.06-03.08.18:513][515]2024.09.06_03.08.18: Player Azaria with ID 523682463 removed from tribe Tribe of Azaria with ID 1571392045.
+[2024.09.06-03.08.18:559][515]2024.09.06_03.08.18: Tribe Tribe of Lucifer, ID 1136584465: Day 4, 06:15:09: <RichColor Color="0, 1, 1, 1">Azaria was added to the Tribe by Lucifer!</>)
+[2024.09.06-03.08.18:569][515]2024.09.06_03.08.18: Player Azaria with ID 523682463 joined tribe Tribe of Lucifer with ID 1136584465 Invited by Player Lucifer with ID 919482755.
+[2024.09.06-03.08.25:082][561]2024.09.06_03.08.25: Saving world...
+[2024.09.06-03.08.25:093][561]2024.09.06_03.08.25: World Save Complete. Took: 0.509861
+[2024.09.06-03.08.42:504][688]2024.09.06_03.08.42: Tribe Tribe of EAT ME, ID 1907183865: Day 4, 06:24:43: <RichColor Color="1, 0, 0, 1">Tribemember EAT ME - Lvl 15 was killed by Lucifer - Lvl 56-919482755 (Tribe of Lucifer)!</>)
+[2024.09.06-03.08.42:507][688]2024.09.06_03.08.42: Tribe Tribe of Lucifer, ID 1136584465: Day 4, 06:24:43: <RichColor Color="1, 0, 1, 1">Your Tribe killed EAT ME - Lvl 15 (Tribe of EAT ME)!</>)
+[2024.09.06-03.08.42:518][688]2024.09.06_03.08.42: EAT ME - Lvl 15 (Tribe of EAT ME) was killed by Lucifer - Lvl 56 (Tribe of Lucifer)! [KillerSID: 919482755]
+[2024.09.06-03.08.53:884][775]2024.09.06_03.08.53: Tribe Tribe of Fentanyl, ID 1033936337: Day 4, 06:29:17: <RichColor Color="0, 1, 1, 1">Fentanyl was added to the Tribe!</>)
+[2024.09.06-03.08.53:892][775]2024.09.06_03.08.53: Player ItzaRanga with ID 948240258 joined tribe Tribe of Fentanyl with ID 1033936337.
+[2024.09.06-03.08.57:802][802]IP for incoming account 00022c98ee0d4e1f9ec59e9b6faea772 - IP 73.183.86.150
+[2024.09.06-03.08.58:250][805]2024.09.06_03.08.58: Tribe Tribe of Asta, ID 1231410302: Day 4, 06:31:02: <RichColor Color="1, 0, 0, 1">Tribemember Thor - Lvl 87 was killed by an Aberrant Spino - Lvl 85!</>)
+[2024.09.06-03.08.58:257][805]2024.09.06_03.08.58: Thor - Lvl 87 (Tribe of Asta) was killed by an Aberrant Spino - Lvl 85 ()!
+[2024.09.06-03.09.04:567][858]2024.09.06_03.09.04: Cjrocks1986 [UniqueNetId:0002da7a88c8443b81c431541ac33145 Platform:None] left this ARK!
+[2024.09.06-03.09.09:555][897]2024.09.06_03.09.09: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] joined this ARK!
+[2024.09.06-03.09.28:906][ 32]2024.09.06_03.09.28: Tribe Tribe of Mango, ID 1773629605: Day 4, 06:43:07: <RichColor Color="1, 1, 0, 1">Pineapple demolished a 'Campfire (Locked) '!</>)
+[2024.09.06-03.09.50:983][207]FNetGUIDCache::PeriodicCleanAndCompact:   6.61ms total time [  5.58ms CleanReferences() and   1.03ms compacting]; ObjectLookup.Num()=25979 [12951 removed]; NetGUIDLookup.Num()=21254 [13263 removed]
+[2024.09.06-03.09.55:201][242]2024.09.06_03.09.55: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 06:53:41: <RichColor Color="1, 0, 0, 1">Tribemember MrStealUrGirl - Lvl 65 was killed by an Aberrant Sarco - Lvl 85!</>)
+[2024.09.06-03.09.55:207][242]2024.09.06_03.09.55: MrStealUrGirl - Lvl 65 (Tribe of Dnizzle) was killed by an Aberrant Sarco - Lvl 85 ()!
+[2024.09.06-03.10.00:871][290]2024.09.06_03.10.00: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 06:55:56: <RichColor Color="1, 0, 0, 1">Tribemember Dnizzle - Lvl 67 was killed by an Aberrant Sarco - Lvl 85!</>)
+[2024.09.06-03.10.00:882][290]2024.09.06_03.10.00: Dnizzle - Lvl 67 (Tribe of Dnizzle) was killed by an Aberrant Sarco - Lvl 85 ()!
+[2024.09.06-03.10.09:146][360]2024.09.06_03.10.09: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 06:59:15: <RichColor Color="1, 0, 0, 1">Tribemember Bevis - Lvl 18 was killed!</>)
+[2024.09.06-03.10.09:151][360]2024.09.06_03.10.09: Bevis - Lvl 18 (Tribe of Dnizzle) was killed! [KillerSID: 731875011]
+[2024.09.06-03.10.22:535][463]2024.09.06_03.10.22: Tribe Tribe of Mango, ID 1773629605: Day 4, 07:04:30: <RichColor Color="0.85, 0.15, 0.25, 1">Diggs uploaded a Karkinos: Karkinos - Lvl 149</>)
+[2024.09.06-03.11.45:489][ 92]2024.09.06_03.11.45: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.06-03.11.52:997][146]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.06-03.11.57:570][179]2024.09.06_03.11.57: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.06-03.11.58:849][188]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.13.25:156][804]2024.09.06_03.13.25: Saving world...
+[2024.09.06-03.13.25:170][804]2024.09.06_03.13.25: World Save Complete. Took: 0.515223
+[2024.09.06-03.13.39:863][910]2024.09.06_03.13.39: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 08:23:08: <RichColor Color="1, 0, 0, 1">Tribemember MrStealUrGirl - Lvl 65 was killed by a Rock Drake - Lvl 110!</>)
+[2024.09.06-03.13.39:868][910]2024.09.06_03.13.39: MrStealUrGirl - Lvl 65 (Tribe of Dnizzle) was killed by a Rock Drake - Lvl 110 ()!
+[2024.09.06-03.13.47:223][968]2024.09.06_03.13.47: Tribe Tribe of Lucifer, ID 1136584465: Day 4, 08:26:03: <RichColor Color="0, 1, 0, 1">Lucifer Tamed a Juvenile Aberrant Paraceratherium - Lvl 135 (Aberrant Paraceratherium)!</>)
+[2024.09.06-03.13.47:225][968]2024.09.06_03.13.47: Lucifer of Tribe Tribe of Lucifer Tamed a Juvenile Aberrant Paraceratherium - Lvl 135 (Aberrant Paraceratherium)!
+[2024.09.06-03.13.49:151][984]Garbage Collection Triggered!
+[2024.09.06-03.14.01:888][ 57]2024.09.06_03.14.01: Tribe Tribe of Lucifer, ID 1136584465: Day 4, 08:30:44: <RichColor Color="1, 0, 0, 1">Your Juvenile Aberrant Paraceratherium - Lvl 135 (Aberrant Paraceratherium) was killed by Lucifer - Lvl 69-919482755 (Tribe of Lucifer)!</>)
+[2024.09.06-03.14.01:897][ 57]2024.09.06_03.14.01: Tribe Tribe of Lucifer, ID 1136584465: Day 4, 08:30:44: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Aberrant Paraceratherium - Lvl 135 (Aberrant Paraceratherium) (Tribe of Lucifer)!</>)
+[2024.09.06-03.14.01:907][ 57]2024.09.06_03.14.01: Juvenile Aberrant Paraceratherium - Lvl 135 (Aberrant Paraceratherium) (Tribe of Lucifer) was killed by Lucifer - Lvl 69-919482755 (Tribe of Lucifer)! [KillerSID: 919482755]
+[2024.09.06-03.14.17:984][197]2024.09.06_03.14.17: PirateHunter420 (MrStealUrGirl): phone died edge 1?
+[2024.09.06-03.14.46:232][438]2024.09.06_03.14.46: Tribe Tribe of Mango, ID 1773629605: Day 4, 08:48:26: <RichColor Color="0, 1, 0, 1">Diggs Tamed a Juvenile Aberrant Megalosaurus - Lvl 80 (Aberrant Megalosaurus)!</>)
+[2024.09.06-03.14.46:234][438]2024.09.06_03.14.46: Diggs of Tribe Tribe of Mango Tamed a Juvenile Aberrant Megalosaurus - Lvl 80 (Aberrant Megalosaurus)!
+[2024.09.06-03.15.10:694][624]2024.09.06_03.15.10: Tribe Tribe of Fentanyl, ID 1033936337: Day 4, 08:58:08: <RichColor Color="1, 0, 0, 1">Tribemember Fentanyl - Lvl 43 was killed!</>)
+[2024.09.06-03.15.10:697][624]2024.09.06_03.15.10: Fentanyl - Lvl 43 (Tribe of Fentanyl) was killed!
+[2024.09.06-03.15.15:036][659]2024.09.06_03.15.15: LitTlep0oPeE (Bevis): edge 1
+[2024.09.06-03.15.54:853][938]IP for incoming account 00027895834843bea4be75af3e7a1c2e - IP 172.56.182.95
+[2024.09.06-03.16.01:871][987]2024.09.06_03.16.01: EVIL GOD OROCHI [UniqueNetId:00027895834843bea4be75af3e7a1c2e Platform:None] joined this ARK!
+[2024.09.06-03.16.03:581][  0]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.16.11:352][ 65]2024.09.06_03.16.11: Tribe Tribe of Lucifer, ID 1136584465: Day 4, 09:22:19: <RichColor Color="0, 1, 0, 1">Azaria Tamed a Bulbdog - Lvl 82 (Bulbdog)!</>)
+[2024.09.06-03.16.11:364][ 65]2024.09.06_03.16.11: Azaria of Tribe Tribe of Lucifer Tamed a Bulbdog - Lvl 82 (Bulbdog)!
+[2024.09.06-03.16.51:546][395]2024.09.06_03.16.51: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] left this ARK!
+[2024.09.06-03.17.10:734][531]2024.09.06_03.17.10: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.06-03.17.45:046][779]IP for incoming account 00021fc1b0504c7f91273e3fef1ef8e6 - IP 68.131.58.204
+[2024.09.06-03.17.46:243][787]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.06-03.17.51:399][820]2024.09.06_03.17.51: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.06-03.17.51:804][822]2024.09.06_03.17.51: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] joined this ARK!
+[2024.09.06-03.17.52:450][825]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.17.52:755][827]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.18.25:244][  3]2024.09.06_03.18.25: Saving world...
+[2024.09.06-03.18.25:260][  3]2024.09.06_03.18.25: World Save Complete. Took: 0.529186
+[2024.09.06-03.19.24:587][350]2024.09.06_03.19.24: Tribe Tribe of Lucifer, ID 1136584465: Day 4, 10:39:08: <RichColor Color="1, 0, 0, 1">Tribemember Lucifer - Lvl 69 was killed by an Aberrant Dire Bear - Lvl 40!</>)
+[2024.09.06-03.19.24:593][350]2024.09.06_03.19.24: Lucifer - Lvl 69 (Tribe of Lucifer) was killed by an Aberrant Dire Bear - Lvl 40 ()!
+[2024.09.06-03.19.51:064][508]FNetGUIDCache::PeriodicCleanAndCompact:   7.92ms total time [  6.53ms CleanReferences() and   1.39ms compacting]; ObjectLookup.Num()=27290 [14146 removed]; NetGUIDLookup.Num()=22590 [13969 removed]
+[2024.09.06-03.19.57:314][549]IP for incoming account 00029f909c48429d8253caa9b5962d20 - IP 24.237.111.215
+[2024.09.06-03.20.03:368][587]2024.09.06_03.20.03: Th33_Mighty_OoO [UniqueNetId:00029f909c48429d8253caa9b5962d20 Platform:None] joined this ARK!
+[2024.09.06-03.20.04:264][593]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.20.22:217][700]2024.09.06_03.20.22: Tribe Tribe of Goblin, ID 1770445632: Day 4, 11:02:11: <RichColor Color="0, 1, 1, 1">Goblin was added to the Tribe!</>)
+[2024.09.06-03.20.22:225][700]2024.09.06_03.20.22: Player Th33_Mighty_OoO with ID 274621119 joined tribe Tribe of Goblin with ID 1770445632.
+[2024.09.06-03.20.51:553][883]2024.09.06_03.20.51: Tribe Tribe of Lucifer, ID 1136584465: Day 4, 11:13:56: <RichColor Color="0, 1, 0, 1">Azaria Tamed an Aberrant Parasaur - Lvl 22 (Aberrant Parasaur)!</>)
+[2024.09.06-03.20.51:563][883]2024.09.06_03.20.51: Azaria of Tribe Tribe of Lucifer Tamed an Aberrant Parasaur - Lvl 22 (Aberrant Parasaur)!
+[2024.09.06-03.20.56:037][913]2024.09.06_03.20.56: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.06-03.21.56:419][325]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.06-03.22.01:415][358]2024.09.06_03.22.01: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.06-03.22.02:601][366]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.22.16:985][431]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L1_X6_Y0,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L1_X6_Y0
+[2024.09.06-03.22.38:716][571]2024.09.06_03.22.38: Tribe Tribe of Lucifer, ID 1136584465: Day 4, 11:56:37: <RichColor Color="0, 1, 0, 1">Lucifer Tamed a Bulbdog - Lvl 179 (Bulbdog)!</>)
+[2024.09.06-03.22.38:726][571]2024.09.06_03.22.38: Lucifer of Tribe Tribe of Lucifer Tamed a Bulbdog - Lvl 179 (Bulbdog)!
+[2024.09.06-03.22.40:068][580]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L1_X6_Y0,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L1_X6_Y0
+[2024.09.06-03.23.19:900][860]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L1_X6_Y0,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L1_X6_Y0
+[2024.09.06-03.23.20:923][867]2024.09.06_03.23.20: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.06-03.23.25:343][892]2024.09.06_03.23.25: Saving world...
+[2024.09.06-03.23.25:352][892]2024.09.06_03.23.25: World Save Complete. Took: 0.527648
+[2024.09.06-03.23.58:222][116]2024.09.06_03.23.58: Tribe Tribe of Viejo sabroso, ID 1207642538: Day 4, 12:28:22: <RichColor Color="1, 0, 0, 1">Tribemember Viejo sabroso - Lvl 69 was killed by a Basilisk - Lvl 65!</>)
+[2024.09.06-03.23.58:230][116]2024.09.06_03.23.58: Viejo sabroso - Lvl 69 (Tribe of Viejo sabroso) was killed by a Basilisk - Lvl 65 ()!
+[2024.09.06-03.24.00:745][134]2024.09.06_03.24.00: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 12:29:21: <RichColor Color="1, 0, 0, 1">Tribemember Dnizzle - Lvl 67 was killed by MrStealUrGirl - Lvl 71-390821743 (Tribe of Dnizzle)!</>)
+[2024.09.06-03.24.00:749][134]2024.09.06_03.24.00: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 12:29:21: <RichColor Color="1, 0, 1, 1">Your Tribe killed Dnizzle - Lvl 67 (Tribe of Dnizzle)!</>)
+[2024.09.06-03.24.00:759][134]2024.09.06_03.24.00: Dnizzle - Lvl 67 (Tribe of Dnizzle) was killed by MrStealUrGirl - Lvl 71 (Tribe of Dnizzle)! [KillerSID: 390821743]
+[2024.09.06-03.24.13:254][229]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.06-03.24.18:080][266]2024.09.06_03.24.18: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.06-03.24.19:306][275]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.24.54:972][542]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L1_X6_Y0,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L1_X6_Y0
+[2024.09.06-03.25.48:332][901]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L1_X6_Y0,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L1_X6_Y0
+[2024.09.06-03.25.49:176][907]Garbage Collection Triggered!
+[2024.09.06-03.26.14:803][ 58]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L1_X6_Y0,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L1_X6_Y0
+[2024.09.06-03.26.41:127][253]2024.09.06_03.26.41: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.06-03.26.51:375][328]2024.09.06_03.26.51: Tribe Tribe of Mango, ID 1773629605: Day 4, 13:36:08: <RichColor Color="0, 1, 0, 1">Pineapple Tamed a Shinehorn - Lvl 29 (Shinehorn)!</>)
+[2024.09.06-03.26.51:377][328]2024.09.06_03.26.51: Pineapple of Tribe Tribe of Mango Tamed a Shinehorn - Lvl 29 (Shinehorn)!
+[2024.09.06-03.27.26:081][573]2024.09.06_03.27.26: Tribe Tribe of Fentanyl, ID 1033936337: Day 4, 13:50:00: <RichColor Color="0, 1, 0, 1">Fentanyl Tamed a Bulbdog - Lvl 164 (Bulbdog)!</>)
+[2024.09.06-03.27.26:092][573]2024.09.06_03.27.26: Fentanyl of Tribe Tribe of Fentanyl Tamed a Bulbdog - Lvl 164 (Bulbdog)!
+[2024.09.06-03.27.49:893][757]2024.09.06_03.27.49: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 13:59:32: <RichColor Color="0, 1, 0, 1">MrStealUrGirl Tamed a Baby Bulbdog - Lvl 65 (Bulbdog)!</>)
+[2024.09.06-03.27.49:900][757]2024.09.06_03.27.49: MrStealUrGirl of Tribe Tribe of Dnizzle Tamed a Baby Bulbdog - Lvl 65 (Bulbdog)!
+[2024.09.06-03.27.54:783][791]2024.09.06_03.27.54: Tribe Tribe of Mango, ID 1773629605: Day 4, 14:01:30: <RichColor Color="0, 1, 0, 1">Pineapple Tamed a Juvenile Aberrant Megalosaurus - Lvl 105 (Aberrant Megalosaurus)!</>)
+[2024.09.06-03.27.54:794][791]2024.09.06_03.27.54: Pineapple of Tribe Tribe of Mango Tamed a Juvenile Aberrant Megalosaurus - Lvl 105 (Aberrant Megalosaurus)!
+[2024.09.06-03.27.55:274][793]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.06-03.28.00:032][830]2024.09.06_03.28.00: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.06-03.28.01:345][839]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.28.25:475][ 13]2024.09.06_03.28.25: Saving world...
+[2024.09.06-03.28.25:488][ 13]2024.09.06_03.28.25: World Save Complete. Took: 0.560319
+[2024.09.06-03.28.27:437][ 27]2024.09.06_03.28.27: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 14:14:29: <RichColor Color="1, 0, 0, 1">Tribemember Dnizzle - Lvl 67 was killed by MrStealUrGirl - Lvl 75-390821743 (Tribe of Dnizzle)!</>)
+[2024.09.06-03.28.27:442][ 27]2024.09.06_03.28.27: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 14:14:29: <RichColor Color="1, 0, 1, 1">Your Tribe killed Dnizzle - Lvl 67 (Tribe of Dnizzle)!</>)
+[2024.09.06-03.28.27:453][ 27]2024.09.06_03.28.27: Dnizzle - Lvl 67 (Tribe of Dnizzle) was killed by MrStealUrGirl - Lvl 75 (Tribe of Dnizzle)! [KillerSID: 390821743]
+[2024.09.06-03.29.19:959][422]2024.09.06_03.29.19: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.06-03.29.51:172][664]FNetGUIDCache::PeriodicCleanAndCompact:   7.95ms total time [  6.67ms CleanReferences() and   1.28ms compacting]; ObjectLookup.Num()=26503 [13963 removed]; NetGUIDLookup.Num()=22630 [13019 removed]
+[2024.09.06-03.31.07:481][215]2024.09.06_03.31.07: Tribe Tribe of Mango, ID 1773629605: Day 4, 15:18:31: <RichColor Color="1, 0, 0, 1">Your 'Sleeping Bag' was destroyed!</>)
+[2024.09.06-03.31.07:486][215]2024.09.06_03.31.07: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 15:18:31: <RichColor Color="1, 0.75, 0.3, 1">MrStealUrGirl - Lvl 75 destroyed their 'Sleeping Bag (Tribe of Mango)')!</>)
+[2024.09.06-03.31.10:166][232]2024.09.06_03.31.10: Tribe Tribe of Mango, ID 1773629605: Day 4, 15:19:35: <RichColor Color="1, 0, 0, 1">Your 'Sleeping Bag' was destroyed!</>)
+[2024.09.06-03.31.10:169][232]2024.09.06_03.31.10: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 15:19:35: <RichColor Color="1, 0.75, 0.3, 1">MrStealUrGirl - Lvl 75 destroyed their 'Sleeping Bag (Tribe of Mango)')!</>)
+[2024.09.06-03.31.12:354][246]2024.09.06_03.31.12: Tribe Tribe of Mango, ID 1773629605: Day 4, 15:20:28: <RichColor Color="1, 0, 0, 1">Your 'Sleeping Bag' was destroyed!</>)
+[2024.09.06-03.31.12:358][246]2024.09.06_03.31.12: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 15:20:28: <RichColor Color="1, 0.75, 0.3, 1">MrStealUrGirl - Lvl 75 destroyed their 'Sleeping Bag (Tribe of Mango)')!</>)
+[2024.09.06-03.31.15:723][266]2024.09.06_03.31.15: Tribe Shwat Team, ID 1482354014: Day 4, 15:21:44: <RichColor Color="0, 1, 0, 1">RehDragon Tamed a Parasaur - Lvl 150 (Parasaur)!</>)
+[2024.09.06-03.31.15:735][266]2024.09.06_03.31.15: RehDragon of Tribe Shwat Team Tamed a Parasaur - Lvl 150 (Parasaur)!
+[2024.09.06-03.31.15:748][266]2024.09.06_03.31.15: Tribe Shwat Team, ID 1482354014: Day 4, 15:21:44: Shwat froze Parasaur - Lvl 150 (Parasaur))
+[2024.09.06-03.31.15:758][266]Frozen by ID: 0002789f4f984c6787a5898016eb4375
+[2024.09.06-03.31.21:995][303]2024.09.06_03.31.21: Tribe Tribe of Asta, ID 1231410302: Day 4, 15:24:19: <RichColor Color="1, 0, 0, 1">Your 'Sleeping Bag' was destroyed!</>)
+[2024.09.06-03.31.22:005][303]2024.09.06_03.31.22: Tribe Tribe of Goblin, ID 1770445632: Day 4, 15:24:19: <RichColor Color="1, 0.75, 0.3, 1">Goblin - Lvl 65 destroyed their 'Sleeping Bag (Tribe of Asta)')!</>)
+[2024.09.06-03.31.24:419][316]2024.09.06_03.31.24: Tribe Tribe of Asta, ID 1231410302: Day 4, 15:25:17: <RichColor Color="1, 0, 0, 1">Your 'Sleeping Bag' was destroyed!</>)
+[2024.09.06-03.31.24:424][316]2024.09.06_03.31.24: Tribe Tribe of Goblin, ID 1770445632: Day 4, 15:25:17: <RichColor Color="1, 0.75, 0.3, 1">Goblin - Lvl 65 destroyed their 'Sleeping Bag (Tribe of Asta)')!</>)
+[2024.09.06-03.31.28:904][347]2024.09.06_03.31.28: Tribe Tribe of Mango, ID 1773629605: Day 4, 15:27:05: <RichColor Color="1, 0, 0, 1">Your Juvenile Aberrant Megalosaurus - Lvl 80 (Aberrant Megalosaurus) was killed by an Aberrant Arthropluera - Lvl 55!</>)
+[2024.09.06-03.31.28:910][347]2024.09.06_03.31.28: Juvenile Aberrant Megalosaurus - Lvl 80 (Aberrant Megalosaurus) (Tribe of Mango) was killed by an Aberrant Arthropluera - Lvl 55 ()!
+[2024.09.06-03.32.18:334][644]2024.09.06_03.32.18: Tribe Shwat Team, ID 1482354014: Day 4, 15:46:50: Enarchy froze Clever - Lvl 226 (Aberrant Raptor))
+[2024.09.06-03.32.18:338][644]Frozen by ID: 0002d4db73054edab10ec40e34ce8b65
+[2024.09.06-03.32.41:738][798]2024.09.06_03.32.41: Son--of--Thor [UniqueNetId:00024fbb87e142058334f5994dcfabff Platform:None] left this ARK!
+[2024.09.06-03.33.25:579][ 79]2024.09.06_03.33.25: Saving world...
+[2024.09.06-03.33.25:584][ 79]2024.09.06_03.33.25: World Save Complete. Took: 0.543478
+[2024.09.06-03.33.31:807][119]2024.09.06_03.33.31: Tribe Tribe of Mango, ID 1773629605: Day 4, 16:16:09: <RichColor Color="1, 0, 0, 1">Your Bulbdog - Lvl 130 (Bulbdog) was killed by an Aberrant Doedicurus - Lvl 140!</>)
+[2024.09.06-03.33.31:817][119]2024.09.06_03.33.31: Bulbdog - Lvl 130 (Bulbdog) (Tribe of Mango) was killed by an Aberrant Doedicurus - Lvl 140 ()!
+[2024.09.06-03.33.39:947][171]2024.09.06_03.33.39: Tribe Tribe of Mango, ID 1773629605: Day 4, 16:19:19: <RichColor Color="0, 1, 0, 1">Banana Tamed a Bulbdog - Lvl 149 (Bulbdog)!</>)
+[2024.09.06-03.33.39:954][171]2024.09.06_03.33.39: Banana of Tribe Tribe of Mango Tamed a Bulbdog - Lvl 149 (Bulbdog)!
+[2024.09.06-03.35.21:808][927]2024.09.06_03.35.21: Th33_Mighty_OoO [UniqueNetId:00029f909c48429d8253caa9b5962d20 Platform:None] left this ARK!
+[2024.09.06-03.35.35:868][ 30]2024.09.06_03.35.35: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 17:05:47: <RichColor Color="1, 0, 0, 1">Your Juvenile Bulbdog - Lvl 65 (Bulbdog) was killed!</>)
+[2024.09.06-03.35.35:876][ 30]2024.09.06_03.35.35: Juvenile Bulbdog - Lvl 65 (Bulbdog) (Tribe of Dnizzle) was killed!
+[2024.09.06-03.35.35:889][ 30]2024.09.06_03.35.35: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 17:05:47: Juvenile Bulbdog - Lvl 65 (Bulbdog) starved to death!)
+[2024.09.06-03.36.14:519][312]IP for incoming account 000263192d584f75b49b3e57524e4a8b - IP 172.59.193.25
+[2024.09.06-03.36.17:710][339]2024.09.06_03.36.17: Tribe Tribe of Lucifer, ID 1136584465: Day 4, 17:22:28: <RichColor Color="0, 1, 0, 1">Lucifer Tamed a Bulbdog - Lvl 157 (Bulbdog)!</>)
+[2024.09.06-03.36.17:719][339]2024.09.06_03.36.17: Lucifer of Tribe Tribe of Lucifer Tamed a Bulbdog - Lvl 157 (Bulbdog)!
+[2024.09.06-03.36.19:651][354]2024.09.06_03.36.19: Cletus143 [UniqueNetId:000263192d584f75b49b3e57524e4a8b Platform:None] joined this ARK!
+[2024.09.06-03.36.21:065][365]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.36.51:035][589]2024.09.06_03.36.51: Tribe Tribe of Mike Oxmaul, ID 1201616667: Day 4, 17:35:47: <RichColor Color="0, 1, 1, 1">Mike Oxmaul was added to the Tribe!</>)
+[2024.09.06-03.36.51:039][589]2024.09.06_03.36.51: Player Cletus143 with ID 997854537 joined tribe Tribe of Mike Oxmaul with ID 1201616667.
+[2024.09.06-03.36.52:732][599]2024.09.06_03.36.52: Tribe Tribe of Jam, ID 1252191829: Day 4, 17:36:27: <RichColor Color="0, 1, 0, 1">Jam Tamed a Juvenile Aberrant Stegosaurus - Lvl 130 (Aberrant Stegosaurus)!</>)
+[2024.09.06-03.36.52:744][599]2024.09.06_03.36.52: Jam of Tribe Tribe of Jam Tamed a Juvenile Aberrant Stegosaurus - Lvl 130 (Aberrant Stegosaurus)!
+[2024.09.06-03.36.56:080][624]2024.09.06_03.36.56: Tribe Tribe of Jam, ID 1252191829: Day 4, 17:37:47: <RichColor Color="0, 1, 0, 1">Jam Tamed a Juvenile Aberrant Stegosaurus - Lvl 130 (Aberrant Stegosaurus)!</>)
+[2024.09.06-03.36.56:087][624]2024.09.06_03.36.56: Jam of Tribe Tribe of Jam Tamed a Juvenile Aberrant Stegosaurus - Lvl 130 (Aberrant Stegosaurus)!
+[2024.09.06-03.37.08:383][720]2024.09.06_03.37.08: Tribe Tribe of Jam, ID 1252191829: Day 4, 17:42:42: <RichColor Color="1, 0, 0, 1">Your Juvenile Aberrant Stegosaurus - Lvl 130 (Aberrant Stegosaurus) was killed by Jam - Lvl 79-215473482 (Tribe of Jam)!</>)
+[2024.09.06-03.37.08:393][720]2024.09.06_03.37.08: Tribe Tribe of Jam, ID 1252191829: Day 4, 17:42:42: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Aberrant Stegosaurus - Lvl 130 (Aberrant Stegosaurus) (Tribe of Jam)!</>)
+[2024.09.06-03.37.08:403][720]2024.09.06_03.37.08: Juvenile Aberrant Stegosaurus - Lvl 130 (Aberrant Stegosaurus) (Tribe of Jam) was killed by Jam - Lvl 79-215473482 (Tribe of Jam)! [KillerSID: 215473482]
+[2024.09.06-03.37.17:288][783]2024.09.06_03.37.17: Tribe Tribe of Mango, ID 1773629605: Day 4, 17:46:17: <RichColor Color="0, 1, 0, 1">Banana Tamed a Ravager - Lvl 127 (Ravager)!</>)
+[2024.09.06-03.37.17:289][783]2024.09.06_03.37.17: Banana of Tribe Tribe of Mango Tamed a Ravager - Lvl 127 (Ravager)!
+[2024.09.06-03.37.17:576][785]2024.09.06_03.37.17: Tribe Tribe of Jam, ID 1252191829: Day 4, 17:46:25: <RichColor Color="1, 0, 0, 1">Your Juvenile Aberrant Stegosaurus - Lvl 130 (Aberrant Stegosaurus) was killed by Jam - Lvl 79-215473482 (Tribe of Jam)!</>)
+[2024.09.06-03.37.17:587][785]2024.09.06_03.37.17: Tribe Tribe of Jam, ID 1252191829: Day 4, 17:46:25: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Aberrant Stegosaurus - Lvl 130 (Aberrant Stegosaurus) (Tribe of Jam)!</>)
+[2024.09.06-03.37.17:597][785]2024.09.06_03.37.17: Juvenile Aberrant Stegosaurus - Lvl 130 (Aberrant Stegosaurus) (Tribe of Jam) was killed by Jam - Lvl 79-215473482 (Tribe of Jam)! [KillerSID: 215473482]
+[2024.09.06-03.37.21:546][810]IP for incoming account 00027e6f55b74465b98517cbfe1d2586 - IP 203.211.78.217
+[2024.09.06-03.37.26:899][846]2024.09.06_03.37.26: CX_HYDR4- [UniqueNetId:00027e6f55b74465b98517cbfe1d2586 Platform:None] joined this ARK!
+[2024.09.06-03.37.27:667][848]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.37.33:650][886]2024.09.06_03.37.33: Tribe Tribe of Lucifer, ID 1136584465: Day 4, 17:52:46: <RichColor Color="0, 1, 0, 1">Lucifer Tamed a Bulbdog - Lvl 224 (Bulbdog)!</>)
+[2024.09.06-03.37.33:652][886]2024.09.06_03.37.33: Lucifer of Tribe Tribe of Lucifer Tamed a Bulbdog - Lvl 224 (Bulbdog)!
+[2024.09.06-03.37.49:333][985]Garbage Collection Triggered!
+[2024.09.06-03.38.25:607][212]2024.09.06_03.38.25: Saving world...
+[2024.09.06-03.38.25:612][212]2024.09.06_03.38.25: World Save Complete. Took: 0.562576
+[2024.09.06-03.38.30:371][246]2024.09.06_03.38.30: Tribe Tribe of Cj, ID 1724910749: Day 4, 18:14:11: <RichColor Color="1, 0, 0, 1">Tribemember Cj - Lvl 51 was killed by a Ravager - Lvl 20!</>)
+[2024.09.06-03.38.30:382][246]2024.09.06_03.38.30: Cj - Lvl 51 (Tribe of Cj) was killed by a Ravager - Lvl 20 ()!
+[2024.09.06-03.38.45:771][354]2024.09.06_03.38.45: Tribe Tribe of Jam, ID 1252191829: Day 4, 18:20:21: <RichColor Color="0, 1, 0, 1">Jam Tamed an Aberrant Dodo - Lvl 194 (Aberrant Dodo)!</>)
+[2024.09.06-03.38.45:776][354]2024.09.06_03.38.45: Jam of Tribe Tribe of Jam Tamed an Aberrant Dodo - Lvl 194 (Aberrant Dodo)!
+[2024.09.06-03.39.01:357][472]2024.09.06_03.39.01: Tribe Tribe of Jam, ID 1252191829: Day 4, 18:26:34: <RichColor Color="1, 0, 0, 1">Your Aberrant Dodo - Lvl 194 (Aberrant Dodo) was killed by Jam - Lvl 79-215473482 (Tribe of Jam)!</>)
+[2024.09.06-03.39.01:359][472]2024.09.06_03.39.01: Tribe Tribe of Jam, ID 1252191829: Day 4, 18:26:34: <RichColor Color="1, 0, 1, 1">Your Tribe killed Aberrant Dodo - Lvl 194 (Aberrant Dodo) (Tribe of Jam)!</>)
+[2024.09.06-03.39.01:369][472]2024.09.06_03.39.01: Aberrant Dodo - Lvl 194 (Aberrant Dodo) (Tribe of Jam) was killed by Jam - Lvl 79-215473482 (Tribe of Jam)! [KillerSID: 215473482]
+[2024.09.06-03.39.26:190][663]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L0_X-6_Y-5,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L0_X-6_Y-5
+[2024.09.06-03.39.51:252][855]FNetGUIDCache::PeriodicCleanAndCompact:   6.96ms total time [  5.91ms CleanReferences() and   1.05ms compacting]; ObjectLookup.Num()=26409 [10334 removed]; NetGUIDLookup.Num()=22334 [10486 removed]
+[2024.09.06-03.40.00:913][925]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.06-03.40.05:730][960]2024.09.06_03.40.05: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.06-03.40.07:054][970]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.40.17:435][ 47]2024.09.06_03.40.17: Tribe Tribe of Mango, ID 1773629605: Day 4, 18:57:00: <RichColor Color="1, 0, 0, 1">Your 'Stone Reinforced Gate (Locked) ' was destroyed!</>)
+[2024.09.06-03.40.17:443][ 47]2024.09.06_03.40.17: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 18:57:00: <RichColor Color="1, 0.75, 0.3, 1">Bevis - Lvl 69 destroyed their 'Stone Reinforced Gate (Locked)  (Tribe of Mango)')!</>)
+[2024.09.06-03.40.28:472][129]2024.09.06_03.40.28: CX_HYDR4- [UniqueNetId:00027e6f55b74465b98517cbfe1d2586 Platform:None] left this ARK!
+[2024.09.06-03.40.37:049][188]2024.09.06_03.40.37: Tribe Tribe of Mango, ID 1773629605: Day 4, 19:04:48: <RichColor Color="1, 0, 0, 1">Your 'QoL+ Large Storage Box (Locked) ' was destroyed!</>)
+[2024.09.06-03.40.37:060][188]2024.09.06_03.40.37: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 19:04:48: <RichColor Color="1, 0.75, 0.3, 1">Bevis - Lvl 69 destroyed their 'QoL+ Large Storage Box (Locked)  (Tribe of Mango)')!</>)
+[2024.09.06-03.40.43:697][241]2024.09.06_03.40.43: Tribe Tribe of Mango, ID 1773629605: Day 4, 19:07:28: <RichColor Color="1, 0, 0, 1">Your 'QoL+ Large Storage Box (Locked) ' was destroyed!</>)
+[2024.09.06-03.40.43:703][241]2024.09.06_03.40.43: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 19:07:28: <RichColor Color="1, 0.75, 0.3, 1">Bevis - Lvl 69 destroyed their 'QoL+ Large Storage Box (Locked)  (Tribe of Mango)')!</>)
+[2024.09.06-03.40.50:964][304]2024.09.06_03.40.50: Tribe Tribe of Mango, ID 1773629605: Day 4, 19:10:22: <RichColor Color="1, 0, 0, 1">Your 'QoL+ Large Storage Box (Locked) ' was destroyed!</>)
+[2024.09.06-03.40.50:972][304]2024.09.06_03.40.50: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 19:10:22: <RichColor Color="1, 0.75, 0.3, 1">Bevis - Lvl 69 destroyed their 'QoL+ Large Storage Box (Locked)  (Tribe of Mango)')!</>)
+[2024.09.06-03.40.58:358][370]2024.09.06_03.40.58: Tribe Tribe of Mango, ID 1773629605: Day 4, 19:13:20: <RichColor Color="1, 0, 0, 1">Your 'QoL+ Large Storage Box (Locked) ' was destroyed!</>)
+[2024.09.06-03.40.58:363][370]2024.09.06_03.40.58: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 19:13:20: <RichColor Color="1, 0.75, 0.3, 1">Bevis - Lvl 69 destroyed their 'QoL+ Large Storage Box (Locked)  (Tribe of Mango)')!</>)
+[2024.09.06-03.41.06:738][443]2024.09.06_03.41.06: Tribe Tribe of Mango, ID 1773629605: Day 4, 19:16:41: <RichColor Color="1, 0, 0, 1">Your 'QoL+ Large Storage Box (Locked) ' was destroyed!</>)
+[2024.09.06-03.41.06:743][443]2024.09.06_03.41.06: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 19:16:41: <RichColor Color="1, 0.75, 0.3, 1">Bevis - Lvl 69 destroyed their 'QoL+ Large Storage Box (Locked)  (Tribe of Mango)')!</>)
+[2024.09.06-03.41.16:751][530]2024.09.06_03.41.16: Tribe Tribe of Jam, ID 1252191829: Day 4, 19:20:40: <RichColor Color="1, 1, 0, 1">Jam demolished a 'Wood Foundation'!</>)
+[2024.09.06-03.41.49:805][803]2024.09.06_03.41.49: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 19:33:55: <RichColor Color="0, 1, 0, 1">Bevis Tamed an Aberrant Dodo - Lvl 119 (Aberrant Dodo)!</>)
+[2024.09.06-03.41.49:815][803]2024.09.06_03.41.49: Bevis of Tribe Tribe of Dnizzle Tamed an Aberrant Dodo - Lvl 119 (Aberrant Dodo)!
+[2024.09.06-03.41.50:189][806]2024.09.06_03.41.50: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.06-03.41.55:409][846]2024.09.06_03.41.55: Tribe Tribe of Viejo sabroso, ID 1207642538: Day 4, 19:36:08: <RichColor Color="0, 1, 0, 1">Viejo sabroso Tamed a Bulbdog - Lvl 97 (Bulbdog)!</>)
+[2024.09.06-03.41.55:414][846]2024.09.06_03.41.55: Viejo sabroso of Tribe Tribe of Viejo sabroso Tamed a Bulbdog - Lvl 97 (Bulbdog)!
+[2024.09.06-03.42.43:874][237]2024.09.06_03.42.43: Tribe Tribe of Viejo sabroso, ID 1207642538: Day 4, 19:55:30: <RichColor Color="0, 1, 0, 1">Viejo sabroso Tamed a Bulbdog - Lvl 194 (Bulbdog)!</>)
+[2024.09.06-03.42.43:885][237]2024.09.06_03.42.43: Viejo sabroso of Tribe Tribe of Viejo sabroso Tamed a Bulbdog - Lvl 194 (Bulbdog)!
+[2024.09.06-03.43.13:229][457]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.06-03.43.13:646][460]2024.09.06_03.43.13: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 20:07:27: <RichColor Color="1, 0, 0, 1">Tribemember Dnizzle - Lvl 67 was killed by MrStealUrGirl - Lvl 79-390821743 (Tribe of Dnizzle)!</>)
+[2024.09.06-03.43.13:653][460]2024.09.06_03.43.13: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 20:07:27: <RichColor Color="1, 0, 1, 1">Your Tribe killed Dnizzle - Lvl 67 (Tribe of Dnizzle)!</>)
+[2024.09.06-03.43.13:664][460]2024.09.06_03.43.13: Dnizzle - Lvl 67 (Tribe of Dnizzle) was killed by MrStealUrGirl - Lvl 79 (Tribe of Dnizzle)! [KillerSID: 390821743]
+[2024.09.06-03.43.17:975][493]2024.09.06_03.43.17: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.06-03.43.19:327][504]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.43.19:757][507]2024.09.06_03.43.19: Tribe Tribe of Asta, ID 1231410302: Day 4, 20:09:54: <RichColor Color="1, 0, 0, 1">Your Bulbdog - Lvl 105 (Bulbdog) was killed by a Ravager - Lvl 140!</>)
+[2024.09.06-03.43.19:767][507]2024.09.06_03.43.19: Bulbdog - Lvl 105 (Bulbdog) (Tribe of Asta) was killed by a Ravager - Lvl 140 ()!
+[2024.09.06-03.43.25:660][550]2024.09.06_03.43.25: Saving world...
+[2024.09.06-03.43.25:665][550]2024.09.06_03.43.25: World Save Complete. Took: 0.536791
+[2024.09.06-03.44.27:211][990]IP for incoming account 0002a0dd07704da2a09e5ba5de617921 - IP 98.22.119.21
+[2024.09.06-03.44.31:839][ 23]2024.09.06_03.44.31: WhoIsEarthy [UniqueNetId:0002a0dd07704da2a09e5ba5de617921 Platform:None] joined this ARK!
+[2024.09.06-03.44.32:802][ 30]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.44.57:842][215]2024.09.06_03.44.57: Tribe Tribe of Flower, ID 1828931266: Day 4, 20:48:56: <RichColor Color="0, 1, 1, 1">Flower was added to the Tribe!</>)
+[2024.09.06-03.44.57:853][215]2024.09.06_03.44.57: Player WhoIsEarthy with ID 930772031 joined tribe Tribe of Flower with ID 1828931266.
+[2024.09.06-03.45.07:561][286]2024.09.06_03.45.07: Tribe Tribe of Flower, ID 1828931266: Day 4, 20:52:50: <RichColor Color="1, 0, 0, 1">Tribemember Flower - Lvl 1 was killed by a Basilisk - Lvl 45!</>)
+[2024.09.06-03.45.07:564][286]2024.09.06_03.45.07: Flower - Lvl 1 (Tribe of Flower) was killed by a Basilisk - Lvl 45 ()!
+[2024.09.06-03.45.45:797][577]2024.09.06_03.45.45: Tribe Tribe of Dnizzle, ID 1770976213: Day 4, 21:08:02: <RichColor Color="0, 1, 0, 1">Bevis Tamed an Aberrant Parasaur - Lvl 44 (Aberrant Parasaur)!</>)
+[2024.09.06-03.45.45:808][577]2024.09.06_03.45.45: Bevis of Tribe Tribe of Dnizzle Tamed an Aberrant Parasaur - Lvl 44 (Aberrant Parasaur)!
+[2024.09.06-03.45.50:094][613]2024.09.06_03.45.50: MonkeyWhisper (Rick Scott): Hi, any feedback on the current server settings?
+[2024.09.06-03.45.56:134][658]2024.09.06_03.45.56: King_Asta_1 [UniqueNetId:0002cda24a4a4b7ba9d690a567beb670 Platform:None] left this ARK!
+[2024.09.06-03.46.07:290][744]2024.09.06_03.46.07: EVIL GOD OROCHI (Viejo sabroso): Kit?
+[2024.09.06-03.46.21:271][855]2024.09.06_03.46.21: MonkeyWhisper (Rick Scott): F2.
+[2024.09.06-03.46.24:528][880]2024.09.06_03.46.24: Tribe Tribe of Mango, ID 1773629605: Day 4, 21:23:29: <RichColor Color="1, 0, 0, 1">Tribemember Diggs - Lvl 102 was killed!</>)
+[2024.09.06-03.46.24:530][880]2024.09.06_03.46.24: Diggs - Lvl 102 (Tribe of Mango) was killed!
+[2024.09.06-03.46.26:361][894]2024.09.06_03.46.26: Enarchy (Enarchy): Hold F2
+[2024.09.06-03.46.42:053][  7]2024.09.06_03.46.42: Tribe Tribe of Fentanyl, ID 1033936337: Day 4, 21:30:25: <RichColor Color="0, 1, 0, 1">Fentanyl Tamed a Juvenile Aberrant Gigantopithecus - Lvl 20 (Aberrant Gigantopithecus)!</>)
+[2024.09.06-03.46.42:061][  7]2024.09.06_03.46.42: Fentanyl of Tribe Tribe of Fentanyl Tamed a Juvenile Aberrant Gigantopithecus - Lvl 20 (Aberrant Gigantopithecus)!
+[2024.09.06-03.46.52:896][ 94]2024.09.06_03.46.52: EVIL GOD OROCHI (Viejo sabroso): On console
+[2024.09.06-03.47.05:677][198]2024.09.06_03.47.05: MartyrD0nk3y (Shwat): Which console
+[2024.09.06-03.47.24:285][344]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L1_X6_Y0,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L1_X6_Y0
+[2024.09.06-03.47.30:585][395]2024.09.06_03.47.30: EVIL GOD OROCHI (Viejo sabroso): Series x
+[2024.09.06-03.47.39:030][457]2024.09.06_03.47.39: MartyrD0nk3y (Shwat): Hold square and go to shop
+[2024.09.06-03.47.50:504][545]2024.09.06_03.47.50: MartyrD0nk3y (Shwat): wait thats ps
+[2024.09.06-03.47.56:231][589]2024.09.06_03.47.56: EVIL GOD OROCHI (Viejo sabroso): Xbox
+[2024.09.06-03.47.56:917][594]2024.09.06_03.47.56: Cletus143 (Mike Oxmaul): Movement speed and weight
+[2024.09.06-03.48.00:077][618]2024.09.06_03.48.00: Tribe Tribe of Human, ID 1568674158: Day 4, 22:01:39: <RichColor Color="1, 0, 0, 1">Tribemember Human - Lvl 1 was killed by a Ravager - Lvl 65!</>)
+[2024.09.06-03.48.00:084][618]2024.09.06_03.48.00: Human - Lvl 1 (Tribe of Human) was killed by a Ravager - Lvl 65 ()!
+[2024.09.06-03.48.18:305][755]2024.09.06_03.48.18: MonkeyWhisper (Rick Scott): We won't be touching movement speed and weight increases 1k by every 1 point.
+[2024.09.06-03.48.20:482][771]IP for incoming account 000214ea983a477db0c93aa0d9cf8711 - IP 72.239.228.109
+[2024.09.06-03.48.25:749][808]2024.09.06_03.48.25: Saving world...
+[2024.09.06-03.48.25:754][808]2024.09.06_03.48.25: World Save Complete. Took: 0.610541
+[2024.09.06-03.48.25:887][809]2024.09.06_03.48.25: EVIL GOD OROCHI (Viejo sabroso): Thanks
+[2024.09.06-03.48.26:743][815]2024.09.06_03.48.26: BigHoboDaddy892 [UniqueNetId:000214ea983a477db0c93aa0d9cf8711 Platform:None] joined this ARK!
+[2024.09.06-03.48.28:130][826]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-03.48.30:827][847]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L0_X-6_Y-5,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L0_X-6_Y-5
+[2024.09.06-03.48.56:830][ 33]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L0_X-6_Y-5,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L0_X-6_Y-5
+[2024.09.06-03.49.07:962][108]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L0_X-6_Y-5,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L0_X-6_Y-5
+[2024.09.06-03.49.09:376][116]2024.09.06_03.49.09: Tribe Tribe of Poop snider, ID 1098618476: Day 4, 22:29:15: <RichColor Color="0, 1, 1, 1">Poop snider was added to the Tribe!</>)
+[2024.09.06-03.49.09:383][116]2024.09.06_03.49.09: Player BigHoboDaddy892 with ID 203818419 joined tribe Tribe of Poop snider with ID 1098618476.
+[2024.09.06-03.49.49:454][351]Garbage Collection Triggered!
+[2024.09.06-03.49.52:132][352]FNetGUIDCache::PeriodicCleanAndCompact:   6.33ms total time [  5.40ms CleanReferences() and   0.93ms compacting]; ObjectLookup.Num()=27650 [9807 removed]; NetGUIDLookup.Num()=24569 [8771 removed]
+[2024.09.06-03.50.31:910][591]LogMemory: Platform Memory Stats for WindowsServer
+[2024.09.06-03.50.31:910][591]LogMemory: Process Physical Memory: 11367.64 MB used, 12844.99 MB peak
+[2024.09.06-03.50.31:910][591]LogMemory: Process Virtual Memory: 14805.41 MB used, 16292.84 MB peak
+[2024.09.06-03.50.31:910][591]LogMemory: Physical Memory: 16996.09 MB used,  15676.36 MB free, 32672.45 MB total
+[2024.09.06-03.50.31:910][591]LogMemory: Virtual Memory: 24534.34 MB used,  13258.11 MB free, 37792.45 MB total

@@ -1,0 +1,73 @@
+﻿[2024.08.29-13.22.10:036][  0]Log file open, 08/29/24 15:22:10
+[2024.08.29-13.22.10:036][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2024.08.29-13.22.10:036][  0]LogMemory: Process Physical Memory: 287.00 MB used, 287.00 MB peak
+[2024.08.29-13.22.10:036][  0]LogMemory: Process Virtual Memory: 311.22 MB used, 311.22 MB peak
+[2024.08.29-13.22.10:036][  0]LogMemory: Physical Memory: 3424.23 MB used,  29248.22 MB free, 32672.45 MB total
+[2024.08.29-13.22.10:036][  0]LogMemory: Virtual Memory: 7676.63 MB used,  30115.82 MB free, 37792.45 MB total
+[2024.08.29-13.22.10:532][  0]11
+
+[2024.08.29-13.22.10:538][  0]ARK Version: 51.23
+[2024.08.29-13.22.10:786][  0]LogCFCore: SetSettings called:
+{
+	"defaultLanguage": "en",
+	"gameId": 83374,
+	"apiKey": "*****1aZe",
+	"maxConcurrentInstallations": 3,
+	"modsDirectory": "ShooterGame/Mods",
+	"modsDirectoryMode": "CFCore",
+	"userDataDirectory": "ShooterGame/ModsUserData",
+	"isServer": true,
+	"isServerPcOnly": false,
+	"throttling":
+	{
+		"diskWriteBytesPerSec": 0
+	},
+	"premiumMods":
+	{
+		"publicKeyPem": "*****"
+	},
+	"logger":
+	{
+		"enabled": true,
+		"history": 8,
+		"maxSizeInMB": 2
+	},
+	"dynamicContentCategoryIds": [ 6844 ]
+}
+[2024.08.29-13.22.10:786][  0]LogCFCore: InternalSettings called:
+{
+	"apiBaseUrl": "https://api.curseforge.com",
+	"chunkedUploadServerUrl": "https://chunk-uploads.curseforge.com",
+	"analyticsUrl": "https://analyticsnew.overwolf.com/analytics/Counter",
+	"userAgent": "cfcore.ue 1.0.99",
+	"platform": "windows",
+	"pluginVersion": "1.0.99",
+	"httpFileDownloadTimeoutSecs": 1200
+}
+[2024.08.29-13.22.10:786][  0]LogCFCore: Warning: Couldn't load mods library from disk
+[2024.08.29-13.22.10:787][  0]LogCFCore: User context not loaded from disk
+[2024.08.29-13.22.10:787][  0]UShooterEngine::LoadGameMods with 0 mods
+[2024.08.29-13.22.10:787][  0]No Primal Game Data Override, using default PrimalGameDataAsset.
+[2024.08.29-13.22.11:417][  0]Default PrimalGameDataAsset instance created. Class is PrimalGameDataARKNX_BP_C_2147482302.
+[2024.08.29-13.22.11:417][  0]Initialize Primal Game Data Override.
+[2024.08.29-13.22.11:419][  0]Added Explorer Note Entry: DEARJANE_EXP_NOTE_1
+[2024.08.29-13.22.11:419][  0]Added Explorer Note Entry: DEARJANE_EXP_NOTE_2
+[2024.08.29-13.22.11:419][  0]Added Explorer Note Entry: DEARJANE_EXP_NOTE_3
+[2024.08.29-13.22.11:419][  0]Added Explorer Note Entry: DEARJANE_EXP_NOTE_4
+[2024.08.29-13.22.11:419][  0]Added Explorer Note Entry: DEARJANE_EXP_NOTE_5
+[2024.08.29-13.22.11:419][  0]Added Explorer Note Entry: DEARJANE_EXP_NOTE_6
+[2024.08.29-13.22.11:419][  0]Added Explorer Note Entry: DEARJANE_EXP_NOTE_7
+[2024.08.29-13.22.11:421][  0]Primal Game Data Took 0.00 seconds
+[2024.08.29-13.22.11:424][  0]Added Explorer Note Entry: DEARJANE_EXP_NOTE_1
+[2024.08.29-13.22.11:424][  0]Added Explorer Note Entry: DEARJANE_EXP_NOTE_2
+[2024.08.29-13.22.11:424][  0]Added Explorer Note Entry: DEARJANE_EXP_NOTE_3
+[2024.08.29-13.22.11:424][  0]Added Explorer Note Entry: DEARJANE_EXP_NOTE_4
+[2024.08.29-13.22.11:424][  0]Added Explorer Note Entry: DEARJANE_EXP_NOTE_5
+[2024.08.29-13.22.11:424][  0]Added Explorer Note Entry: DEARJANE_EXP_NOTE_6
+[2024.08.29-13.22.11:424][  0]Added Explorer Note Entry: DEARJANE_EXP_NOTE_7
+[2024.08.29-13.22.11:887][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2024.08.29-13.22.11:889][  0]BattlEye successfully started.
+[2024.08.29-13.23.28:098][  0]Server: "ARK #919462" has successfully started!
+[2024.08.29-13.23.38:522][  0]Commandline:  TheIsland_WP?listen?Port=27500 -servergamelog -servergamelogincludetribelogs -ServerRCONOutputTribeLogs -Mods=
+[2024.08.29-13.23.38:522][  0]Full Startup: 88.86 seconds
+[2024.08.29-13.23.38:522][  0]Number of cores 28

@@ -1,0 +1,92 @@
+﻿[2024.09.06-18.09.35:131][  0]Log file open, 09/06/24 20:09:35
+[2024.09.06-18.09.35:132][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2024.09.06-18.09.35:132][  0]LogMemory: Process Physical Memory: 246.82 MB used, 293.95 MB peak
+[2024.09.06-18.09.35:132][  0]LogMemory: Process Virtual Memory: 263.73 MB used, 263.73 MB peak
+[2024.09.06-18.09.35:132][  0]LogMemory: Physical Memory: 5948.07 MB used,  26724.38 MB free, 32672.45 MB total
+[2024.09.06-18.09.35:132][  0]LogMemory: Virtual Memory: 10116.30 MB used,  27676.15 MB free, 37792.45 MB total
+[2024.09.06-18.09.35:716][  0]11
+
+[2024.09.06-18.09.35:724][  0]ARK Version: 52.5
+[2024.09.06-18.09.35:998][  0]LogCFCore: SetSettings called:
+{
+	"defaultLanguage": "en",
+	"gameId": 83374,
+	"apiKey": "*****1aZe",
+	"maxConcurrentInstallations": 3,
+	"modsDirectory": "ShooterGame/Mods",
+	"modsDirectoryMode": "CFCore",
+	"userDataDirectory": "ShooterGame/ModsUserData",
+	"isServer": true,
+	"isServerPcOnly": false,
+	"throttling":
+	{
+		"diskWriteBytesPerSec": 0
+	},
+	"premiumMods":
+	{
+		"publicKeyPem": "*****"
+	},
+	"logger":
+	{
+		"enabled": true,
+		"history": 8,
+		"maxSizeInMB": 2
+	},
+	"dynamicContentCategoryIds": [ 6844 ]
+}
+[2024.09.06-18.09.35:998][  0]LogCFCore: InternalSettings called:
+{
+	"apiBaseUrl": "https://api.curseforge.com",
+	"chunkedUploadServerUrl": "https://chunk-uploads.curseforge.com",
+	"analyticsUrl": "https://analyticsnew.overwolf.com/analytics/Counter",
+	"userAgent": "cfcore.ue 1.0.99",
+	"platform": "windows",
+	"pluginVersion": "1.0.99",
+	"httpFileDownloadTimeoutSecs": 1200
+}
+[2024.09.06-18.09.36:045][  0]LogCFCore: User context not loaded from disk
+[2024.09.06-18.09.36:290][  7]LogCFCore: Query server result: 21 mods
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: EOS ID Helper (CrossPlay) (980463)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: maewings (929521)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: Pull It! (940022)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: Ammo Box Ascended (967856)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: PVP Scoreboard (931903)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: Solo Farm Mod (928501)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: CliffPlatforms (933872)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: Custom Dino Levels (928708)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: Utilities Plus (928621)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: QoL+ (939228)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: Dino+ (Nanny, Hatchey) (937546)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: Resonant's Shop Mod (936660)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: Super Spyglass Plus (929420)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: WBUI2 (931119)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: TG Stacking Mod 10000-90 (929110)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: Admin Panel (929868)
+[2024.09.06-18.09.36:324][  8]LogCFCore: No need to update existing mod: ARKomatic (939055)
+[2024.09.06-18.09.36:325][  8]LogCFCore: No need to update existing mod: Automated Dino Wipes (947733)
+[2024.09.06-18.09.36:325][  8]LogCFCore: No need to update existing mod: ASA-Bot Companion (936882)
+[2024.09.06-18.09.36:325][  8]LogCFCore: No need to update existing mod: Pelayori's Cryo Storage (Crossplay!) (928793)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: EOS ID Helper (CrossPlay) (980463)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: maewings (929521)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: Pull It! (940022)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: Ammo Box Ascended (967856)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: PVP Scoreboard (931903)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: Solo Farm Mod (928501)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: CliffPlatforms (933872)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: Custom Dino Levels (928708)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: Utilities Plus (928621)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: QoL+ (939228)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: Dino+ (Nanny, Hatchey) (937546)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: Resonant's Shop Mod (936660)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: Super Spyglass Plus (929420)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: WBUI2 (931119)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: TG Stacking Mod 10000-90 (929110)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: Admin Panel (929868)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: ARKomatic (939055)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: Automated Dino Wipes (947733)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: ASA-Bot Companion (936882)
+[2024.09.06-18.09.36:325][  8]LogCFCore: Mod valid: Pelayori's Cryo Storage (Crossplay!) (928793)
+[2024.09.06-18.09.36:507][  9]UShooterEngine::LoadGameMods with 21 mods
+[2024.09.06-18.09.36:507][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929420_5509935/SuperSpyglassPlus/Content/PrimalGameData_BP_SSP_Kav.uasset : 929420

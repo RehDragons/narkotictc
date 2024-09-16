@@ -1,0 +1,208 @@
+﻿[2024.09.14-08.24.39:718][  0]Log file open, 09/14/24 10:24:39
+[2024.09.14-08.24.39:718][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2024.09.14-08.24.39:718][  0]LogMemory: Process Physical Memory: 296.44 MB used, 296.44 MB peak
+[2024.09.14-08.24.39:718][  0]LogMemory: Process Virtual Memory: 322.78 MB used, 322.78 MB peak
+[2024.09.14-08.24.39:718][  0]LogMemory: Physical Memory: 21791.62 MB used,  10880.82 MB free, 32672.45 MB total
+[2024.09.14-08.24.39:718][  0]LogMemory: Virtual Memory: 51615.29 MB used,  35854.77 MB free, 87470.06 MB total
+[2024.09.14-08.24.40:255][  0]11
+
+[2024.09.14-08.24.40:262][  0]ARK Version: 52.5
+[2024.09.14-08.24.40:588][  0]LogCFCore: SetSettings called:
+{
+	"defaultLanguage": "en",
+	"gameId": 83374,
+	"apiKey": "*****1aZe",
+	"maxConcurrentInstallations": 3,
+	"modsDirectory": "ShooterGame/Mods",
+	"modsDirectoryMode": "CFCore",
+	"userDataDirectory": "ShooterGame/ModsUserData",
+	"isServer": true,
+	"isServerPcOnly": false,
+	"throttling":
+	{
+		"diskWriteBytesPerSec": 0
+	},
+	"premiumMods":
+	{
+		"publicKeyPem": "*****"
+	},
+	"logger":
+	{
+		"enabled": true,
+		"history": 8,
+		"maxSizeInMB": 2
+	},
+	"dynamicContentCategoryIds": [ 6844 ]
+}
+[2024.09.14-08.24.40:588][  0]LogCFCore: InternalSettings called:
+{
+	"apiBaseUrl": "https://api.curseforge.com",
+	"chunkedUploadServerUrl": "https://chunk-uploads.curseforge.com",
+	"analyticsUrl": "https://analyticsnew.overwolf.com/analytics/Counter",
+	"userAgent": "cfcore.ue 1.0.99",
+	"platform": "windows",
+	"pluginVersion": "1.0.99",
+	"httpFileDownloadTimeoutSecs": 1200
+}
+[2024.09.14-08.24.40:634][  0]LogCFCore: User context not loaded from disk
+[2024.09.14-08.24.40:920][  8]LogCFCore: Query server result: 21 mods
+[2024.09.14-08.24.40:956][  9]LogCFCore: No need to update existing mod: EOS ID Helper (CrossPlay) (980463)
+[2024.09.14-08.24.40:956][  9]LogCFCore: No need to update existing mod: Custom Dino Levels (928708)
+[2024.09.14-08.24.40:956][  9]LogCFCore: No need to update existing mod: Utilities Plus (928621)
+[2024.09.14-08.24.40:956][  9]LogCFCore: No need to update existing mod: maewings (929521)
+[2024.09.14-08.24.40:956][  9]LogCFCore: No need to update existing mod: Solo Farm Mod (928501)
+[2024.09.14-08.24.40:956][  9]LogCFCore: No need to update existing mod: PVP Scoreboard (931903)
+[2024.09.14-08.24.40:956][  9]LogCFCore: No need to update existing mod: CliffPlatforms (933872)
+[2024.09.14-08.24.40:956][  9]LogCFCore: No need to update existing mod: TG Stacking Mod 10000-90 (929110)
+[2024.09.14-08.24.40:956][  9]LogCFCore: No need to update existing mod: WBUI2 (931119)
+[2024.09.14-08.24.40:957][  9]LogCFCore: No need to update existing mod: ARKomatic (939055)
+[2024.09.14-08.24.40:957][  9]LogCFCore: No need to update existing mod: Automated Dino Wipes (947733)
+[2024.09.14-08.24.40:957][  9]LogCFCore: No need to update existing mod: Admin Panel (929868)
+[2024.09.14-08.24.40:957][  9]LogCFCore: No need to update existing mod: Pull It! (940022)
+[2024.09.14-08.24.40:957][  9]LogCFCore: No need to update existing mod: Dino+ (Nanny, Hatchey) (937546)
+[2024.09.14-08.24.40:957][  9]LogCFCore: Mod: ASA-Bot Companion (936882) requires upgrade/downgrade (5716820 -> 5721677)
+[2024.09.14-08.24.40:957][  9]LogCFCore: No need to update existing mod: QoL+ (939228)
+[2024.09.14-08.24.40:957][  9]LogCFCore: No need to update existing mod: Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+[2024.09.14-08.24.40:957][  9]LogCFCore: No need to update existing mod: Resonant's Shop Mod (936660)
+[2024.09.14-08.24.40:957][  9]LogCFCore: No need to update existing mod: Ammo Box Ascended (967856)
+[2024.09.14-08.24.40:957][  9]LogCFCore: No need to update existing mod: Pelayori's Cryo Storage (Crossplay!) (928793)
+[2024.09.14-08.24.40:957][  9]LogCFCore: No need to update existing mod: Awesome Teleporters! (950914)
+[2024.09.14-08.24.40:957][  9]LogCFCore: Request to Install mod 'ASA-Bot Companion' (modId=936882, fileId=5721677)
+[2024.09.14-08.24.41:002][ 10]LogCFCore: Cleanup possible module ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/936882_5716820 ...
+[2024.09.14-08.24.41:002][ 10]LogCFCore: Cleanup possible module ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/936882_5721677 ...
+[2024.09.14-08.24.41:002][ 10]LogCFCore: Cleaning up possible 2 output dirs ...
+[2024.09.14-08.24.41:754][ 32]LogCFCore: Starting to download: https://mediafilez.forgecdn.net/files/5721/677/asabot%20companion-windowsserver%20151.zip, file id: 1
+[2024.09.14-08.24.41:925][ 38]LogCFCore: Warning: WriteBufferWithThrottling: left_to_write 134512
+[2024.09.14-08.24.41:958][ 38]LogCFCore: Successfully completed chunked download for: https://mediafilez.forgecdn.net/files/5721/677/asabot%20companion-windowsserver%20151.zip
+[2024.09.14-08.24.41:992][ 39]LogCFCore: Verifying mod (936882) download ...
+[2024.09.14-08.24.42:060][ 41]LogCFCore: Cleanup temp directory ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/.temp/936882_5721677 ...
+[2024.09.14-08.24.42:060][ 41]LogCFCore: Cleanup possible module ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/.temp/936882_5721677 ...
+[2024.09.14-08.24.42:094][ 42]LogCFCore: Unzipping mod=936882 to ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/.temp/936882_5721677 ...
+[2024.09.14-08.24.42:095][ 43]LogCFCore: Warning: WriteBufferWithThrottling: left_to_write 685
+[2024.09.14-08.24.42:128][ 44]LogCFCore: Warning: WriteBufferWithThrottling: left_to_write 87
+[2024.09.14-08.24.42:162][ 45]LogCFCore: Warning: WriteBufferWithThrottling: left_to_write 5056
+[2024.09.14-08.24.42:198][ 46]LogCFCore: Warning: WriteBufferWithThrottling: left_to_write 8091
+[2024.09.14-08.24.42:232][ 47]LogCFCore: Warning: WriteBufferWithThrottling: left_to_write 140864
+[2024.09.14-08.24.42:265][ 48]LogCFCore: Warning: WriteBufferWithThrottling: left_to_write 3298
+[2024.09.14-08.24.42:332][ 49]LogCFCore: Cleanup possible module ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/936882_5716820 ...
+[2024.09.14-08.24.42:332][ 49]LogCFCore: Cleanup possible module ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/936882_5721677 ...
+[2024.09.14-08.24.42:332][ 49]LogCFCore: Cleaning up possible 2 output dirs ...
+[2024.09.14-08.24.42:366][ 50]LogCFCore: Moving ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/.temp/936882_5721677 to ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/936882_5721677 ...
+[2024.09.14-08.24.42:366][ 50]LogCFCore: Moving ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/.temp/936882_5721677 to ../../../ShooterGame/Binaries/Win64/ShooterGame/Mods/83374/936882_5721677 ...
+[2024.09.14-08.24.42:400][ 51]LogCFCore: Cleaning up (modId=936882, fileId=5721677) ...
+[2024.09.14-08.24.42:477][ 53]LogCFCore: Mod valid: EOS ID Helper (CrossPlay) (980463)
+[2024.09.14-08.24.42:477][ 53]LogCFCore: Mod valid: Custom Dino Levels (928708)
+[2024.09.14-08.24.42:477][ 53]LogCFCore: Mod valid: Utilities Plus (928621)
+[2024.09.14-08.24.42:477][ 53]LogCFCore: Mod valid: maewings (929521)
+[2024.09.14-08.24.42:477][ 53]LogCFCore: Mod valid: Solo Farm Mod (928501)
+[2024.09.14-08.24.42:477][ 53]LogCFCore: Mod valid: PVP Scoreboard (931903)
+[2024.09.14-08.24.42:477][ 53]LogCFCore: Mod valid: CliffPlatforms (933872)
+[2024.09.14-08.24.42:478][ 53]LogCFCore: Mod valid: TG Stacking Mod 10000-90 (929110)
+[2024.09.14-08.24.42:478][ 53]LogCFCore: Mod valid: WBUI2 (931119)
+[2024.09.14-08.24.42:478][ 53]LogCFCore: Mod valid: ARKomatic (939055)
+[2024.09.14-08.24.42:478][ 53]LogCFCore: Mod valid: Automated Dino Wipes (947733)
+[2024.09.14-08.24.42:478][ 53]LogCFCore: Mod valid: Admin Panel (929868)
+[2024.09.14-08.24.42:478][ 53]LogCFCore: Mod valid: Pull It! (940022)
+[2024.09.14-08.24.42:478][ 53]LogCFCore: Mod valid: Dino+ (Nanny, Hatchey) (937546)
+[2024.09.14-08.24.42:478][ 53]LogCFCore: Mod valid: ASA-Bot Companion (936882)
+[2024.09.14-08.24.42:478][ 53]LogCFCore: Mod valid: QoL+ (939228)
+[2024.09.14-08.24.42:478][ 53]LogCFCore: Mod valid: Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+[2024.09.14-08.24.42:478][ 53]LogCFCore: Mod valid: Resonant's Shop Mod (936660)
+[2024.09.14-08.24.42:478][ 53]LogCFCore: Mod valid: Ammo Box Ascended (967856)
+[2024.09.14-08.24.42:478][ 53]LogCFCore: Mod valid: Pelayori's Cryo Storage (Crossplay!) (928793)
+[2024.09.14-08.24.42:478][ 53]LogCFCore: Mod valid: Awesome Teleporters! (950914)
+[2024.09.14-08.24.42:667][ 54]UShooterEngine::LoadGameMods with 21 mods
+[2024.09.14-08.24.42:667][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928621_4856794/UtilsPlus/Content/PrimalGameData_BP_UtilPlus.uasset : 928621
+[2024.09.14-08.24.43:402][ 54]UShooterEngine::LoadGameMods Using mod asset Package /UtilsPlus/PrimalGameData_BP_UtilPlus as PrimalGameDataOverride.
+[2024.09.14-08.24.43:402][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928708_4894074/LevelTestingMod/Content/PrimalGameData_BP_LevelTesting.uasset : 928708
+[2024.09.14-08.24.43:842][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /LevelTestingMod/PrimalGameData_BP_LevelTesting with PrimalGameDataOverride.
+[2024.09.14-08.24.43:843][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928501_5509903/SoloFarmMod/Content/PrimalGameData_BP_SoloFarmMod.uasset : 928501
+[2024.09.14-08.24.43:863][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /SoloFarmMod/PrimalGameData_BP_SoloFarmMod with PrimalGameDataOverride.
+[2024.09.14-08.24.43:864][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/939055_5715678/ARKomatic/Content/PrimalGameData_BP_ARKomatic.uasset : 939055
+[2024.09.14-08.24.43:882][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /ARKomatic/PrimalGameData_BP_ARKomatic with PrimalGameDataOverride.
+[2024.09.14-08.24.43:883][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929110_5711402/TG_Stack_10000_90/Content/PrimalGameData_TG_Stack_10000_90.uasset : 929110
+[2024.09.14-08.24.43:901][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /TG_Stack_10000_90/PrimalGameData_TG_Stack_10000_90 with PrimalGameDataOverride.
+[2024.09.14-08.24.43:901][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/939228_5078487/QoLPlus/Content/PrimalGameData_QoLPlus.uasset : 939228
+[2024.09.14-08.24.44:013][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /QoLPlus/PrimalGameData_QoLPlus with PrimalGameDataOverride.
+[2024.09.14-08.24.44:014][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/933872_5330183/CliffPlatforms/Content/PrimalGameData_BP_Cliffplatforms.uasset : 933872
+[2024.09.14-08.24.44:031][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /CliffPlatforms/PrimalGameData_BP_Cliffplatforms with PrimalGameDataOverride.
+[2024.09.14-08.24.44:031][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/947733_5521328/AutomatedDinoWipes/Content/PrimalGameData_BP_AutomatedDinoWipes.uasset : 947733
+[2024.09.14-08.24.44:088][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /AutomatedDinoWipes/PrimalGameData_BP_AutomatedDinoWipes with PrimalGameDataOverride.
+[2024.09.14-08.24.44:088][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929912_5669096/EzEngramUnlocker/Content/PrimalGameData_BP_EzEngramUnlocker.uasset : 929912
+[2024.09.14-08.24.44:108][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /EzEngramUnlocker/PrimalGameData_BP_EzEngramUnlocker with PrimalGameDataOverride.
+[2024.09.14-08.24.44:109][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/940022_5102443/PullIt/Content/PrimalGameData_BP_PullIt.uasset : 940022
+[2024.09.14-08.24.44:138][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /PullIt/PrimalGameData_BP_PullIt with PrimalGameDataOverride.
+[2024.09.14-08.24.44:138][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/936660_5712351/ShopMod/Content/PrimalGameData_BP_BlankMod.uasset : 936660
+[2024.09.14-08.24.46:155][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /ShopMod/PrimalGameData_BP_BlankMod with PrimalGameDataOverride.
+[2024.09.14-08.24.46:156][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/931903_5036004/PVPScoreboard/Content/PrimalGameData_BP_PVPScoreboard.uasset : 931903
+[2024.09.14-08.24.46:189][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /PVPScoreboard/PrimalGameData_BP_PVPScoreboard with PrimalGameDataOverride.
+[2024.09.14-08.24.46:190][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/967856_5238619/AmmoBoxAscended/Content/PrimalGameData_BP_AmmoBoxAscended.uasset : 967856
+[2024.09.14-08.24.46:207][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /AmmoBoxAscended/PrimalGameData_BP_AmmoBoxAscended with PrimalGameDataOverride.
+[2024.09.14-08.24.46:207][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928793_5701351/Cryopods/Content/PrimalGameData_BP_Cryopods.uasset : 928793
+[2024.09.14-08.24.46:253][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /Cryopods/PrimalGameData_BP_Cryopods with PrimalGameDataOverride.
+[2024.09.14-08.24.46:254][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/937546_4928343/DPlusMod/Content/PrimalGameData_BP_DPlusMod.uasset : 937546
+[2024.09.14-08.24.46:280][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /DPlusMod/PrimalGameData_BP_DPlusMod with PrimalGameDataOverride.
+[2024.09.14-08.24.46:281][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/980463_5142852/EOSIDHelper/Content/PrimalGameData_BP_EOSIDHelper.uasset : 980463
+[2024.09.14-08.24.46:300][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /EOSIDHelper/PrimalGameData_BP_EOSIDHelper with PrimalGameDataOverride.
+[2024.09.14-08.24.46:301][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929521_5238433/maewings/Content/PrimalGameData_BP_Maewings.uasset : 929521
+[2024.09.14-08.24.46:326][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /maewings/PrimalGameData_BP_Maewings with PrimalGameDataOverride.
+[2024.09.14-08.24.46:326][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/936882_5721677/ASA-Bot-Companion/Content/PrimalGameData_BP_ASABot.uasset : 936882
+[2024.09.14-08.24.46:351][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /ASA-Bot-Companion/PrimalGameData_BP_ASABot with PrimalGameDataOverride.
+[2024.09.14-08.24.46:351][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929868_5696131/AdminPanel/Content/PrimalGameData_BP_AdminPanel.uasset : 929868
+[2024.09.14-08.24.46:438][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /AdminPanel/PrimalGameData_BP_AdminPanel with PrimalGameDataOverride.
+[2024.09.14-08.24.46:438][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/931119_5531437/WBUI2/Content/PrimalGameData_BP_WBUI.uasset : 931119
+[2024.09.14-08.24.46:469][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /WBUI2/PrimalGameData_BP_WBUI with PrimalGameDataOverride.
+[2024.09.14-08.24.46:470][ 54]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/950914_5371339/AwesomeTeleporters/Content/PrimalGameData_BP_AwesomeTeleporters.uasset : 950914
+[2024.09.14-08.24.46:490][ 54]UShooterEngine::LoadGameMods Merging mod asset Package /AwesomeTeleporters/PrimalGameData_BP_AwesomeTeleporters with PrimalGameDataOverride.
+[2024.09.14-08.24.46:491][ 54]Initialize Primal Game Data Override.
+[2024.09.14-08.24.46:504][ 54]Added Explorer Note Entry: DEARJANE_EXP_NOTE_1
+[2024.09.14-08.24.46:504][ 54]Added Explorer Note Entry: DEARJANE_EXP_NOTE_2
+[2024.09.14-08.24.46:504][ 54]Added Explorer Note Entry: DEARJANE_EXP_NOTE_3
+[2024.09.14-08.24.46:504][ 54]Added Explorer Note Entry: DEARJANE_EXP_NOTE_4
+[2024.09.14-08.24.46:504][ 54]Added Explorer Note Entry: DEARJANE_EXP_NOTE_5
+[2024.09.14-08.24.46:504][ 54]Added Explorer Note Entry: DEARJANE_EXP_NOTE_6
+[2024.09.14-08.24.46:504][ 54]Added Explorer Note Entry: DEARJANE_EXP_NOTE_7
+[2024.09.14-08.24.46:507][ 54]Primal Game Data Took 0.00 seconds
+[2024.09.14-08.24.46:511][ 54]Added Explorer Note Entry: DEARJANE_EXP_NOTE_1
+[2024.09.14-08.24.46:511][ 54]Added Explorer Note Entry: DEARJANE_EXP_NOTE_2
+[2024.09.14-08.24.46:511][ 54]Added Explorer Note Entry: DEARJANE_EXP_NOTE_3
+[2024.09.14-08.24.46:511][ 54]Added Explorer Note Entry: DEARJANE_EXP_NOTE_4
+[2024.09.14-08.24.46:511][ 54]Added Explorer Note Entry: DEARJANE_EXP_NOTE_5
+[2024.09.14-08.24.46:511][ 54]Added Explorer Note Entry: DEARJANE_EXP_NOTE_6
+[2024.09.14-08.24.46:511][ 54]Added Explorer Note Entry: DEARJANE_EXP_NOTE_7
+[2024.09.14-08.24.47:117][ 54]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2024.09.14-08.24.47:119][ 54]BattlEye successfully started.
+[2024.09.14-08.25.20:052][ 54]2024.09.14_08.25.20: [CCA_ASABot_C_2147476545] Loading INI Settings
+[2024.09.14-08.25.20:066][ 54]2024.09.14_08.25.20: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.09.14-08.25.49:110][ 54][Pelayori's Cryo Storage] Server mod version: 55
+[2024.09.14-08.25.49:110][ 54]ADW_Version_v0.15
+[2024.09.14-08.25.49:110][ 54]ADW_Begin (UTC Time Now = 8:25)
+[2024.09.14-08.25.49:111][ 54]ADW_AddedTimer (0:00 (UTC timezone)  Next Run Time Will Be In 15 hrs 35 mins )
+[2024.09.14-08.25.49:111][ 54]ADW_AddedTimer (3:00 (UTC timezone)  Next Run Time Will Be In 18 hrs 35 mins )
+[2024.09.14-08.25.49:111][ 54]ADW_AddedTimer (6:00 (UTC timezone)  Next Run Time Will Be In 21 hrs 35 mins )
+[2024.09.14-08.25.49:111][ 54]ADW_AddedTimer (9:00 (UTC timezone)  Next Run Time Will Be In 0 hrs 35 mins )
+[2024.09.14-08.25.49:111][ 54]ADW_AddedTimer (12:00 (UTC timezone)  Next Run Time Will Be In 3 hrs 35 mins )
+[2024.09.14-08.25.49:111][ 54]ADW_AddedTimer (15:00 (UTC timezone)  Next Run Time Will Be In 6 hrs 35 mins )
+[2024.09.14-08.25.49:111][ 54]ADW_AddedTimer (18:00 (UTC timezone)  Next Run Time Will Be In 9 hrs 35 mins )
+[2024.09.14-08.25.49:111][ 54]ADW_AddedTimer (21:00 (UTC timezone)  Next Run Time Will Be In 12 hrs 35 mins )
+[2024.09.14-08.25.49:111][ 54]Admin Panel Active
+[2024.09.14-08.25.49:111][ 54]Admin Panel Version:56
+[2024.09.14-08.26.20:616][ 54]Server: "9/7 [NA](TC1) nARKotic 20x/4man/shop/kits/boosted" has successfully started!
+[2024.09.14-08.26.30:861][ 54]Commandline:  TheCenter_WP?listen?Port=27022 -servergamelog -servergamelogincludetribelogs -ServerRCONOutputTribeLogs -Mods=928621,928708,928501,939055,929110,939228,933872,947733,929912,940022,936660,931903,967856,928793,937546,980463,929521,936882,929868,931119,950914 -ClusterDirOverride=C:\nARKoticCluster -clusterid=narkotic1 -automanagedmods
+[2024.09.14-08.26.30:861][ 54]Full Startup: 111.57 seconds
+[2024.09.14-08.26.30:861][ 54]Number of cores 28
+[2024.09.14-08.26.36:652][ 61]2024.09.14_08.26.36: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.09.14-08.26.36:658][ 61]2024.09.14_08.26.36: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.14-08.26.36:670][ 61]2024.09.14_08.26.36: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.14-08.26.36:682][ 61]2024.09.14_08.26.36: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.14-08.26.36:692][ 61]2024.09.14_08.26.36: [WBUI] [CCA]  Updated Settings
+[2024.09.14-08.26.45:798][263]Server has completed startup and is now advertising for join.
+[2024.09.14-08.26.47:055][299]ADW_WipeStart: 63861899207.055
+[2024.09.14-08.27.47:746][ 60]ADW_WipeComplete [Wiped Dinos: 34065]
+[2024.09.14-08.29.47:581][637]2024.09.14_08.29.47: Saving world...
+[2024.09.14-08.29.47:597][637]2024.09.14_08.29.47: World Save Complete. Took: 0.533924
+[2024.09.14-08.34.47:546][597]2024.09.14_08.34.47: Saving world...
+[2024.09.14-08.34.47:561][597]2024.09.14_08.34.47: World Save Complete. Took: 0.480566
+[2024.09.14-08.36.37:252][877]FNetGUIDCache::PeriodicCleanAndCompact:   0.91ms total time [  0.53ms CleanReferences() and   0.38ms compacting]; ObjectLookup.Num()=0 [0 removed]; NetGUIDLookup.Num()=0 [0 removed]
+[2024.09.14-08.39.47:614][551]2024.09.14_08.39.47: Saving world...
+[2024.09.14-08.39.47:628][551]2024.09.14_08.39.47: World Save Complete. Took: 0.510455

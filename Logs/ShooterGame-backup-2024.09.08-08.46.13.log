@@ -1,0 +1,1119 @@
+﻿[2024.09.07-09.21.10:055][  0]Log file open, 09/07/24 11:21:10
+[2024.09.07-09.21.10:055][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2024.09.07-09.21.10:055][  0]LogMemory: Process Physical Memory: 306.96 MB used, 306.96 MB peak
+[2024.09.07-09.21.10:055][  0]LogMemory: Process Virtual Memory: 333.15 MB used, 333.15 MB peak
+[2024.09.07-09.21.10:055][  0]LogMemory: Physical Memory: 18196.03 MB used,  14476.41 MB free, 32672.45 MB total
+[2024.09.07-09.21.10:055][  0]LogMemory: Virtual Memory: 26421.46 MB used,  11370.99 MB free, 37792.45 MB total
+[2024.09.07-09.21.10:561][  0]11
+
+[2024.09.07-09.21.10:568][  0]ARK Version: 52.5
+[2024.09.07-09.21.10:838][  0]LogCFCore: SetSettings called:
+{
+	"defaultLanguage": "en",
+	"gameId": 83374,
+	"apiKey": "*****1aZe",
+	"maxConcurrentInstallations": 3,
+	"modsDirectory": "ShooterGame/Mods",
+	"modsDirectoryMode": "CFCore",
+	"userDataDirectory": "ShooterGame/ModsUserData",
+	"isServer": true,
+	"isServerPcOnly": false,
+	"throttling":
+	{
+		"diskWriteBytesPerSec": 0
+	},
+	"premiumMods":
+	{
+		"publicKeyPem": "*****"
+	},
+	"logger":
+	{
+		"enabled": true,
+		"history": 8,
+		"maxSizeInMB": 2
+	},
+	"dynamicContentCategoryIds": [ 6844 ]
+}
+[2024.09.07-09.21.10:838][  0]LogCFCore: InternalSettings called:
+{
+	"apiBaseUrl": "https://api.curseforge.com",
+	"chunkedUploadServerUrl": "https://chunk-uploads.curseforge.com",
+	"analyticsUrl": "https://analyticsnew.overwolf.com/analytics/Counter",
+	"userAgent": "cfcore.ue 1.0.99",
+	"platform": "windows",
+	"pluginVersion": "1.0.99",
+	"httpFileDownloadTimeoutSecs": 1200
+}
+[2024.09.07-09.21.10:880][  0]LogCFCore: User context not loaded from disk
+[2024.09.07-09.21.11:126][  7]LogCFCore: Query server result: 21 mods
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: EOS ID Helper (CrossPlay) (980463)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: maewings (929521)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: Custom Dino Levels (928708)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: Utilities Plus (928621)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: Dino+ (Nanny, Hatchey) (937546)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: Ammo Box Ascended (967856)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: QoL+ (939228)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: PVP Scoreboard (931903)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: CliffPlatforms (933872)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: Solo Farm Mod (928501)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: Pull It! (940022)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: Resonant's Shop Mod (936660)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: Automated Dino Wipes (947733)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: ARKomatic (939055)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: WBUI2 (931119)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: Admin Panel (929868)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: Super Spyglass Plus (929420)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: TG Stacking Mod 10000-90 (929110)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: ASA-Bot Companion (936882)
+[2024.09.07-09.21.11:161][  8]LogCFCore: No need to update existing mod: Pelayori's Cryo Storage (Crossplay!) (928793)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: EOS ID Helper (CrossPlay) (980463)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: maewings (929521)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: Custom Dino Levels (928708)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: Utilities Plus (928621)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: Dino+ (Nanny, Hatchey) (937546)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: Ammo Box Ascended (967856)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: QoL+ (939228)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: PVP Scoreboard (931903)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: CliffPlatforms (933872)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: Solo Farm Mod (928501)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: Pull It! (940022)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: Resonant's Shop Mod (936660)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: Automated Dino Wipes (947733)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: ARKomatic (939055)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: WBUI2 (931119)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: Admin Panel (929868)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: Super Spyglass Plus (929420)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: TG Stacking Mod 10000-90 (929110)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: ASA-Bot Companion (936882)
+[2024.09.07-09.21.11:162][  8]LogCFCore: Mod valid: Pelayori's Cryo Storage (Crossplay!) (928793)
+[2024.09.07-09.21.11:353][  9]UShooterEngine::LoadGameMods with 21 mods
+[2024.09.07-09.21.11:353][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929420_5509935/SuperSpyglassPlus/Content/PrimalGameData_BP_SSP_Kav.uasset : 929420
+[2024.09.07-09.21.12:056][  9]UShooterEngine::LoadGameMods Using mod asset Package /SuperSpyglassPlus/PrimalGameData_BP_SSP_Kav as PrimalGameDataOverride.
+[2024.09.07-09.21.12:056][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928621_4856794/UtilsPlus/Content/PrimalGameData_BP_UtilPlus.uasset : 928621
+[2024.09.07-09.21.12:075][  9]UShooterEngine::LoadGameMods Merging mod asset Package /UtilsPlus/PrimalGameData_BP_UtilPlus with PrimalGameDataOverride.
+[2024.09.07-09.21.12:075][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928708_4894074/LevelTestingMod/Content/PrimalGameData_BP_LevelTesting.uasset : 928708
+[2024.09.07-09.21.12:473][  9]UShooterEngine::LoadGameMods Merging mod asset Package /LevelTestingMod/PrimalGameData_BP_LevelTesting with PrimalGameDataOverride.
+[2024.09.07-09.21.12:473][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928501_5509903/SoloFarmMod/Content/PrimalGameData_BP_SoloFarmMod.uasset : 928501
+[2024.09.07-09.21.12:490][  9]UShooterEngine::LoadGameMods Merging mod asset Package /SoloFarmMod/PrimalGameData_BP_SoloFarmMod with PrimalGameDataOverride.
+[2024.09.07-09.21.12:490][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/939055_5639286/ARKomatic/Content/PrimalGameData_BP_ARKomatic.uasset : 939055
+[2024.09.07-09.21.12:507][  9]UShooterEngine::LoadGameMods Merging mod asset Package /ARKomatic/PrimalGameData_BP_ARKomatic with PrimalGameDataOverride.
+[2024.09.07-09.21.12:508][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929110_5696086/TG_Stack_10000_90/Content/PrimalGameData_TG_Stack_10000_90.uasset : 929110
+[2024.09.07-09.21.12:525][  9]UShooterEngine::LoadGameMods Merging mod asset Package /TG_Stack_10000_90/PrimalGameData_TG_Stack_10000_90 with PrimalGameDataOverride.
+[2024.09.07-09.21.12:525][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/939228_5078487/QoLPlus/Content/PrimalGameData_QoLPlus.uasset : 939228
+[2024.09.07-09.21.12:627][  9]UShooterEngine::LoadGameMods Merging mod asset Package /QoLPlus/PrimalGameData_QoLPlus with PrimalGameDataOverride.
+[2024.09.07-09.21.12:627][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/933872_5330183/CliffPlatforms/Content/PrimalGameData_BP_Cliffplatforms.uasset : 933872
+[2024.09.07-09.21.12:651][  9]UShooterEngine::LoadGameMods Merging mod asset Package /CliffPlatforms/PrimalGameData_BP_Cliffplatforms with PrimalGameDataOverride.
+[2024.09.07-09.21.12:652][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/947733_5521328/AutomatedDinoWipes/Content/PrimalGameData_BP_AutomatedDinoWipes.uasset : 947733
+[2024.09.07-09.21.12:686][  9]UShooterEngine::LoadGameMods Merging mod asset Package /AutomatedDinoWipes/PrimalGameData_BP_AutomatedDinoWipes with PrimalGameDataOverride.
+[2024.09.07-09.21.12:686][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929912_5669096/EzEngramUnlocker/Content/PrimalGameData_BP_EzEngramUnlocker.uasset : 929912
+[2024.09.07-09.21.12:704][  9]UShooterEngine::LoadGameMods Merging mod asset Package /EzEngramUnlocker/PrimalGameData_BP_EzEngramUnlocker with PrimalGameDataOverride.
+[2024.09.07-09.21.12:705][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/940022_5102443/PullIt/Content/PrimalGameData_BP_PullIt.uasset : 940022
+[2024.09.07-09.21.12:735][  9]UShooterEngine::LoadGameMods Merging mod asset Package /PullIt/PrimalGameData_BP_PullIt with PrimalGameDataOverride.
+[2024.09.07-09.21.12:735][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/936660_5568098/ShopMod/Content/PrimalGameData_BP_BlankMod.uasset : 936660
+[2024.09.07-09.21.14:743][  9]UShooterEngine::LoadGameMods Merging mod asset Package /ShopMod/PrimalGameData_BP_BlankMod with PrimalGameDataOverride.
+[2024.09.07-09.21.14:743][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/931903_5036004/PVPScoreboard/Content/PrimalGameData_BP_PVPScoreboard.uasset : 931903
+[2024.09.07-09.21.14:775][  9]UShooterEngine::LoadGameMods Merging mod asset Package /PVPScoreboard/PrimalGameData_BP_PVPScoreboard with PrimalGameDataOverride.
+[2024.09.07-09.21.14:775][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/967856_5238619/AmmoBoxAscended/Content/PrimalGameData_BP_AmmoBoxAscended.uasset : 967856
+[2024.09.07-09.21.14:791][  9]UShooterEngine::LoadGameMods Merging mod asset Package /AmmoBoxAscended/PrimalGameData_BP_AmmoBoxAscended with PrimalGameDataOverride.
+[2024.09.07-09.21.14:792][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928793_5622484/Cryopods/Content/PrimalGameData_BP_Cryopods.uasset : 928793
+[2024.09.07-09.21.14:835][  9]UShooterEngine::LoadGameMods Merging mod asset Package /Cryopods/PrimalGameData_BP_Cryopods with PrimalGameDataOverride.
+[2024.09.07-09.21.14:835][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/937546_4928343/DPlusMod/Content/PrimalGameData_BP_DPlusMod.uasset : 937546
+[2024.09.07-09.21.14:854][  9]UShooterEngine::LoadGameMods Merging mod asset Package /DPlusMod/PrimalGameData_BP_DPlusMod with PrimalGameDataOverride.
+[2024.09.07-09.21.14:854][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/980463_5142852/EOSIDHelper/Content/PrimalGameData_BP_EOSIDHelper.uasset : 980463
+[2024.09.07-09.21.14:872][  9]UShooterEngine::LoadGameMods Merging mod asset Package /EOSIDHelper/PrimalGameData_BP_EOSIDHelper with PrimalGameDataOverride.
+[2024.09.07-09.21.14:872][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929521_5238433/maewings/Content/PrimalGameData_BP_Maewings.uasset : 929521
+[2024.09.07-09.21.14:891][  9]UShooterEngine::LoadGameMods Merging mod asset Package /maewings/PrimalGameData_BP_Maewings with PrimalGameDataOverride.
+[2024.09.07-09.21.14:891][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/936882_5662285/ASA-Bot-Companion/Content/PrimalGameData_BP_ASABot.uasset : 936882
+[2024.09.07-09.21.14:916][  9]UShooterEngine::LoadGameMods Merging mod asset Package /ASA-Bot-Companion/PrimalGameData_BP_ASABot with PrimalGameDataOverride.
+[2024.09.07-09.21.14:916][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929868_5696131/AdminPanel/Content/PrimalGameData_BP_AdminPanel.uasset : 929868
+[2024.09.07-09.21.15:005][  9]UShooterEngine::LoadGameMods Merging mod asset Package /AdminPanel/PrimalGameData_BP_AdminPanel with PrimalGameDataOverride.
+[2024.09.07-09.21.15:005][  9]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/931119_5531437/WBUI2/Content/PrimalGameData_BP_WBUI.uasset : 931119
+[2024.09.07-09.21.15:041][  9]UShooterEngine::LoadGameMods Merging mod asset Package /WBUI2/PrimalGameData_BP_WBUI with PrimalGameDataOverride.
+[2024.09.07-09.21.15:041][  9]Initialize Primal Game Data Override.
+[2024.09.07-09.21.15:060][  9]Added Explorer Note Entry: DEARJANE_EXP_NOTE_1
+[2024.09.07-09.21.15:060][  9]Added Explorer Note Entry: DEARJANE_EXP_NOTE_2
+[2024.09.07-09.21.15:060][  9]Added Explorer Note Entry: DEARJANE_EXP_NOTE_3
+[2024.09.07-09.21.15:060][  9]Added Explorer Note Entry: DEARJANE_EXP_NOTE_4
+[2024.09.07-09.21.15:060][  9]Added Explorer Note Entry: DEARJANE_EXP_NOTE_5
+[2024.09.07-09.21.15:060][  9]Added Explorer Note Entry: DEARJANE_EXP_NOTE_6
+[2024.09.07-09.21.15:060][  9]Added Explorer Note Entry: DEARJANE_EXP_NOTE_7
+[2024.09.07-09.21.15:063][  9]Primal Game Data Took 0.00 seconds
+[2024.09.07-09.21.15:068][  9]Added Explorer Note Entry: DEARJANE_EXP_NOTE_1
+[2024.09.07-09.21.15:068][  9]Added Explorer Note Entry: DEARJANE_EXP_NOTE_2
+[2024.09.07-09.21.15:068][  9]Added Explorer Note Entry: DEARJANE_EXP_NOTE_3
+[2024.09.07-09.21.15:068][  9]Added Explorer Note Entry: DEARJANE_EXP_NOTE_4
+[2024.09.07-09.21.15:068][  9]Added Explorer Note Entry: DEARJANE_EXP_NOTE_5
+[2024.09.07-09.21.15:068][  9]Added Explorer Note Entry: DEARJANE_EXP_NOTE_6
+[2024.09.07-09.21.15:068][  9]Added Explorer Note Entry: DEARJANE_EXP_NOTE_7
+[2024.09.07-09.21.15:680][  9]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2024.09.07-09.21.15:682][  9]BattlEye successfully started.
+[2024.09.07-09.21.15:701][  9]Server: "9/7 [NA](TC1) nARKotic 20x/4man/shop/kits/boosted" has successfully started!
+[2024.09.07-09.21.15:702][  9]2024.09.07_09.21.15: [CCA_ASABot_C_2147476545] Loading INI Settings
+[2024.09.07-09.21.15:716][  9]2024.09.07_09.21.15: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.09.07-09.21.16:314][  9][Pelayori's Cryo Storage] Server mod version: 54
+[2024.09.07-09.21.16:314][  9]Admin Panel Active
+[2024.09.07-09.21.16:314][  9]Admin Panel Version:56
+[2024.09.07-09.21.16:481][  9]ADW_Version_v0.15
+[2024.09.07-09.21.16:481][  9]ADW_Begin (UTC Time Now = 9:21)
+[2024.09.07-09.21.24:510][  9]Commandline:  TheCenter_WP?listen?Port=27022 -servergamelog -servergamelogincludetribelogs -ServerRCONOutputTribeLogs -Mods=929420,928621,928708,928501,939055,929110,939228,933872,947733,929912,940022,936660,931903,967856,928793,937546,980463,929521,936882,929868,931119 -ClusterDirOverride=C:\nARKoticCluster -clusterid=narkotic1
+[2024.09.07-09.21.24:510][  9]Full Startup: 14.87 seconds
+[2024.09.07-09.21.24:510][  9]Number of cores 28
+[2024.09.07-09.23.02:278][ 13]2024.09.07_09.23.02: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.09.07-09.23.02:285][ 13]2024.09.07_09.23.02: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.07-09.23.02:297][ 13]2024.09.07_09.23.02: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.07-09.23.02:308][ 13]2024.09.07_09.23.02: [WBUI] [CCA] [Request] Sending request to: https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json
+[2024.09.07-09.23.39:091][ 14]2024.09.07_09.23.39: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.07-09.23.39:117][ 14]2024.09.07_09.23.39: [WBUI] [CCA]  Updated Settings
+[2024.09.07-09.24.20:882][234]Server has completed startup and is now advertising for join.
+[2024.09.07-09.26.16:391][415]2024.09.07_09.26.16: Saving world...
+[2024.09.07-09.26.16:416][415]2024.09.07_09.26.16: World Save Complete. Took: 0.772662
+[2024.09.07-09.29.46:578][753]IP for incoming account 0002789f4f984c6787a5898016eb4375 - IP 66.22.146.89
+[2024.09.07-09.29.53:257][952]2024.09.07_09.29.53: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.09.07-09.30.08:849][412]2024.09.07_09.30.08: Tribe Tribe of snoop, ID 1337681343: Day 1, 13:18:06: <RichColor Color="0, 1, 1, 1">snoop was added to the Tribe!</>)
+[2024.09.07-09.30.08:857][412]2024.09.07_09.30.08: Player MartyrD0nk3y with ID 143785439 joined tribe Tribe of snoop with ID 1337681343.
+[2024.09.07-09.30.43:595][434]2024.09.07_09.30.43: AdminCmd: Fly (PlayerName: MartyrD0nk3y, ARKID: 143785439, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.09.07-09.30.55:156][779]2024.09.07_09.30.55: AdminCmd: Walk (PlayerName: MartyrD0nk3y, ARKID: 143785439, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.09.07-09.31.16:191][394]2024.09.07_09.31.16: Saving world...
+[2024.09.07-09.31.16:206][394]2024.09.07_09.31.16: World Save Complete. Took: 0.533335
+[2024.09.07-09.32.12:824][ 89]2024.09.07_09.32.12: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.07-09.32.12:854][ 89]2024.09.07_09.32.12: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.07-09.32.12:883][ 89]2024.09.07_09.32.12: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.07-09.32.48:435][152]2024.09.07_09.32.48: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.07-09.32.48:454][152]2024.09.07_09.32.48: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.07-09.32.48:481][152]2024.09.07_09.32.48: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.07-09.33.34:819][538]2024.09.07_09.33.34: Tribe Tribe of snoop, ID 1337681343: Day 1, 14:02:02: <RichColor Color="1, 0, 0, 1">Tribemember snoop - Lvl 1 was killed by a Dilophosaur - Lvl 135!</>)
+[2024.09.07-09.33.34:827][538]2024.09.07_09.33.34: snoop - Lvl 1 (Tribe of snoop) was killed by a Dilophosaur - Lvl 135 ()!
+[2024.09.07-09.33.50:881][ 12]2024.09.07_09.33.50: AdminCmd: Ghost (PlayerName: MartyrD0nk3y, ARKID: 143785439, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.09.07-09.34.04:310][414]FNetGUIDCache::PeriodicCleanAndCompact:   1.60ms total time [  1.07ms CleanReferences() and   0.53ms compacting]; ObjectLookup.Num()=4990 [212 removed]; NetGUIDLookup.Num()=4733 [468 removed]
+[2024.09.07-09.35.27:627][905]2024.09.07_09.35.27: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.07-09.35.27:639][905]2024.09.07_09.35.27: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.07-09.35.27:650][905]2024.09.07_09.35.27: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.07-09.36.04:318][  3]Garbage Collection Triggered!
+[2024.09.07-09.36.16:235][259]2024.09.07_09.36.16: Saving world...
+[2024.09.07-09.36.16:241][259]2024.09.07_09.36.16: World Save Complete. Took: 0.538435
+[2024.09.07-09.36.35:176][826]2024.09.07_09.36.35: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] left this ARK!
+[2024.09.07-09.41.16:213][272]2024.09.07_09.41.16: Saving world...
+[2024.09.07-09.41.16:218][272]2024.09.07_09.41.16: World Save Complete. Took: 0.513926
+[2024.09.07-09.44.04:368][334]FNetGUIDCache::PeriodicCleanAndCompact:   1.13ms total time [  0.83ms CleanReferences() and   0.30ms compacting]; ObjectLookup.Num()=4324 [912 removed]; NetGUIDLookup.Num()=4149 [830 removed]
+[2024.09.07-09.46.16:228][288]2024.09.07_09.46.16: Saving world...
+[2024.09.07-09.46.16:281][288]2024.09.07_09.46.16: World Save Complete. Took: 0.556619
+[2024.09.07-09.51.16:276][236]2024.09.07_09.51.16: Saving world...
+[2024.09.07-09.51.16:470][236]2024.09.07_09.51.16: World Save Complete. Took: 0.719323
+[2024.09.07-09.54.04:875][172]FNetGUIDCache::PeriodicCleanAndCompact:   1.03ms total time [  0.82ms CleanReferences() and   0.21ms compacting]; ObjectLookup.Num()=4149 [175 removed]; NetGUIDLookup.Num()=4091 [58 removed]
+[2024.09.07-09.56.16:251][ 95]2024.09.07_09.56.16: Saving world...
+[2024.09.07-09.56.16:262][ 95]2024.09.07_09.56.16: World Save Complete. Took: 0.510602
+[2024.09.07-10.01.16:269][ 88]2024.09.07_10.01.16: Saving world...
+[2024.09.07-10.01.16:279][ 88]2024.09.07_10.01.16: World Save Complete. Took: 0.527415
+[2024.09.07-10.04.06:210][130]FNetGUIDCache::PeriodicCleanAndCompact:   0.89ms total time [  0.69ms CleanReferences() and   0.20ms compacting]; ObjectLookup.Num()=4091 [58 removed]; NetGUIDLookup.Num()=4089 [2 removed]
+[2024.09.07-10.06.16:315][ 40]2024.09.07_10.06.16: Saving world...
+[2024.09.07-10.06.16:321][ 40]2024.09.07_10.06.16: World Save Complete. Took: 0.546351
+[2024.09.07-10.11.21:099][900]2024.09.07_10.11.21: Saving world...
+[2024.09.07-10.11.21:117][900]2024.09.07_10.11.21: World Save Complete. Took: 5.319752
+[2024.09.07-10.14.11:326][ 18]FNetGUIDCache::PeriodicCleanAndCompact:   4.98ms total time [  4.70ms CleanReferences() and   0.28ms compacting]; ObjectLookup.Num()=4089 [2 removed]; NetGUIDLookup.Num()=4089 [0 removed]
+[2024.09.07-10.16.16:407][752]2024.09.07_10.16.16: Saving world...
+[2024.09.07-10.16.16:415][752]2024.09.07_10.16.16: World Save Complete. Took: 0.618434
+[2024.09.07-10.21.16:378][780]2024.09.07_10.21.16: Saving world...
+[2024.09.07-10.21.16:387][780]2024.09.07_10.21.16: World Save Complete. Took: 0.578676
+[2024.09.07-10.24.11:587][ 59]FNetGUIDCache::PeriodicCleanAndCompact:   1.19ms total time [  1.18ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=4089 [0 removed]; NetGUIDLookup.Num()=4089 [0 removed]
+[2024.09.07-10.26.16:367][793]2024.09.07_10.26.16: Saving world...
+[2024.09.07-10.26.16:380][793]2024.09.07_10.26.16: World Save Complete. Took: 0.558801
+[2024.09.07-10.31.16:409][794]2024.09.07_10.31.16: Saving world...
+[2024.09.07-10.31.16:416][794]2024.09.07_10.31.16: World Save Complete. Took: 0.583236
+[2024.09.07-10.34.11:794][ 62]FNetGUIDCache::PeriodicCleanAndCompact:   0.73ms total time [  0.72ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=4089 [0 removed]; NetGUIDLookup.Num()=4089 [0 removed]
+[2024.09.07-10.36.16:412][796]2024.09.07_10.36.16: Saving world...
+[2024.09.07-10.36.16:420][796]2024.09.07_10.36.16: World Save Complete. Took: 0.569408
+[2024.09.07-10.41.16:392][826]2024.09.07_10.41.16: Saving world...
+[2024.09.07-10.41.16:398][826]2024.09.07_10.41.16: World Save Complete. Took: 0.540735
+[2024.09.07-10.44.11:973][126]FNetGUIDCache::PeriodicCleanAndCompact:   1.40ms total time [  1.38ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=4089 [0 removed]; NetGUIDLookup.Num()=4089 [0 removed]
+[2024.09.07-10.46.16:394][861]2024.09.07_10.46.16: Saving world...
+[2024.09.07-10.46.16:400][861]2024.09.07_10.46.16: World Save Complete. Took: 0.533235
+[2024.09.07-10.51.16:433][895]2024.09.07_10.51.16: Saving world...
+[2024.09.07-10.51.16:445][895]2024.09.07_10.51.16: World Save Complete. Took: 0.544965
+[2024.09.07-10.54.12:115][193]FNetGUIDCache::PeriodicCleanAndCompact:   0.74ms total time [  0.74ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=4089 [0 removed]; NetGUIDLookup.Num()=4089 [0 removed]
+[2024.09.07-10.56.16:460][928]2024.09.07_10.56.16: Saving world...
+[2024.09.07-10.56.16:468][928]2024.09.07_10.56.16: World Save Complete. Took: 0.539480
+[2024.09.07-11.01.16:501][955]2024.09.07_11.01.16: Saving world...
+[2024.09.07-11.01.16:512][955]2024.09.07_11.01.16: World Save Complete. Took: 0.568637
+[2024.09.07-11.04.12:273][257]FNetGUIDCache::PeriodicCleanAndCompact:   0.83ms total time [  0.82ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=4089 [0 removed]; NetGUIDLookup.Num()=4089 [0 removed]
+[2024.09.07-11.06.16:469][990]2024.09.07_11.06.16: Saving world...
+[2024.09.07-11.06.16:475][990]2024.09.07_11.06.16: World Save Complete. Took: 0.524126
+[2024.09.07-11.11.16:497][ 27]2024.09.07_11.11.16: Saving world...
+[2024.09.07-11.11.16:520][ 27]2024.09.07_11.11.16: World Save Complete. Took: 0.555687
+[2024.09.07-11.14.16:718][ 81]FNetGUIDCache::PeriodicCleanAndCompact:   4.77ms total time [  4.76ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=4089 [0 removed]; NetGUIDLookup.Num()=4089 [0 removed]
+[2024.09.07-11.16.17:297][652]2024.09.07_11.16.17: Saving world...
+[2024.09.07-11.16.17:304][652]2024.09.07_11.16.17: World Save Complete. Took: 1.311883
+[2024.09.07-11.18.58:776][492]Garbage Collection Triggered!
+[2024.09.07-11.19.32:245][501]IP for incoming account 00022c98ee0d4e1f9ec59e9b6faea772 - IP 73.183.86.150
+[2024.09.07-11.19.40:884][758]2024.09.07_11.19.40: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] joined this ARK!
+[2024.09.07-11.19.41:417][773]IP for incoming account 0002a0b12ff54d80a45035c18750b660 - IP 75.162.76.100
+[2024.09.07-11.19.46:364][920]2024.09.07_11.19.46: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.09.07-11.19.57:874][256]2024.09.07_11.19.57: Tribe Tribe of RehDragon, ID 1048276172: Day 2, 18:37:25: <RichColor Color="0, 1, 1, 1">RehDragon was added to the Tribe!</>)
+[2024.09.07-11.19.57:911][256]2024.09.07_11.19.57: Player RehDragon with ID 603578814 joined tribe Tribe of RehDragon with ID 1048276172.
+[2024.09.07-11.20.00:782][292]2024.09.07_11.20.00: Tribe Tribe of Banana, ID 1811457873: Day 2, 18:37:52: <RichColor Color="0, 1, 1, 1">Banana was added to the Tribe!</>)
+[2024.09.07-11.20.00:801][292]2024.09.07_11.20.00: Player Unavailable name with ID 588640747 joined tribe Tribe of Banana with ID 1811457873.
+[2024.09.07-11.21.16:605][898]2024.09.07_11.21.16: Saving world...
+[2024.09.07-11.21.16:616][898]2024.09.07_11.21.16: World Save Complete. Took: 0.615155
+[2024.09.07-11.21.36:886][330]2024.09.07_11.21.36: AdminCmd: SetAdminIcon false (PlayerName: RehDragon, ARKID: 603578814, SteamID: 0002a0b12ff54d80a45035c18750b660)
+[2024.09.07-11.21.40:113][397]2024.09.07_11.21.40: RehDragon (RehDragon): .
+[2024.09.07-11.21.55:819][743]2024.09.07_11.21.55: AdminCmd: fly (PlayerName: RehDragon, ARKID: 603578814, SteamID: 0002a0b12ff54d80a45035c18750b660)
+[2024.09.07-11.22.04:658][909]2024.09.07_11.22.04: AdminCmd: walk (PlayerName: RehDragon, ARKID: 603578814, SteamID: 0002a0b12ff54d80a45035c18750b660)
+[2024.09.07-11.22.53:857][ 35]2024.09.07_11.22.53: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] left this ARK!
+[2024.09.07-11.24.50:347][435]FNetGUIDCache::PeriodicCleanAndCompact:   3.88ms total time [  3.04ms CleanReferences() and   0.84ms compacting]; ObjectLookup.Num()=11478 [2354 removed]; NetGUIDLookup.Num()=10857 [2970 removed]
+[2024.09.07-11.26.16:578][802]2024.09.07_11.26.16: Saving world...
+[2024.09.07-11.26.16:587][802]2024.09.07_11.26.16: World Save Complete. Took: 0.567572
+[2024.09.07-11.31.16:617][761]2024.09.07_11.31.16: Saving world...
+[2024.09.07-11.31.16:632][761]2024.09.07_11.31.16: World Save Complete. Took: 0.594233
+[2024.09.07-11.31.31:539][208]Garbage Collection Triggered!
+[2024.09.07-11.34.50:359][ 78]FNetGUIDCache::PeriodicCleanAndCompact:   4.16ms total time [  3.43ms CleanReferences() and   0.74ms compacting]; ObjectLookup.Num()=16084 [2505 removed]; NetGUIDLookup.Num()=15727 [2240 removed]
+[2024.09.07-11.36.16:590][648]2024.09.07_11.36.16: Saving world...
+[2024.09.07-11.36.16:598][648]2024.09.07_11.36.16: World Save Complete. Took: 0.548011
+[2024.09.07-11.41.16:654][621]2024.09.07_11.41.16: Saving world...
+[2024.09.07-11.41.16:672][621]2024.09.07_11.41.16: World Save Complete. Took: 0.597711
+[2024.09.07-11.43.31:539][663]Garbage Collection Triggered!
+[2024.09.07-11.44.50:379][  9]FNetGUIDCache::PeriodicCleanAndCompact:   5.05ms total time [  3.90ms CleanReferences() and   1.15ms compacting]; ObjectLookup.Num()=16017 [366 removed]; NetGUIDLookup.Num()=15837 [189 removed]
+[2024.09.07-11.46.16:665][577]2024.09.07_11.46.16: Saving world...
+[2024.09.07-11.46.16:682][577]2024.09.07_11.46.16: World Save Complete. Took: 0.582600
+[2024.09.07-11.51.16:686][509]2024.09.07_11.51.16: Saving world...
+[2024.09.07-11.51.16:696][509]2024.09.07_11.51.16: World Save Complete. Took: 0.594888
+[2024.09.07-11.54.50:389][916]FNetGUIDCache::PeriodicCleanAndCompact:   3.68ms total time [  2.98ms CleanReferences() and   0.70ms compacting]; ObjectLookup.Num()=16169 [207 removed]; NetGUIDLookup.Num()=16013 [183 removed]
+[2024.09.07-11.55.31:545][150]Garbage Collection Triggered!
+[2024.09.07-11.56.16:665][470]2024.09.07_11.56.16: Saving world...
+[2024.09.07-11.56.16:678][470]2024.09.07_11.56.16: World Save Complete. Took: 0.563505
+[2024.09.07-12.01.16:674][429]2024.09.07_12.01.16: Saving world...
+[2024.09.07-12.01.16:691][429]2024.09.07_12.01.16: World Save Complete. Took: 0.560295
+[2024.09.07-12.04.21:133][959]2024.09.07_12.04.21: Tribe Tribe of Banana, ID 1811457873: Day 3, 10:09:18: <RichColor Color="0, 1, 0, 1">Your Tribe Tamed a Rex - Lvl 187 (Rex)!</>)
+[2024.09.07-12.04.21:139][959]2024.09.07_12.04.21: Tribe Tribe of Banana Tamed a Rex - Lvl 187 (Rex)!
+[2024.09.07-12.04.34:534][361]2024.09.07_12.04.34: Tribe Tribe of Banana, ID 1811457873: Day 3, 10:12:04: Banana froze Rex)
+[2024.09.07-12.04.50:412][835]FNetGUIDCache::PeriodicCleanAndCompact:   6.71ms total time [  5.65ms CleanReferences() and   1.06ms compacting]; ObjectLookup.Num()=16329 [273 removed]; NetGUIDLookup.Num()=16112 [334 removed]
+[2024.09.07-12.06.16:681][403]2024.09.07_12.06.16: Saving world...
+[2024.09.07-12.06.16:694][403]2024.09.07_12.06.16: World Save Complete. Took: 0.561233
+[2024.09.07-12.06.16:748][405]2024.09.07_12.06.16: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] left this ARK!
+[2024.09.07-12.11.16:666][390]2024.09.07_12.11.16: Saving world...
+[2024.09.07-12.11.16:681][390]2024.09.07_12.11.16: World Save Complete. Took: 0.545214
+[2024.09.07-12.14.50:500][803]FNetGUIDCache::PeriodicCleanAndCompact:   4.43ms total time [  3.69ms CleanReferences() and   0.74ms compacting]; ObjectLookup.Num()=16028 [577 removed]; NetGUIDLookup.Num()=15899 [489 removed]
+[2024.09.07-12.16.16:681][371]2024.09.07_12.16.16: Saving world...
+[2024.09.07-12.16.16:689][371]2024.09.07_12.16.16: World Save Complete. Took: 0.532054
+[2024.09.07-12.21.16:960][348]2024.09.07_12.21.16: Saving world...
+[2024.09.07-12.21.17:086][348]2024.09.07_12.21.17: World Save Complete. Took: 0.926015
+[2024.09.07-12.24.51:069][762]FNetGUIDCache::PeriodicCleanAndCompact:   7.13ms total time [  6.09ms CleanReferences() and   1.04ms compacting]; ObjectLookup.Num()=15899 [129 removed]; NetGUIDLookup.Num()=15899 [0 removed]
+[2024.09.07-12.26.16:711][310]2024.09.07_12.26.16: Saving world...
+[2024.09.07-12.26.16:727][310]2024.09.07_12.26.16: World Save Complete. Took: 0.548815
+[2024.09.07-12.31.16:721][285]2024.09.07_12.31.16: Saving world...
+[2024.09.07-12.31.16:729][285]2024.09.07_12.31.16: World Save Complete. Took: 0.539220
+[2024.09.07-12.34.51:189][717]FNetGUIDCache::PeriodicCleanAndCompact:   3.59ms total time [  3.40ms CleanReferences() and   0.19ms compacting]; ObjectLookup.Num()=15899 [0 removed]; NetGUIDLookup.Num()=15897 [2 removed]
+[2024.09.07-12.36.16:765][267]2024.09.07_12.36.16: Saving world...
+[2024.09.07-12.36.16:771][267]2024.09.07_12.36.16: World Save Complete. Took: 0.556352
+[2024.09.07-12.41.16:770][253]2024.09.07_12.41.16: Saving world...
+[2024.09.07-12.41.16:782][253]2024.09.07_12.41.16: World Save Complete. Took: 0.541416
+[2024.09.07-12.44.51:343][692]FNetGUIDCache::PeriodicCleanAndCompact:   3.08ms total time [  2.90ms CleanReferences() and   0.17ms compacting]; ObjectLookup.Num()=15897 [2 removed]; NetGUIDLookup.Num()=15897 [0 removed]
+[2024.09.07-12.46.16:839][243]2024.09.07_12.46.16: Saving world...
+[2024.09.07-12.46.16:846][243]2024.09.07_12.46.16: World Save Complete. Took: 0.577717
+[2024.09.07-12.51.16:816][226]2024.09.07_12.51.16: Saving world...
+[2024.09.07-12.51.16:826][226]2024.09.07_12.51.16: World Save Complete. Took: 0.535359
+[2024.09.07-12.54.51:494][658]FNetGUIDCache::PeriodicCleanAndCompact:   3.06ms total time [  3.04ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=15897 [0 removed]; NetGUIDLookup.Num()=15897 [0 removed]
+[2024.09.07-12.56.16:835][201]2024.09.07_12.56.16: Saving world...
+[2024.09.07-12.56.16:850][201]2024.09.07_12.56.16: World Save Complete. Took: 0.551772
+[2024.09.07-13.01.16:886][190]2024.09.07_13.01.16: Saving world...
+[2024.09.07-13.01.16:896][190]2024.09.07_13.01.16: World Save Complete. Took: 0.582649
+[2024.09.07-13.04.51:680][636]FNetGUIDCache::PeriodicCleanAndCompact:   3.10ms total time [  3.09ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=15897 [0 removed]; NetGUIDLookup.Num()=15897 [0 removed]
+[2024.09.07-13.06.16:876][176]2024.09.07_13.06.16: Saving world...
+[2024.09.07-13.06.16:890][176]2024.09.07_13.06.16: World Save Complete. Took: 0.549217
+[2024.09.07-13.11.16:919][168]2024.09.07_13.11.16: Saving world...
+[2024.09.07-13.11.16:927][168]2024.09.07_13.11.16: World Save Complete. Took: 0.571906
+[2024.09.07-13.14.51:834][621]FNetGUIDCache::PeriodicCleanAndCompact:   3.11ms total time [  3.10ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=15897 [0 removed]; NetGUIDLookup.Num()=15897 [0 removed]
+[2024.09.07-13.16.16:924][156]2024.09.07_13.16.16: Saving world...
+[2024.09.07-13.16.16:931][156]2024.09.07_13.16.16: World Save Complete. Took: 0.544945
+[2024.09.07-13.21.16:973][147]2024.09.07_13.21.16: Saving world...
+[2024.09.07-13.21.16:989][147]2024.09.07_13.21.16: World Save Complete. Took: 0.574240
+[2024.09.07-13.24.52:003][605]FNetGUIDCache::PeriodicCleanAndCompact:   7.48ms total time [  7.46ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=15897 [0 removed]; NetGUIDLookup.Num()=15897 [0 removed]
+[2024.09.07-13.26.17:005][139]2024.09.07_13.26.17: Saving world...
+[2024.09.07-13.26.17:014][139]2024.09.07_13.26.17: World Save Complete. Took: 0.570038
+[2024.09.07-13.31.16:985][128]2024.09.07_13.31.16: Saving world...
+[2024.09.07-13.31.16:993][128]2024.09.07_13.31.16: World Save Complete. Took: 0.541268
+[2024.09.07-13.34.52:152][588]FNetGUIDCache::PeriodicCleanAndCompact:   3.17ms total time [  3.15ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=15897 [0 removed]; NetGUIDLookup.Num()=15897 [0 removed]
+[2024.09.07-13.36.17:061][118]2024.09.07_13.36.17: Saving world...
+[2024.09.07-13.36.17:072][118]2024.09.07_13.36.17: World Save Complete. Took: 0.618726
+[2024.09.07-13.41.17:102][ 99]2024.09.07_13.41.17: Saving world...
+[2024.09.07-13.41.17:119][ 99]2024.09.07_13.41.17: World Save Complete. Took: 0.648203
+[2024.09.07-13.44.52:480][561]FNetGUIDCache::PeriodicCleanAndCompact:   3.55ms total time [  3.54ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=15897 [0 removed]; NetGUIDLookup.Num()=15897 [0 removed]
+[2024.09.07-13.46.17:047][ 82]2024.09.07_13.46.17: Saving world...
+[2024.09.07-13.46.17:053][ 82]2024.09.07_13.46.17: World Save Complete. Took: 0.572694
+[2024.09.07-13.51.17:083][ 59]2024.09.07_13.51.17: Saving world...
+[2024.09.07-13.51.17:099][ 59]2024.09.07_13.51.17: World Save Complete. Took: 0.588533
+[2024.09.07-13.54.52:688][520]FNetGUIDCache::PeriodicCleanAndCompact:   3.56ms total time [  3.55ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=15897 [0 removed]; NetGUIDLookup.Num()=15897 [0 removed]
+[2024.09.07-13.55.19:097][307]Garbage Collection Triggered!
+[2024.09.07-13.56.17:072][967]2024.09.07_13.56.17: Saving world...
+[2024.09.07-13.56.17:082][967]2024.09.07_13.56.17: World Save Complete. Took: 0.560487
+[2024.09.07-14.01.17:104][937]2024.09.07_14.01.17: Saving world...
+[2024.09.07-14.01.17:114][937]2024.09.07_14.01.17: World Save Complete. Took: 0.582396
+[2024.09.07-14.04.54:455][426]FNetGUIDCache::PeriodicCleanAndCompact:   5.46ms total time [  5.15ms CleanReferences() and   0.31ms compacting]; ObjectLookup.Num()=15897 [0 removed]; NetGUIDLookup.Num()=15893 [4 removed]
+[2024.09.07-14.06.17:156][884]2024.09.07_14.06.17: Saving world...
+[2024.09.07-14.06.17:173][884]2024.09.07_14.06.17: World Save Complete. Took: 0.610776
+[2024.09.07-14.09.30:193][664]Garbage Collection Triggered!
+[2024.09.07-14.09.30:812][674]IP for incoming account 00025e39b17641eb96741673cbd35b96 - IP 72.110.70.213
+[2024.09.07-14.09.40:495][963]2024.09.07_14.09.40: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] joined this ARK!
+[2024.09.07-14.11.17:174][844]2024.09.07_14.11.17: Saving world...
+[2024.09.07-14.11.17:181][844]2024.09.07_14.11.17: World Save Complete. Took: 0.590752
+[2024.09.07-14.12.52:317][696]2024.09.07_14.12.52: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] left this ARK!
+[2024.09.07-14.14.54:600][342]FNetGUIDCache::PeriodicCleanAndCompact:   5.48ms total time [  4.72ms CleanReferences() and   0.76ms compacting]; ObjectLookup.Num()=15967 [4 removed]; NetGUIDLookup.Num()=15959 [8 removed]
+[2024.09.07-14.16.17:154][798]2024.09.07_14.16.17: Saving world...
+[2024.09.07-14.16.17:164][798]2024.09.07_14.16.17: World Save Complete. Took: 0.573173
+[2024.09.07-14.21.17:164][767]2024.09.07_14.21.17: Saving world...
+[2024.09.07-14.21.17:179][767]2024.09.07_14.21.17: World Save Complete. Took: 0.570543
+[2024.09.07-14.24.54:803][287]FNetGUIDCache::PeriodicCleanAndCompact:   6.39ms total time [  5.98ms CleanReferences() and   0.41ms compacting]; ObjectLookup.Num()=15959 [8 removed]; NetGUIDLookup.Num()=15909 [50 removed]
+[2024.09.07-14.26.17:186][736]2024.09.07_14.26.17: Saving world...
+[2024.09.07-14.26.17:195][736]2024.09.07_14.26.17: World Save Complete. Took: 0.587609
+[2024.09.07-14.31.17:197][707]2024.09.07_14.31.17: Saving world...
+[2024.09.07-14.31.17:208][707]2024.09.07_14.31.17: World Save Complete. Took: 0.575399
+[2024.09.07-14.31.38:195][336]Garbage Collection Triggered!
+[2024.09.07-14.31.38:915][345]IP for incoming account 00025e39b17641eb96741673cbd35b96 - IP 72.110.70.213
+[2024.09.07-14.31.47:247][594]2024.09.07_14.31.47: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] joined this ARK!
+[2024.09.07-14.32.03:325][ 65]2024.09.07_14.32.03: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 5, 05:47:10: <RichColor Color="0, 1, 1, 1">MrStealUrGirl was added to the Tribe!</>)
+[2024.09.07-14.32.03:337][ 65]2024.09.07_14.32.03: Player PirateHunter420 with ID 390821743 joined tribe Tribe of MrStealUrGirl with ID 1409892912.
+[2024.09.07-14.33.12:039][ 36]2024.09.07_14.33.12: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 5, 06:01:53: <RichColor Color="0.45, 0.85, 0.55, 1">MrStealUrGirl downloaded a dino: Pteranodon - Lvl 141</>)
+[2024.09.07-14.34.55:031][ 83]FNetGUIDCache::PeriodicCleanAndCompact:   4.37ms total time [  3.74ms CleanReferences() and   0.63ms compacting]; ObjectLookup.Num()=17454 [175 removed]; NetGUIDLookup.Num()=17069 [510 removed]
+[2024.09.07-14.36.17:256][524]2024.09.07_14.36.17: Saving world...
+[2024.09.07-14.36.17:264][524]2024.09.07_14.36.17: World Save Complete. Took: 0.601942
+[2024.09.07-14.41.17:221][499]2024.09.07_14.41.17: Saving world...
+[2024.09.07-14.41.17:236][499]2024.09.07_14.41.17: World Save Complete. Took: 0.565458
+[2024.09.07-14.41.19:091][555]2024.09.07_14.41.19: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 5, 07:45:42: <RichColor Color="1, 1, 0, 1">MrStealUrGirl demolished a 'Metal Foundation'!</>)
+[2024.09.07-14.43.38:207][725]Garbage Collection Triggered!
+[2024.09.07-14.44.55:042][987]FNetGUIDCache::PeriodicCleanAndCompact:   5.39ms total time [  4.34ms CleanReferences() and   1.06ms compacting]; ObjectLookup.Num()=19119 [1439 removed]; NetGUIDLookup.Num()=18761 [1411 removed]
+[2024.09.07-14.46.12:619][768]2024.09.07_14.46.12: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 5, 08:48:11: <RichColor Color="0, 1, 0, 1">MrStealUrGirl Tamed an Ichthyosaurus - Lvl 97 (Ichthyosaurus)!</>)
+[2024.09.07-14.46.12:625][768]2024.09.07_14.46.12: MrStealUrGirl of Tribe Tribe of MrStealUrGirl Tamed an Ichthyosaurus - Lvl 97 (Ichthyosaurus)!
+[2024.09.07-14.46.17:236][847]2024.09.07_14.46.17: Saving world...
+[2024.09.07-14.46.17:242][847]2024.09.07_14.46.17: World Save Complete. Took: 0.544772
+[2024.09.07-14.51.17:291][742]2024.09.07_14.51.17: Saving world...
+[2024.09.07-14.51.17:307][742]2024.09.07_14.51.17: World Save Complete. Took: 0.577475
+[2024.09.07-14.54.55:046][253]FNetGUIDCache::PeriodicCleanAndCompact:   5.05ms total time [  4.13ms CleanReferences() and   0.92ms compacting]; ObjectLookup.Num()=19763 [3112 removed]; NetGUIDLookup.Num()=19443 [3073 removed]
+[2024.09.07-14.55.38:203][545]Garbage Collection Triggered!
+[2024.09.07-14.56.02:760][263]2024.09.07_14.56.02: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 5, 10:53:58: MrStealUrGirl froze Ichthyosaurus)
+[2024.09.07-14.56.17:283][682]2024.09.07_14.56.17: Saving world...
+[2024.09.07-14.56.17:288][682]2024.09.07_14.56.17: World Save Complete. Took: 0.532694
+[2024.09.07-14.57.27:725][774]2024.09.07_14.57.27: Tribe Shwat Team, ID 1048276172: Day 5, 11:12:05: <RichColor Color="1, 0, 0, 1">Tribemember RehDragon - Lvl 6 was killed by a Raptor - Lvl 20!</>)
+[2024.09.07-14.57.27:733][774]2024.09.07_14.57.27: RehDragon - Lvl 6 (Shwat Team) was killed by a Raptor - Lvl 20 ()!
+[2024.09.07-14.57.53:953][541]2024.09.07_14.57.53: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] left this ARK!
+[2024.09.07-15.01.17:340][623]2024.09.07_15.01.17: Saving world...
+[2024.09.07-15.01.17:349][623]2024.09.07_15.01.17: World Save Complete. Took: 0.577210
+[2024.09.07-15.04.55:165][149]FNetGUIDCache::PeriodicCleanAndCompact:   6.27ms total time [  5.40ms CleanReferences() and   0.87ms compacting]; ObjectLookup.Num()=19462 [1181 removed]; NetGUIDLookup.Num()=19299 [1024 removed]
+[2024.09.07-15.06.17:303][596]2024.09.07_15.06.17: Saving world...
+[2024.09.07-15.06.17:308][596]2024.09.07_15.06.17: World Save Complete. Took: 0.522448
+[2024.09.07-15.11.17:380][574]2024.09.07_15.11.17: Saving world...
+[2024.09.07-15.11.17:392][574]2024.09.07_15.11.17: World Save Complete. Took: 0.574267
+[2024.09.07-15.14.55:311][109]FNetGUIDCache::PeriodicCleanAndCompact:   5.66ms total time [  4.65ms CleanReferences() and   1.02ms compacting]; ObjectLookup.Num()=19294 [168 removed]; NetGUIDLookup.Num()=19292 [7 removed]
+[2024.09.07-15.16.17:366][553]2024.09.07_15.16.17: Saving world...
+[2024.09.07-15.16.17:374][553]2024.09.07_15.16.17: World Save Complete. Took: 0.543271
+[2024.09.07-15.21.17:410][532]2024.09.07_15.21.17: Saving world...
+[2024.09.07-15.21.17:422][532]2024.09.07_15.21.17: World Save Complete. Took: 0.559054
+[2024.09.07-15.24.55:464][ 75]FNetGUIDCache::PeriodicCleanAndCompact:   3.85ms total time [  3.65ms CleanReferences() and   0.20ms compacting]; ObjectLookup.Num()=19292 [2 removed]; NetGUIDLookup.Num()=19292 [0 removed]
+[2024.09.07-15.26.17:392][517]2024.09.07_15.26.17: Saving world...
+[2024.09.07-15.26.17:400][517]2024.09.07_15.26.17: World Save Complete. Took: 0.533043
+[2024.09.07-15.31.17:403][496]2024.09.07_15.31.17: Saving world...
+[2024.09.07-15.31.17:415][496]2024.09.07_15.31.17: World Save Complete. Took: 0.543792
+[2024.09.07-15.34.55:601][ 36]FNetGUIDCache::PeriodicCleanAndCompact:   4.45ms total time [  4.21ms CleanReferences() and   0.24ms compacting]; ObjectLookup.Num()=19292 [0 removed]; NetGUIDLookup.Num()=19290 [2 removed]
+[2024.09.07-15.36.17:441][473]2024.09.07_15.36.17: Saving world...
+[2024.09.07-15.36.17:447][473]2024.09.07_15.36.17: World Save Complete. Took: 0.577702
+[2024.09.07-15.41.17:425][450]2024.09.07_15.41.17: Saving world...
+[2024.09.07-15.41.17:432][450]2024.09.07_15.41.17: World Save Complete. Took: 0.551794
+[2024.09.07-15.44.55:777][995]FNetGUIDCache::PeriodicCleanAndCompact:   4.33ms total time [  4.10ms CleanReferences() and   0.23ms compacting]; ObjectLookup.Num()=19290 [2 removed]; NetGUIDLookup.Num()=19290 [0 removed]
+[2024.09.07-15.46.17:436][428]2024.09.07_15.46.17: Saving world...
+[2024.09.07-15.46.17:444][428]2024.09.07_15.46.17: World Save Complete. Took: 0.547262
+[2024.09.07-15.51.17:435][406]2024.09.07_15.51.17: Saving world...
+[2024.09.07-15.51.17:444][406]2024.09.07_15.51.17: World Save Complete. Took: 0.544553
+[2024.09.07-15.54.55:918][957]FNetGUIDCache::PeriodicCleanAndCompact:   4.22ms total time [  4.20ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=19290 [0 removed]; NetGUIDLookup.Num()=19290 [0 removed]
+[2024.09.07-15.56.17:470][384]2024.09.07_15.56.17: Saving world...
+[2024.09.07-15.56.17:478][384]2024.09.07_15.56.17: World Save Complete. Took: 0.564941
+[2024.09.07-16.01.17:505][364]2024.09.07_16.01.17: Saving world...
+[2024.09.07-16.01.17:510][364]2024.09.07_16.01.17: World Save Complete. Took: 0.573811
+[2024.09.07-16.04.56:117][922]FNetGUIDCache::PeriodicCleanAndCompact:   4.15ms total time [  4.14ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=19290 [0 removed]; NetGUIDLookup.Num()=19290 [0 removed]
+[2024.09.07-16.06.17:526][347]2024.09.07_16.06.17: Saving world...
+[2024.09.07-16.06.17:534][347]2024.09.07_16.06.17: World Save Complete. Took: 0.570446
+[2024.09.07-16.11.17:532][323]2024.09.07_16.11.17: Saving world...
+[2024.09.07-16.11.17:539][323]2024.09.07_16.11.17: World Save Complete. Took: 0.544869
+[2024.09.07-16.14.56:277][884]FNetGUIDCache::PeriodicCleanAndCompact:   3.66ms total time [  3.64ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=19290 [0 removed]; NetGUIDLookup.Num()=19290 [0 removed]
+[2024.09.07-16.16.17:546][307]2024.09.07_16.16.17: Saving world...
+[2024.09.07-16.16.17:554][307]2024.09.07_16.16.17: World Save Complete. Took: 0.556134
+[2024.09.07-16.21.17:577][289]2024.09.07_16.21.17: Saving world...
+[2024.09.07-16.21.17:584][289]2024.09.07_16.21.17: World Save Complete. Took: 0.571132
+[2024.09.07-16.24.56:448][850]FNetGUIDCache::PeriodicCleanAndCompact:   5.79ms total time [  5.77ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=19290 [0 removed]; NetGUIDLookup.Num()=19290 [0 removed]
+[2024.09.07-16.26.17:628][267]2024.09.07_16.26.17: Saving world...
+[2024.09.07-16.26.17:635][267]2024.09.07_16.26.17: World Save Complete. Took: 0.592600
+[2024.09.07-16.31.17:624][248]2024.09.07_16.31.17: Saving world...
+[2024.09.07-16.31.17:637][248]2024.09.07_16.31.17: World Save Complete. Took: 0.563416
+[2024.09.07-16.34.56:652][815]FNetGUIDCache::PeriodicCleanAndCompact:   3.85ms total time [  3.83ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=19290 [0 removed]; NetGUIDLookup.Num()=19290 [0 removed]
+[2024.09.07-16.36.17:636][225]2024.09.07_16.36.17: Saving world...
+[2024.09.07-16.36.17:651][225]2024.09.07_16.36.17: World Save Complete. Took: 0.575753
+[2024.09.07-16.36.24:111][419]Garbage Collection Triggered!
+[2024.09.07-16.36.25:997][430]IP for incoming account 0002bbd506d94b2581634801dc36a790 - IP 2.217.97.175
+[2024.09.07-16.36.30:161][554]2024.09.07_16.36.30: ClappedGhost01 [UniqueNetId:0002bbd506d94b2581634801dc36a790 Platform:None] joined this ARK!
+[2024.09.07-16.37.06:236][633]2024.09.07_16.37.06: Tribe Tribe of Ghost, ID 1221878184: Day 6, 14:30:57: <RichColor Color="0, 1, 1, 1">Ghost was added to the Tribe!</>)
+[2024.09.07-16.37.06:246][633]2024.09.07_16.37.06: Player ClappedGhost01 with ID 372358712 joined tribe Tribe of Ghost with ID 1221878184.
+[2024.09.07-16.38.38:060][355]2024.09.07_16.38.38: ClappedGhost01 [UniqueNetId:0002bbd506d94b2581634801dc36a790 Platform:None] left this ARK!
+[2024.09.07-16.41.17:640][120]2024.09.07_16.41.17: Saving world...
+[2024.09.07-16.41.17:654][120]2024.09.07_16.41.17: World Save Complete. Took: 0.558846
+[2024.09.07-16.44.57:909][725]FNetGUIDCache::PeriodicCleanAndCompact:   7.08ms total time [  6.11ms CleanReferences() and   0.98ms compacting]; ObjectLookup.Num()=19423 [471 removed]; NetGUIDLookup.Num()=19317 [577 removed]
+[2024.09.07-16.46.17:691][101]2024.09.07_16.46.17: Saving world...
+[2024.09.07-16.46.17:696][101]2024.09.07_16.46.17: World Save Complete. Took: 0.571231
+[2024.09.07-16.51.17:666][ 81]2024.09.07_16.51.17: Saving world...
+[2024.09.07-16.51.17:671][ 81]2024.09.07_16.51.17: World Save Complete. Took: 0.530670
+[2024.09.07-16.54.58:055][691]FNetGUIDCache::PeriodicCleanAndCompact:   5.45ms total time [  4.09ms CleanReferences() and   1.36ms compacting]; ObjectLookup.Num()=19317 [106 removed]; NetGUIDLookup.Num()=19315 [2 removed]
+[2024.09.07-16.56.17:794][ 50]2024.09.07_16.56.17: Saving world...
+[2024.09.07-16.56.17:805][ 50]2024.09.07_16.56.17: World Save Complete. Took: 0.640437
+[2024.09.07-17.01.17:820][ 30]2024.09.07_17.01.17: Saving world...
+[2024.09.07-17.01.17:838][ 30]2024.09.07_17.01.17: World Save Complete. Took: 0.641490
+[2024.09.07-17.04.58:379][642]FNetGUIDCache::PeriodicCleanAndCompact:   4.10ms total time [  3.90ms CleanReferences() and   0.20ms compacting]; ObjectLookup.Num()=19315 [2 removed]; NetGUIDLookup.Num()=19315 [0 removed]
+[2024.09.07-17.06.17:740][  5]2024.09.07_17.06.17: Saving world...
+[2024.09.07-17.06.17:754][  5]2024.09.07_17.06.17: World Save Complete. Took: 0.558595
+[2024.09.07-17.11.17:736][990]2024.09.07_17.11.17: Saving world...
+[2024.09.07-17.11.17:750][990]2024.09.07_17.11.17: World Save Complete. Took: 0.539312
+[2024.09.07-17.14.58:512][611]FNetGUIDCache::PeriodicCleanAndCompact:   3.71ms total time [  3.70ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=19315 [0 removed]; NetGUIDLookup.Num()=19315 [0 removed]
+[2024.09.07-17.16.17:770][967]2024.09.07_17.16.17: Saving world...
+[2024.09.07-17.16.17:776][967]2024.09.07_17.16.17: World Save Complete. Took: 0.535800
+[2024.09.07-17.21.17:800][938]2024.09.07_17.21.17: Saving world...
+[2024.09.07-17.21.17:809][938]2024.09.07_17.21.17: World Save Complete. Took: 0.551486
+[2024.09.07-17.24.58:645][557]FNetGUIDCache::PeriodicCleanAndCompact:   3.70ms total time [  3.66ms CleanReferences() and   0.04ms compacting]; ObjectLookup.Num()=19315 [0 removed]; NetGUIDLookup.Num()=19315 [0 removed]
+[2024.09.07-17.26.17:797][916]2024.09.07_17.26.17: Saving world...
+[2024.09.07-17.26.17:814][916]2024.09.07_17.26.17: World Save Complete. Took: 0.553123
+[2024.09.07-17.31.17:839][891]2024.09.07_17.31.17: Saving world...
+[2024.09.07-17.31.17:847][891]2024.09.07_17.31.17: World Save Complete. Took: 0.557793
+[2024.09.07-17.34.58:809][520]FNetGUIDCache::PeriodicCleanAndCompact:   3.66ms total time [  3.64ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=19315 [0 removed]; NetGUIDLookup.Num()=19315 [0 removed]
+[2024.09.07-17.36.17:888][875]2024.09.07_17.36.17: Saving world...
+[2024.09.07-17.36.17:899][875]2024.09.07_17.36.17: World Save Complete. Took: 0.576337
+[2024.09.07-17.41.17:871][854]2024.09.07_17.41.17: Saving world...
+[2024.09.07-17.41.17:886][854]2024.09.07_17.41.17: World Save Complete. Took: 0.551841
+[2024.09.07-17.44.58:994][480]FNetGUIDCache::PeriodicCleanAndCompact:   6.63ms total time [  6.61ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=19315 [0 removed]; NetGUIDLookup.Num()=19315 [0 removed]
+[2024.09.07-17.46.17:936][826]2024.09.07_17.46.17: Saving world...
+[2024.09.07-17.46.17:942][826]2024.09.07_17.46.17: World Save Complete. Took: 0.579558
+[2024.09.07-17.51.17:921][796]2024.09.07_17.51.17: Saving world...
+[2024.09.07-17.51.17:928][796]2024.09.07_17.51.17: World Save Complete. Took: 0.545587
+[2024.09.07-17.54.59:212][428]FNetGUIDCache::PeriodicCleanAndCompact:   5.94ms total time [  5.92ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=19315 [0 removed]; NetGUIDLookup.Num()=19315 [0 removed]
+[2024.09.07-17.56.17:971][772]2024.09.07_17.56.17: Saving world...
+[2024.09.07-17.56.17:977][772]2024.09.07_17.56.17: World Save Complete. Took: 0.567810
+[2024.09.07-18.01.17:956][746]2024.09.07_18.01.17: Saving world...
+[2024.09.07-18.01.17:963][746]2024.09.07_18.01.17: World Save Complete. Took: 0.549972
+[2024.09.07-18.04.59:375][382]FNetGUIDCache::PeriodicCleanAndCompact:   3.82ms total time [  3.80ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=19315 [0 removed]; NetGUIDLookup.Num()=19315 [0 removed]
+[2024.09.07-18.06.17:994][720]2024.09.07_18.06.17: Saving world...
+[2024.09.07-18.06.18:008][720]2024.09.07_18.06.18: World Save Complete. Took: 0.568864
+[2024.09.07-18.11.18:002][703]2024.09.07_18.11.18: Saving world...
+[2024.09.07-18.11.18:008][703]2024.09.07_18.11.18: World Save Complete. Took: 0.553074
+[2024.09.07-18.14.59:561][343]FNetGUIDCache::PeriodicCleanAndCompact:   4.29ms total time [  4.28ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=19315 [0 removed]; NetGUIDLookup.Num()=19315 [0 removed]
+[2024.09.07-18.16.18:026][680]2024.09.07_18.16.18: Saving world...
+[2024.09.07-18.16.18:034][680]2024.09.07_18.16.18: World Save Complete. Took: 0.547073
+[2024.09.07-18.21.18:079][655]2024.09.07_18.21.18: Saving world...
+[2024.09.07-18.21.18:089][655]2024.09.07_18.21.18: World Save Complete. Took: 0.591756
+[2024.09.07-18.24.59:765][302]FNetGUIDCache::PeriodicCleanAndCompact:   4.28ms total time [  4.27ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=19315 [0 removed]; NetGUIDLookup.Num()=19315 [0 removed]
+[2024.09.07-18.26.18:079][635]2024.09.07_18.26.18: Saving world...
+[2024.09.07-18.26.18:087][635]2024.09.07_18.26.18: World Save Complete. Took: 0.571683
+[2024.09.07-18.31.18:118][613]2024.09.07_18.31.18: Saving world...
+[2024.09.07-18.31.18:128][613]2024.09.07_18.31.18: World Save Complete. Took: 0.602220
+[2024.09.07-18.34.59:993][265]FNetGUIDCache::PeriodicCleanAndCompact:   3.82ms total time [  3.81ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=19315 [0 removed]; NetGUIDLookup.Num()=19315 [0 removed]
+[2024.09.07-18.36.12:551][441]Garbage Collection Triggered!
+[2024.09.07-18.36.18:113][536]2024.09.07_18.36.18: Saving world...
+[2024.09.07-18.36.18:131][536]2024.09.07_18.36.18: World Save Complete. Took: 0.587470
+[2024.09.07-18.41.18:159][510]2024.09.07_18.41.18: Saving world...
+[2024.09.07-18.41.18:169][510]2024.09.07_18.41.18: World Save Complete. Took: 0.603346
+[2024.09.07-18.45.01:615][203]FNetGUIDCache::PeriodicCleanAndCompact:   6.83ms total time [  6.82ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=19315 [0 removed]; NetGUIDLookup.Num()=19315 [0 removed]
+[2024.09.07-18.46.18:154][478]2024.09.07_18.46.18: Saving world...
+[2024.09.07-18.46.18:163][478]2024.09.07_18.46.18: World Save Complete. Took: 0.582849
+[2024.09.07-18.51.18:180][450]2024.09.07_18.51.18: Saving world...
+[2024.09.07-18.51.18:185][450]2024.09.07_18.51.18: World Save Complete. Took: 0.575473
+[2024.09.07-18.55.01:812][150]FNetGUIDCache::PeriodicCleanAndCompact:   4.46ms total time [  4.45ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=19315 [0 removed]; NetGUIDLookup.Num()=19315 [0 removed]
+[2024.09.07-18.56.18:202][420]2024.09.07_18.56.18: Saving world...
+[2024.09.07-18.56.18:218][420]2024.09.07_18.56.18: World Save Complete. Took: 0.584326
+[2024.09.07-19.01.18:304][392]2024.09.07_19.01.18: Saving world...
+[2024.09.07-19.01.18:313][392]2024.09.07_19.01.18: World Save Complete. Took: 0.644396
+[2024.09.07-19.02.01:734][692]Garbage Collection Triggered!
+[2024.09.07-19.02.02:435][701]IP for incoming account 0002b1971bca45939cfb7acd896bb5ee - IP 104.28.153.96
+[2024.09.07-19.02.06:879][833]2024.09.07_19.02.06: MonkeyWhisper [UniqueNetId:0002b1971bca45939cfb7acd896bb5ee Platform:None] joined this ARK!
+[2024.09.07-19.02.26:431][412]2024.09.07_19.02.26: Tribe Tribe of Rick Scott, ID 1133745438: Day 8, 09:38:44: <RichColor Color="0, 1, 1, 1">Rick Scott was added to the Tribe!</>)
+[2024.09.07-19.02.26:443][412]2024.09.07_19.02.26: Player MonkeyWhisper with ID 827279825 joined tribe Tribe of Rick Scott with ID 1133745438.
+[2024.09.07-19.05.02:091][966]FNetGUIDCache::PeriodicCleanAndCompact:   4.74ms total time [  3.88ms CleanReferences() and   0.86ms compacting]; ObjectLookup.Num()=21301 [168 removed]; NetGUIDLookup.Num()=20816 [650 removed]
+[2024.09.07-19.05.02:263][971]2024.09.07_19.05.02: MonkeyWhisper [UniqueNetId:0002b1971bca45939cfb7acd896bb5ee Platform:None] left this ARK!
+[2024.09.07-19.06.18:274][233]2024.09.07_19.06.18: Saving world...
+[2024.09.07-19.06.18:290][233]2024.09.07_19.06.18: World Save Complete. Took: 0.596924
+[2024.09.07-19.11.18:276][202]2024.09.07_19.11.18: Saving world...
+[2024.09.07-19.11.18:282][202]2024.09.07_19.11.18: World Save Complete. Took: 0.582981
+[2024.09.07-19.15.02:305][921]FNetGUIDCache::PeriodicCleanAndCompact:   4.84ms total time [  3.99ms CleanReferences() and   0.85ms compacting]; ObjectLookup.Num()=20210 [1091 removed]; NetGUIDLookup.Num()=20153 [663 removed]
+[2024.09.07-19.16.18:289][183]2024.09.07_19.16.18: Saving world...
+[2024.09.07-19.16.18:301][183]2024.09.07_19.16.18: World Save Complete. Took: 0.570992
+[2024.09.07-19.21.18:308][155]2024.09.07_19.21.18: Saving world...
+[2024.09.07-19.21.18:315][155]2024.09.07_19.21.18: World Save Complete. Took: 0.580337
+[2024.09.07-19.25.02:522][876]FNetGUIDCache::PeriodicCleanAndCompact:   6.27ms total time [  5.36ms CleanReferences() and   0.91ms compacting]; ObjectLookup.Num()=20153 [57 removed]; NetGUIDLookup.Num()=20149 [4 removed]
+[2024.09.07-19.26.18:290][132]2024.09.07_19.26.18: Saving world...
+[2024.09.07-19.26.18:299][132]2024.09.07_19.26.18: World Save Complete. Took: 0.548099
+[2024.09.07-19.31.18:289][108]2024.09.07_19.31.18: Saving world...
+[2024.09.07-19.31.18:303][108]2024.09.07_19.31.18: World Save Complete. Took: 0.551852
+[2024.09.07-19.35.02:684][838]FNetGUIDCache::PeriodicCleanAndCompact:   4.96ms total time [  4.66ms CleanReferences() and   0.29ms compacting]; ObjectLookup.Num()=20149 [4 removed]; NetGUIDLookup.Num()=20149 [0 removed]
+[2024.09.07-19.36.18:330][ 88]2024.09.07_19.36.18: Saving world...
+[2024.09.07-19.36.18:339][ 88]2024.09.07_19.36.18: World Save Complete. Took: 0.558644
+[2024.09.07-19.41.18:392][ 71]2024.09.07_19.41.18: Saving world...
+[2024.09.07-19.41.18:403][ 71]2024.09.07_19.41.18: World Save Complete. Took: 0.592355
+[2024.09.07-19.45.02:897][806]FNetGUIDCache::PeriodicCleanAndCompact:   3.78ms total time [  3.77ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=20149 [0 removed]; NetGUIDLookup.Num()=20149 [0 removed]
+[2024.09.07-19.46.18:360][ 49]2024.09.07_19.46.18: Saving world...
+[2024.09.07-19.46.18:375][ 49]2024.09.07_19.46.18: World Save Complete. Took: 0.560858
+[2024.09.07-19.51.18:380][ 22]2024.09.07_19.51.18: Saving world...
+[2024.09.07-19.51.18:387][ 22]2024.09.07_19.51.18: World Save Complete. Took: 0.554275
+[2024.09.07-19.55.03:055][758]FNetGUIDCache::PeriodicCleanAndCompact:   3.68ms total time [  3.67ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=20149 [0 removed]; NetGUIDLookup.Num()=20149 [0 removed]
+[2024.09.07-19.56.18:429][999]2024.09.07_19.56.18: Saving world...
+[2024.09.07-19.56.18:438][999]2024.09.07_19.56.18: World Save Complete. Took: 0.578783
+[2024.09.07-20.01.18:501][975]2024.09.07_20.01.18: Saving world...
+[2024.09.07-20.01.18:510][975]2024.09.07_20.01.18: World Save Complete. Took: 0.622847
+[2024.09.07-20.05.03:313][712]FNetGUIDCache::PeriodicCleanAndCompact:   3.72ms total time [  3.71ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=20149 [0 removed]; NetGUIDLookup.Num()=20149 [0 removed]
+[2024.09.07-20.06.18:459][949]2024.09.07_20.06.18: Saving world...
+[2024.09.07-20.06.18:464][949]2024.09.07_20.06.18: World Save Complete. Took: 0.548389
+[2024.09.07-20.11.18:524][928]2024.09.07_20.11.18: Saving world...
+[2024.09.07-20.11.18:538][928]2024.09.07_20.11.18: World Save Complete. Took: 0.590051
+[2024.09.07-20.15.03:524][670]FNetGUIDCache::PeriodicCleanAndCompact:   4.74ms total time [  4.73ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=20149 [0 removed]; NetGUIDLookup.Num()=20149 [0 removed]
+[2024.09.07-20.16.18:550][904]2024.09.07_20.16.18: Saving world...
+[2024.09.07-20.16.18:572][904]2024.09.07_20.16.18: World Save Complete. Took: 0.592680
+[2024.09.07-20.17.21:345][787]Garbage Collection Triggered!
+[2024.09.07-20.17.22:942][797]IP for incoming account 0002c04624ee49aa81d776805f32f547 - IP 88.170.178.214
+[2024.09.07-20.17.34:611][146]2024.09.07_20.17.34: Riberto Lazcano ... [UniqueNetId:0002c04624ee49aa81d776805f32f547 Platform:None] joined this ARK!
+[2024.09.07-20.18.25:780][676]2024.09.07_20.18.25: Tribe Tribe of Bjorn, ID 1625411099: Day 9, 07:55:04: <RichColor Color="0, 1, 1, 1">Bjorn was added to the Tribe!</>)
+[2024.09.07-20.18.25:788][676]2024.09.07_20.18.25: Player Riberto Lazcano ... with ID 601920162 joined tribe Tribe of Bjorn with ID 1625411099.
+[2024.09.07-20.21.18:593][797]2024.09.07_20.21.18: Saving world...
+[2024.09.07-20.21.18:599][797]2024.09.07_20.21.18: World Save Complete. Took: 0.606515
+[2024.09.07-20.21.59:492][ 12]IP for incoming account 00025e39b17641eb96741673cbd35b96 - IP 72.110.70.213
+[2024.09.07-20.22.08:379][271]2024.09.07_20.22.08: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] joined this ARK!
+[2024.09.07-20.22.14:060][437]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-20.22.17:238][529]2024.09.07_20.22.17: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-20.22.32:526][953]2024.09.07_20.22.32: Tribe Tribe of Dnizzle, ID 1782345778: Day 9, 08:47:31: <RichColor Color="0, 1, 1, 1">Dnizzle was added to the Tribe!</>)
+[2024.09.07-20.22.32:532][953]2024.09.07_20.22.32: Player Dom4203444 with ID 777570563 joined tribe Tribe of Dnizzle with ID 1782345778.
+[2024.09.07-20.23.48:962][ 17]2024.09.07_20.23.48: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-20.24.13:426][739]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-20.24.18:248][882]2024.09.07_20.24.18: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-20.25.04:481][224]FNetGUIDCache::PeriodicCleanAndCompact:   5.04ms total time [  4.36ms CleanReferences() and   0.68ms compacting]; ObjectLookup.Num()=21428 [14 removed]; NetGUIDLookup.Num()=21163 [278 removed]
+[2024.09.07-20.25.31:303][  6]2024.09.07_20.25.31: Riberto Lazcano ... [UniqueNetId:0002c04624ee49aa81d776805f32f547 Platform:None] left this ARK!
+[2024.09.07-20.26.18:566][354]2024.09.07_20.26.18: Saving world...
+[2024.09.07-20.26.18:576][354]2024.09.07_20.26.18: World Save Complete. Took: 0.567477
+[2024.09.07-20.27.23:857][266]2024.09.07_20.27.23: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-20.27.58:357][291]2024.09.07_20.27.58: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 9, 09:57:01: MrStealUrGirl froze Maewing - Lvl 11 (Maewing))
+[2024.09.07-20.27.58:368][291]Frozen by ID: 00025e39b17641eb96741673cbd35b96
+[2024.09.07-20.28.24:622][ 79]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-20.28.29:232][216]2024.09.07_20.28.29: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-20.29.22:200][785]Garbage Collection Triggered!
+[2024.09.07-20.29.50:116][603]2024.09.07_20.29.50: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-20.31.18:584][234]2024.09.07_20.31.18: Saving world...
+[2024.09.07-20.31.18:598][234]2024.09.07_20.31.18: World Save Complete. Took: 0.576831
+[2024.09.07-20.31.50:722][198]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-20.31.55:490][339]2024.09.07_20.31.55: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-20.35.01:324][531]2024.09.07_20.35.01: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-20.35.04:491][621]FNetGUIDCache::PeriodicCleanAndCompact:   7.83ms total time [  6.23ms CleanReferences() and   1.60ms compacting]; ObjectLookup.Num()=24271 [3745 removed]; NetGUIDLookup.Num()=23664 [4082 removed]
+[2024.09.07-20.36.18:747][762]2024.09.07_20.36.18: Saving world...
+[2024.09.07-20.36.18:753][762]2024.09.07_20.36.18: World Save Complete. Took: 0.715828
+[2024.09.07-20.36.23:329][900]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-20.36.27:906][ 35]2024.09.07_20.36.27: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-20.37.47:964][199]2024.09.07_20.37.47: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-20.40.36:513][211]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-20.40.41:141][348]2024.09.07_20.40.41: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-20.41.18:640][429]2024.09.07_20.41.18: Saving world...
+[2024.09.07-20.41.18:651][429]2024.09.07_20.41.18: World Save Complete. Took: 0.584706
+[2024.09.07-20.41.22:219][534]Garbage Collection Triggered!
+[2024.09.07-20.42.01:277][668]2024.09.07_20.42.01: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-20.42.49:192][ 93]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-20.42.53:804][230]2024.09.07_20.42.53: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-20.44.14:145][204]2024.09.07_20.44.14: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-20.45.04:831][512]FNetGUIDCache::PeriodicCleanAndCompact:   6.41ms total time [  5.31ms CleanReferences() and   1.10ms compacting]; ObjectLookup.Num()=24811 [4877 removed]; NetGUIDLookup.Num()=24426 [4605 removed]
+[2024.09.07-20.46.18:710][555]2024.09.07_20.46.18: Saving world...
+[2024.09.07-20.46.18:721][555]2024.09.07_20.46.18: World Save Complete. Took: 0.632006
+[2024.09.07-20.47.09:841][ 86]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-20.47.14:450][223]2024.09.07_20.47.14: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-20.48.34:560][503]2024.09.07_20.48.34: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-20.49.42:205][524]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-20.49.46:792][660]2024.09.07_20.49.46: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-20.51.07:687][ 34]2024.09.07_20.51.07: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-20.51.18:693][339]2024.09.07_20.51.18: Saving world...
+[2024.09.07-20.51.18:704][339]2024.09.07_20.51.18: World Save Complete. Took: 0.614137
+[2024.09.07-20.53.22:242][ 12]Garbage Collection Triggered!
+[2024.09.07-20.55.04:870][  5]FNetGUIDCache::PeriodicCleanAndCompact:  10.74ms total time [  9.56ms CleanReferences() and   1.18ms compacting]; ObjectLookup.Num()=26759 [6644 removed]; NetGUIDLookup.Num()=26413 [6396 removed]
+[2024.09.07-20.55.35:929][929]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-20.55.40:546][ 65]2024.09.07_20.55.40: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-20.56.18:991][ 78]2024.09.07_20.56.18: Saving world...
+[2024.09.07-20.56.19:005][ 78]2024.09.07_20.56.19: World Save Complete. Took: 0.915006
+[2024.09.07-20.57.01:488][216]2024.09.07_20.57.01: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-20.57.59:520][869]2024.09.07_20.57.59: Tribe Tribe of snoop, ID 1337681343: Day 9, 16:16:44: <RichColor Color="1, 0, 0, 1">Tribemember snoop - Lvl 1 was killed!</>)
+[2024.09.07-20.57.59:523][869]2024.09.07_20.57.59: snoop - Lvl 1 (Tribe of snoop) was killed!
+[2024.09.07-20.59.17:802][172]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-20.59.22:390][307]2024.09.07_20.59.22: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-21.00.42:512][587]2024.09.07_21.00.42: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-21.01.18:701][577]2024.09.07_21.01.18: Saving world...
+[2024.09.07-21.01.18:711][577]2024.09.07_21.01.18: World Save Complete. Took: 0.603481
+[2024.09.07-21.04.50:145][836]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-21.04.54:772][957]2024.09.07_21.04.54: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-21.05.04:916][137]FNetGUIDCache::PeriodicCleanAndCompact:   8.79ms total time [  6.93ms CleanReferences() and   1.86ms compacting]; ObjectLookup.Num()=30596 [9196 removed]; NetGUIDLookup.Num()=29577 [9720 removed]
+[2024.09.07-21.05.22:321][498]Garbage Collection Triggered!
+[2024.09.07-21.06.15:882][515]2024.09.07_21.06.15: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-21.06.18:962][562]2024.09.07_21.06.18: Saving world...
+[2024.09.07-21.06.18:976][562]2024.09.07_21.06.18: World Save Complete. Took: 0.822123
+[2024.09.07-21.06.42:905][ 74]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-21.06.47:353][176]2024.09.07_21.06.47: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-21.08.08:112][887]2024.09.07_21.08.08: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-21.11.03:340][476]2024.09.07_21.11.03: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 9, 19:03:27: <RichColor Color="0, 1, 0, 1">MrStealUrGirl Tamed a Carbonemys - Lvl 209 (Carbonemys)!</>)
+[2024.09.07-21.11.03:343][476]2024.09.07_21.11.03: MrStealUrGirl of Tribe Tribe of MrStealUrGirl Tamed a Carbonemys - Lvl 209 (Carbonemys)!
+[2024.09.07-21.11.10:802][697]2024.09.07_21.11.10: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 9, 19:04:57: <RichColor Color="0, 1, 0, 1">MrStealUrGirl Tamed a Baby Carbonemys - Lvl 140 (Carbonemys)!</>)
+[2024.09.07-21.11.10:809][697]2024.09.07_21.11.10: MrStealUrGirl of Tribe Tribe of MrStealUrGirl Tamed a Baby Carbonemys - Lvl 140 (Carbonemys)!
+[2024.09.07-21.11.15:860][846]2024.09.07_21.11.15: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 9, 19:06:01: <RichColor Color="0, 1, 0, 1">MrStealUrGirl Tamed a Baby Carbonemys - Lvl 140 (Carbonemys)!</>)
+[2024.09.07-21.11.15:869][846]2024.09.07_21.11.15: MrStealUrGirl of Tribe Tribe of MrStealUrGirl Tamed a Baby Carbonemys - Lvl 140 (Carbonemys)!
+[2024.09.07-21.11.18:764][914]2024.09.07_21.11.18: Saving world...
+[2024.09.07-21.11.18:778][914]2024.09.07_21.11.18: World Save Complete. Took: 0.592830
+[2024.09.07-21.11.32:768][323]2024.09.07_21.11.32: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 9, 19:09:39: MrStealUrGirl froze Carbonemys - Lvl 209 (Carbonemys))
+[2024.09.07-21.11.32:771][323]Frozen by ID: 00025e39b17641eb96741673cbd35b96
+[2024.09.07-21.11.41:726][587]2024.09.07_21.11.41: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 9, 19:11:34: MrStealUrGirl froze Baby Carbonemys - Lvl 140 (Carbonemys))
+[2024.09.07-21.11.41:733][587]Frozen by ID: 00025e39b17641eb96741673cbd35b96
+[2024.09.07-21.11.50:948][859]2024.09.07_21.11.50: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 9, 19:13:29: MrStealUrGirl froze Baby Carbonemys - Lvl 140 (Carbonemys))
+[2024.09.07-21.11.50:958][859]Frozen by ID: 00025e39b17641eb96741673cbd35b96
+[2024.09.07-21.12.35:111][118]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-21.12.39:784][251]2024.09.07_21.12.39: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-21.13.59:964][235]2024.09.07_21.13.59: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-21.14.08:540][465]2024.09.07_21.14.08: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 9, 19:42:54: MrStealUrGirl froze Maewing - Lvl 61 (Maewing))
+[2024.09.07-21.14.08:550][465]Frozen by ID: 00025e39b17641eb96741673cbd35b96
+[2024.09.07-21.15.04:922][123]FNetGUIDCache::PeriodicCleanAndCompact:   8.79ms total time [  7.42ms CleanReferences() and   1.37ms compacting]; ObjectLookup.Num()=30172 [9199 removed]; NetGUIDLookup.Num()=29039 [9306 removed]
+[2024.09.07-21.16.00:101][731]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-21.16.04:935][869]2024.09.07_21.16.04: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-21.16.18:757][212]2024.09.07_21.16.18: Saving world...
+[2024.09.07-21.16.18:770][212]2024.09.07_21.16.18: World Save Complete. Took: 0.571599
+[2024.09.07-21.17.07:507][501]2024.09.07_21.17.07: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 9, 20:21:04: <RichColor Color="0, 1, 0, 1">MrStealUrGirl Tamed a Parasaur - Lvl 179 (Parasaur)!</>)
+[2024.09.07-21.17.07:515][501]2024.09.07_21.17.07: MrStealUrGirl of Tribe Tribe of MrStealUrGirl Tamed a Parasaur - Lvl 179 (Parasaur)!
+[2024.09.07-21.17.22:352][892]Garbage Collection Triggered!
+[2024.09.07-21.19.10:002][750]2024.09.07_21.19.10: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-21.21.18:792][546]2024.09.07_21.21.18: Saving world...
+[2024.09.07-21.21.18:808][546]2024.09.07_21.21.18: World Save Complete. Took: 0.593766
+[2024.09.07-21.21.55:922][659]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-21.22.00:743][802]2024.09.07_21.22.00: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-21.24.35:218][383]2024.09.07_21.24.35: Tribe Tribe of Dnizzle, ID 1782345778: Day 10, 01:18:20: <RichColor Color="1, 0, 0, 1">Tribemember Dnizzle - Lvl 98 was killed by MrStealUrGirl - Lvl 105-390821743 (Tribe of MrStealUrGirl)!</>)
+[2024.09.07-21.24.35:228][383]2024.09.07_21.24.35: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 10, 01:18:20: <RichColor Color="1, 0, 1, 1">Your Tribe killed Dnizzle - Lvl 98 (Tribe of Dnizzle)!</>)
+[2024.09.07-21.24.35:238][383]2024.09.07_21.24.35: Dnizzle - Lvl 98 (Tribe of Dnizzle) was killed by MrStealUrGirl - Lvl 105 (Tribe of MrStealUrGirl)! [KillerSID: 390821743]
+[2024.09.07-21.25.04:957][258]FNetGUIDCache::PeriodicCleanAndCompact:  14.41ms total time [ 12.22ms CleanReferences() and   2.19ms compacting]; ObjectLookup.Num()=29155 [3256 removed]; NetGUIDLookup.Num()=28674 [2598 removed]
+[2024.09.07-21.25.05:711][280]2024.09.07_21.25.05: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-21.26.18:805][444]2024.09.07_21.26.18: Saving world...
+[2024.09.07-21.26.18:820][444]2024.09.07_21.26.18: World Save Complete. Took: 0.587201
+[2024.09.07-21.26.22:350][550]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-21.26.27:141][693]2024.09.07_21.26.27: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-21.27.05:217][729]2024.09.07_21.27.05: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 10, 02:59:35: MrStealUrGirl froze Parasaur - Lvl 180 (Parasaur))
+[2024.09.07-21.27.05:221][729]Frozen by ID: 00025e39b17641eb96741673cbd35b96
+[2024.09.07-21.27.13:274][950]2024.09.07_21.27.13: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 10, 03:05:43: <RichColor Color="0.85, 0.15, 0.25, 1">MrStealUrGirl uploaded a Maewing: Maewing - Lvl 162</>)
+[2024.09.07-21.29.22:350][ 91]Garbage Collection Triggered!
+[2024.09.07-21.29.40:281][605]2024.09.07_21.29.40: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 10, 04:44:56: <RichColor Color="0, 1, 1, 1">Tribe of Dnizzle tribe was merged in by Dnizzle!</>)
+[2024.09.07-21.29.40:325][605]2024.09.07_21.29.40: Tribe Tribe of Dnizzle, ID 1782345778: Day 10, 04:44:56: <RichColor Color="1, 1, 0, 1">Dnizzle was removed from the Tribe!</>)
+[2024.09.07-21.29.40:336][605]2024.09.07_21.29.40: Player Dnizzle with ID 777570563 removed from tribe Tribe of Dnizzle with ID 1782345778.
+[2024.09.07-21.29.40:407][605]2024.09.07_21.29.40: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 10, 04:44:56: <RichColor Color="0, 1, 1, 1">Dnizzle was added to the Tribe by MrStealUrGirl!</>)
+[2024.09.07-21.29.40:414][605]2024.09.07_21.29.40: Player Dnizzle with ID 777570563 joined tribe Tribe of MrStealUrGirl with ID 1409892912 Invited by Player MrStealUrGirl with ID 390821743.
+[2024.09.07-21.31.18:792][527]2024.09.07_21.31.18: Saving world...
+[2024.09.07-21.31.18:804][527]2024.09.07_21.31.18: World Save Complete. Took: 0.562544
+[2024.09.07-21.34.04:447][183]2024.09.07_21.34.04: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 10, 06:02:12: MrStealUrGirl froze Argentavis - Lvl 203 (Argentavis))
+[2024.09.07-21.34.04:455][183]Frozen by ID: 00025e39b17641eb96741673cbd35b96
+[2024.09.07-21.34.10:133][344]2024.09.07_21.34.10: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 10, 06:03:29: Dnizzle froze Maewing - Lvl 61 (Maewing))
+[2024.09.07-21.34.10:140][344]Frozen by ID: 0002cbd0213749399ead1aa66eccbae3
+[2024.09.07-21.34.19:342][614]2024.09.07_21.34.19: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] left this ARK!
+[2024.09.07-21.35.04:957][982]FNetGUIDCache::PeriodicCleanAndCompact:   9.54ms total time [  8.22ms CleanReferences() and   1.33ms compacting]; ObjectLookup.Num()=29741 [3162 removed]; NetGUIDLookup.Num()=28831 [3588 removed]
+[2024.09.07-21.36.18:852][180]2024.09.07_21.36.18: Saving world...
+[2024.09.07-21.36.18:864][180]2024.09.07_21.36.18: World Save Complete. Took: 0.611223
+[2024.09.07-21.41.18:842][156]2024.09.07_21.41.18: Saving world...
+[2024.09.07-21.41.18:857][156]2024.09.07_21.41.18: World Save Complete. Took: 0.582808
+[2024.09.07-21.41.22:354][261]Garbage Collection Triggered!
+[2024.09.07-21.45.04:981][919]FNetGUIDCache::PeriodicCleanAndCompact:   6.60ms total time [  5.61ms CleanReferences() and   0.99ms compacting]; ObjectLookup.Num()=28374 [1583 removed]; NetGUIDLookup.Num()=28263 [784 removed]
+[2024.09.07-21.46.18:879][116]2024.09.07_21.46.18: Saving world...
+[2024.09.07-21.46.18:889][116]2024.09.07_21.46.18: World Save Complete. Took: 0.582741
+[2024.09.07-21.51.18:889][ 90]2024.09.07_21.51.18: Saving world...
+[2024.09.07-21.51.18:904][ 90]2024.09.07_21.51.18: World Save Complete. Took: 0.584682
+[2024.09.07-21.53.22:372][790]Garbage Collection Triggered!
+[2024.09.07-21.55.04:987][856]FNetGUIDCache::PeriodicCleanAndCompact:   7.19ms total time [  6.23ms CleanReferences() and   0.96ms compacting]; ObjectLookup.Num()=28435 [135 removed]; NetGUIDLookup.Num()=28287 [172 removed]
+[2024.09.07-21.56.18:898][ 56]2024.09.07_21.56.18: Saving world...
+[2024.09.07-21.56.18:907][ 56]2024.09.07_21.56.18: World Save Complete. Took: 0.561574
+[2024.09.07-21.59.33:222][831]2024.09.07_21.59.33: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 10, 11:27:59: Dnizzle froze Maewing - Lvl 61 (Maewing))
+[2024.09.07-21.59.33:233][831]Frozen by ID: 0002cbd0213749399ead1aa66eccbae3
+[2024.09.07-21.59.53:062][425]2024.09.07_21.59.53: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-22.01.18:984][981]2024.09.07_22.01.18: Saving world...
+[2024.09.07-22.01.18:993][981]2024.09.07_22.01.18: World Save Complete. Took: 0.625858
+[2024.09.07-22.05.05:135][756]FNetGUIDCache::PeriodicCleanAndCompact:   7.03ms total time [  5.87ms CleanReferences() and   1.16ms compacting]; ObjectLookup.Num()=28555 [2993 removed]; NetGUIDLookup.Num()=28340 [3060 removed]
+[2024.09.07-22.06.19:000][950]2024.09.07_22.06.19: Saving world...
+[2024.09.07-22.06.19:013][950]2024.09.07_22.06.19: World Save Complete. Took: 0.624673
+[2024.09.07-22.11.18:953][922]2024.09.07_22.11.18: Saving world...
+[2024.09.07-22.11.18:959][922]2024.09.07_22.11.18: World Save Complete. Took: 0.562861
+[2024.09.07-22.15.05:374][704]FNetGUIDCache::PeriodicCleanAndCompact:   7.04ms total time [  6.08ms CleanReferences() and   0.96ms compacting]; ObjectLookup.Num()=28340 [215 removed]; NetGUIDLookup.Num()=28300 [40 removed]
+[2024.09.07-22.16.19:031][892]2024.09.07_22.16.19: Saving world...
+[2024.09.07-22.16.19:046][892]2024.09.07_22.16.19: World Save Complete. Took: 0.639449
+[2024.09.07-22.21.19:029][862]2024.09.07_22.21.19: Saving world...
+[2024.09.07-22.21.19:043][862]2024.09.07_22.21.19: World Save Complete. Took: 0.603494
+[2024.09.07-22.25.05:669][654]FNetGUIDCache::PeriodicCleanAndCompact:   6.16ms total time [  5.25ms CleanReferences() and   0.91ms compacting]; ObjectLookup.Num()=28300 [40 removed]; NetGUIDLookup.Num()=28300 [0 removed]
+[2024.09.07-22.26.19:011][834]2024.09.07_22.26.19: Saving world...
+[2024.09.07-22.26.19:016][834]2024.09.07_22.26.19: World Save Complete. Took: 0.560921
+[2024.09.07-22.31.19:046][806]2024.09.07_22.31.19: Saving world...
+[2024.09.07-22.31.19:053][806]2024.09.07_22.31.19: World Save Complete. Took: 0.594866
+[2024.09.07-22.35.05:873][605]FNetGUIDCache::PeriodicCleanAndCompact:  13.09ms total time [ 13.08ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=28300 [0 removed]; NetGUIDLookup.Num()=28300 [0 removed]
+[2024.09.07-22.36.19:058][781]2024.09.07_22.36.19: Saving world...
+[2024.09.07-22.36.19:068][781]2024.09.07_22.36.19: World Save Complete. Took: 0.579707
+[2024.09.07-22.41.19:057][759]2024.09.07_22.41.19: Saving world...
+[2024.09.07-22.41.19:062][759]2024.09.07_22.41.19: World Save Complete. Took: 0.568456
+[2024.09.07-22.45.06:059][560]FNetGUIDCache::PeriodicCleanAndCompact:   6.07ms total time [  6.06ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=28300 [0 removed]; NetGUIDLookup.Num()=28300 [0 removed]
+[2024.09.07-22.46.19:077][730]2024.09.07_22.46.19: Saving world...
+[2024.09.07-22.46.19:090][730]2024.09.07_22.46.19: World Save Complete. Took: 0.590206
+[2024.09.07-22.51.19:097][703]2024.09.07_22.51.19: Saving world...
+[2024.09.07-22.51.19:105][703]2024.09.07_22.51.19: World Save Complete. Took: 0.582845
+[2024.09.07-22.55.06:288][510]FNetGUIDCache::PeriodicCleanAndCompact:   7.59ms total time [  7.57ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=28300 [0 removed]; NetGUIDLookup.Num()=28300 [0 removed]
+[2024.09.07-22.56.19:124][676]2024.09.07_22.56.19: Saving world...
+[2024.09.07-22.56.19:137][676]2024.09.07_22.56.19: World Save Complete. Took: 0.594835
+[2024.09.07-23.01.19:147][648]2024.09.07_23.01.19: Saving world...
+[2024.09.07-23.01.19:162][648]2024.09.07_23.01.19: World Save Complete. Took: 0.589577
+[2024.09.07-23.05.06:523][462]FNetGUIDCache::PeriodicCleanAndCompact:   8.89ms total time [  8.85ms CleanReferences() and   0.05ms compacting]; ObjectLookup.Num()=28300 [0 removed]; NetGUIDLookup.Num()=28300 [0 removed]
+[2024.09.07-23.06.19:171][620]2024.09.07_23.06.19: Saving world...
+[2024.09.07-23.06.19:180][620]2024.09.07_23.06.19: World Save Complete. Took: 0.604013
+[2024.09.07-23.11.19:193][593]2024.09.07_23.11.19: Saving world...
+[2024.09.07-23.11.19:213][593]2024.09.07_23.11.19: World Save Complete. Took: 0.610253
+[2024.09.07-23.15.06:773][408]FNetGUIDCache::PeriodicCleanAndCompact:  10.50ms total time [ 10.48ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=28300 [0 removed]; NetGUIDLookup.Num()=28300 [0 removed]
+[2024.09.07-23.16.19:174][560]2024.09.07_23.16.19: Saving world...
+[2024.09.07-23.16.19:183][560]2024.09.07_23.16.19: World Save Complete. Took: 0.571751
+[2024.09.07-23.21.19:201][527]2024.09.07_23.21.19: Saving world...
+[2024.09.07-23.21.19:212][527]2024.09.07_23.21.19: World Save Complete. Took: 0.588474
+[2024.09.07-23.25.06:988][344]FNetGUIDCache::PeriodicCleanAndCompact:   5.54ms total time [  5.53ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=28300 [0 removed]; NetGUIDLookup.Num()=28300 [0 removed]
+[2024.09.07-23.26.19:201][490]2024.09.07_23.26.19: Saving world...
+[2024.09.07-23.26.19:208][490]2024.09.07_23.26.19: World Save Complete. Took: 0.580096
+[2024.09.07-23.31.19:218][458]2024.09.07_23.31.19: Saving world...
+[2024.09.07-23.31.19:230][458]2024.09.07_23.31.19: World Save Complete. Took: 0.599944
+[2024.09.07-23.35.07:206][290]FNetGUIDCache::PeriodicCleanAndCompact:   5.88ms total time [  5.86ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=28300 [0 removed]; NetGUIDLookup.Num()=28300 [0 removed]
+[2024.09.07-23.36.19:200][428]2024.09.07_23.36.19: Saving world...
+[2024.09.07-23.36.19:215][428]2024.09.07_23.36.19: World Save Complete. Took: 0.579516
+[2024.09.07-23.41.19:237][400]2024.09.07_23.41.19: Saving world...
+[2024.09.07-23.41.19:247][400]2024.09.07_23.41.19: World Save Complete. Took: 0.593087
+[2024.09.07-23.45.07:438][239]FNetGUIDCache::PeriodicCleanAndCompact:   5.56ms total time [  5.54ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=28300 [0 removed]; NetGUIDLookup.Num()=28300 [0 removed]
+[2024.09.07-23.46.19:257][375]2024.09.07_23.46.19: Saving world...
+[2024.09.07-23.46.19:268][375]2024.09.07_23.46.19: World Save Complete. Took: 0.602097
+[2024.09.07-23.51.19:273][348]2024.09.07_23.51.19: Saving world...
+[2024.09.07-23.51.19:280][348]2024.09.07_23.51.19: World Save Complete. Took: 0.589503
+[2024.09.07-23.53.10:272][674]Garbage Collection Triggered!
+[2024.09.07-23.55.09:103][178]FNetGUIDCache::PeriodicCleanAndCompact:   5.76ms total time [  5.47ms CleanReferences() and   0.29ms compacting]; ObjectLookup.Num()=28300 [0 removed]; NetGUIDLookup.Num()=28296 [4 removed]
+[2024.09.07-23.56.19:250][262]2024.09.07_23.56.19: Saving world...
+[2024.09.07-23.56.19:261][262]2024.09.07_23.56.19: World Save Complete. Took: 0.563678
+[2024.09.08-00.01.19:273][233]2024.09.08_00.01.19: Saving world...
+[2024.09.08-00.01.19:280][233]2024.09.08_00.01.19: World Save Complete. Took: 0.579457
+[2024.09.08-00.05.09:296][129]FNetGUIDCache::PeriodicCleanAndCompact:   5.68ms total time [  5.41ms CleanReferences() and   0.27ms compacting]; ObjectLookup.Num()=28296 [4 removed]; NetGUIDLookup.Num()=28296 [0 removed]
+[2024.09.08-00.06.19:282][210]2024.09.08_00.06.19: Saving world...
+[2024.09.08-00.06.19:297][210]2024.09.08_00.06.19: World Save Complete. Took: 0.579070
+[2024.09.08-00.11.19:301][178]2024.09.08_00.11.19: Saving world...
+[2024.09.08-00.11.19:306][178]2024.09.08_00.11.19: World Save Complete. Took: 0.562904
+[2024.09.08-00.15.09:471][ 70]FNetGUIDCache::PeriodicCleanAndCompact:   5.36ms total time [  5.35ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=28296 [0 removed]; NetGUIDLookup.Num()=28296 [0 removed]
+[2024.09.08-00.16.19:326][148]2024.09.08_00.16.19: Saving world...
+[2024.09.08-00.16.19:332][148]2024.09.08_00.16.19: World Save Complete. Took: 0.558167
+[2024.09.08-00.21.19:366][120]2024.09.08_00.21.19: Saving world...
+[2024.09.08-00.21.19:376][120]2024.09.08_00.21.19: World Save Complete. Took: 0.586678
+[2024.09.08-00.25.09:660][ 16]FNetGUIDCache::PeriodicCleanAndCompact:  10.37ms total time [ 10.36ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=28296 [0 removed]; NetGUIDLookup.Num()=28296 [0 removed]
+[2024.09.08-00.26.19:414][ 87]2024.09.08_00.26.19: Saving world...
+[2024.09.08-00.26.19:425][ 87]2024.09.08_00.26.19: World Save Complete. Took: 0.618959
+[2024.09.08-00.31.19:416][ 47]2024.09.08_00.31.19: Saving world...
+[2024.09.08-00.31.19:431][ 47]2024.09.08_00.31.19: World Save Complete. Took: 0.618540
+[2024.09.08-00.35.09:924][946]FNetGUIDCache::PeriodicCleanAndCompact:   5.47ms total time [  5.46ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=28296 [0 removed]; NetGUIDLookup.Num()=28296 [0 removed]
+[2024.09.08-00.36.19:399][  7]2024.09.08_00.36.19: Saving world...
+[2024.09.08-00.36.19:410][  7]2024.09.08_00.36.19: World Save Complete. Took: 0.581611
+[2024.09.08-00.41.19:436][975]2024.09.08_00.41.19: Saving world...
+[2024.09.08-00.41.19:442][975]2024.09.08_00.41.19: World Save Complete. Took: 0.588254
+[2024.09.08-00.45.10:134][882]FNetGUIDCache::PeriodicCleanAndCompact:   5.44ms total time [  5.43ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=28296 [0 removed]; NetGUIDLookup.Num()=28296 [0 removed]
+[2024.09.08-00.46.19:442][939]2024.09.08_00.46.19: Saving world...
+[2024.09.08-00.46.19:457][939]2024.09.08_00.46.19: World Save Complete. Took: 0.586738
+[2024.09.08-00.51.19:456][903]2024.09.08_00.51.19: Saving world...
+[2024.09.08-00.51.19:465][903]2024.09.08_00.51.19: World Save Complete. Took: 0.562981
+[2024.09.08-00.55.10:331][818]FNetGUIDCache::PeriodicCleanAndCompact:   8.29ms total time [  8.27ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=28296 [0 removed]; NetGUIDLookup.Num()=28296 [0 removed]
+[2024.09.08-00.56.19:485][872]2024.09.08_00.56.19: Saving world...
+[2024.09.08-00.56.19:497][872]2024.09.08_00.56.19: World Save Complete. Took: 0.577033
+[2024.09.08-00.58.21:705][533]Garbage Collection Triggered!
+[2024.09.08-00.58.23:010][543]IP for incoming account 00022c98ee0d4e1f9ec59e9b6faea772 - IP 73.183.86.150
+[2024.09.08-00.58.31:767][804]2024.09.08_00.58.31: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] joined this ARK!
+[2024.09.08-01.01.19:500][804]2024.09.08_01.01.19: Saving world...
+[2024.09.08-01.01.19:512][804]2024.09.08_01.01.19: World Save Complete. Took: 0.584539
+[2024.09.08-01.05.10:982][742]FNetGUIDCache::PeriodicCleanAndCompact:  11.83ms total time [ 10.58ms CleanReferences() and   1.25ms compacting]; ObjectLookup.Num()=28881 [125 removed]; NetGUIDLookup.Num()=28747 [259 removed]
+[2024.09.08-01.06.19:584][777]2024.09.08_01.06.19: Saving world...
+[2024.09.08-01.06.19:599][777]2024.09.08_01.06.19: World Save Complete. Took: 0.646771
+[2024.09.08-01.10.22:281][ 44]Garbage Collection Triggered!
+[2024.09.08-01.11.19:531][727]2024.09.08_01.11.19: Saving world...
+[2024.09.08-01.11.19:541][727]2024.09.08_01.11.19: World Save Complete. Took: 0.569948
+[2024.09.08-01.14.13:595][924]2024.09.08_01.14.13: Tribe Tribe of Banana, ID 1811457873: Day 12, 17:06:11: <RichColor Color="0, 1, 0, 1">Banana Tamed a Pteranodon - Lvl 187 (Pteranodon)!</>)
+[2024.09.08-01.14.13:599][924]2024.09.08_01.14.13: Banana of Tribe Tribe of Banana Tamed a Pteranodon - Lvl 187 (Pteranodon)!
+[2024.09.08-01.15.10:984][622]FNetGUIDCache::PeriodicCleanAndCompact:   7.22ms total time [  6.04ms CleanReferences() and   1.18ms compacting]; ObjectLookup.Num()=29588 [1048 removed]; NetGUIDLookup.Num()=29272 [1226 removed]
+[2024.09.08-01.16.19:569][605]2024.09.08_01.16.19: Saving world...
+[2024.09.08-01.16.19:580][605]2024.09.08_01.16.19: World Save Complete. Took: 0.577507
+[2024.09.08-01.21.19:568][515]2024.09.08_01.21.19: Saving world...
+[2024.09.08-01.21.19:574][515]2024.09.08_01.21.19: World Save Complete. Took: 0.569831
+[2024.09.08-01.21.25:583][695]2024.09.08_01.21.25: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] left this ARK!
+[2024.09.08-01.25.11:023][448]FNetGUIDCache::PeriodicCleanAndCompact:  13.31ms total time [ 11.55ms CleanReferences() and   1.76ms compacting]; ObjectLookup.Num()=28970 [2686 removed]; NetGUIDLookup.Num()=28707 [2633 removed]
+[2024.09.08-01.26.19:581][483]2024.09.08_01.26.19: Saving world...
+[2024.09.08-01.26.19:595][483]2024.09.08_01.26.19: World Save Complete. Took: 0.565468
+[2024.09.08-01.31.19:643][449]2024.09.08_01.31.19: Saving world...
+[2024.09.08-01.31.19:659][449]2024.09.08_01.31.19: World Save Complete. Took: 0.602615
+[2024.09.08-01.35.11:222][385]FNetGUIDCache::PeriodicCleanAndCompact:   6.40ms total time [  5.53ms CleanReferences() and   0.87ms compacting]; ObjectLookup.Num()=28707 [263 removed]; NetGUIDLookup.Num()=28673 [34 removed]
+[2024.09.08-01.36.19:617][416]2024.09.08_01.36.19: Saving world...
+[2024.09.08-01.36.19:636][416]2024.09.08_01.36.19: World Save Complete. Took: 0.574071
+[2024.09.08-01.41.19:655][380]2024.09.08_01.41.19: Saving world...
+[2024.09.08-01.41.19:662][380]2024.09.08_01.41.19: World Save Complete. Took: 0.580768
+[2024.09.08-01.45.11:444][315]FNetGUIDCache::PeriodicCleanAndCompact:   6.61ms total time [  5.51ms CleanReferences() and   1.10ms compacting]; ObjectLookup.Num()=28673 [34 removed]; NetGUIDLookup.Num()=28672 [1 removed]
+[2024.09.08-01.46.19:663][342]2024.09.08_01.46.19: Saving world...
+[2024.09.08-01.46.19:679][342]2024.09.08_01.46.19: World Save Complete. Took: 0.575567
+[2024.09.08-01.51.19:688][305]2024.09.08_01.51.19: Saving world...
+[2024.09.08-01.51.19:697][305]2024.09.08_01.51.19: World Save Complete. Took: 0.577399
+[2024.09.08-01.55.11:626][250]FNetGUIDCache::PeriodicCleanAndCompact:   6.31ms total time [  5.46ms CleanReferences() and   0.85ms compacting]; ObjectLookup.Num()=28672 [1 removed]; NetGUIDLookup.Num()=28672 [0 removed]
+[2024.09.08-01.56.19:708][274]2024.09.08_01.56.19: Saving world...
+[2024.09.08-01.56.19:713][274]2024.09.08_01.56.19: World Save Complete. Took: 0.563473
+[2024.09.08-01.58.33:507][288]Garbage Collection Triggered!
+[2024.09.08-01.58.34:934][297]IP for incoming account 000293c1b9b44f62a918cdc34a9bf17a - IP 104.205.42.60
+[2024.09.08-01.58.42:640][527]2024.09.08_01.58.42: DwightFishman [UniqueNetId:000293c1b9b44f62a918cdc34a9bf17a Platform:None] joined this ARK!
+[2024.09.08-01.59.05:046][195]2024.09.08_01.59.05: Tribe Tribe of MELKOR, ID 1820266719: Day 13, 08:44:14: <RichColor Color="0, 1, 1, 1">MELKOR was added to the Tribe!</>)
+[2024.09.08-01.59.05:056][195]2024.09.08_01.59.05: Player DwightFishman with ID 536029445 joined tribe Tribe of MELKOR with ID 1820266719.
+[2024.09.08-02.01.19:725][158]2024.09.08_02.01.19: Saving world...
+[2024.09.08-02.01.19:739][158]2024.09.08_02.01.19: World Save Complete. Took: 0.576736
+[2024.09.08-02.05.12:439][803]FNetGUIDCache::PeriodicCleanAndCompact:   6.89ms total time [  6.00ms CleanReferences() and   0.89ms compacting]; ObjectLookup.Num()=29811 [281 removed]; NetGUIDLookup.Num()=29482 [610 removed]
+[2024.09.08-02.06.19:781][762]2024.09.08_02.06.19: Saving world...
+[2024.09.08-02.06.19:789][762]2024.09.08_02.06.19: World Save Complete. Took: 0.597018
+[2024.09.08-02.08.16:629][182]2024.09.08_02.08.16: Tribe Tribe of MELKOR, ID 1820266719: Day 13, 10:41:55: <RichColor Color="0, 1, 0, 1">MELKOR Tamed a Juvenile Triceratops - Lvl 95 (Triceratops)!</>)
+[2024.09.08-02.08.16:634][182]2024.09.08_02.08.16: MELKOR of Tribe Tribe of MELKOR Tamed a Juvenile Triceratops - Lvl 95 (Triceratops)!
+[2024.09.08-02.10.16:026][670]2024.09.08_02.10.16: Tribe Tribe of MELKOR, ID 1820266719: Day 13, 11:07:18: <RichColor Color="1, 0, 0, 1">Your Juvenile Triceratops - Lvl 95 (Triceratops) was killed by MELKOR - Lvl 53-536029445 (Tribe of MELKOR)!</>)
+[2024.09.08-02.10.16:035][670]2024.09.08_02.10.16: Tribe Tribe of MELKOR, ID 1820266719: Day 13, 11:07:18: <RichColor Color="1, 0, 1, 1">Your Tribe killed Juvenile Triceratops - Lvl 95 (Triceratops) (Tribe of MELKOR)!</>)
+[2024.09.08-02.10.16:045][670]2024.09.08_02.10.16: Juvenile Triceratops - Lvl 95 (Triceratops) (Tribe of MELKOR) was killed by MELKOR - Lvl 53-536029445 (Tribe of MELKOR)! [KillerSID: 536029445]
+[2024.09.08-02.10.34:242][199]Garbage Collection Triggered!
+[2024.09.08-02.11.19:779][492]2024.09.08_02.11.19: Saving world...
+[2024.09.08-02.11.19:787][492]2024.09.08_02.11.19: World Save Complete. Took: 0.584877
+[2024.09.08-02.12.19:284][246]2024.09.08_02.12.19: DwightFishman [UniqueNetId:000293c1b9b44f62a918cdc34a9bf17a Platform:None] left this ARK!
+[2024.09.08-02.12.23:249][363]2024.09.08_02.12.23: Tribe Tribe of MELKOR, ID 1820266719: Day 13, 11:34:22: <RichColor Color="1, 0, 0, 1">Tribemember MELKOR - Lvl 53 was killed by an Alpha Raptor - Lvl 80!</>)
+[2024.09.08-02.12.23:253][363]2024.09.08_02.12.23: MELKOR - Lvl 53 (Tribe of MELKOR) was killed by an Alpha Raptor - Lvl 80 ()!
+[2024.09.08-02.15.12:450][432]FNetGUIDCache::PeriodicCleanAndCompact:   7.09ms total time [  5.91ms CleanReferences() and   1.17ms compacting]; ObjectLookup.Num()=29219 [1297 removed]; NetGUIDLookup.Num()=28783 [1403 removed]
+[2024.09.08-02.16.19:776][434]2024.09.08_02.16.19: Saving world...
+[2024.09.08-02.16.19:790][434]2024.09.08_02.16.19: World Save Complete. Took: 0.583856
+[2024.09.08-02.21.19:765][407]2024.09.08_02.21.19: Saving world...
+[2024.09.08-02.21.19:771][407]2024.09.08_02.21.19: World Save Complete. Took: 0.562018
+[2024.09.08-02.25.12:646][384]FNetGUIDCache::PeriodicCleanAndCompact:   9.66ms total time [  8.12ms CleanReferences() and   1.54ms compacting]; ObjectLookup.Num()=28783 [436 removed]; NetGUIDLookup.Num()=28740 [43 removed]
+[2024.09.08-02.26.19:839][380]2024.09.08_02.26.19: Saving world...
+[2024.09.08-02.26.19:850][380]2024.09.08_02.26.19: World Save Complete. Took: 0.637308
+[2024.09.08-02.31.19:798][349]2024.09.08_02.31.19: Saving world...
+[2024.09.08-02.31.19:811][349]2024.09.08_02.31.19: World Save Complete. Took: 0.585169
+[2024.09.08-02.35.12:927][332]FNetGUIDCache::PeriodicCleanAndCompact:   6.33ms total time [  5.50ms CleanReferences() and   0.84ms compacting]; ObjectLookup.Num()=28740 [43 removed]; NetGUIDLookup.Num()=28740 [0 removed]
+[2024.09.08-02.36.19:842][319]2024.09.08_02.36.19: Saving world...
+[2024.09.08-02.36.19:852][319]2024.09.08_02.36.19: World Save Complete. Took: 0.599738
+[2024.09.08-02.41.19:869][292]2024.09.08_02.41.19: Saving world...
+[2024.09.08-02.41.19:905][292]2024.09.08_02.41.19: World Save Complete. Took: 0.631816
+[2024.09.08-02.45.13:244][284]FNetGUIDCache::PeriodicCleanAndCompact:  10.09ms total time [ 10.07ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=28740 [0 removed]; NetGUIDLookup.Num()=28740 [0 removed]
+[2024.09.08-02.46.19:858][263]2024.09.08_02.46.19: Saving world...
+[2024.09.08-02.46.19:872][263]2024.09.08_02.46.19: World Save Complete. Took: 0.595820
+[2024.09.08-02.51.19:891][233]2024.09.08_02.51.19: Saving world...
+[2024.09.08-02.51.19:905][233]2024.09.08_02.51.19: World Save Complete. Took: 0.615954
+[2024.09.08-02.55.13:503][226]FNetGUIDCache::PeriodicCleanAndCompact:   6.99ms total time [  6.97ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=28740 [0 removed]; NetGUIDLookup.Num()=28740 [0 removed]
+[2024.09.08-02.56.19:900][198]2024.09.08_02.56.19: Saving world...
+[2024.09.08-02.56.19:907][198]2024.09.08_02.56.19: World Save Complete. Took: 0.597417
+[2024.09.08-03.01.19:932][164]2024.09.08_03.01.19: Saving world...
+[2024.09.08-03.01.19:948][164]2024.09.08_03.01.19: World Save Complete. Took: 0.635787
+[2024.09.08-03.05.13:777][171]FNetGUIDCache::PeriodicCleanAndCompact:   5.98ms total time [  5.96ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=28740 [0 removed]; NetGUIDLookup.Num()=28740 [0 removed]
+[2024.09.08-03.06.19:918][136]2024.09.08_03.06.19: Saving world...
+[2024.09.08-03.06.19:926][136]2024.09.08_03.06.19: World Save Complete. Took: 0.587420
+[2024.09.08-03.11.19:950][106]2024.09.08_03.11.19: Saving world...
+[2024.09.08-03.11.19:956][106]2024.09.08_03.11.19: World Save Complete. Took: 0.601606
+[2024.09.08-03.15.14:027][119]FNetGUIDCache::PeriodicCleanAndCompact:  14.68ms total time [ 14.65ms CleanReferences() and   0.03ms compacting]; ObjectLookup.Num()=28740 [0 removed]; NetGUIDLookup.Num()=28740 [0 removed]
+[2024.09.08-03.16.19:955][ 76]2024.09.08_03.16.19: Saving world...
+[2024.09.08-03.16.19:965][ 76]2024.09.08_03.16.19: World Save Complete. Took: 0.605693
+[2024.09.08-03.21.19:997][ 48]2024.09.08_03.21.19: Saving world...
+[2024.09.08-03.21.20:005][ 48]2024.09.08_03.21.20: World Save Complete. Took: 0.614233
+[2024.09.08-03.25.14:280][ 61]FNetGUIDCache::PeriodicCleanAndCompact:   5.52ms total time [  5.50ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=28740 [0 removed]; NetGUIDLookup.Num()=28740 [0 removed]
+[2024.09.08-03.26.19:986][ 12]2024.09.08_03.26.19: Saving world...
+[2024.09.08-03.26.19:996][ 12]2024.09.08_03.26.19: World Save Complete. Took: 0.573772
+[2024.09.08-03.31.20:033][980]2024.09.08_03.31.20: Saving world...
+[2024.09.08-03.31.20:043][980]2024.09.08_03.31.20: World Save Complete. Took: 0.591708
+[2024.09.08-03.34.21:303][412]Garbage Collection Triggered!
+[2024.09.08-03.34.22:800][421]IP for incoming account 0002a0b12ff54d80a45035c18750b660 - IP 75.162.76.100
+[2024.09.08-03.34.26:800][539]2024.09.08_03.34.26: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.09.08-03.34.46:656][131]2024.09.08_03.34.46: Tribe Shwat Team, ID 1048276172: Day 14, 11:12:07: <RichColor Color="1, 1, 0, 1">RehDragon was removed from the Tribe!</>)
+[2024.09.08-03.34.46:657][131]2024.09.08_03.34.46: Player RehDragon with ID 603578814 removed from tribe Shwat Team with ID 1048276172.
+[2024.09.08-03.34.46:869][131]2024.09.08_03.34.46: Tribe Tribe of RehDragon, ID 1680309377: Day 14, 11:12:07: <RichColor Color="0, 1, 1, 1">RehDragon was added to the Tribe!</>)
+[2024.09.08-03.34.46:878][131]2024.09.08_03.34.46: Player RehDragon with ID 858296109 joined tribe Tribe of RehDragon with ID 1680309377.
+[2024.09.08-03.35.15:248][966]FNetGUIDCache::PeriodicCleanAndCompact:   6.17ms total time [  5.64ms CleanReferences() and   0.53ms compacting]; ObjectLookup.Num()=29206 [0 removed]; NetGUIDLookup.Num()=29191 [15 removed]
+[2024.09.08-03.35.18:291][ 56]2024.09.08_03.35.18: Tribe Tribe of RehDragon, ID 1680309377: Day 14, 11:18:43: <RichColor Color="1, 0, 0, 1">Tribemember RehDragon - Lvl 105 was killed by an Alpha Raptor - Lvl 115!</>)
+[2024.09.08-03.35.18:296][ 56]2024.09.08_03.35.18: RehDragon - Lvl 105 (Tribe of RehDragon) was killed by an Alpha Raptor - Lvl 115 ()!
+[2024.09.08-03.36.20:058][876]2024.09.08_03.36.20: Saving world...
+[2024.09.08-03.36.20:071][876]2024.09.08_03.36.20: World Save Complete. Took: 0.599778
+[2024.09.08-03.41.08:652][417]2024.09.08_03.41.08: Tribe Shwat Team, ID 1680309377: Day 14, 12:33:33: RehDragon froze Pteranodon - Lvl 281 (Pteranodon))
+[2024.09.08-03.41.08:658][417]Frozen by ID: 0002a0b12ff54d80a45035c18750b660
+[2024.09.08-03.41.20:091][740]2024.09.08_03.41.20: Saving world...
+[2024.09.08-03.41.20:108][740]2024.09.08_03.41.20: World Save Complete. Took: 0.612573
+[2024.09.08-03.45.15:287][680]FNetGUIDCache::PeriodicCleanAndCompact:  10.22ms total time [  9.19ms CleanReferences() and   1.04ms compacting]; ObjectLookup.Num()=29946 [3672 removed]; NetGUIDLookup.Num()=29334 [4268 removed]
+[2024.09.08-03.46.20:087][605]2024.09.08_03.46.20: Saving world...
+[2024.09.08-03.46.20:099][605]2024.09.08_03.46.20: World Save Complete. Took: 0.588574
+[2024.09.08-03.46.22:075][664]Garbage Collection Triggered!
+[2024.09.08-03.48.39:940][573]2024.09.08_03.48.39: Tribe Shwat Team, ID 1680309377: Day 14, 14:09:30: RehDragon froze Anglerfish - Lvl 359 (Anglerfish))
+[2024.09.08-03.48.39:944][573]Frozen by ID: 0002a0b12ff54d80a45035c18750b660
+[2024.09.08-03.51.20:090][338]2024.09.08_03.51.20: Saving world...
+[2024.09.08-03.51.20:099][338]2024.09.08_03.51.20: World Save Complete. Took: 0.583435
+[2024.09.08-03.55.15:287][234]FNetGUIDCache::PeriodicCleanAndCompact:   7.76ms total time [  6.73ms CleanReferences() and   1.03ms compacting]; ObjectLookup.Num()=31801 [4128 removed]; NetGUIDLookup.Num()=31190 [4120 removed]
+[2024.09.08-03.55.47:489][162]IP for incoming account 00025e39b17641eb96741673cbd35b96 - IP 72.110.70.213
+[2024.09.08-03.55.56:498][428]2024.09.08_03.55.56: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] joined this ARK!
+[2024.09.08-03.56.20:133][ 89]2024.09.08_03.56.20: Saving world...
+[2024.09.08-03.56.20:148][ 89]2024.09.08_03.56.20: World Save Complete. Took: 0.611481
+[2024.09.08-03.58.22:164][945]Garbage Collection Triggered!
+[2024.09.08-04.01.20:159][139]2024.09.08_04.01.20: Saving world...
+[2024.09.08-04.01.20:169][139]2024.09.08_04.01.20: World Save Complete. Took: 0.613544
+[2024.09.08-04.04.11:428][147]2024.09.08_04.04.11: Tribe Shwat Team, ID 1680309377: Day 14, 17:27:47: RehDragon froze Anglerfish - Lvl 359 (Anglerfish))
+[2024.09.08-04.04.11:435][147]Frozen by ID: 0002a0b12ff54d80a45035c18750b660
+[2024.09.08-04.05.15:298][ 24]FNetGUIDCache::PeriodicCleanAndCompact:   8.69ms total time [  7.28ms CleanReferences() and   1.41ms compacting]; ObjectLookup.Num()=35505 [5935 removed]; NetGUIDLookup.Num()=33755 [7067 removed]
+[2024.09.08-04.05.59:192][180]2024.09.08_04.05.59: Tribe Shwat Team, ID 1680309377: Day 14, 17:50:48: RehDragon froze Anglerfish - Lvl 359 (Anglerfish))
+[2024.09.08-04.05.59:202][180]Frozen by ID: 0002a0b12ff54d80a45035c18750b660
+[2024.09.08-04.06.20:169][760]2024.09.08_04.06.20: Saving world...
+[2024.09.08-04.06.20:184][760]2024.09.08_04.06.20: World Save Complete. Took: 0.626982
+[2024.09.08-04.09.51:661][773]2024.09.08_04.09.51: Tribe Shwat Team, ID 1680309377: Day 14, 18:40:16: RehDragon froze Pteranodon - Lvl 283 (Pteranodon))
+[2024.09.08-04.09.51:673][773]Frozen by ID: 0002a0b12ff54d80a45035c18750b660
+[2024.09.08-04.10.16:864][389]2024.09.08_04.10.16: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] left this ARK!
+[2024.09.08-04.10.22:131][546]Garbage Collection Triggered!
+[2024.09.08-04.11.20:167][223]2024.09.08_04.11.20: Saving world...
+[2024.09.08-04.11.20:175][223]2024.09.08_04.11.20: World Save Complete. Took: 0.595932
+[2024.09.08-04.12.25:545][183]2024.09.08_04.12.25: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 14, 19:12:53: Juvenile Carbonemys - Lvl 140 (Carbonemys) starved to death!)
+[2024.09.08-04.14.38:340][149]2024.09.08_04.14.38: Tribe Tribe of MrStealUrGirl, ID 1409892912: Day 14, 19:41:15: MrStealUrGirl froze Anglerfish - Lvl 351 (Anglerfish))
+[2024.09.08-04.14.38:348][149]Frozen by ID: 00025e39b17641eb96741673cbd35b96
+[2024.09.08-04.15.15:327][243]FNetGUIDCache::PeriodicCleanAndCompact:   9.59ms total time [  7.91ms CleanReferences() and   1.68ms compacting]; ObjectLookup.Num()=35402 [7087 removed]; NetGUIDLookup.Num()=34480 [6258 removed]
+[2024.09.08-04.16.16:578][ 51]2024.09.08_04.16.16: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] left this ARK!
+[2024.09.08-04.16.20:173][142]2024.09.08_04.16.20: Saving world...
+[2024.09.08-04.16.20:186][142]2024.09.08_04.16.20: World Save Complete. Took: 0.578257
+[2024.09.08-04.21.20:206][115]2024.09.08_04.21.20: Saving world...
+[2024.09.08-04.21.20:212][115]2024.09.08_04.21.20: World Save Complete. Took: 0.594883
+[2024.09.08-04.25.15:547][163]FNetGUIDCache::PeriodicCleanAndCompact:   8.66ms total time [  7.32ms CleanReferences() and   1.34ms compacting]; ObjectLookup.Num()=33541 [1934 removed]; NetGUIDLookup.Num()=33411 [1140 removed]
+[2024.09.08-04.26.20:189][ 83]2024.09.08_04.26.20: Saving world...
+[2024.09.08-04.26.20:204][ 83]2024.09.08_04.26.20: World Save Complete. Took: 0.581821
+[2024.09.08-04.31.20:195][ 53]2024.09.08_04.31.20: Saving world...
+[2024.09.08-04.31.20:204][ 53]2024.09.08_04.31.20: World Save Complete. Took: 0.566440
+[2024.09.08-04.35.15:759][113]FNetGUIDCache::PeriodicCleanAndCompact:   7.77ms total time [  6.70ms CleanReferences() and   1.07ms compacting]; ObjectLookup.Num()=33408 [133 removed]; NetGUIDLookup.Num()=33408 [3 removed]
+[2024.09.08-04.36.20:257][ 30]2024.09.08_04.36.20: Saving world...
+[2024.09.08-04.36.20:267][ 30]2024.09.08_04.36.20: World Save Complete. Took: 0.596876
+[2024.09.08-04.41.20:308][ 10]2024.09.08_04.41.20: Saving world...
+[2024.09.08-04.41.20:314][ 10]2024.09.08_04.41.20: World Save Complete. Took: 0.616310
+[2024.09.08-04.45.16:006][ 70]FNetGUIDCache::PeriodicCleanAndCompact:   7.73ms total time [  6.87ms CleanReferences() and   0.86ms compacting]; ObjectLookup.Num()=33405 [3 removed]; NetGUIDLookup.Num()=33404 [4 removed]
+[2024.09.08-04.46.20:290][985]2024.09.08_04.46.20: Saving world...
+[2024.09.08-04.46.20:304][985]2024.09.08_04.46.20: World Save Complete. Took: 0.582361
+[2024.09.08-04.51.20:303][967]2024.09.08_04.51.20: Saving world...
+[2024.09.08-04.51.20:314][967]2024.09.08_04.51.20: World Save Complete. Took: 0.577880
+[2024.09.08-04.55.16:206][ 40]FNetGUIDCache::PeriodicCleanAndCompact:   6.87ms total time [  6.54ms CleanReferences() and   0.33ms compacting]; ObjectLookup.Num()=33404 [1 removed]; NetGUIDLookup.Num()=33404 [0 removed]
+[2024.09.08-04.56.20:316][944]2024.09.08_04.56.20: Saving world...
+[2024.09.08-04.56.20:324][944]2024.09.08_04.56.20: World Save Complete. Took: 0.567224
+[2024.09.08-05.01.20:347][913]2024.09.08_05.01.20: Saving world...
+[2024.09.08-05.01.20:361][913]2024.09.08_05.01.20: World Save Complete. Took: 0.579878
+[2024.09.08-05.05.16:414][980]FNetGUIDCache::PeriodicCleanAndCompact:   6.86ms total time [  6.85ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=33404 [0 removed]; NetGUIDLookup.Num()=33404 [0 removed]
+[2024.09.08-05.06.20:391][875]2024.09.08_05.06.20: Saving world...
+[2024.09.08-05.06.20:403][875]2024.09.08_05.06.20: World Save Complete. Took: 0.587547
+[2024.09.08-05.11.20:389][841]2024.09.08_05.11.20: Saving world...
+[2024.09.08-05.11.20:395][841]2024.09.08_05.11.20: World Save Complete. Took: 0.570552
+[2024.09.08-05.15.16:614][915]FNetGUIDCache::PeriodicCleanAndCompact:   6.93ms total time [  6.91ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=33404 [0 removed]; NetGUIDLookup.Num()=33404 [0 removed]
+[2024.09.08-05.16.20:389][807]2024.09.08_05.16.20: Saving world...
+[2024.09.08-05.16.20:404][807]2024.09.08_05.16.20: World Save Complete. Took: 0.573933
+[2024.09.08-05.21.20:411][772]2024.09.08_05.21.20: Saving world...
+[2024.09.08-05.21.20:425][772]2024.09.08_05.21.20: World Save Complete. Took: 0.571136
+[2024.09.08-05.25.16:813][846]FNetGUIDCache::PeriodicCleanAndCompact:   7.09ms total time [  7.07ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=33404 [0 removed]; NetGUIDLookup.Num()=33404 [0 removed]
+[2024.09.08-05.26.20:425][737]2024.09.08_05.26.20: Saving world...
+[2024.09.08-05.26.20:439][737]2024.09.08_05.26.20: World Save Complete. Took: 0.562997
+[2024.09.08-05.31.20:495][704]2024.09.08_05.31.20: Saving world...
+[2024.09.08-05.31.20:511][704]2024.09.08_05.31.20: World Save Complete. Took: 0.605408
+[2024.09.08-05.35.17:023][777]FNetGUIDCache::PeriodicCleanAndCompact:   6.90ms total time [  6.88ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=33404 [0 removed]; NetGUIDLookup.Num()=33404 [0 removed]
+[2024.09.08-05.36.20:515][660]2024.09.08_05.36.20: Saving world...
+[2024.09.08-05.36.20:530][660]2024.09.08_05.36.20: World Save Complete. Took: 0.605257
+[2024.09.08-05.41.20:522][627]2024.09.08_05.41.20: Saving world...
+[2024.09.08-05.41.20:531][627]2024.09.08_05.41.20: World Save Complete. Took: 0.607016
+[2024.09.08-05.45.17:298][716]FNetGUIDCache::PeriodicCleanAndCompact:   8.51ms total time [  8.49ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=33404 [0 removed]; NetGUIDLookup.Num()=33404 [0 removed]
+[2024.09.08-05.46.20:568][596]2024.09.08_05.46.20: Saving world...
+[2024.09.08-05.46.20:580][596]2024.09.08_05.46.20: World Save Complete. Took: 0.625842
+[2024.09.08-05.51.20:536][555]2024.09.08_05.51.20: Saving world...
+[2024.09.08-05.51.20:550][555]2024.09.08_05.51.20: World Save Complete. Took: 0.580868
+[2024.09.08-05.55.17:563][644]FNetGUIDCache::PeriodicCleanAndCompact:  11.61ms total time [ 11.60ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=33404 [0 removed]; NetGUIDLookup.Num()=33404 [0 removed]
+[2024.09.08-05.56.20:532][511]2024.09.08_05.56.20: Saving world...
+[2024.09.08-05.56.20:541][511]2024.09.08_05.56.20: World Save Complete. Took: 0.568659
+[2024.09.08-06.01.20:597][473]2024.09.08_06.01.20: Saving world...
+[2024.09.08-06.01.20:605][473]2024.09.08_06.01.20: World Save Complete. Took: 0.612376
+[2024.09.08-06.05.17:779][569]FNetGUIDCache::PeriodicCleanAndCompact:   6.87ms total time [  6.85ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=33404 [0 removed]; NetGUIDLookup.Num()=33404 [0 removed]
+[2024.09.08-06.06.20:573][431]2024.09.08_06.06.20: Saving world...
+[2024.09.08-06.06.20:585][431]2024.09.08_06.06.20: World Save Complete. Took: 0.570163
+[2024.09.08-06.10.10:274][302]Garbage Collection Triggered!
+[2024.09.08-06.11.20:574][333]2024.09.08_06.11.20: Saving world...
+[2024.09.08-06.11.20:588][333]2024.09.08_06.11.20: World Save Complete. Took: 0.566379
+[2024.09.08-06.15.19:267][474]FNetGUIDCache::PeriodicCleanAndCompact:  14.04ms total time [ 13.21ms CleanReferences() and   0.83ms compacting]; ObjectLookup.Num()=33404 [0 removed]; NetGUIDLookup.Num()=33402 [2 removed]
+[2024.09.08-06.16.20:613][293]2024.09.08_06.16.20: Saving world...
+[2024.09.08-06.16.20:626][293]2024.09.08_06.16.20: World Save Complete. Took: 0.571283
+[2024.09.08-06.21.20:639][255]2024.09.08_06.21.20: Saving world...
+[2024.09.08-06.21.20:649][255]2024.09.08_06.21.20: World Save Complete. Took: 0.587046
+[2024.09.08-06.25.19:457][416]FNetGUIDCache::PeriodicCleanAndCompact:   7.63ms total time [  7.13ms CleanReferences() and   0.49ms compacting]; ObjectLookup.Num()=33402 [2 removed]; NetGUIDLookup.Num()=33402 [0 removed]
+[2024.09.08-06.26.20:637][235]2024.09.08_06.26.20: Saving world...
+[2024.09.08-06.26.20:642][235]2024.09.08_06.26.20: World Save Complete. Took: 0.567988
+[2024.09.08-06.31.20:647][209]2024.09.08_06.31.20: Saving world...
+[2024.09.08-06.31.20:660][209]2024.09.08_06.31.20: World Save Complete. Took: 0.581784
+[2024.09.08-06.35.19:662][364]FNetGUIDCache::PeriodicCleanAndCompact:   6.90ms total time [  6.87ms CleanReferences() and   0.03ms compacting]; ObjectLookup.Num()=33402 [0 removed]; NetGUIDLookup.Num()=33402 [0 removed]
+[2024.09.08-06.36.20:679][171]2024.09.08_06.36.20: Saving world...
+[2024.09.08-06.36.20:685][171]2024.09.08_06.36.20: World Save Complete. Took: 0.584622
+[2024.09.08-06.41.20:671][137]2024.09.08_06.41.20: Saving world...
+[2024.09.08-06.41.20:682][137]2024.09.08_06.41.20: World Save Complete. Took: 0.579595
+[2024.09.08-06.45.19:895][298]FNetGUIDCache::PeriodicCleanAndCompact:   6.85ms total time [  6.83ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=33402 [0 removed]; NetGUIDLookup.Num()=33402 [0 removed]
+[2024.09.08-06.46.20:698][100]2024.09.08_06.46.20: Saving world...
+[2024.09.08-06.46.20:706][100]2024.09.08_06.46.20: World Save Complete. Took: 0.571825
+[2024.09.08-06.51.20:707][ 60]2024.09.08_06.51.20: Saving world...
+[2024.09.08-06.51.20:716][ 60]2024.09.08_06.51.20: World Save Complete. Took: 0.567088
+[2024.09.08-06.55.20:071][218]FNetGUIDCache::PeriodicCleanAndCompact:   6.78ms total time [  6.76ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=33402 [0 removed]; NetGUIDLookup.Num()=33402 [0 removed]
+[2024.09.08-06.56.20:746][ 24]2024.09.08_06.56.20: Saving world...
+[2024.09.08-06.56.20:757][ 24]2024.09.08_06.56.20: World Save Complete. Took: 0.598766
+[2024.09.08-07.01.20:782][987]2024.09.08_07.01.20: Saving world...
+[2024.09.08-07.01.20:788][987]2024.09.08_07.01.20: World Save Complete. Took: 0.600394
+[2024.09.08-07.05.20:310][158]FNetGUIDCache::PeriodicCleanAndCompact:   6.44ms total time [  6.43ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=33402 [0 removed]; NetGUIDLookup.Num()=33402 [0 removed]
+[2024.09.08-07.06.20:783][952]2024.09.08_07.06.20: Saving world...
+[2024.09.08-07.06.20:796][952]2024.09.08_07.06.20: World Save Complete. Took: 0.578768
+[2024.09.08-07.11.20:791][928]2024.09.08_07.11.20: Saving world...
+[2024.09.08-07.11.20:805][928]2024.09.08_07.11.20: World Save Complete. Took: 0.581530
+[2024.09.08-07.15.20:530][112]FNetGUIDCache::PeriodicCleanAndCompact:   6.46ms total time [  6.45ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=33402 [0 removed]; NetGUIDLookup.Num()=33402 [0 removed]
+[2024.09.08-07.16.20:805][900]2024.09.08_07.16.20: Saving world...
+[2024.09.08-07.16.20:818][900]2024.09.08_07.16.20: World Save Complete. Took: 0.587369
+[2024.09.08-07.21.20:807][866]2024.09.08_07.21.20: Saving world...
+[2024.09.08-07.21.20:817][866]2024.09.08_07.21.20: World Save Complete. Took: 0.561442
+[2024.09.08-07.25.20:717][ 53]FNetGUIDCache::PeriodicCleanAndCompact:   6.39ms total time [  6.37ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=33402 [0 removed]; NetGUIDLookup.Num()=33402 [0 removed]
+[2024.09.08-07.26.20:816][833]2024.09.08_07.26.20: Saving world...
+[2024.09.08-07.26.20:826][833]2024.09.08_07.26.20: World Save Complete. Took: 0.569150
+[2024.09.08-07.31.20:826][796]2024.09.08_07.31.20: Saving world...
+[2024.09.08-07.31.20:843][796]2024.09.08_07.31.20: World Save Complete. Took: 0.575091
+[2024.09.08-07.35.20:908][  1]FNetGUIDCache::PeriodicCleanAndCompact:   6.56ms total time [  6.55ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=33402 [0 removed]; NetGUIDLookup.Num()=33402 [0 removed]
+[2024.09.08-07.36.20:879][783]2024.09.08_07.36.20: Saving world...
+[2024.09.08-07.36.20:888][783]2024.09.08_07.36.20: World Save Complete. Took: 0.589607
+[2024.09.08-07.41.20:895][755]2024.09.08_07.41.20: Saving world...
+[2024.09.08-07.41.20:905][755]2024.09.08_07.41.20: World Save Complete. Took: 0.573967
+[2024.09.08-07.45.21:114][953]FNetGUIDCache::PeriodicCleanAndCompact:   6.81ms total time [  6.79ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=33402 [0 removed]; NetGUIDLookup.Num()=33402 [0 removed]
+[2024.09.08-07.46.20:913][730]2024.09.08_07.46.20: Saving world...
+[2024.09.08-07.46.20:920][730]2024.09.08_07.46.20: World Save Complete. Took: 0.576010
+[2024.09.08-07.51.20:949][717]2024.09.08_07.51.20: Saving world...
+[2024.09.08-07.51.20:964][717]2024.09.08_07.51.20: World Save Complete. Took: 0.600063
+[2024.09.08-07.55.21:336][938]FNetGUIDCache::PeriodicCleanAndCompact:   6.97ms total time [  6.96ms CleanReferences() and   0.01ms compacting]; ObjectLookup.Num()=33402 [0 removed]; NetGUIDLookup.Num()=33402 [0 removed]
+[2024.09.08-07.56.20:994][710]2024.09.08_07.56.20: Saving world...
+[2024.09.08-07.56.21:001][710]2024.09.08_07.56.21: World Save Complete. Took: 0.612054
+[2024.09.08-08.01.20:960][679]2024.09.08_08.01.20: Saving world...
+[2024.09.08-08.01.20:970][679]2024.09.08_08.01.20: World Save Complete. Took: 0.579981
+[2024.09.08-08.05.21:577][884]FNetGUIDCache::PeriodicCleanAndCompact:   6.94ms total time [  6.92ms CleanReferences() and   0.02ms compacting]; ObjectLookup.Num()=33402 [0 removed]; NetGUIDLookup.Num()=33402 [0 removed]
+[2024.09.08-08.06.20:991][645]2024.09.08_08.06.20: Saving world...
+[2024.09.08-08.06.20:997][645]2024.09.08_08.06.20: World Save Complete. Took: 0.578666
+[2024.09.08-08.09.59:923][202]Garbage Collection Triggered!
+[2024.09.08-08.11.20:979][568]2024.09.08_08.11.20: Saving world...
+[2024.09.08-08.11.20:990][568]2024.09.08_08.11.20: World Save Complete. Took: 0.571244
+[2024.09.08-08.14.39:121][501]IP for incoming account 00021fc1b0504c7f91273e3fef1ef8e6 - IP 68.131.58.204
+[2024.09.08-08.14.45:474][691]2024.09.08_08.14.45: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] joined this ARK!
+[2024.09.08-08.14.51:969][878]2024.09.08_08.14.51: Tribe Tribe of Lucifer, ID 1272709801: Day 17, 17:06:57: <RichColor Color="0, 1, 1, 1">Lucifer was added to the Tribe!</>)
+[2024.09.08-08.14.51:980][878]2024.09.08_08.14.51: Player DEAD JOKER1X with ID 919482755 joined tribe Tribe of Lucifer with ID 1272709801.
+[2024.09.08-08.15.22:789][782]FNetGUIDCache::PeriodicCleanAndCompact:   7.16ms total time [  6.51ms CleanReferences() and   0.65ms compacting]; ObjectLookup.Num()=34060 [0 removed]; NetGUIDLookup.Num()=34015 [45 removed]
+[2024.09.08-08.16.21:014][480]2024.09.08_08.16.21: Saving world...
+[2024.09.08-08.16.21:030][480]2024.09.08_08.16.21: World Save Complete. Took: 0.593432
+[2024.09.08-08.21.21:041][248]2024.09.08_08.21.21: Saving world...
+[2024.09.08-08.21.21:055][248]2024.09.08_08.21.21: World Save Complete. Took: 0.591913
+[2024.09.08-08.22.01:087][431]Garbage Collection Triggered!
+[2024.09.08-08.25.22:814][432]FNetGUIDCache::PeriodicCleanAndCompact:  10.74ms total time [  9.09ms CleanReferences() and   1.65ms compacting]; ObjectLookup.Num()=34980 [5625 removed]; NetGUIDLookup.Num()=34291 [6259 removed]
+[2024.09.08-08.26.21:031][152]2024.09.08_08.26.21: Saving world...
+[2024.09.08-08.26.21:044][152]2024.09.08_08.26.21: World Save Complete. Took: 0.570241
+[2024.09.08-08.31.21:093][983]2024.09.08_08.31.21: Saving world...
+[2024.09.08-08.31.21:108][983]2024.09.08_08.31.21: World Save Complete. Took: 0.606321
+[2024.09.08-08.34.01:106][743]Garbage Collection Triggered!
+[2024.09.08-08.35.22:844][167]FNetGUIDCache::PeriodicCleanAndCompact:  11.54ms total time [ 10.33ms CleanReferences() and   1.21ms compacting]; ObjectLookup.Num()=35055 [4251 removed]; NetGUIDLookup.Num()=34509 [4108 removed]
+[2024.09.08-08.36.21:094][856]2024.09.08_08.36.21: Saving world...
+[2024.09.08-08.36.21:107][856]2024.09.08_08.36.21: World Save Complete. Took: 0.580997
+[2024.09.08-08.41.21:146][429]2024.09.08_08.41.21: Saving world...
+[2024.09.08-08.41.21:152][429]2024.09.08_08.41.21: World Save Complete. Took: 0.610690
+[2024.09.08-08.41.52:079][353]IP for incoming account 0002acf37cd14844ba16e8bac3628aa8 - IP 24.181.235.32
+[2024.09.08-08.41.55:938][467]2024.09.08_08.41.55: MrPenguin2212 [UniqueNetId:0002acf37cd14844ba16e8bac3628aa8 Platform:None] joined this ARK!
+[2024.09.08-08.42.03:558][684]2024.09.08_08.42.03: Tribe Tribe of Azaria, ID 1417282873: Day 18, 04:23:17: <RichColor Color="0, 1, 1, 1">Azaria was added to the Tribe!</>)
+[2024.09.08-08.42.03:562][684]2024.09.08_08.42.03: Player MrPenguin2212 with ID 523682463 joined tribe Tribe of Azaria with ID 1417282873.
+[2024.09.08-08.45.22:888][665]FNetGUIDCache::PeriodicCleanAndCompact:  14.75ms total time [ 12.97ms CleanReferences() and   1.78ms compacting]; ObjectLookup.Num()=38737 [9575 removed]; NetGUIDLookup.Num()=37455 [10301 removed]
+[2024.09.08-08.46.01:201][343]Garbage Collection Triggered!
+[2024.09.08-08.46.13:127][409]LogMemory: Platform Memory Stats for WindowsServer
+[2024.09.08-08.46.13:127][409]LogMemory: Process Physical Memory: 7099.41 MB used, 10439.29 MB peak
+[2024.09.08-08.46.13:127][409]LogMemory: Process Virtual Memory: 14825.53 MB used, 15748.88 MB peak
+[2024.09.08-08.46.13:127][409]LogMemory: Physical Memory: 29648.35 MB used,  3024.09 MB free, 32672.45 MB total
+[2024.09.08-08.46.13:127][409]LogMemory: Virtual Memory: 65276.69 MB used,  14274.07 MB free, 79550.77 MB total

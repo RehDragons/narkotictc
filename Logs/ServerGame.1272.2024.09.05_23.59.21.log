@@ -1,0 +1,10 @@
+﻿[2024.09.05-23.59.55:710][  9]Log file open, 09/06/24 01:59:55
+[2024.09.05-23.59.55:710][  9]2024.09.05_23.59.55: [CCA_ASABot_C_2147476376] Loading INI Settings
+[2024.09.05-23.59.55:723][  9]2024.09.05_23.59.55: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.09.06-00.00.45:190][ 27]2024.09.06_00.00.45: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.09.06-00.00.45:198][ 27]2024.09.06_00.00.45: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.06-00.00.45:210][ 27]2024.09.06_00.00.45: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.06-00.00.45:222][ 27]2024.09.06_00.00.45: [WBUI] [CCA] [Request] Sending request to: https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json
+[2024.09.06-00.00.45:343][ 31]2024.09.06_00.00.45: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.06-00.00.45:353][ 31]2024.09.06_00.00.45: [WBUI] [CCA]  Updated Settings
+[2024.09.06-00.01.17:422][931]2024.09.06_00.01.17: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!

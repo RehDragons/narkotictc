@@ -1,0 +1,73 @@
+﻿Fatal error!
+
+Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffffffffffff
+
+CL: 580247 
+0x00007ff61838e5bd ArkAscendedServer.exe!TSet<TTuple<UPrimitiveComponent *,UE::Geometry::FSceneGeometryID>,TDefaultMapHashableKeyFuncs<UPrimitiveComponent *,UE::Geometry::FSceneGeometryID,0>,FDefaultSetAllocator>::Emplace<TPairInitializer<UPrimitiveComponent * const &,UE::Geometry::FSceneGeometryID const &> >() [C:\j\workspace\Main\Engine\Source\Runtime\Core\Public\Containers\Set.h:716]
+0x00007ff61a51e18c ArkAscendedServer.exe!WorldSerializedObject::WorldSerializedObject() [C:\j\workspace\Main\Engine\Source\Runtime\CoreUObject\Private\UObject\WorldSerializedObject.cpp:283]
+0x00007ff619f2ab53 ArkAscendedServer.exe!UObjectSerializer::SerializeObject() [C:\j\workspace\Main\Projects\ShooterGame\Source\ShooterGame\Private\Misc\ObjectSerializer.cpp:36]
+0x00007ff619fa45ee ArkAscendedServer.exe!APrimalDinoCharacter::GetDinoData() [C:\j\workspace\Main\Projects\ShooterGame\Source\ShooterGame\Private\NPC\PrimalDinoCharacter.cpp:21803]
+0x00007ff6196f655c ArkAscendedServer.exe!APrimalDinoCharacter::execGetDinoData() [C:\j\workspace\Main\Projects\ShooterGame\Intermediate\Build\Win64\ShooterGameServer\Inc\ShooterGame\UHT\PrimalDinoCharacter.gen.cpp:3760]
+0x00007ff61a410c89 ArkAscendedServer.exe!UFunction::Invoke() [C:\j\workspace\Main\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:6469]
+0x00007ff61a4e6387 ArkAscendedServer.exe!UObject::CallFunction() [C:\j\workspace\Main\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1134]
+0x00007ff61a4ecee7 ArkAscendedServer.exe!UObject::ProcessContextOpcode() [C:\j\workspace\Main\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:3088]
+0x00007ff61a4ed508 ArkAscendedServer.exe!ProcessLocalScriptFunction() [C:\j\workspace\Main\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1203]
+0x00007ff61a4e2a86 ArkAscendedServer.exe!ProcessScriptFunction<void (__cdecl*)(UObject *,FFrame &,void *)>() [C:\j\workspace\Main\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1033]
+0x00007ff61a4f4cce ArkAscendedServer.exe!UObject::execLocalVirtualFunction() [C:\j\workspace\Main\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:3218]
+0x00007ff61a4ed508 ArkAscendedServer.exe!ProcessLocalScriptFunction() [C:\j\workspace\Main\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1203]
+0x00007ff61a4e2a86 ArkAscendedServer.exe!ProcessScriptFunction<void (__cdecl*)(UObject *,FFrame &,void *)>() [C:\j\workspace\Main\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1033]
+0x00007ff61a4f4a7b ArkAscendedServer.exe!UObject::execLocalFinalFunction() [C:\j\workspace\Main\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:3225]
+0x00007ff61a4ed508 ArkAscendedServer.exe!ProcessLocalScriptFunction() [C:\j\workspace\Main\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1203]
+0x00007ff61a4ed465 ArkAscendedServer.exe!UObject::ProcessInternal() [C:\j\workspace\Main\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:1301]
+0x00007ff61a410c89 ArkAscendedServer.exe!UFunction::Invoke() [C:\j\workspace\Main\Engine\Source\Runtime\CoreUObject\Private\UObject\Class.cpp:6469]
+0x00007ff61a4ed31d ArkAscendedServer.exe!UObject::ProcessEvent() [C:\j\workspace\Main\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp:2136]
+0x00007ff61baef962 ArkAscendedServer.exe!AActor::ProcessEvent() [C:\j\workspace\Main\Engine\Source\Runtime\Engine\Private\Actor.cpp:1134]
+0x00007ff617bd84d5 ArkAscendedServer.exe!TMulticastScriptDelegate<FWeakObjectPtr>::ProcessMulticastDelegate<UObject>() [C:\j\workspace\Main\Engine\Source\Runtime\Core\Public\UObject\ScriptDelegates.h:565]
+0x00007ff618a4a7d5 ArkAscendedServer.exe!UThreadAsyncExecOnce::Execution() [C:\j\workspace\Main\Engine\Plugins\Marketplace\ThreadExecutionBlueprintNode\Source\ThreadExecutionBlueprintNode\Private\ThreadAsyncExecOnce.cpp:19]
+0x00007ff617ac23d3 ArkAscendedServer.exe!TAsyncRunnable<void>::Run() [C:\j\workspace\Main\Engine\Source\Runtime\Core\Public\Async\Async.h:457]
+0x00007ff61a376e27 ArkAscendedServer.exe!FRunnableThreadWin::Run() [C:\j\workspace\Main\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:149]
+0x00007ff61a371261 ArkAscendedServer.exe!FRunnableThreadWin::GuardedRun() [C:\j\workspace\Main\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:79]
+0x00007ffc63fa4ed0 KERNEL32.DLL!UnknownFunction []
+0x00007ffc64eae39b ntdll.dll!UnknownFunction []
+
+==========
+ASA Version 52.5 (CL: 580247)
+Memory Used/Avail: 8058MB/483MB
+Map: TheCenter_WP
+Game Mode: Dedicated Server
+TimeSeconds: 200583897.660363
+UnpausedTimeSeconds: 17.360740
+RealTimeSeconds: 17.360740
+NPC: 5293
+Active NPC: 0
+Active NPC Tamed: 0
+Hibernated NPC: 0
+Stasised NPC: 5293
+Players Connected: 0
+AL_TAMED_DINOS: 27
+AL_PLAYERS: 9
+Total Structures: 692
+FPS: 30.32
+Total Active Mods: 21
+  Utilities Plus (928621)
+  Custom Dino Levels (928708)
+  Solo Farm Mod (928501)
+  ARKomatic (939055)
+  TG Stacking Mod 10000-90 (929110)
+  QoL+ (939228)
+  CliffPlatforms (933872)
+  Automated Dino Wipes (947733)
+  Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+  Pull It! (940022)
+  Resonant's Shop Mod (936660)
+  PVP Scoreboard (931903)
+  Ammo Box Ascended (967856)
+  Pelayori's Cryo Storage (Crossplay!) (928793)
+  Dino+ (Nanny, Hatchey) (937546)
+  EOS ID Helper (CrossPlay) (980463)
+  maewings (929521)
+  ASA-Bot Companion (936882)
+  Admin Panel (929868)
+  WBUI2 (931119)
+  Awesome Teleporters! (950914)
+==========

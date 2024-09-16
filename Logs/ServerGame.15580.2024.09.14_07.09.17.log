@@ -1,0 +1,8 @@
+﻿[2024.09.14-07.09.47:783][ 10]Log file open, 09/14/24 09:09:47
+[2024.09.14-07.09.47:783][ 10]2024.09.14_07.09.47: [CCA_ASABot_C_2147476545] Loading INI Settings
+[2024.09.14-07.09.47:796][ 10]2024.09.14_07.09.47: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.09.14-07.11.07:232][ 16]2024.09.14_07.11.07: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.09.14-07.11.07:248][ 16]2024.09.14_07.11.07: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.14-07.11.07:263][ 16]2024.09.14_07.11.07: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.14-07.11.07:283][ 16]2024.09.14_07.11.07: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.14-07.11.07:294][ 16]2024.09.14_07.11.07: [WBUI] [CCA]  Updated Settings

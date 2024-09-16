@@ -1,0 +1,242 @@
+﻿[2024.09.06-00.17.09:485][  0]Log file open, 09/06/24 02:17:09
+[2024.09.06-00.17.09:485][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2024.09.06-00.17.09:485][  0]LogMemory: Process Physical Memory: 244.49 MB used, 303.79 MB peak
+[2024.09.06-00.17.09:485][  0]LogMemory: Process Virtual Memory: 263.54 MB used, 264.80 MB peak
+[2024.09.06-00.17.09:485][  0]LogMemory: Physical Memory: 5377.03 MB used,  27295.42 MB free, 32672.45 MB total
+[2024.09.06-00.17.09:485][  0]LogMemory: Virtual Memory: 9644.86 MB used,  28147.58 MB free, 37792.45 MB total
+[2024.09.06-00.17.10:048][  0]11
+
+[2024.09.06-00.17.10:056][  0]ARK Version: 52.5
+[2024.09.06-00.17.10:326][  0]LogCFCore: SetSettings called:
+{
+	"defaultLanguage": "en",
+	"gameId": 83374,
+	"apiKey": "*****1aZe",
+	"maxConcurrentInstallations": 3,
+	"modsDirectory": "ShooterGame/Mods",
+	"modsDirectoryMode": "CFCore",
+	"userDataDirectory": "ShooterGame/ModsUserData",
+	"isServer": true,
+	"isServerPcOnly": false,
+	"throttling":
+	{
+		"diskWriteBytesPerSec": 0
+	},
+	"premiumMods":
+	{
+		"publicKeyPem": "*****"
+	},
+	"logger":
+	{
+		"enabled": true,
+		"history": 8,
+		"maxSizeInMB": 2
+	},
+	"dynamicContentCategoryIds": [ 6844 ]
+}
+[2024.09.06-00.17.10:326][  0]LogCFCore: InternalSettings called:
+{
+	"apiBaseUrl": "https://api.curseforge.com",
+	"chunkedUploadServerUrl": "https://chunk-uploads.curseforge.com",
+	"analyticsUrl": "https://analyticsnew.overwolf.com/analytics/Counter",
+	"userAgent": "cfcore.ue 1.0.99",
+	"platform": "windows",
+	"pluginVersion": "1.0.99",
+	"httpFileDownloadTimeoutSecs": 1200
+}
+[2024.09.06-00.17.10:369][  0]LogCFCore: User context not loaded from disk
+[2024.09.06-00.17.10:648][  8]LogCFCore: Query server result: 21 mods
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: EOS ID Helper (CrossPlay) (980463)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: maewings (929521)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: Custom Dino Levels (928708)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: Utilities Plus (928621)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: CliffPlatforms (933872)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: QoL+ (939228)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: Dino+ (Nanny, Hatchey) (937546)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: Ammo Box Ascended (967856)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: PVP Scoreboard (931903)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: Solo Farm Mod (928501)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: Pull It! (940022)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: Resonant's Shop Mod (936660)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: WBUI2 (931119)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: Admin Panel (929868)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: Super Spyglass Plus (929420)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: ARKomatic (939055)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: Automated Dino Wipes (947733)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: TG Stacking Mod 10000-90 (929110)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: ASA-Bot Companion (936882)
+[2024.09.06-00.17.10:684][  9]LogCFCore: No need to update existing mod: Pelayori's Cryo Storage (Crossplay!) (928793)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: EOS ID Helper (CrossPlay) (980463)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: maewings (929521)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: Custom Dino Levels (928708)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: Utilities Plus (928621)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: CliffPlatforms (933872)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: QoL+ (939228)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: Dino+ (Nanny, Hatchey) (937546)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: Ammo Box Ascended (967856)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: PVP Scoreboard (931903)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: Solo Farm Mod (928501)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: Pull It! (940022)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: Resonant's Shop Mod (936660)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: WBUI2 (931119)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: Admin Panel (929868)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: Super Spyglass Plus (929420)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: ARKomatic (939055)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: Automated Dino Wipes (947733)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: TG Stacking Mod 10000-90 (929110)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: ASA-Bot Companion (936882)
+[2024.09.06-00.17.10:685][  9]LogCFCore: Mod valid: Pelayori's Cryo Storage (Crossplay!) (928793)
+[2024.09.06-00.17.10:865][ 10]UShooterEngine::LoadGameMods with 21 mods
+[2024.09.06-00.17.10:865][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929420_5509935/SuperSpyglassPlus/Content/PrimalGameData_BP_SSP_Kav.uasset : 929420
+[2024.09.06-00.17.11:580][ 10]UShooterEngine::LoadGameMods Using mod asset Package /SuperSpyglassPlus/PrimalGameData_BP_SSP_Kav as PrimalGameDataOverride.
+[2024.09.06-00.17.11:580][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928621_4856794/UtilsPlus/Content/PrimalGameData_BP_UtilPlus.uasset : 928621
+[2024.09.06-00.17.11:608][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /UtilsPlus/PrimalGameData_BP_UtilPlus with PrimalGameDataOverride.
+[2024.09.06-00.17.11:608][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928708_4894074/LevelTestingMod/Content/PrimalGameData_BP_LevelTesting.uasset : 928708
+[2024.09.06-00.17.11:995][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /LevelTestingMod/PrimalGameData_BP_LevelTesting with PrimalGameDataOverride.
+[2024.09.06-00.17.11:995][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928501_5509903/SoloFarmMod/Content/PrimalGameData_BP_SoloFarmMod.uasset : 928501
+[2024.09.06-00.17.12:022][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /SoloFarmMod/PrimalGameData_BP_SoloFarmMod with PrimalGameDataOverride.
+[2024.09.06-00.17.12:022][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/939055_5639286/ARKomatic/Content/PrimalGameData_BP_ARKomatic.uasset : 939055
+[2024.09.06-00.17.12:042][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /ARKomatic/PrimalGameData_BP_ARKomatic with PrimalGameDataOverride.
+[2024.09.06-00.17.12:043][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929110_5569237/TG_Stack_10000_90/Content/PrimalGameData_TG_Stack_10000_90.uasset : 929110
+[2024.09.06-00.17.12:061][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /TG_Stack_10000_90/PrimalGameData_TG_Stack_10000_90 with PrimalGameDataOverride.
+[2024.09.06-00.17.12:061][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/939228_5078487/QoLPlus/Content/PrimalGameData_QoLPlus.uasset : 939228
+[2024.09.06-00.17.12:175][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /QoLPlus/PrimalGameData_QoLPlus with PrimalGameDataOverride.
+[2024.09.06-00.17.12:175][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/933872_5330183/CliffPlatforms/Content/PrimalGameData_BP_Cliffplatforms.uasset : 933872
+[2024.09.06-00.17.12:193][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /CliffPlatforms/PrimalGameData_BP_Cliffplatforms with PrimalGameDataOverride.
+[2024.09.06-00.17.12:193][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/947733_5521328/AutomatedDinoWipes/Content/PrimalGameData_BP_AutomatedDinoWipes.uasset : 947733
+[2024.09.06-00.17.12:232][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /AutomatedDinoWipes/PrimalGameData_BP_AutomatedDinoWipes with PrimalGameDataOverride.
+[2024.09.06-00.17.12:232][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929912_5669096/EzEngramUnlocker/Content/PrimalGameData_BP_EzEngramUnlocker.uasset : 929912
+[2024.09.06-00.17.12:252][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /EzEngramUnlocker/PrimalGameData_BP_EzEngramUnlocker with PrimalGameDataOverride.
+[2024.09.06-00.17.12:252][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/940022_5102443/PullIt/Content/PrimalGameData_BP_PullIt.uasset : 940022
+[2024.09.06-00.17.12:282][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /PullIt/PrimalGameData_BP_PullIt with PrimalGameDataOverride.
+[2024.09.06-00.17.12:282][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/936660_5568098/ShopMod/Content/PrimalGameData_BP_BlankMod.uasset : 936660
+[2024.09.06-00.17.14:213][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /ShopMod/PrimalGameData_BP_BlankMod with PrimalGameDataOverride.
+[2024.09.06-00.17.14:214][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/931903_5036004/PVPScoreboard/Content/PrimalGameData_BP_PVPScoreboard.uasset : 931903
+[2024.09.06-00.17.14:248][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /PVPScoreboard/PrimalGameData_BP_PVPScoreboard with PrimalGameDataOverride.
+[2024.09.06-00.17.14:248][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/967856_5238619/AmmoBoxAscended/Content/PrimalGameData_BP_AmmoBoxAscended.uasset : 967856
+[2024.09.06-00.17.14:265][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /AmmoBoxAscended/PrimalGameData_BP_AmmoBoxAscended with PrimalGameDataOverride.
+[2024.09.06-00.17.14:265][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928793_5622484/Cryopods/Content/PrimalGameData_BP_Cryopods.uasset : 928793
+[2024.09.06-00.17.14:307][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /Cryopods/PrimalGameData_BP_Cryopods with PrimalGameDataOverride.
+[2024.09.06-00.17.14:307][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/937546_4928343/DPlusMod/Content/PrimalGameData_BP_DPlusMod.uasset : 937546
+[2024.09.06-00.17.14:324][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /DPlusMod/PrimalGameData_BP_DPlusMod with PrimalGameDataOverride.
+[2024.09.06-00.17.14:324][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/980463_5142852/EOSIDHelper/Content/PrimalGameData_BP_EOSIDHelper.uasset : 980463
+[2024.09.06-00.17.14:342][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /EOSIDHelper/PrimalGameData_BP_EOSIDHelper with PrimalGameDataOverride.
+[2024.09.06-00.17.14:342][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929521_5238433/maewings/Content/PrimalGameData_BP_Maewings.uasset : 929521
+[2024.09.06-00.17.14:359][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /maewings/PrimalGameData_BP_Maewings with PrimalGameDataOverride.
+[2024.09.06-00.17.14:359][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/936882_5662285/ASA-Bot-Companion/Content/PrimalGameData_BP_ASABot.uasset : 936882
+[2024.09.06-00.17.14:384][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /ASA-Bot-Companion/PrimalGameData_BP_ASABot with PrimalGameDataOverride.
+[2024.09.06-00.17.14:385][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929868_5620117/AdminPanel/Content/PrimalGameData_BP_AdminPanel.uasset : 929868
+[2024.09.06-00.17.14:458][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /AdminPanel/PrimalGameData_BP_AdminPanel with PrimalGameDataOverride.
+[2024.09.06-00.17.14:458][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/931119_5531437/WBUI2/Content/PrimalGameData_BP_WBUI.uasset : 931119
+[2024.09.06-00.17.14:500][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /WBUI2/PrimalGameData_BP_WBUI with PrimalGameDataOverride.
+[2024.09.06-00.17.14:500][ 10]Initialize Primal Game Data Override.
+[2024.09.06-00.17.14:518][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_1
+[2024.09.06-00.17.14:518][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_2
+[2024.09.06-00.17.14:518][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_3
+[2024.09.06-00.17.14:518][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_4
+[2024.09.06-00.17.14:518][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_5
+[2024.09.06-00.17.14:518][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_6
+[2024.09.06-00.17.14:518][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_7
+[2024.09.06-00.17.14:520][ 10]Primal Game Data Took 0.00 seconds
+[2024.09.06-00.17.14:524][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_1
+[2024.09.06-00.17.14:524][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_2
+[2024.09.06-00.17.14:524][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_3
+[2024.09.06-00.17.14:524][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_4
+[2024.09.06-00.17.14:524][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_5
+[2024.09.06-00.17.14:524][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_6
+[2024.09.06-00.17.14:524][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_7
+[2024.09.06-00.17.15:135][ 10]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2024.09.06-00.17.15:143][ 10]BattlEye successfully started.
+[2024.09.06-00.17.33:172][ 10]2024.09.06_00.17.33: [CCA_ASABot_C_2147476376] Loading INI Settings
+[2024.09.06-00.17.33:185][ 10]2024.09.06_00.17.33: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.09.06-00.17.56:866][ 10][Pelayori's Cryo Storage] Server mod version: 54
+[2024.09.06-00.17.56:866][ 10]ADW_Version_v0.15
+[2024.09.06-00.17.56:866][ 10]ADW_Begin (UTC Time Now = 0:17)
+[2024.09.06-00.17.56:866][ 10]Admin Panel Active
+[2024.09.06-00.17.56:866][ 10]Admin Panel Version:55
+[2024.09.06-00.18.28:299][ 10]Server: "9/6 [NA](AB1) nARKotic 20x/4man/shop/kits/boosted" has successfully started!
+[2024.09.06-00.18.37:815][ 10]Commandline:  Aberration_WP?listen?Port=27020 -servergamelog -servergamelogincludetribelogs -ServerRCONOutputTribeLogs -Mods=929420,928621,928708,928501,939055,929110,939228,933872,947733,929912,940022,936660,931903,967856,928793,937546,980463,929521,936882,929868,931119
+[2024.09.06-00.18.37:815][ 10]Full Startup: 88.79 seconds
+[2024.09.06-00.18.37:815][ 10]Number of cores 28
+[2024.09.06-00.18.40:583][ 21]2024.09.06_00.18.40: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.09.06-00.18.40:593][ 21]2024.09.06_00.18.40: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.06-00.18.40:605][ 21]2024.09.06_00.18.40: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.06-00.18.40:617][ 21]2024.09.06_00.18.40: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.06-00.18.40:628][ 21]2024.09.06_00.18.40: [WBUI] [CCA]  Updated Settings
+[2024.09.06-00.18.40:665][ 22]IP for incoming account 0002d60206864cbcb3f8bea1bc254162 - IP 104.218.215.232
+[2024.09.06-00.18.45:694][110]2024.09.06_00.18.45: TacoTuesday1477 [UniqueNetId:0002d60206864cbcb3f8bea1bc254162 Platform:None] joined this ARK!
+[2024.09.06-00.18.46:602][137]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-00.18.49:579][227]Server has completed startup and is now advertising for join.
+[2024.09.06-00.18.53:301][338]IP for incoming account 0002a0b12ff54d80a45035c18750b660 - IP 75.162.76.100
+[2024.09.06-00.18.58:660][497]2024.09.06_00.18.58: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.09.06-00.19.08:532][788]IP for incoming account 0002789f4f984c6787a5898016eb4375 - IP 66.22.137.97
+[2024.09.06-00.19.13:480][936]2024.09.06_00.19.13: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.09.06-00.19.33:616][519]IP for incoming account 00022c98ee0d4e1f9ec59e9b6faea772 - IP 73.183.86.150
+[2024.09.06-00.19.46:680][909]2024.09.06_00.19.46: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] joined this ARK!
+[2024.09.06-00.19.49:767][  0]IP for incoming account 00021acbaf094a78ab15ec9c1732d4d0 - IP 107.11.184.93
+[2024.09.06-00.19.56:244][191]2024.09.06_00.19.56: BIGFOOT [UniqueNetId:00021acbaf094a78ab15ec9c1732d4d0 Platform:None] joined this ARK!
+[2024.09.06-00.20.03:839][413]2024.09.06_00.20.03: Tribe Tribe of Banana, ID 1256058021: Day 1, 16:43:13: <RichColor Color="0, 1, 1, 1">Banana was added to the Tribe!</>)
+[2024.09.06-00.20.03:841][413]2024.09.06_00.20.03: Player Unavailable name with ID 588640747 joined tribe Tribe of Banana with ID 1256058021.
+[2024.09.06-00.20.07:789][463]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L0_X-6_Y-5,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L0_X-6_Y-5
+[2024.09.06-00.21.22:656][249]2024.09.06_00.21.22: Tribe Tribe of sauce, ID 1504903447: Day 1, 17:14:45: <RichColor Color="1, 0, 0, 1">Tribemember sauce - Lvl 1 was killed by a Basilisk - Lvl 110!</>)
+[2024.09.06-00.21.22:663][249]2024.09.06_00.21.22: sauce - Lvl 1 (Tribe of sauce) was killed by a Basilisk - Lvl 110 ()!
+[2024.09.06-00.21.37:030][408]2024.09.06_00.21.37: Tribe Tribe of Banana, ID 1256058021: Day 1, 17:20:30: <RichColor Color="1, 0, 0, 1">Tribemember Banana - Lvl 1 was killed by an Aberrant Raptor - Lvl 80!</>)
+[2024.09.06-00.21.37:034][408]2024.09.06_00.21.37: Banana - Lvl 1 (Tribe of Banana) was killed by an Aberrant Raptor - Lvl 80 ()!
+[2024.09.06-00.21.58:147][670]2024.09.06_00.21.58: MartyrD0nk3y (Shwat): Dying 100 times in first 5 minutes. Yup. Abb is back.
+[2024.09.06-00.22.15:567][930]2024.09.06_00.22.15: Saving world...
+[2024.09.06-00.22.15:580][930]2024.09.06_00.22.15: World Save Complete. Took: 0.482765
+[2024.09.06-00.22.34:801][274]2024.09.06_00.22.34: Tribe Shwat Team, ID 1482354014: Day 1, 17:43:36: <RichColor Color="1, 0, 0, 1">Tribemember RehDragon - Lvl 66 was killed by a Basilisk - Lvl 40!</>)
+[2024.09.06-00.22.34:811][274]2024.09.06_00.22.34: RehDragon - Lvl 66 (Shwat Team) was killed by a Basilisk - Lvl 40 ()!
+[2024.09.06-00.22.36:698][308]IP for incoming account 00025aec0f2144b7ac4185055d5f3cdd - IP 76.37.72.122
+[2024.09.06-00.22.42:439][401]2024.09.06_00.22.42: AAHOOOGAA [UniqueNetId:00025aec0f2144b7ac4185055d5f3cdd Platform:None] joined this ARK!
+[2024.09.06-00.22.43:536][414]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-00.23.03:064][717]2024.09.06_00.23.03: Tribe Tribe of Gary, ID 1400726483: Day 1, 17:54:53: <RichColor Color="0, 1, 1, 1">Gary was added to the Tribe!</>)
+[2024.09.06-00.23.03:072][717]2024.09.06_00.23.03: Player AAHOOOGAA with ID 215918650 joined tribe Tribe of Gary with ID 1400726483.
+[2024.09.06-00.24.40:180][464]2024.09.06_00.24.40: Tribe Tribe of Shwat, ID 1714227183: Day 1, 18:33:45: <RichColor Color="1, 0, 0, 1">Tribemember Shwat - Lvl 15 was killed by a Basilisk - Lvl 45!</>)
+[2024.09.06-00.24.40:187][464]2024.09.06_00.24.40: Shwat - Lvl 15 (Tribe of Shwat) was killed by a Basilisk - Lvl 45 ()!
+[2024.09.06-00.25.11:209][114]2024.09.06_00.25.11: AAHOOOGAA [UniqueNetId:00025aec0f2144b7ac4185055d5f3cdd Platform:None] left this ARK!
+[2024.09.06-00.25.53:545][ 16]2024.09.06_00.25.53: Tribe Tribe of Taco, ID 1280585111: Day 1, 19:03:05: <RichColor Color="1, 0, 0, 1">Tribemember Taco - Lvl 19 was killed by a Pyromane - Lvl 40!</>)
+[2024.09.06-00.25.53:546][ 16]2024.09.06_00.25.53: Taco - Lvl 19 (Tribe of Taco) was killed by a Pyromane - Lvl 40 ()!
+[2024.09.06-00.25.59:623][145]2024.09.06_00.25.59: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] left this ARK!
+[2024.09.06-00.26.28:664][697]2024.09.06_00.26.28: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] left this ARK!
+[2024.09.06-00.26.48:182][ 71]IP for incoming account 00022c98ee0d4e1f9ec59e9b6faea772 - IP 73.183.86.150
+[2024.09.06-00.27.02:413][355]2024.09.06_00.27.02: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] joined this ARK!
+[2024.09.06-00.27.15:559][603]2024.09.06_00.27.15: Saving world...
+[2024.09.06-00.27.15:566][603]2024.09.06_00.27.15: World Save Complete. Took: 0.458619
+[2024.09.06-00.27.15:639][604]2024.09.06_00.27.15: Tribe Tribe of Taco, ID 1280585111: Day 1, 19:35:43: <RichColor Color="1, 0, 0, 1">Tribemember Taco - Lvl 19 was killed!</>)
+[2024.09.06-00.27.15:644][604]2024.09.06_00.27.15: Taco - Lvl 19 (Tribe of Taco) was killed! [KillerSID: 438631824]
+[2024.09.06-00.27.37:968][  0]2024.09.06_00.27.37: BIGFOOT (Mango): crafting is 100k for 1 point but weight is 100 lol odd
+[2024.09.06-00.28.09:396][583]IP for incoming account 0002789f4f984c6787a5898016eb4375 - IP 66.22.146.90
+[2024.09.06-00.28.15:505][688]2024.09.06_00.28.15: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.09.06-00.28.26:044][884]2024.09.06_00.28.26: Tribe Tribe of Mango, ID 1773629605: Day 1, 20:04:04: <RichColor Color="0, 1, 1, 1">Tribe of Banana tribe was merged in by Banana!</>)
+[2024.09.06-00.28.26:074][884]2024.09.06_00.28.26: Tribe Tribe of Banana, ID 1256058021: Day 1, 20:04:04: <RichColor Color="1, 1, 0, 1">Banana was removed from the Tribe!</>)
+[2024.09.06-00.28.26:085][884]2024.09.06_00.28.26: Player Banana with ID 588640747 removed from tribe Tribe of Banana with ID 1256058021.
+[2024.09.06-00.28.26:130][884]2024.09.06_00.28.26: Tribe Tribe of Mango, ID 1773629605: Day 1, 20:04:04: <RichColor Color="0, 1, 1, 1">Banana was added to the Tribe by Mango!</>)
+[2024.09.06-00.28.26:140][884]2024.09.06_00.28.26: Player Banana with ID 588640747 joined tribe Tribe of Mango with ID 1773629605 Invited by Player Mango with ID 371148490.
+[2024.09.06-00.28.36:505][ 72]2024.09.06_00.28.36: MartyrD0nk3y (Shwat): Which would you change? lower CS or raise weight?
+[2024.09.06-00.28.40:859][149]FNetGUIDCache::PeriodicCleanAndCompact:   4.22ms total time [  3.73ms CleanReferences() and   0.48ms compacting]; ObjectLookup.Num()=11824 [2635 removed]; NetGUIDLookup.Num()=9297 [5112 removed]
+[2024.09.06-00.28.53:330][369]2024.09.06_00.28.53: SERVER: monkeywhisper: Raise to 1k per point for weight, that's more resonable, will be on shortly @martyrd0nk3y
+[2024.09.06-00.29.10:864][690]2024.09.06_00.29.10: BIGFOOT (Mango): that's perfect
+[2024.09.06-00.29.18:972][842]2024.09.06_00.29.18: Tribe Tribe of Shwat, ID 1714227183: Day 1, 20:25:15: <RichColor Color="1, 0, 0, 1">Tribemember Shwat - Lvl 15 was killed by a Basilisk - Lvl 40!</>)
+[2024.09.06-00.29.18:980][842]2024.09.06_00.29.18: Shwat - Lvl 15 (Tribe of Shwat) was killed by a Basilisk - Lvl 40 ()!
+[2024.09.06-00.29.36:137][181]2024.09.06_00.29.36: MartyrD0nk3y (Shwat): I can do that, going to have to restart again
+[2024.09.06-00.29.47:814][417]IP for incoming account 00029af44d1e478ebc3f0096d898865e - IP 89.85.23.234
+[2024.09.06-00.29.54:021][540]2024.09.06_00.29.54: BIGFOOT (Mango): all good
+[2024.09.06-00.29.54:140][542]2024.09.06_00.29.54: souledge59 [UniqueNetId:00029af44d1e478ebc3f0096d898865e Platform:None] joined this ARK!
+[2024.09.06-00.29.55:042][560]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-00.30.18:308][ 15]2024.09.06_00.30.18: Tribe Tribe of Chico, ID 1231344733: Day 1, 20:48:58: <RichColor Color="0, 1, 1, 1">Chico was added to the Tribe!</>)
+[2024.09.06-00.30.18:316][ 15]2024.09.06_00.30.18: Player souledge59 with ID 770732769 joined tribe Tribe of Chico with ID 1231344733.
+[2024.09.06-00.30.22:744][ 79]2024.09.06_00.30.22: MartyrD0nk3y (Shwat): Doing it now, get somewhere safe
+[2024.09.06-00.30.33:252][244]2024.09.06_00.30.33: MartyrD0nk3y (Shwat): doing it now get somewhere safe, 1k weight coming up
+[2024.09.06-00.30.35:233][275]IP for incoming account 00020efcab75485f83c8dff4af0974c9 - IP 190.234.175.25
+[2024.09.06-00.30.36:817][300]2024.09.06_00.30.36: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] left this ARK!
+[2024.09.06-00.30.38:516][326]2024.09.06_00.30.38: RehDragon (RehDragon): Thanks for your patient and we are working on it now.
+[2024.09.06-00.30.40:978][363]Garbage Collection Triggered!
+[2024.09.06-00.30.43:356][374]2024.09.06_00.30.43: Dracox_x08 [UniqueNetId:00020efcab75485f83c8dff4af0974c9 Platform:None] joined this ARK!
+[2024.09.06-00.30.44:226][387]UNetConnection::UpdateLevelVisibilityInternal: ERROR! Missing level package /Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C,/Game/Maps/Aberration/Aberration_WP/_Generated_/Aberration_WP_MainGrid_L8_X0_Y0_DL1283C98C
+[2024.09.06-00.31.28:660][180]2024.09.06_00.31.28: RehDragon (RehDragon): Coming down for the update now. Will be back shortly.
+[2024.09.06-00.31.33:736][282]2024.09.06_00.31.33: BIGFOOT (Mango): I know it's a pain in the ass.
+[2024.09.06-00.31.43:785][481]2024.09.06_00.31.43: RehDragon (RehDragon): It's all good.
+[2024.09.06-00.31.46:884][545]2024.09.06_00.31.46: TacoTuesday1477 [UniqueNetId:0002d60206864cbcb3f8bea1bc254162 Platform:None] left this ARK!

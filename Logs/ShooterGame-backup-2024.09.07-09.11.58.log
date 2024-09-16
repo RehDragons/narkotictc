@@ -1,0 +1,688 @@
+﻿[2024.09.07-06.14.06:517][  0]Log file open, 09/07/24 08:14:06
+[2024.09.07-06.14.06:518][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2024.09.07-06.14.06:518][  0]LogMemory: Process Physical Memory: 247.35 MB used, 275.40 MB peak
+[2024.09.07-06.14.06:518][  0]LogMemory: Process Virtual Memory: 263.19 MB used, 263.19 MB peak
+[2024.09.07-06.14.06:518][  0]LogMemory: Physical Memory: 6684.56 MB used,  25987.89 MB free, 32672.45 MB total
+[2024.09.07-06.14.06:518][  0]LogMemory: Virtual Memory: 10844.76 MB used,  26947.68 MB free, 37792.45 MB total
+[2024.09.07-06.14.07:811][  0]11
+
+[2024.09.07-06.14.07:882][  0]ARK Version: 52.5
+[2024.09.07-06.14.08:223][  0]LogCFCore: SetSettings called:
+{
+	"defaultLanguage": "en",
+	"gameId": 83374,
+	"apiKey": "*****1aZe",
+	"maxConcurrentInstallations": 3,
+	"modsDirectory": "ShooterGame/Mods",
+	"modsDirectoryMode": "CFCore",
+	"userDataDirectory": "ShooterGame/ModsUserData",
+	"isServer": true,
+	"isServerPcOnly": false,
+	"throttling":
+	{
+		"diskWriteBytesPerSec": 0
+	},
+	"premiumMods":
+	{
+		"publicKeyPem": "*****"
+	},
+	"logger":
+	{
+		"enabled": true,
+		"history": 8,
+		"maxSizeInMB": 2
+	},
+	"dynamicContentCategoryIds": [ 6844 ]
+}
+[2024.09.07-06.14.08:223][  0]LogCFCore: InternalSettings called:
+{
+	"apiBaseUrl": "https://api.curseforge.com",
+	"chunkedUploadServerUrl": "https://chunk-uploads.curseforge.com",
+	"analyticsUrl": "https://analyticsnew.overwolf.com/analytics/Counter",
+	"userAgent": "cfcore.ue 1.0.99",
+	"platform": "windows",
+	"pluginVersion": "1.0.99",
+	"httpFileDownloadTimeoutSecs": 1200
+}
+[2024.09.07-06.14.08:268][  0]LogCFCore: User context not loaded from disk
+[2024.09.07-06.14.08:546][  8]LogCFCore: Query server result: 21 mods
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: EOS ID Helper (CrossPlay) (980463)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: maewings (929521)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: Custom Dino Levels (928708)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: Utilities Plus (928621)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: CliffPlatforms (933872)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: QoL+ (939228)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: Dino+ (Nanny, Hatchey) (937546)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: Ammo Box Ascended (967856)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: PVP Scoreboard (931903)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: Solo Farm Mod (928501)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: Pull It! (940022)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: Resonant's Shop Mod (936660)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: WBUI2 (931119)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: Admin Panel (929868)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: Super Spyglass Plus (929420)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: ARKomatic (939055)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: Automated Dino Wipes (947733)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: TG Stacking Mod 10000-90 (929110)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: ASA-Bot Companion (936882)
+[2024.09.07-06.14.08:582][  9]LogCFCore: No need to update existing mod: Pelayori's Cryo Storage (Crossplay!) (928793)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: EOS ID Helper (CrossPlay) (980463)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: maewings (929521)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: Custom Dino Levels (928708)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: Utilities Plus (928621)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: CliffPlatforms (933872)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: QoL+ (939228)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: Dino+ (Nanny, Hatchey) (937546)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: Ammo Box Ascended (967856)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: PVP Scoreboard (931903)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: Solo Farm Mod (928501)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: Pull It! (940022)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: Resonant's Shop Mod (936660)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: WBUI2 (931119)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: Admin Panel (929868)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: Super Spyglass Plus (929420)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: ARKomatic (939055)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: Automated Dino Wipes (947733)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: TG Stacking Mod 10000-90 (929110)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: ASA-Bot Companion (936882)
+[2024.09.07-06.14.08:583][  9]LogCFCore: Mod valid: Pelayori's Cryo Storage (Crossplay!) (928793)
+[2024.09.07-06.14.09:287][ 10]UShooterEngine::LoadGameMods with 21 mods
+[2024.09.07-06.14.09:287][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929420_5509935/SuperSpyglassPlus/Content/PrimalGameData_BP_SSP_Kav.uasset : 929420
+[2024.09.07-06.14.10:026][ 10]UShooterEngine::LoadGameMods Using mod asset Package /SuperSpyglassPlus/PrimalGameData_BP_SSP_Kav as PrimalGameDataOverride.
+[2024.09.07-06.14.10:026][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928621_4856794/UtilsPlus/Content/PrimalGameData_BP_UtilPlus.uasset : 928621
+[2024.09.07-06.14.10:044][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /UtilsPlus/PrimalGameData_BP_UtilPlus with PrimalGameDataOverride.
+[2024.09.07-06.14.10:046][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928708_4894074/LevelTestingMod/Content/PrimalGameData_BP_LevelTesting.uasset : 928708
+[2024.09.07-06.14.10:511][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /LevelTestingMod/PrimalGameData_BP_LevelTesting with PrimalGameDataOverride.
+[2024.09.07-06.14.10:511][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928501_5509903/SoloFarmMod/Content/PrimalGameData_BP_SoloFarmMod.uasset : 928501
+[2024.09.07-06.14.10:539][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /SoloFarmMod/PrimalGameData_BP_SoloFarmMod with PrimalGameDataOverride.
+[2024.09.07-06.14.10:539][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/939055_5639286/ARKomatic/Content/PrimalGameData_BP_ARKomatic.uasset : 939055
+[2024.09.07-06.14.10:555][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /ARKomatic/PrimalGameData_BP_ARKomatic with PrimalGameDataOverride.
+[2024.09.07-06.14.10:556][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929110_5696086/TG_Stack_10000_90/Content/PrimalGameData_TG_Stack_10000_90.uasset : 929110
+[2024.09.07-06.14.10:577][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /TG_Stack_10000_90/PrimalGameData_TG_Stack_10000_90 with PrimalGameDataOverride.
+[2024.09.07-06.14.10:577][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/939228_5078487/QoLPlus/Content/PrimalGameData_QoLPlus.uasset : 939228
+[2024.09.07-06.14.10:692][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /QoLPlus/PrimalGameData_QoLPlus with PrimalGameDataOverride.
+[2024.09.07-06.14.10:692][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/933872_5330183/CliffPlatforms/Content/PrimalGameData_BP_Cliffplatforms.uasset : 933872
+[2024.09.07-06.14.10:708][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /CliffPlatforms/PrimalGameData_BP_Cliffplatforms with PrimalGameDataOverride.
+[2024.09.07-06.14.10:708][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/947733_5521328/AutomatedDinoWipes/Content/PrimalGameData_BP_AutomatedDinoWipes.uasset : 947733
+[2024.09.07-06.14.10:763][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /AutomatedDinoWipes/PrimalGameData_BP_AutomatedDinoWipes with PrimalGameDataOverride.
+[2024.09.07-06.14.10:763][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929912_5669096/EzEngramUnlocker/Content/PrimalGameData_BP_EzEngramUnlocker.uasset : 929912
+[2024.09.07-06.14.10:780][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /EzEngramUnlocker/PrimalGameData_BP_EzEngramUnlocker with PrimalGameDataOverride.
+[2024.09.07-06.14.10:781][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/940022_5102443/PullIt/Content/PrimalGameData_BP_PullIt.uasset : 940022
+[2024.09.07-06.14.10:806][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /PullIt/PrimalGameData_BP_PullIt with PrimalGameDataOverride.
+[2024.09.07-06.14.10:806][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/936660_5568098/ShopMod/Content/PrimalGameData_BP_BlankMod.uasset : 936660
+[2024.09.07-06.14.12:756][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /ShopMod/PrimalGameData_BP_BlankMod with PrimalGameDataOverride.
+[2024.09.07-06.14.12:756][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/931903_5036004/PVPScoreboard/Content/PrimalGameData_BP_PVPScoreboard.uasset : 931903
+[2024.09.07-06.14.12:786][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /PVPScoreboard/PrimalGameData_BP_PVPScoreboard with PrimalGameDataOverride.
+[2024.09.07-06.14.12:786][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/967856_5238619/AmmoBoxAscended/Content/PrimalGameData_BP_AmmoBoxAscended.uasset : 967856
+[2024.09.07-06.14.12:802][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /AmmoBoxAscended/PrimalGameData_BP_AmmoBoxAscended with PrimalGameDataOverride.
+[2024.09.07-06.14.12:802][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928793_5622484/Cryopods/Content/PrimalGameData_BP_Cryopods.uasset : 928793
+[2024.09.07-06.14.12:850][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /Cryopods/PrimalGameData_BP_Cryopods with PrimalGameDataOverride.
+[2024.09.07-06.14.12:850][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/937546_4928343/DPlusMod/Content/PrimalGameData_BP_DPlusMod.uasset : 937546
+[2024.09.07-06.14.12:869][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /DPlusMod/PrimalGameData_BP_DPlusMod with PrimalGameDataOverride.
+[2024.09.07-06.14.12:869][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/980463_5142852/EOSIDHelper/Content/PrimalGameData_BP_EOSIDHelper.uasset : 980463
+[2024.09.07-06.14.12:888][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /EOSIDHelper/PrimalGameData_BP_EOSIDHelper with PrimalGameDataOverride.
+[2024.09.07-06.14.12:888][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929521_5238433/maewings/Content/PrimalGameData_BP_Maewings.uasset : 929521
+[2024.09.07-06.14.12:909][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /maewings/PrimalGameData_BP_Maewings with PrimalGameDataOverride.
+[2024.09.07-06.14.12:909][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/936882_5662285/ASA-Bot-Companion/Content/PrimalGameData_BP_ASABot.uasset : 936882
+[2024.09.07-06.14.12:934][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /ASA-Bot-Companion/PrimalGameData_BP_ASABot with PrimalGameDataOverride.
+[2024.09.07-06.14.12:934][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929868_5696131/AdminPanel/Content/PrimalGameData_BP_AdminPanel.uasset : 929868
+[2024.09.07-06.14.13:035][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /AdminPanel/PrimalGameData_BP_AdminPanel with PrimalGameDataOverride.
+[2024.09.07-06.14.13:035][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/931119_5531437/WBUI2/Content/PrimalGameData_BP_WBUI.uasset : 931119
+[2024.09.07-06.14.13:073][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /WBUI2/PrimalGameData_BP_WBUI with PrimalGameDataOverride.
+[2024.09.07-06.14.13:073][ 10]Initialize Primal Game Data Override.
+[2024.09.07-06.14.13:092][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_1
+[2024.09.07-06.14.13:092][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_2
+[2024.09.07-06.14.13:092][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_3
+[2024.09.07-06.14.13:092][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_4
+[2024.09.07-06.14.13:092][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_5
+[2024.09.07-06.14.13:092][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_6
+[2024.09.07-06.14.13:092][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_7
+[2024.09.07-06.14.13:095][ 10]Primal Game Data Took 0.00 seconds
+[2024.09.07-06.14.13:099][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_1
+[2024.09.07-06.14.13:099][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_2
+[2024.09.07-06.14.13:099][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_3
+[2024.09.07-06.14.13:099][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_4
+[2024.09.07-06.14.13:099][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_5
+[2024.09.07-06.14.13:099][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_6
+[2024.09.07-06.14.13:099][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_7
+[2024.09.07-06.14.13:702][ 10]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2024.09.07-06.14.13:720][ 10]BattlEye successfully started.
+[2024.09.07-06.14.36:703][ 10]2024.09.07_06.14.36: [CCA_ASABot_C_2147476376] Loading INI Settings
+[2024.09.07-06.14.36:752][ 10]2024.09.07_06.14.36: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.09.07-06.15.05:870][ 10][Pelayori's Cryo Storage] Server mod version: 54
+[2024.09.07-06.15.05:870][ 10]ADW_Version_v0.15
+[2024.09.07-06.15.05:870][ 10]ADW_Begin (UTC Time Now = 6:15)
+[2024.09.07-06.15.05:870][ 10]Admin Panel Active
+[2024.09.07-06.15.05:870][ 10]Admin Panel Version:56
+[2024.09.07-06.15.39:445][ 10]Server: "9/6 [NA](AB1) nARKotic 20x/4man/shop/kits/boosted" has successfully started!
+[2024.09.07-06.15.49:494][ 10]Commandline:  Aberration_WP?listen?Port=27020 -servergamelog -servergamelogincludetribelogs -ServerRCONOutputTribeLogs -Mods=929420,928621,928708,928501,939055,929110,939228,933872,947733,929912,940022,936660,931903,967856,928793,937546,980463,929521,936882,929868,931119
+[2024.09.07-06.15.49:494][ 10]Full Startup: 104.17 seconds
+[2024.09.07-06.15.49:494][ 10]Number of cores 28
+[2024.09.07-06.15.52:921][ 14]2024.09.07_06.15.52: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.09.07-06.15.52:923][ 14]2024.09.07_06.15.52: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.07-06.15.52:935][ 14]2024.09.07_06.15.52: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.07-06.15.52:947][ 14]2024.09.07_06.15.52: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.07-06.15.52:958][ 14]2024.09.07_06.15.52: [WBUI] [CCA]  Updated Settings
+[2024.09.07-06.15.53:365][ 21]IP for incoming account 0002a0b12ff54d80a45035c18750b660 - IP 75.162.76.100
+[2024.09.07-06.15.57:989][104]2024.09.07_06.15.57: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.09.07-06.16.03:325][232]Server has completed startup and is now advertising for join.
+[2024.09.07-06.16.04:590][270]IP for incoming account 0002b1971bca45939cfb7acd896bb5ee - IP 104.28.153.75
+[2024.09.07-06.16.09:572][418]2024.09.07_06.16.09: MonkeyWhisper [UniqueNetId:0002b1971bca45939cfb7acd896bb5ee Platform:None] joined this ARK!
+[2024.09.07-06.16.19:364][686]IP for incoming account 0002789f4f984c6787a5898016eb4375 - IP 66.22.135.74
+[2024.09.07-06.16.25:858][878]IP for incoming account 000267e4f0d84f05825d01a3fbc3287d - IP 107.11.184.93
+[2024.09.07-06.16.27:228][918]2024.09.07_06.16.27: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.09.07-06.16.30:558][ 16]IP for incoming account 00025b17669048f4808e60a3d7c63d51 - IP 187.191.38.4
+[2024.09.07-06.16.35:608][164]IP for incoming account 00022c98ee0d4e1f9ec59e9b6faea772 - IP 73.183.86.150
+[2024.09.07-06.16.37:664][197]2024.09.07_06.16.37: xRALOWx [UniqueNetId:00025b17669048f4808e60a3d7c63d51 Platform:None] joined this ARK!
+[2024.09.07-06.16.37:720][197]2024.09.07_06.16.37: Elisia [UniqueNetId:000267e4f0d84f05825d01a3fbc3287d Platform:None] joined this ARK!
+[2024.09.07-06.16.38:663][204]IP for incoming account 00025e39b17641eb96741673cbd35b96 - IP 72.110.95.232
+[2024.09.07-06.16.39:561][217]IP for incoming account 0002d5e6571a4462b3b4dd1db313b4b3 - IP 187.189.15.244
+[2024.09.07-06.16.45:344][301]2024.09.07_06.16.45: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] joined this ARK!
+[2024.09.07-06.16.45:718][307]IP for incoming account 00021acbaf094a78ab15ec9c1732d4d0 - IP 193.43.135.184
+[2024.09.07-06.16.45:807][309]IP for incoming account 0002412dd61a46de887572b31ef37825 - IP 177.245.222.214
+[2024.09.07-06.16.46:160][316]IP for incoming account 0002d900478044c38e207a71981c97c4 - IP 172.56.201.191
+[2024.09.07-06.16.48:250][364]2024.09.07_06.16.48: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] joined this ARK!
+[2024.09.07-06.16.49:641][374]2024.09.07_06.16.49: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] joined this ARK!
+[2024.09.07-06.16.52:325][402]2024.09.07_06.16.52: BIGFOOT [UniqueNetId:00021acbaf094a78ab15ec9c1732d4d0 Platform:None] joined this ARK!
+[2024.09.07-06.16.53:512][403]2024.09.07_06.16.53: DiggityDankDabz [UniqueNetId:0002d900478044c38e207a71981c97c4 Platform:None] joined this ARK!
+[2024.09.07-06.16.55:038][406]2024.09.07_06.16.55: RF GHOST A [UniqueNetId:0002412dd61a46de887572b31ef37825 Platform:None] joined this ARK!
+[2024.09.07-06.16.58:200][420]IP for incoming account 0002bc7bc2b4490db0a135e20fcc5970 - IP 187.150.208.196
+[2024.09.07-06.17.04:055][448]2024.09.07_06.17.04: SkT R1ck [UniqueNetId:0002bc7bc2b4490db0a135e20fcc5970 Platform:None] joined this ARK!
+[2024.09.07-06.17.23:959][627]2024.09.07_06.17.23: Tribe Shwat Team, ID 1482354014: Day 30, 12:27:04: <RichColor Color="0, 1, 0, 1">Rick Scott Tamed an Anglerfish - Lvl 300 (Anglerfish)!</>)
+[2024.09.07-06.17.23:965][627]2024.09.07_06.17.23: Rick Scott of Tribe Shwat Team Tamed an Anglerfish - Lvl 300 (Anglerfish)!
+[2024.09.07-06.17.23:978][627]2024.09.07_06.17.23: Tribe Shwat Team, ID 1482354014: Day 30, 12:27:04: Rick Scott froze Anglerfish - Lvl 300 (Anglerfish))
+[2024.09.07-06.17.23:988][627]Frozen by ID: 0002b1971bca45939cfb7acd896bb5ee
+[2024.09.07-06.17.31:460][700]2024.09.07_06.17.31: Tribe Tribe of Aluchi, ID 1766908534: Day 30, 12:30:08: <RichColor Color="1, 0, 0, 1">Tribemember Aluchi - Lvl 1 was killed by a Basilisk - Lvl 125!</>)
+[2024.09.07-06.17.31:466][700]2024.09.07_06.17.31: Aluchi - Lvl 1 (Tribe of Aluchi) was killed by a Basilisk - Lvl 125 ()!
+[2024.09.07-06.18.07:751][ 11]IP for incoming account 000260140a234056a472cd3211b5f672 - IP 92.108.182.149
+[2024.09.07-06.18.10:325][ 26]2024.09.07_06.18.10: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] left this ARK!
+[2024.09.07-06.18.13:494][ 48]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-06.18.13:783][ 50]2024.09.07_06.18.13: ileg3nd1602 [UniqueNetId:000260140a234056a472cd3211b5f672 Platform:None] joined this ARK!
+[2024.09.07-06.18.18:112][ 70]2024.09.07_06.18.18: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-06.18.48:884][275]IP for incoming account 00022c98ee0d4e1f9ec59e9b6faea772 - IP 73.183.86.150
+[2024.09.07-06.18.52:474][300]2024.09.07_06.18.52: Tribe Shwat Team, ID 1482354014: Day 30, 13:01:52: RehDragon froze Ravager - Lvl 286 (Ravager))
+[2024.09.07-06.18.52:479][300]Frozen by ID: 0002a0b12ff54d80a45035c18750b660
+[2024.09.07-06.18.58:410][343]2024.09.07_06.18.58: Unavailable name [UniqueNetId:00022c98ee0d4e1f9ec59e9b6faea772 Platform:None] joined this ARK!
+[2024.09.07-06.19.14:790][432]2024.09.07_06.19.14: Saving world...
+[2024.09.07-06.19.14:801][432]2024.09.07_06.19.14: World Save Complete. Took: 1.085814
+[2024.09.07-06.19.23:122][489]IP for incoming account 00021fc1b0504c7f91273e3fef1ef8e6 - IP 68.131.58.204
+[2024.09.07-06.19.29:438][529]2024.09.07_06.19.29: DEAD JOKER1X [UniqueNetId:00021fc1b0504c7f91273e3fef1ef8e6 Platform:None] joined this ARK!
+[2024.09.07-06.20.08:658][790]2024.09.07_06.20.08: Tribe Shwat Team, ID 1482354014: Day 30, 13:31:38: Rick Scott froze Queen Alice - Lvl 289 (Ravager))
+[2024.09.07-06.20.08:664][790]Frozen by ID: 0002b1971bca45939cfb7acd896bb5ee
+[2024.09.07-06.20.18:101][861]IP for incoming account 0002acf37cd14844ba16e8bac3628aa8 - IP 24.181.235.32
+[2024.09.07-06.20.22:705][893]2024.09.07_06.20.22: MrPenguin2212 [UniqueNetId:0002acf37cd14844ba16e8bac3628aa8 Platform:None] joined this ARK!
+[2024.09.07-06.20.56:083][104]2024.09.07_06.20.56: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] left this ARK!
+[2024.09.07-06.21.09:448][191]2024.09.07_06.21.09: Adolescent Ravager - Lvl 223 (Ravager) () was killed!
+[2024.09.07-06.21.20:297][261]IP for incoming account 0002d5e6571a4462b3b4dd1db313b4b3 - IP 187.189.15.244
+[2024.09.07-06.21.26:095][297]2024.09.07_06.21.26: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] joined this ARK!
+[2024.09.07-06.21.29:493][315]2024.09.07_06.21.29: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 14:03:41: <RichColor Color="0, 1, 0, 1">Nancy Tamed a Ravager - Lvl 200 (Ravager)!</>)
+[2024.09.07-06.21.29:498][315]2024.09.07_06.21.29: Nancy of Tribe Tribe of CHAMUKO 1 Tamed a Ravager - Lvl 200 (Ravager)!
+[2024.09.07-06.21.29:510][315]2024.09.07_06.21.29: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 14:03:41: Nancy froze Ravager - Lvl 200 (Ravager))
+[2024.09.07-06.21.29:520][315]Frozen by ID: 0002412dd61a46de887572b31ef37825
+[2024.09.07-06.21.51:319][448]2024.09.07_06.21.51: Tribe Tribe of Aluchi, ID 1766908534: Day 30, 14:12:18: <RichColor Color="1, 0, 0, 1">Tribemember Aluchi - Lvl 6 was killed by a Basilisk - Lvl 110!</>)
+[2024.09.07-06.21.51:324][448]2024.09.07_06.21.51: Aluchi - Lvl 6 (Tribe of Aluchi) was killed by a Basilisk - Lvl 110 ()!
+[2024.09.07-06.22.19:158][627]2024.09.07_06.22.19: RF GHOST A (Nancy): Adm
+[2024.09.07-06.22.29:579][697]2024.09.07_06.22.29: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 14:27:22: <RichColor Color="0, 1, 1, 1">Tribe of Aluchi tribe was merged in by Aluchi!</>)
+[2024.09.07-06.22.29:605][697]2024.09.07_06.22.29: Tribe Tribe of Aluchi, ID 1766908534: Day 30, 14:27:22: <RichColor Color="1, 1, 0, 1">Aluchi was removed from the Tribe!</>)
+[2024.09.07-06.22.29:614][697]2024.09.07_06.22.29: Player Aluchi with ID 194763982 removed from tribe Tribe of Aluchi with ID 1766908534.
+[2024.09.07-06.22.29:668][697]2024.09.07_06.22.29: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 14:27:22: <RichColor Color="0, 1, 1, 1">Aluchi was added to the Tribe by CHAMUKO 1!</>)
+[2024.09.07-06.22.29:669][697]2024.09.07_06.22.29: Player Aluchi with ID 194763982 joined tribe Tribe of CHAMUKO 1 with ID 1317458638 Invited by Player CHAMUKO 1 with ID 302217862.
+[2024.09.07-06.23.21:355][ 39]2024.09.07_06.23.21: Tribe Tribe of Mango, ID 1773629605: Day 30, 14:48:06: <RichColor Color="1, 0, 0, 1">Tribemember Banana - Lvl 105 was killed by Mango - Lvl 105-371148490 (Tribe of Mango)!</>)
+[2024.09.07-06.23.21:362][ 39]2024.09.07_06.23.21: Tribe Tribe of Mango, ID 1773629605: Day 30, 14:48:06: <RichColor Color="1, 0, 1, 1">Your Tribe killed Banana - Lvl 105 (Tribe of Mango)!</>)
+[2024.09.07-06.23.21:372][ 39]2024.09.07_06.23.21: Banana - Lvl 105 (Tribe of Mango) was killed by Mango - Lvl 105 (Tribe of Mango)! [KillerSID: 371148490]
+[2024.09.07-06.23.29:163][ 91]2024.09.07_06.23.29: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 14:51:14: <RichColor Color="1, 0, 0, 1">Tribemember Karely - Lvl 68 was killed by Nancy - Lvl 78-668867350 (Tribe of CHAMUKO 1)!</>)
+[2024.09.07-06.23.29:169][ 91]2024.09.07_06.23.29: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 14:51:14: <RichColor Color="1, 0, 1, 1">Your Tribe killed Karely - Lvl 68 (Tribe of CHAMUKO 1)!</>)
+[2024.09.07-06.23.29:180][ 91]2024.09.07_06.23.29: Karely - Lvl 68 (Tribe of CHAMUKO 1) was killed by Nancy - Lvl 78 (Tribe of CHAMUKO 1)! [KillerSID: 668867350]
+[2024.09.07-06.24.14:888][407]2024.09.07_06.24.14: Saving world...
+[2024.09.07-06.24.14:898][407]2024.09.07_06.24.14: World Save Complete. Took: 1.174328
+[2024.09.07-06.24.25:676][474]2024.09.07_06.24.25: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 15:13:14: <RichColor Color="0, 1, 0, 1">CHAMUKO 1 Tamed a Ravager - Lvl 200 (Ravager)!</>)
+[2024.09.07-06.24.25:680][474]2024.09.07_06.24.25: CHAMUKO 1 of Tribe Tribe of CHAMUKO 1 Tamed a Ravager - Lvl 200 (Ravager)!
+[2024.09.07-06.24.25:692][474]2024.09.07_06.24.25: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 15:13:14: CHAMUKO 1 froze Ravager - Lvl 200 (Ravager))
+[2024.09.07-06.24.25:702][474]Frozen by ID: 00025b17669048f4808e60a3d7c63d51
+[2024.09.07-06.24.38:298][565]2024.09.07_06.24.38: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 15:18:20: CHAMUKO 1 froze Aberrant Raptor - Lvl 157 (Aberrant Raptor))
+[2024.09.07-06.24.38:304][565]Frozen by ID: 00025b17669048f4808e60a3d7c63d51
+[2024.09.07-06.25.51:548][ 60]2024.09.07_06.25.51: Tribe Shwat Team, ID 1482354014: Day 30, 15:47:35: <RichColor Color="0, 1, 0, 1">Shwat Tamed a Featherlight - Lvl 250 (Featherlight)!</>)
+[2024.09.07-06.25.51:551][ 60]2024.09.07_06.25.51: Shwat of Tribe Shwat Team Tamed a Featherlight - Lvl 250 (Featherlight)!
+[2024.09.07-06.25.51:564][ 60]2024.09.07_06.25.51: Tribe Shwat Team, ID 1482354014: Day 30, 15:47:35: Shwat froze Featherlight - Lvl 250 (Featherlight))
+[2024.09.07-06.25.51:573][ 60]Frozen by ID: 0002789f4f984c6787a5898016eb4375
+[2024.09.07-06.25.52:941][ 69]FNetGUIDCache::PeriodicCleanAndCompact:   4.85ms total time [  3.89ms CleanReferences() and   0.95ms compacting]; ObjectLookup.Num()=21287 [5307 removed]; NetGUIDLookup.Num()=18894 [7656 removed]
+[2024.09.07-06.25.54:509][ 80]IP for incoming account 0002ec73b52f489f93da82373175f67c - IP 96.19.167.229
+[2024.09.07-06.26.04:504][154]2024.09.07_06.26.04: Helpless [UniqueNetId:0002ec73b52f489f93da82373175f67c Platform:None] joined this ARK!
+[2024.09.07-06.26.18:448][247]2024.09.07_06.26.18: DEAD JOKER1X (Lucifer): I see you adding stuff to shop haha
+[2024.09.07-06.26.29:700][321]2024.09.07_06.26.29: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-06.26.50:740][466]2024.09.07_06.26.50: Tribe Tribe of Mango, ID 1773629605: Day 30, 16:11:16: <RichColor Color="0, 1, 0, 1">Diggs Tamed a Ravager - Lvl 200 (Ravager)!</>)
+[2024.09.07-06.26.50:746][466]2024.09.07_06.26.50: Diggs of Tribe Tribe of Mango Tamed a Ravager - Lvl 200 (Ravager)!
+[2024.09.07-06.26.50:759][466]2024.09.07_06.26.50: Tribe Tribe of Mango, ID 1773629605: Day 30, 16:11:16: Diggs froze Ravager - Lvl 200 (Ravager))
+[2024.09.07-06.26.50:768][466]Frozen by ID: 0002d900478044c38e207a71981c97c4
+[2024.09.07-06.26.56:234][506]2024.09.07_06.26.56: RF GHOST A (Nancy): Dc?
+[2024.09.07-06.27.36:414][811]2024.09.07_06.27.36: Tribe Shwat Team, ID 1482354014: Day 30, 16:29:31: <RichColor Color="0, 1, 0, 1">RehDragon Tamed a Featherlight - Lvl 250 (Featherlight)!</>)
+[2024.09.07-06.27.36:426][811]2024.09.07_06.27.36: RehDragon of Tribe Shwat Team Tamed a Featherlight - Lvl 250 (Featherlight)!
+[2024.09.07-06.27.36:438][811]2024.09.07_06.27.36: Tribe Shwat Team, ID 1482354014: Day 30, 16:29:31: RehDragon froze Featherlight - Lvl 250 (Featherlight))
+[2024.09.07-06.27.36:448][811]Frozen by ID: 0002a0b12ff54d80a45035c18750b660
+[2024.09.07-06.27.53:005][924]Garbage Collection Triggered!
+[2024.09.07-06.28.24:030][128]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-06.28.28:756][164]2024.09.07_06.28.28: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-06.28.54:309][338]2024.09.07_06.28.54: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] left this ARK!
+[2024.09.07-06.29.07:711][439]2024.09.07_06.29.07: MartyrD0nk3y (Shwat): We are going to add a few little things in there to help out
+[2024.09.07-06.29.09:467][453]2024.09.07_06.29.09: Helpless [UniqueNetId:0002ec73b52f489f93da82373175f67c Platform:None] left this ARK!
+[2024.09.07-06.29.13:738][490]2024.09.07_06.29.13: Tribe HELLS ARMY, ID 1136584465: Day 30, 17:07:27: <RichColor Color="1, 0, 0, 1">Your 'Gas Collector (Locked) ' was destroyed!</>)
+[2024.09.07-06.29.13:744][490]2024.09.07_06.29.13: Tribe Tribe of Floki, ID 1680314491: Day 30, 17:07:27: <RichColor Color="1, 0.75, 0.3, 1">Floki - Lvl 76 destroyed their 'Gas Collector (Locked)  (HELLS ARMY)')!</>)
+[2024.09.07-06.29.14:997][491]2024.09.07_06.29.14: Saving world...
+[2024.09.07-06.29.15:015][491]2024.09.07_06.29.15: World Save Complete. Took: 1.200311
+[2024.09.07-06.29.32:814][651]IP for incoming account 00025e39b17641eb96741673cbd35b96 - IP 72.110.95.232
+[2024.09.07-06.29.35:487][675]2024.09.07_06.29.35: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 17:15:48: <RichColor Color="0, 1, 1, 1">Tribe of ChamucoManxX tribe was merged in by ChamucoManxX!</>)
+[2024.09.07-06.29.35:516][675]2024.09.07_06.29.35: Tribe Tribe of ChamucoManxX, ID 1811591628: Day 30, 17:15:48: <RichColor Color="1, 1, 0, 1">ChamucoManxX was removed from the Tribe!</>)
+[2024.09.07-06.29.35:526][675]2024.09.07_06.29.35: Player ChamucoManxX with ID 31719106 removed from tribe Tribe of ChamucoManxX with ID 1811591628.
+[2024.09.07-06.29.35:572][675]2024.09.07_06.29.35: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 17:15:48: <RichColor Color="0, 1, 1, 1">ChamucoManxX was added to the Tribe by CHAMUKO 1!</>)
+[2024.09.07-06.29.35:581][675]2024.09.07_06.29.35: Player ChamucoManxX with ID 31719106 joined tribe Tribe of CHAMUKO 1 with ID 1317458638 Invited by Player CHAMUKO 1 with ID 302217862.
+[2024.09.07-06.29.43:730][745]2024.09.07_06.29.43: PirateHunter420 [UniqueNetId:00025e39b17641eb96741673cbd35b96 Platform:None] joined this ARK!
+[2024.09.07-06.29.48:336][779]2024.09.07_06.29.48: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-06.30.12:555][968]2024.09.07_06.30.12: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 17:30:29: Nancy froze Ravager - Lvl 235 (Ravager))
+[2024.09.07-06.30.12:562][968]Frozen by ID: 0002412dd61a46de887572b31ef37825
+[2024.09.07-06.30.24:166][ 67]2024.09.07_06.30.24: xRALOWx [UniqueNetId:00025b17669048f4808e60a3d7c63d51 Platform:None] left this ARK!
+[2024.09.07-06.30.41:164][211]2024.09.07_06.30.41: RF GHOST A [UniqueNetId:0002412dd61a46de887572b31ef37825 Platform:None] left this ARK!
+[2024.09.07-06.30.42:311][221]2024.09.07_06.30.42: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] left this ARK!
+[2024.09.07-06.31.04:255][408]IP for incoming account 0002d5e6571a4462b3b4dd1db313b4b3 - IP 187.189.15.244
+[2024.09.07-06.31.09:386][454]2024.09.07_06.31.09: Tribe Tribe of CHAMUKO 1, ID 1317458638: Day 30, 17:53:13: <RichColor Color="1, 0, 0, 1">Tribemember ChamucoManxX - Lvl 50 was killed by a Basilisk - Lvl 150!</>)
+[2024.09.07-06.31.09:392][454]2024.09.07_06.31.09: ChamucoManxX - Lvl 50 (Tribe of CHAMUKO 1) was killed by a Basilisk - Lvl 150 ()!
+[2024.09.07-06.31.10:051][460]2024.09.07_06.31.10: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] joined this ARK!
+[2024.09.07-06.31.23:883][569]2024.09.07_06.31.23: SkT R1ck [UniqueNetId:0002bc7bc2b4490db0a135e20fcc5970 Platform:None] left this ARK!
+[2024.09.07-06.32.20:897][124]2024.09.07_06.32.20: Tribe Tribe of Mango, ID 1773629605: Day 30, 18:21:38: Diggs froze FFA)
+[2024.09.07-06.32.25:599][172]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-06.32.30:274][216]2024.09.07_06.32.30: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-06.32.52:702][394]2024.09.07_06.32.52: xXTORRESXx0396 [UniqueNetId:0002d5e6571a4462b3b4dd1db313b4b3 Platform:None] left this ARK!
+[2024.09.07-06.33.50:375][901]2024.09.07_06.33.50: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-06.34.15:385][147]2024.09.07_06.34.15: Saving world...
+[2024.09.07-06.34.15:400][147]2024.09.07_06.34.15: World Save Complete. Took: 1.503748
+[2024.09.07-06.34.20:993][212]2024.09.07_06.34.20: Tribe EWOKS, ID 1770976213: Day 30, 19:09:00: <RichColor Color="0, 1, 0, 1">MrStealUrGirl Tamed a Ravager - Lvl 200 (Ravager)!</>)
+[2024.09.07-06.34.20:994][212]2024.09.07_06.34.20: MrStealUrGirl of Tribe EWOKS Tamed a Ravager - Lvl 200 (Ravager)!
+[2024.09.07-06.34.21:007][212]2024.09.07_06.34.21: Tribe EWOKS, ID 1770976213: Day 30, 19:09:00: MrStealUrGirl froze Ravager - Lvl 200 (Ravager))
+[2024.09.07-06.34.21:017][212]Frozen by ID: 00025e39b17641eb96741673cbd35b96
+[2024.09.07-06.35.52:954][259]FNetGUIDCache::PeriodicCleanAndCompact:   5.90ms total time [  5.00ms CleanReferences() and   0.91ms compacting]; ObjectLookup.Num()=19689 [10030 removed]; NetGUIDLookup.Num()=18043 [8988 removed]
+[2024.09.07-06.37.01:200][ 31]2024.09.07_06.37.01: Tribe Tribe of Mango, ID 1773629605: Day 30, 20:13:07: <RichColor Color="0, 1, 0, 1">Banana Tamed an Aberrant Beelzebufo - Lvl 209 (Aberrant Beelzebufo)!</>)
+[2024.09.07-06.37.01:210][ 31]2024.09.07_06.37.01: Banana of Tribe Tribe of Mango Tamed an Aberrant Beelzebufo - Lvl 209 (Aberrant Beelzebufo)!
+[2024.09.07-06.37.02:637][ 48]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-06.37.07:242][104]2024.09.07_06.37.07: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-06.37.21:778][235]2024.09.07_06.37.21: Tribe Tribe of Mango, ID 1773629605: Day 30, 20:21:09: Banana froze Aberrant Beelzebufo)
+[2024.09.07-06.37.45:896][456]2024.09.07_06.37.45: Tribe Shwat Team, ID 1482354014: Day 30, 20:30:48: Rick Scott froze Queen Alice - Lvl 289 (Ravager))
+[2024.09.07-06.37.45:899][456]Frozen by ID: 0002b1971bca45939cfb7acd896bb5ee
+[2024.09.07-06.37.49:169][488]2024.09.07_06.37.49: Tribe Shwat Team, ID 1482354014: Day 30, 20:32:06: Shwat froze Queen Emma - Lvl 288 (Ravager))
+[2024.09.07-06.37.49:176][488]Frozen by ID: 0002789f4f984c6787a5898016eb4375
+[2024.09.07-06.38.26:786][864]2024.09.07_06.38.26: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-06.39.14:922][325]2024.09.07_06.39.14: Saving world...
+[2024.09.07-06.39.14:929][325]2024.09.07_06.39.14: World Save Complete. Took: 0.969328
+[2024.09.07-06.39.53:007][674]Garbage Collection Triggered!
+[2024.09.07-06.40.19:187][904]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-06.40.23:910][951]2024.09.07_06.40.23: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-06.41.43:465][588]2024.09.07_06.41.43: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-06.44.15:447][933]2024.09.07_06.44.15: Saving world...
+[2024.09.07-06.44.15:461][933]2024.09.07_06.44.15: World Save Complete. Took: 1.446045
+[2024.09.07-06.44.54:389][304]2024.09.07_06.44.54: Tribe Shwat Team, ID 1482354014: Day 30, 23:20:59: Rick Scott froze Queen Alice - Lvl 289 (Ravager))
+[2024.09.07-06.44.54:394][304]Frozen by ID: 0002b1971bca45939cfb7acd896bb5ee
+[2024.09.07-06.45.15:214][511]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-06.45.19:635][555]2024.09.07_06.45.19: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-06.45.53:088][803]FNetGUIDCache::PeriodicCleanAndCompact:   5.80ms total time [  4.95ms CleanReferences() and   0.85ms compacting]; ObjectLookup.Num()=22385 [6699 removed]; NetGUIDLookup.Num()=20503 [6852 removed]
+[2024.09.07-06.45.57:762][837]2024.09.07_06.45.57: Tribe HELLS ARMY, ID 1136584465: Day 30, 23:46:05: Lucifer froze Shinehorn)
+[2024.09.07-06.46.06:998][902]2024.09.07_06.46.06: Tribe HELLS ARMY, ID 1136584465: Day 30, 23:49:47: Lucifer froze Ravager)
+[2024.09.07-06.46.08:235][909]2024.09.07_06.46.08: Tribe HELLS ARMY, ID 1136584465: Day 30, 23:50:16: Lucifer froze Ravager)
+[2024.09.07-06.46.09:546][919]2024.09.07_06.46.09: Tribe HELLS ARMY, ID 1136584465: Day 30, 23:50:48: Lucifer froze Aberrant Doedicurus)
+[2024.09.07-06.46.10:328][924]2024.09.07_06.46.10: Tribe HELLS ARMY, ID 1136584465: Day 30, 23:51:05: Lucifer froze Ankylosaurus)
+[2024.09.07-06.46.20:336][998]2024.09.07_06.46.20: Tribe HELLS ARMY, ID 1136584465: Day 30, 23:55:05: Lucifer froze Bulbdog)
+[2024.09.07-06.46.24:599][ 34]2024.09.07_06.46.24: Tribe HELLS ARMY, ID 1136584465: Day 30, 23:56:49: Lucifer froze Aberrant Otter)
+[2024.09.07-06.46.39:277][162]2024.09.07_06.46.39: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-06.46.40:841][175]2024.09.07_06.46.40: MrPenguin2212 [UniqueNetId:0002acf37cd14844ba16e8bac3628aa8 Platform:None] left this ARK!
+[2024.09.07-06.47.24:136][575]2024.09.07_06.47.24: Tribe Shwat Team, ID 1482354014: Day 31, 00:20:39: Rick Scott froze Anglerfish - Lvl 317 (Anglerfish))
+[2024.09.07-06.47.24:144][575]Frozen by ID: 0002b1971bca45939cfb7acd896bb5ee
+[2024.09.07-06.47.44:954][786]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-06.47.49:556][834]2024.09.07_06.47.49: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-06.48.13:007][ 32]2024.09.07_06.48.13: Tribe  Tamed a Baby Aberrant Megalosaurus - Lvl 198 (Aberrant Megalosaurus)!
+[2024.09.07-06.48.17:401][ 70]2024.09.07_06.48.17: Tribe Tribe of Mango, ID 1773629605: Day 31, 00:41:46: <RichColor Color="1, 0, 1, 1">Mango claimed 'Baby Aberrant Megalosaurus - Lvl 198 (Aberrant Megalosaurus)'!</>)
+[2024.09.07-06.49.15:577][576]2024.09.07_06.49.15: Saving world...
+[2024.09.07-06.49.15:584][576]2024.09.07_06.49.15: World Save Complete. Took: 1.483097
+[2024.09.07-06.51.53:001][965]Garbage Collection Triggered!
+[2024.09.07-06.54.15:480][336]2024.09.07_06.54.15: Saving world...
+[2024.09.07-06.54.15:485][336]2024.09.07_06.54.15: World Save Complete. Took: 1.321908
+[2024.09.07-06.54.53:722][776]2024.09.07_06.54.53: DiggityDankDabz [UniqueNetId:0002d900478044c38e207a71981c97c4 Platform:None] left this ARK!
+[2024.09.07-06.55.29:537][110]IP for incoming account 0002d900478044c38e207a71981c97c4 - IP 172.56.201.191
+[2024.09.07-06.55.35:703][166]2024.09.07_06.55.35: DiggityDankDabz [UniqueNetId:0002d900478044c38e207a71981c97c4 Platform:None] joined this ARK!
+[2024.09.07-06.55.53:135][306]FNetGUIDCache::PeriodicCleanAndCompact:   6.67ms total time [  5.71ms CleanReferences() and   0.95ms compacting]; ObjectLookup.Num()=24321 [8420 removed]; NetGUIDLookup.Num()=21595 [9218 removed]
+[2024.09.07-06.56.12:700][462]2024.09.07_06.56.12: Tribe Shwat Team, ID 1482354014: Day 31, 03:50:09: Shwat froze Featherlight - Lvl 265 (Featherlight))
+[2024.09.07-06.56.12:708][462]Frozen by ID: 0002789f4f984c6787a5898016eb4375
+[2024.09.07-06.56.15:328][484]2024.09.07_06.56.15: Tribe  Tamed a Baby Aberrant Ovis - Lvl 61 (Aberrant Ovis)!
+[2024.09.07-06.58.12:018][545]2024.09.07_06.58.12: Tribe EWOKS, ID 1770976213: Day 31, 04:37:51: <RichColor Color="0, 1, 0, 1">Dnizzle Tamed a Spino - Lvl 250 (Spino)!</>)
+[2024.09.07-06.58.12:025][545]2024.09.07_06.58.12: Dnizzle of Tribe EWOKS Tamed a Spino - Lvl 250 (Spino)!
+[2024.09.07-06.58.12:038][545]2024.09.07_06.58.12: Tribe EWOKS, ID 1770976213: Day 31, 04:37:51: Dnizzle froze Spino - Lvl 250 (Spino))
+[2024.09.07-06.58.12:048][545]Frozen by ID: 0002cbd0213749399ead1aa66eccbae3
+[2024.09.07-06.58.16:122][578]2024.09.07_06.58.16: Tribe EWOKS, ID 1770976213: Day 31, 04:39:30: <RichColor Color="1, 0, 1, 1">MrStealUrGirl claimed 'Baby Aberrant Ovis - Lvl 61 (Aberrant Ovis)'!</>)
+[2024.09.07-06.58.24:653][654]2024.09.07_06.58.24: Tribe EWOKS, ID 1770976213: Day 31, 04:42:58: <RichColor Color="1, 0, 0, 1">Your Baby Aberrant Ovis - Lvl 61 (Aberrant Ovis) was killed!</>)
+[2024.09.07-06.58.24:662][654]2024.09.07_06.58.24: Baby Aberrant Ovis - Lvl 61 (Aberrant Ovis) (EWOKS) was killed!
+[2024.09.07-06.58.24:675][654]2024.09.07_06.58.24: Tribe EWOKS, ID 1770976213: Day 31, 04:42:58: Baby Aberrant Ovis - Lvl 61 (Aberrant Ovis) starved to death!)
+[2024.09.07-06.59.08:340][ 30]2024.09.07_06.59.08: Tribe EWOKS, ID 1770976213: Day 31, 05:00:21: <RichColor Color="0, 1, 0, 1">MrStealUrGirl Tamed a Ravager - Lvl 200 (Ravager)!</>)
+[2024.09.07-06.59.08:348][ 30]2024.09.07_06.59.08: MrStealUrGirl of Tribe EWOKS Tamed a Ravager - Lvl 200 (Ravager)!
+[2024.09.07-06.59.08:361][ 30]2024.09.07_06.59.08: Tribe EWOKS, ID 1770976213: Day 31, 05:00:21: Dnizzle froze Ravager - Lvl 200 (Ravager))
+[2024.09.07-06.59.08:370][ 30]Frozen by ID: 0002cbd0213749399ead1aa66eccbae3
+[2024.09.07-06.59.09:033][ 34]2024.09.07_06.59.09: Tribe EWOKS, ID 1770976213: Day 31, 05:00:39: <RichColor Color="0, 1, 0, 1">MrStealUrGirl Tamed a Ravager - Lvl 200 (Ravager)!</>)
+[2024.09.07-06.59.09:041][ 34]2024.09.07_06.59.09: MrStealUrGirl of Tribe EWOKS Tamed a Ravager - Lvl 200 (Ravager)!
+[2024.09.07-06.59.09:054][ 34]2024.09.07_06.59.09: Tribe EWOKS, ID 1770976213: Day 31, 05:00:39: Dnizzle froze Ravager - Lvl 200 (Ravager))
+[2024.09.07-06.59.09:063][ 34]Frozen by ID: 0002cbd0213749399ead1aa66eccbae3
+[2024.09.07-06.59.13:795][ 64]2024.09.07_06.59.13: Tribe EWOKS, ID 1770976213: Day 31, 05:02:34: <RichColor Color="0, 1, 0, 1">MrStealUrGirl Tamed a Ravager - Lvl 200 (Ravager)!</>)
+[2024.09.07-06.59.13:804][ 64]2024.09.07_06.59.13: MrStealUrGirl of Tribe EWOKS Tamed a Ravager - Lvl 200 (Ravager)!
+[2024.09.07-06.59.13:817][ 64]2024.09.07_06.59.13: Tribe EWOKS, ID 1770976213: Day 31, 05:02:34: Dnizzle froze Ravager - Lvl 200 (Ravager))
+[2024.09.07-06.59.13:827][ 64]Frozen by ID: 0002cbd0213749399ead1aa66eccbae3
+[2024.09.07-06.59.15:394][ 66]2024.09.07_06.59.15: Saving world...
+[2024.09.07-06.59.15:404][ 66]2024.09.07_06.59.15: World Save Complete. Took: 1.193307
+[2024.09.07-06.59.15:598][ 67]2024.09.07_06.59.15: Tribe EWOKS, ID 1770976213: Day 31, 05:02:47: <RichColor Color="0, 1, 0, 1">MrStealUrGirl Tamed a Ravager - Lvl 200 (Ravager)!</>)
+[2024.09.07-06.59.15:609][ 67]2024.09.07_06.59.15: MrStealUrGirl of Tribe EWOKS Tamed a Ravager - Lvl 200 (Ravager)!
+[2024.09.07-06.59.15:622][ 67]2024.09.07_06.59.15: Tribe EWOKS, ID 1770976213: Day 31, 05:02:47: Dnizzle froze Ravager - Lvl 200 (Ravager))
+[2024.09.07-06.59.15:631][ 67]Frozen by ID: 0002cbd0213749399ead1aa66eccbae3
+[2024.09.07-07.01.31:454][ 13]IP for incoming account 0002acf37cd14844ba16e8bac3628aa8 - IP 24.181.235.32
+[2024.09.07-07.01.36:260][ 51]2024.09.07_07.01.36: MrPenguin2212 [UniqueNetId:0002acf37cd14844ba16e8bac3628aa8 Platform:None] joined this ARK!
+[2024.09.07-07.01.53:151][176]2024.09.07_07.01.53: Tribe HELLS ARMY, ID 1136584465: Day 31, 06:05:49: <RichColor Color="0, 1, 0, 1">Lucifer Tamed a Baby Karkinos - Lvl 90 (Karkinos)!</>)
+[2024.09.07-07.01.53:158][176]2024.09.07_07.01.53: Lucifer of Tribe HELLS ARMY Tamed a Baby Karkinos - Lvl 90 (Karkinos)!
+[2024.09.07-07.01.53:571][179]2024.09.07_07.01.53: Tribe Tribe of Mango, ID 1773629605: Day 31, 06:05:59: <RichColor Color="1, 0, 0, 1">Tribemember Pineapple - Lvl 104 was killed!</>)
+[2024.09.07-07.01.53:576][179]2024.09.07_07.01.53: Pineapple - Lvl 104 (Tribe of Mango) was killed!
+[2024.09.07-07.02.50:453][648]2024.09.07_07.02.50: Tribe HELLS ARMY, ID 1136584465: Day 31, 06:28:31: <RichColor Color="0, 1, 0, 1">Lucifer Tamed a Baby Karkinos - Lvl 95 (Karkinos)!</>)
+[2024.09.07-07.02.50:459][648]2024.09.07_07.02.50: Lucifer of Tribe HELLS ARMY Tamed a Baby Karkinos - Lvl 95 (Karkinos)!
+[2024.09.07-07.03.53:099][177]Garbage Collection Triggered!
+[2024.09.07-07.04.15:655][337]2024.09.07_07.04.15: Saving world...
+[2024.09.07-07.04.15:662][337]2024.09.07_07.04.15: World Save Complete. Took: 1.424845
+[2024.09.07-07.04.19:165][368]2024.09.07_07.04.19: Tribe Shwat Team, ID 1482354014: Day 31, 07:02:27: <RichColor Color="1, 0, 0, 1">Your Flashlight - Lvl 266 (Featherlight) was killed by a Ravager - Lvl 95!</>)
+[2024.09.07-07.04.19:177][368]2024.09.07_07.04.19: Flashlight - Lvl 266 (Featherlight) (Shwat Team) was killed by a Ravager - Lvl 95 ()!
+[2024.09.07-07.05.53:171][274]FNetGUIDCache::PeriodicCleanAndCompact:   8.33ms total time [  7.17ms CleanReferences() and   1.16ms compacting]; ObjectLookup.Num()=27815 [15952 removed]; NetGUIDLookup.Num()=24048 [16272 removed]
+[2024.09.07-07.06.11:051][458]2024.09.07_07.06.11: Tribe Shwat Team, ID 1482354014: Day 31, 07:47:11: Rick Scott froze Queen Alice - Lvl 290 (Ravager))
+[2024.09.07-07.06.11:052][458]Frozen by ID: 0002b1971bca45939cfb7acd896bb5ee
+[2024.09.07-07.06.19:073][537]2024.09.07_07.06.19: Tribe Shwat Team, ID 1482354014: Day 31, 07:50:24: Shwat froze Queen Emma - Lvl 288 (Ravager))
+[2024.09.07-07.06.19:080][537]Frozen by ID: 0002789f4f984c6787a5898016eb4375
+[2024.09.07-07.06.19:763][544]2024.09.07_07.06.19: Tribe Tribe of Viejo sabroso, ID 1207642538: Day 31, 07:50:41: <RichColor Color="1, 0, 0, 1">Your Bulbdog - Lvl 164 (Bulbdog) was killed by a Ravager - Lvl 105!</>)
+[2024.09.07-07.06.19:773][544]2024.09.07_07.06.19: Bulbdog - Lvl 164 (Bulbdog) (Tribe of Viejo sabroso) was killed by a Ravager - Lvl 105 ()!
+[2024.09.07-07.06.37:177][707]2024.09.07_07.06.37: Tribe Shwat Team, ID 1482354014: Day 31, 07:57:38: RehDragon froze Ravager - Lvl 288 (Ravager))
+[2024.09.07-07.06.37:182][707]Frozen by ID: 0002a0b12ff54d80a45035c18750b660
+[2024.09.07-07.07.06:105][  0]2024.09.07_07.07.06: Tribe Shwat Team, ID 1482354014: Day 31, 08:09:11: <RichColor Color="0, 1, 0, 1">RehDragon Tamed an Anglerfish - Lvl 300 (Anglerfish)!</>)
+[2024.09.07-07.07.06:115][  0]2024.09.07_07.07.06: RehDragon of Tribe Shwat Team Tamed an Anglerfish - Lvl 300 (Anglerfish)!
+[2024.09.07-07.07.06:128][  0]2024.09.07_07.07.06: Tribe Shwat Team, ID 1482354014: Day 31, 08:09:11: RehDragon froze Anglerfish - Lvl 300 (Anglerfish))
+[2024.09.07-07.07.06:137][  0]Frozen by ID: 0002a0b12ff54d80a45035c18750b660
+[2024.09.07-07.09.15:599][387]2024.09.07_07.09.15: Saving world...
+[2024.09.07-07.09.15:605][387]2024.09.07_07.09.15: World Save Complete. Took: 1.323047
+[2024.09.07-07.11.16:454][646]2024.09.07_07.11.16: Tribe EWOKS, ID 1770976213: Day 31, 09:48:59: Dnizzle froze Spino - Lvl 260 (Spino))
+[2024.09.07-07.11.16:461][646]Frozen by ID: 0002cbd0213749399ead1aa66eccbae3
+[2024.09.07-07.11.51:138][ 17]2024.09.07_07.11.51: Tribe Tribe of Floki, ID 1680314491: Day 31, 10:02:50: <RichColor Color="0, 1, 0, 1">Floki Tamed a Ravager - Lvl 200 (Ravager)!</>)
+[2024.09.07-07.11.51:144][ 17]2024.09.07_07.11.51: Floki of Tribe Tribe of Floki Tamed a Ravager - Lvl 200 (Ravager)!
+[2024.09.07-07.11.51:156][ 17]2024.09.07_07.11.51: Tribe Tribe of Floki, ID 1680314491: Day 31, 10:02:50: Floki froze Ravager - Lvl 200 (Ravager))
+[2024.09.07-07.11.51:166][ 17]Frozen by ID: 000260140a234056a472cd3211b5f672
+[2024.09.07-07.12.39:898][540]IP for incoming account 0002b5ce6e0942ee8816c8fdbcb2f63d - IP 172.59.217.155
+[2024.09.07-07.12.46:195][608]2024.09.07_07.12.46: dicthemdowndan1 [UniqueNetId:0002b5ce6e0942ee8816c8fdbcb2f63d Platform:None] joined this ARK!
+[2024.09.07-07.12.46:586][612]2024.09.07_07.12.46: Tribe Tribe of Floki, ID 1680314491: Day 31, 10:25:02: <RichColor Color="0, 1, 0, 1">Floki Tamed a Ravager - Lvl 149 (Ravager)!</>)
+[2024.09.07-07.12.46:597][612]2024.09.07_07.12.46: Floki of Tribe Tribe of Floki Tamed a Ravager - Lvl 149 (Ravager)!
+[2024.09.07-07.13.21:721][  5]2024.09.07_07.13.21: Tribe Tribe of Aj, ID 1673826659: Day 31, 10:39:05: <RichColor Color="0, 1, 1, 1">Aj was added to the Tribe!</>)
+[2024.09.07-07.13.21:731][  5]2024.09.07_07.13.21: Player dicthemdowndan1 with ID 382126232 joined tribe Tribe of Aj with ID 1673826659.
+[2024.09.07-07.14.15:587][594]2024.09.07_07.14.15: Saving world...
+[2024.09.07-07.14.15:597][594]2024.09.07_07.14.15: World Save Complete. Took: 1.263207
+[2024.09.07-07.15.53:113][477]Garbage Collection Triggered!
+[2024.09.07-07.15.55:385][478]FNetGUIDCache::PeriodicCleanAndCompact:   6.88ms total time [  5.87ms CleanReferences() and   1.01ms compacting]; ObjectLookup.Num()=29103 [14693 removed]; NetGUIDLookup.Num()=26145 [13233 removed]
+[2024.09.07-07.16.14:181][677]2024.09.07_07.16.14: Tribe Tribe of Mango, ID 1773629605: Day 31, 11:46:59: Mango froze Aberrant Megalosaurus)
+[2024.09.07-07.19.11:917][321]2024.09.07_07.19.11: Tribe Tribe of Aj, ID 1673826659: Day 31, 12:58:04: <RichColor Color="1, 0, 0, 1">Tribemember Aj - Lvl 22 was killed!</>)
+[2024.09.07-07.19.11:928][321]2024.09.07_07.19.11: Aj - Lvl 22 (Tribe of Aj) was killed!
+[2024.09.07-07.19.15:568][346]2024.09.07_07.19.15: Saving world...
+[2024.09.07-07.19.15:583][346]2024.09.07_07.19.15: World Save Complete. Took: 1.196966
+[2024.09.07-07.19.32:430][495]2024.09.07_07.19.32: Tribe Shwat Team, ID 1482354014: Day 31, 13:05:46: <RichColor Color="0, 1, 0, 1">Shwat Tamed a Baby Karkinos - Lvl 50 (Karkinos)!</>)
+[2024.09.07-07.19.32:437][495]2024.09.07_07.19.32: Shwat of Tribe Shwat Team Tamed a Baby Karkinos - Lvl 50 (Karkinos)!
+[2024.09.07-07.21.11:439][271]2024.09.07_07.21.11: Tribe Shwat Team, ID 1482354014: Day 31, 13:45:23: Shwat froze Baby Karkinos - Lvl 50 (Karkinos))
+[2024.09.07-07.21.11:447][271]Frozen by ID: 0002789f4f984c6787a5898016eb4375
+[2024.09.07-07.22.56:917][239]2024.09.07_07.22.56: Tribe Tribe of Mango, ID 1773629605: Day 31, 14:27:34: Diggs froze Diggs)
+[2024.09.07-07.24.05:276][683]2024.09.07_07.24.05: Tribe Tribe of Floki, ID 1680314491: Day 31, 14:53:56: <RichColor Color="0, 1, 0, 1">Floki Tamed an Aberrant Megalosaurus - Lvl 209 (Aberrant Megalosaurus)!</>)
+[2024.09.07-07.24.05:282][683]2024.09.07_07.24.05: Floki of Tribe Tribe of Floki Tamed an Aberrant Megalosaurus - Lvl 209 (Aberrant Megalosaurus)!
+[2024.09.07-07.24.16:022][738]2024.09.07_07.24.16: Saving world...
+[2024.09.07-07.24.16:031][738]2024.09.07_07.24.16: World Save Complete. Took: 1.611484
+[2024.09.07-07.24.19:723][758]2024.09.07_07.24.19: Tribe Tribe of Floki, ID 1680314491: Day 31, 14:59:06: Floki froze Aberrant Megalosaurus - Lvl 209 (Aberrant Megalosaurus))
+[2024.09.07-07.24.19:732][758]Frozen by ID: 000260140a234056a472cd3211b5f672
+[2024.09.07-07.25.55:430][316]FNetGUIDCache::PeriodicCleanAndCompact:   7.77ms total time [  6.55ms CleanReferences() and   1.22ms compacting]; ObjectLookup.Num()=31330 [13274 removed]; NetGUIDLookup.Num()=28399 [12565 removed]
+[2024.09.07-07.27.53:203][ 10]Garbage Collection Triggered!
+[2024.09.07-07.28.08:072][ 70]2024.09.07_07.28.08: Tribe Tribe of Aj, ID 1673826659: Day 31, 16:28:48: <RichColor Color="1, 0, 0, 1">Tribemember Aj - Lvl 26 was killed!</>)
+[2024.09.07-07.28.08:077][ 70]2024.09.07_07.28.08: Aj - Lvl 26 (Tribe of Aj) was killed!
+[2024.09.07-07.28.16:996][122]2024.09.07_07.28.16: Tribe  Tamed a Baby Rock Drake - Lvl 165 (Rock Drake)!
+[2024.09.07-07.28.18:145][129]2024.09.07_07.28.18: Tribe Tribe of Mango, ID 1773629605: Day 31, 16:32:50: <RichColor Color="1, 0, 1, 1">Mango claimed 'Baby Rock Drake - Lvl 165 (Rock Drake)'!</>)
+[2024.09.07-07.29.15:576][482]2024.09.07_07.29.15: Saving world...
+[2024.09.07-07.29.15:587][482]2024.09.07_07.29.15: World Save Complete. Took: 1.140715
+[2024.09.07-07.29.51:938][713]2024.09.07_07.29.51: dicthemdowndan1 [UniqueNetId:0002b5ce6e0942ee8816c8fdbcb2f63d Platform:None] left this ARK!
+[2024.09.07-07.29.55:010][730]2024.09.07_07.29.55: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-07.29.55:469][733]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-07.30.00:146][765]2024.09.07_07.30.00: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-07.31.44:437][405]2024.09.07_07.31.44: Tribe Tribe of Mango, ID 1773629605: Day 31, 17:54:15: <RichColor Color="0, 1, 0, 1">Banana Tamed an Aberrant Stegosaurus - Lvl 224 (Aberrant Stegosaurus)!</>)
+[2024.09.07-07.31.44:439][405]2024.09.07_07.31.44: Banana of Tribe Tribe of Mango Tamed an Aberrant Stegosaurus - Lvl 224 (Aberrant Stegosaurus)!
+[2024.09.07-07.31.51:644][448]2024.09.07_07.31.51: PirateHunter420 (MrStealUrGirl): sup drake guy
+[2024.09.07-07.32.09:565][569]2024.09.07_07.32.09: DEAD JOKER1X (Lucifer): Hi
+[2024.09.07-07.32.11:100][580]2024.09.07_07.32.11: Tribe Tribe of Mango, ID 1773629605: Day 31, 18:04:52: Banana froze Aberrant Stegosaurus)
+[2024.09.07-07.32.23:000][650]2024.09.07_07.32.23: PirateHunter420 (MrStealUrGirl): just getting red gems
+[2024.09.07-07.32.36:291][727]2024.09.07_07.32.36: DEAD JOKER1X (Lucifer): That take rad dmg
+[2024.09.07-07.32.45:640][782]2024.09.07_07.32.45: PirateHunter420 (MrStealUrGirl): no
+[2024.09.07-07.32.55:659][852]2024.09.07_07.32.55: DEAD JOKER1X (Lucifer): The zep does
+[2024.09.07-07.33.07:280][929]2024.09.07_07.33.07: MrPenguin2212 (Azaria): Sadly
+[2024.09.07-07.33.09:895][942]2024.09.07_07.33.09: Tribe Tribe of Mango, ID 1773629605: Day 31, 18:27:37: Pineapple froze [P] Amara)
+[2024.09.07-07.33.20:434][ 14]2024.09.07_07.33.20: PirateHunter420 (MrStealUrGirl): does it i thought not
+[2024.09.07-07.33.39:176][126]2024.09.07_07.33.39: DEAD JOKER1X (Lucifer): It gets broke  fast af
+[2024.09.07-07.33.48:860][189]2024.09.07_07.33.48: PirateHunter420 (MrStealUrGirl): rip
+[2024.09.07-07.34.16:187][374]2024.09.07_07.34.16: Saving world...
+[2024.09.07-07.34.16:202][374]2024.09.07_07.34.16: World Save Complete. Took: 1.550671
+[2024.09.07-07.34.20:245][400]2024.09.07_07.34.20: PirateHunter420 (MrStealUrGirl): was gonna try and get drake eggs later lmao
+[2024.09.07-07.34.33:210][467]2024.09.07_07.34.33: Tribe Tribe of Aj, ID 1673826659: Day 31, 19:00:22: <RichColor Color="1, 0, 0, 1">Tribemember Aj - Lvl 26 was killed by Diggs - Lvl 105-538993423 (Tribe of Mango)!</>)
+[2024.09.07-07.34.33:219][467]2024.09.07_07.34.33: Tribe Tribe of Mango, ID 1773629605: Day 31, 19:00:22: <RichColor Color="1, 0, 1, 1">Your Tribe killed Aj - Lvl 26 (Tribe of Aj)!</>)
+[2024.09.07-07.34.33:229][467]2024.09.07_07.34.33: Aj - Lvl 26 (Tribe of Aj) was killed by Diggs - Lvl 105 (Tribe of Mango)! [KillerSID: 538993423]
+[2024.09.07-07.34.55:293][601]2024.09.07_07.34.55: DEAD JOKER1X (Lucifer): Thats what we tried, it blew up like 25% the way down
+[2024.09.07-07.35.55:547][985]FNetGUIDCache::PeriodicCleanAndCompact:  10.84ms total time [  8.61ms CleanReferences() and   2.23ms compacting]; ObjectLookup.Num()=32068 [16793 removed]; NetGUIDLookup.Num()=28277 [16615 removed]
+[2024.09.07-07.36.15:182][120]2024.09.07_07.36.15: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] left this ARK!
+[2024.09.07-07.37.47:938][721]2024.09.07_07.37.47: PirateHunter420 (MrStealUrGirl): lmao dam
+[2024.09.07-07.38.13:442][893]2024.09.07_07.38.13: DEAD JOKER1X (Lucifer): Anyone solo or duo built up already?
+[2024.09.07-07.39.15:997][352]2024.09.07_07.39.15: Saving world...
+[2024.09.07-07.39.16:007][352]2024.09.07_07.39.16: World Save Complete. Took: 1.294713
+[2024.09.07-07.39.20:484][388]2024.09.07_07.39.20: Tribe EWOKS, ID 1770976213: Day 31, 20:54:05: MrStealUrGirl froze Bulbdog - Lvl 228 (Bulbdog))
+[2024.09.07-07.39.20:489][388]Frozen by ID: 00025e39b17641eb96741673cbd35b96
+[2024.09.07-07.39.53:530][667]Garbage Collection Triggered!
+[2024.09.07-07.40.00:216][674]IP for incoming account 0002cbd0213749399ead1aa66eccbae3 - IP 73.151.90.201
+[2024.09.07-07.40.04:842][711]2024.09.07_07.40.04: Dom4203444 [UniqueNetId:0002cbd0213749399ead1aa66eccbae3 Platform:None] joined this ARK!
+[2024.09.07-07.41.32:403][415]2024.09.07_07.41.32: PirateHunter420 (MrStealUrGirl): duo here getting started
+[2024.09.07-07.42.28:576][831]2024.09.07_07.42.28: DEAD JOKER1X (Lucifer): Nice, im duo atm but might recruit my buddy
+[2024.09.07-07.43.04:623][171]2024.09.07_07.43.04: PirateHunter420 (MrStealUrGirl): nice well thx for not blowing up my blimp lmao
+[2024.09.07-07.43.40:772][534]2024.09.07_07.43.40: DEAD JOKER1X (Lucifer): i thought about it but was like eh ill be nice
+[2024.09.07-07.44.16:085][913]2024.09.07_07.44.16: Saving world...
+[2024.09.07-07.44.16:098][913]2024.09.07_07.44.16: World Save Complete. Took: 1.319356
+[2024.09.07-07.45.24:382][542]2024.09.07_07.45.24: PirateHunter420 (MrStealUrGirl): i know i seen it in your eyes
+[2024.09.07-07.45.43:392][737]2024.09.07_07.45.43: DEAD JOKER1X (Lucifer): XD
+[2024.09.07-07.45.55:626][852]FNetGUIDCache::PeriodicCleanAndCompact:   8.26ms total time [  7.16ms CleanReferences() and   1.11ms compacting]; ObjectLookup.Num()=31306 [13669 removed]; NetGUIDLookup.Num()=28178 [11981 removed]
+[2024.09.07-07.46.38:179][209]2024.09.07_07.46.38: PirateHunter420 (MrStealUrGirl): so glide suit and grapples for the rock drakes?
+[2024.09.07-07.47.11:258][494]2024.09.07_07.47.11: DEAD JOKER1X (Lucifer): I think he disabled them, we have cosmos
+[2024.09.07-07.47.52:118][866]2024.09.07_07.47.52: Tribe Tribe of Mango, ID 1773629605: Day 32, 00:15:53: Pineapple froze Aberrant Anglerfish)
+[2024.09.07-07.49.16:054][645]2024.09.07_07.49.16: Saving world...
+[2024.09.07-07.49.16:062][645]2024.09.07_07.49.16: World Save Complete. Took: 1.163520
+[2024.09.07-07.50.17:904][213]2024.09.07_07.50.17: PirateHunter420 (MrStealUrGirl): Thats how your getting drake eggs? i can barely use mine
+[2024.09.07-07.50.27:930][300]2024.09.07_07.50.27: Tribe Shwat Team, ID 1482354014: Day 32, 01:17:54: RehDragon froze Anglerfish - Lvl 347 (Anglerfish))
+[2024.09.07-07.50.27:940][300]Frozen by ID: 0002a0b12ff54d80a45035c18750b660
+[2024.09.07-07.50.33:680][346]2024.09.07_07.50.33: DEAD JOKER1X (Lucifer): Yup
+[2024.09.07-07.50.36:233][368]2024.09.07_07.50.36: Tribe Shwat Team, ID 1482354014: Day 32, 01:21:14: Shwat froze Anglerfish - Lvl 356 (Anglerfish))
+[2024.09.07-07.50.36:241][368]Frozen by ID: 0002789f4f984c6787a5898016eb4375
+[2024.09.07-07.50.49:172][478]2024.09.07_07.50.49: Tribe HELLS ARMY, ID 1136584465: Day 32, 01:26:23: <RichColor Color="0, 1, 0, 1">Lucifer Tamed a Baby Karkinos - Lvl 100 (Karkinos)!</>)
+[2024.09.07-07.50.49:173][478]2024.09.07_07.50.49: Lucifer of Tribe HELLS ARMY Tamed a Baby Karkinos - Lvl 100 (Karkinos)!
+[2024.09.07-07.50.49:297][479]2024.09.07_07.50.49: Tribe Tribe of Mango, ID 1773629605: Day 32, 01:26:26: <RichColor Color="0, 1, 0, 1">Banana Tamed a Baby Aberrant Diplodocus - Lvl 140 (Aberrant Diplodocus)!</>)
+[2024.09.07-07.50.49:305][479]2024.09.07_07.50.49: Banana of Tribe Tribe of Mango Tamed a Baby Aberrant Diplodocus - Lvl 140 (Aberrant Diplodocus)!
+[2024.09.07-07.50.52:439][508]2024.09.07_07.50.52: Tribe HELLS ARMY, ID 1136584465: Day 32, 01:27:42: Lucifer froze Karkinos)
+[2024.09.07-07.50.57:111][549]2024.09.07_07.50.57: Tribe Shwat Team, ID 1482354014: Day 32, 01:29:35: Rick Scott froze Anglerfish - Lvl 347 (Anglerfish))
+[2024.09.07-07.50.57:113][549]Frozen by ID: 0002b1971bca45939cfb7acd896bb5ee
+[2024.09.07-07.50.59:647][572]2024.09.07_07.50.59: Tribe HELLS ARMY, ID 1136584465: Day 32, 01:30:35: <RichColor Color="0, 1, 0, 1">Lucifer Tamed a Juvenile Karkinos - Lvl 100 (Karkinos)!</>)
+[2024.09.07-07.50.59:652][572]2024.09.07_07.50.59: Lucifer of Tribe HELLS ARMY Tamed a Juvenile Karkinos - Lvl 100 (Karkinos)!
+[2024.09.07-07.51.01:294][587]2024.09.07_07.51.01: Tribe HELLS ARMY, ID 1136584465: Day 32, 01:31:14: Lucifer froze Karkinos)
+[2024.09.07-07.51.14:387][705]2024.09.07_07.51.14: Tribe Tribe of Mango, ID 1773629605: Day 32, 01:36:29: Banana froze Aberrant Diplodocus)
+[2024.09.07-07.51.18:044][735]2024.09.07_07.51.18: MartyrD0nk3y (Shwat): Nah grapples are not disabled
+[2024.09.07-07.51.34:339][871]2024.09.07_07.51.34: DEAD JOKER1X (Lucifer): Ah thought they were
+[2024.09.07-07.51.53:293][ 19]Garbage Collection Triggered!
+[2024.09.07-07.52.08:636][112]2024.09.07_07.52.08: Tribe HELLS ARMY, ID 1136584465: Day 32, 01:57:14: <RichColor Color="0, 1, 0, 1">Lucifer Tamed a Basilisk - Lvl 202 (Basilisk)!</>)
+[2024.09.07-07.52.08:641][112]2024.09.07_07.52.08: Lucifer of Tribe HELLS ARMY Tamed a Basilisk - Lvl 202 (Basilisk)!
+[2024.09.07-07.52.22:105][219]2024.09.07_07.52.22: Tribe HELLS ARMY, ID 1136584465: Day 32, 02:02:36: Lucifer froze Basilisk)
+[2024.09.07-07.54.01:378][975]2024.09.07_07.54.01: Tribe HELLS ARMY, ID 1136584465: Day 32, 02:42:20: <RichColor Color="0, 1, 0, 1">Lucifer Tamed a Basilisk - Lvl 157 (Basilisk)!</>)
+[2024.09.07-07.54.01:387][975]2024.09.07_07.54.01: Lucifer of Tribe HELLS ARMY Tamed a Basilisk - Lvl 157 (Basilisk)!
+[2024.09.07-07.54.13:719][ 66]2024.09.07_07.54.13: Tribe  Tamed a Baby Rock Drake - Lvl 160 (Rock Drake)!
+[2024.09.07-07.54.16:210][ 75]2024.09.07_07.54.16: Saving world...
+[2024.09.07-07.54.16:225][ 75]2024.09.07_07.54.16: World Save Complete. Took: 1.283473
+[2024.09.07-07.54.16:369][ 76]2024.09.07_07.54.16: Tribe HELLS ARMY, ID 1136584465: Day 32, 02:47:47: <RichColor Color="1, 0, 1, 1">Azaria claimed 'Baby Rock Drake - Lvl 160 (Rock Drake)'!</>)
+[2024.09.07-07.55.28:789][613]2024.09.07_07.55.28: Tribe HELLS ARMY, ID 1136584465: Day 32, 03:16:54: <RichColor Color="0, 1, 0, 1">Lucifer Tamed a Basilisk - Lvl 194 (Basilisk)!</>)
+[2024.09.07-07.55.28:796][613]2024.09.07_07.55.28: Lucifer of Tribe HELLS ARMY Tamed a Basilisk - Lvl 194 (Basilisk)!
+[2024.09.07-07.55.55:751][798]FNetGUIDCache::PeriodicCleanAndCompact:   8.67ms total time [  7.49ms CleanReferences() and   1.18ms compacting]; ObjectLookup.Num()=32874 [13687 removed]; NetGUIDLookup.Num()=29451 [13162 removed]
+[2024.09.07-07.56.08:854][886]2024.09.07_07.56.08: Tribe Tribe of Mango, ID 1773629605: Day 32, 03:32:55: <RichColor Color="0, 1, 0, 1">Diggs Tamed a Yi Ling - Lvl 179 (Yi Ling)!</>)
+[2024.09.07-07.56.08:856][886]2024.09.07_07.56.08: Diggs of Tribe Tribe of Mango Tamed a Yi Ling - Lvl 179 (Yi Ling)!
+[2024.09.07-07.56.23:487][985]2024.09.07_07.56.23: Tribe Tribe of Mango, ID 1773629605: Day 32, 03:38:45: Diggs froze Yi Ling)
+[2024.09.07-07.57.17:146][344]2024.09.07_07.57.17: Tribe HELLS ARMY, ID 1136584465: Day 32, 04:00:14: Lucifer froze Basilisk - Lvl 214 (Basilisk))
+[2024.09.07-07.57.17:153][344]Frozen by ID: 00021fc1b0504c7f91273e3fef1ef8e6
+[2024.09.07-07.57.25:776][403]2024.09.07_07.57.25: Tribe HELLS ARMY, ID 1136584465: Day 32, 04:03:41: Lucifer froze Basilisk - Lvl 157 (Basilisk))
+[2024.09.07-07.57.25:787][403]Frozen by ID: 00021fc1b0504c7f91273e3fef1ef8e6
+[2024.09.07-07.58.28:257][787]2024.09.07_07.58.28: PirateHunter420 (MrStealUrGirl): yea i still use mine
+[2024.09.07-07.59.16:013][114]2024.09.07_07.59.16: Saving world...
+[2024.09.07-07.59.16:030][114]2024.09.07_07.59.16: World Save Complete. Took: 1.079435
+[2024.09.07-08.00.22:102][608]2024.09.07_08.00.22: Tribe Tribe of Mango, ID 1773629605: Day 32, 05:13:53: <RichColor Color="0, 1, 0, 1">Pineapple Tamed a Baby Aberrant Diplodocus - Lvl 150 (Aberrant Diplodocus)!</>)
+[2024.09.07-08.00.22:108][608]2024.09.07_08.00.22: Pineapple of Tribe Tribe of Mango Tamed a Baby Aberrant Diplodocus - Lvl 150 (Aberrant Diplodocus)!
+[2024.09.07-08.00.28:085][660]2024.09.07_08.00.28: Tribe Tribe of Mango, ID 1773629605: Day 32, 05:16:17: Pineapple froze Aberrant Diplodocus)
+[2024.09.07-08.03.52:599][629]2024.09.07_08.03.52: Tribe Tribe of Mango, ID 1773629605: Day 32, 06:38:02: Pineapple froze [P] Amara)
+[2024.09.07-08.03.53:352][635]Garbage Collection Triggered!
+[2024.09.07-08.04.16:130][844]2024.09.07_08.04.16: Saving world...
+[2024.09.07-08.04.16:143][844]2024.09.07_08.04.16: World Save Complete. Took: 1.115872
+[2024.09.07-08.05.55:817][955]FNetGUIDCache::PeriodicCleanAndCompact:   8.94ms total time [  7.82ms CleanReferences() and   1.12ms compacting]; ObjectLookup.Num()=30782 [18313 removed]; NetGUIDLookup.Num()=27932 [16926 removed]
+[2024.09.07-08.07.16:176][878]2024.09.07_08.07.16: Tribe Tribe of Mango, ID 1773629605: Day 32, 07:57:59: <RichColor Color="0, 1, 0, 1">Banana Tamed an Aberrant Stegosaurus - Lvl 198 (Aberrant Stegosaurus)!</>)
+[2024.09.07-08.07.16:187][878]2024.09.07_08.07.16: Banana of Tribe Tribe of Mango Tamed an Aberrant Stegosaurus - Lvl 198 (Aberrant Stegosaurus)!
+[2024.09.07-08.07.27:499][  8]2024.09.07_08.07.27: Tribe Tribe of Mango, ID 1773629605: Day 32, 08:02:30: Banana froze Aberrant Stegosaurus)
+[2024.09.07-08.07.30:775][ 44]2024.09.07_08.07.30: Tribe Tribe of Mango, ID 1773629605: Day 32, 08:03:49: <RichColor Color="0, 1, 0, 1">Banana Tamed a Juvenile Aberrant Stegosaurus - Lvl 135 (Aberrant Stegosaurus)!</>)
+[2024.09.07-08.07.30:781][ 44]2024.09.07_08.07.30: Banana of Tribe Tribe of Mango Tamed a Juvenile Aberrant Stegosaurus - Lvl 135 (Aberrant Stegosaurus)!
+[2024.09.07-08.07.40:478][145]2024.09.07_08.07.40: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.07-08.07.54:568][293]2024.09.07_08.07.54: Tribe Tribe of Mango, ID 1773629605: Day 32, 08:13:19: Banana froze Aberrant Stegosaurus)
+[2024.09.07-08.08.00:357][354]2024.09.07_08.08.00: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.07-08.09.16:338][ 92]2024.09.07_08.09.16: Saving world...
+[2024.09.07-08.09.16:350][ 92]2024.09.07_08.09.16: World Save Complete. Took: 1.277282
+[2024.09.07-08.12.41:647][239]2024.09.07_08.12.41: MonkeyWhisper [UniqueNetId:0002b1971bca45939cfb7acd896bb5ee Platform:None] left this ARK!
+[2024.09.07-08.14.16:699][220]2024.09.07_08.14.16: Saving world...
+[2024.09.07-08.14.16:712][220]2024.09.07_08.14.16: World Save Complete. Took: 1.583864
+[2024.09.07-08.15.04:491][704]2024.09.07_08.15.04: Tribe  Tamed a Baby Aberrant Otter - Lvl 184 (Aberrant Otter)!
+[2024.09.07-08.15.53:412][144]Garbage Collection Triggered!
+[2024.09.07-08.15.55:942][146]FNetGUIDCache::PeriodicCleanAndCompact:   9.96ms total time [  7.57ms CleanReferences() and   2.39ms compacting]; ObjectLookup.Num()=31054 [12947 removed]; NetGUIDLookup.Num()=28938 [11746 removed]
+[2024.09.07-08.19.16:419][730]2024.09.07_08.19.16: Saving world...
+[2024.09.07-08.19.16:431][730]2024.09.07_08.19.16: World Save Complete. Took: 1.212744
+[2024.09.07-08.24.04:906][705]2024.09.07_08.24.04: Tribe Tribe of Mango, ID 1773629605: Day 32, 14:39:33: Mango froze Aberrant Megalosaurus)
+[2024.09.07-08.24.16:325][828]2024.09.07_08.24.16: Saving world...
+[2024.09.07-08.24.16:334][828]2024.09.07_08.24.16: World Save Complete. Took: 1.049216
+[2024.09.07-08.25.56:089][895]FNetGUIDCache::PeriodicCleanAndCompact:   9.26ms total time [  7.88ms CleanReferences() and   1.38ms compacting]; ObjectLookup.Num()=32799 [9839 removed]; NetGUIDLookup.Num()=29719 [10248 removed]
+[2024.09.07-08.27.26:583][ 28]2024.09.07_08.27.26: ileg3nd1602 [UniqueNetId:000260140a234056a472cd3211b5f672 Platform:None] left this ARK!
+[2024.09.07-08.27.53:463][373]Garbage Collection Triggered!
+[2024.09.07-08.28.23:571][696]IP for incoming account 000284bdc4c64c1cbf321e283514b577 - IP 81.102.180.126
+[2024.09.07-08.28.27:739][742]IP for incoming account 000260140a234056a472cd3211b5f672 - IP 92.108.182.149
+[2024.09.07-08.28.29:425][762]2024.09.07_08.28.29: PLA-Patty [UniqueNetId:000284bdc4c64c1cbf321e283514b577 Platform:None] joined this ARK!
+[2024.09.07-08.28.33:758][809]2024.09.07_08.28.33: ileg3nd1602 [UniqueNetId:000260140a234056a472cd3211b5f672 Platform:None] joined this ARK!
+[2024.09.07-08.28.47:441][935]2024.09.07_08.28.47: Tribe Tribe of Mango, ID 1773629605: Day 32, 16:31:26: <RichColor Color="0, 1, 0, 1">Banana Tamed an Aberrant Carbonemys - Lvl 224 (Aberrant Carbonemys)!</>)
+[2024.09.07-08.28.47:451][935]2024.09.07_08.28.47: Banana of Tribe Tribe of Mango Tamed an Aberrant Carbonemys - Lvl 224 (Aberrant Carbonemys)!
+[2024.09.07-08.28.57:753][ 59]2024.09.07_08.28.57: Tribe Tribe of Floki, ID 1680314491: Day 32, 16:35:32: <RichColor Color="1, 0, 0, 1">Tribemember Floki - Lvl 91 was killed!</>)
+[2024.09.07-08.28.57:754][ 59]2024.09.07_08.28.57: Floki - Lvl 91 (Tribe of Floki) was killed!
+[2024.09.07-08.29.08:152][185]2024.09.07_08.29.08: Tribe Tribe of Mango, ID 1773629605: Day 32, 16:39:42: Banana froze Aberrant Carbonemys)
+[2024.09.07-08.29.16:788][250]2024.09.07_08.29.16: Saving world...
+[2024.09.07-08.29.16:804][250]2024.09.07_08.29.16: World Save Complete. Took: 1.460100
+[2024.09.07-08.29.27:701][371]2024.09.07_08.29.27: Tribe Tribe of Human1, ID 1366803249: Day 32, 16:46:54: <RichColor Color="0, 1, 1, 1">Human was added to the Tribe!</>)
+[2024.09.07-08.29.27:706][371]2024.09.07_08.29.27: Player PLA-Patty with ID 989327816 joined tribe Tribe of Human1 with ID 1366803249.
+[2024.09.07-08.29.36:799][470]2024.09.07_08.29.36: Tribe Tribe of Mango, ID 1773629605: Day 32, 16:50:33: <RichColor Color="0, 1, 0, 1">Diggs Tamed an Aberrant Spino - Lvl 187 (Aberrant Spino)!</>)
+[2024.09.07-08.29.36:810][470]2024.09.07_08.29.36: Diggs of Tribe Tribe of Mango Tamed an Aberrant Spino - Lvl 187 (Aberrant Spino)!
+[2024.09.07-08.29.43:616][549]2024.09.07_08.29.43: Tribe Tribe of Mango, ID 1773629605: Day 32, 16:53:16: Pineapple froze Aberrant Anglerfish)
+[2024.09.07-08.29.50:968][635]2024.09.07_08.29.50: Tribe Tribe of Mango, ID 1773629605: Day 32, 16:56:12: Diggs froze Aberrant Spino)
+[2024.09.07-08.29.51:521][640]2024.09.07_08.29.51: Tribe HELLS ARMY, ID 1136584465: Day 32, 16:56:26: Azaria froze Juvenile Rock Drake - Lvl 160 (Rock Drake))
+[2024.09.07-08.29.51:523][640]Frozen by ID: 0002acf37cd14844ba16e8bac3628aa8
+[2024.09.07-08.30.04:589][798]2024.09.07_08.30.04: AdminCmd: SetAdminIcon false (PlayerName: RehDragon, ARKID: 858296109, SteamID: 0002a0b12ff54d80a45035c18750b660)
+[2024.09.07-08.30.12:982][901]2024.09.07_08.30.12: ileg3nd1602 [UniqueNetId:000260140a234056a472cd3211b5f672 Platform:None] left this ARK!
+[2024.09.07-08.30.14:667][922]2024.09.07_08.30.14: PLA-Patty [UniqueNetId:000284bdc4c64c1cbf321e283514b577 Platform:None] left this ARK!
+[2024.09.07-08.30.57:781][450]2024.09.07_08.30.57: Tribe Tribe of Mango, ID 1773629605: Day 32, 17:22:56: <RichColor Color="0, 1, 0, 1">Mango Tamed a Shinehorn - Lvl 217 (Shinehorn)!</>)
+[2024.09.07-08.30.57:784][450]2024.09.07_08.30.57: Mango of Tribe Tribe of Mango Tamed a Shinehorn - Lvl 217 (Shinehorn)!
+[2024.09.07-08.31.04:456][524]2024.09.07_08.31.04: Tribe Tribe of Mango, ID 1773629605: Day 32, 17:25:36: Mango froze Shinehorn)
+[2024.09.07-08.31.26:102][756]2024.09.07_08.31.26: Tribe Tribe of Mango, ID 1773629605: Day 32, 17:34:16: <RichColor Color="0, 1, 0, 1">Banana Tamed an Aberrant Stegosaurus - Lvl 194 (Aberrant Stegosaurus)!</>)
+[2024.09.07-08.31.26:112][756]2024.09.07_08.31.26: Banana of Tribe Tribe of Mango Tamed an Aberrant Stegosaurus - Lvl 194 (Aberrant Stegosaurus)!
+[2024.09.07-08.31.39:454][895]2024.09.07_08.31.39: Tribe Tribe of Mango, ID 1773629605: Day 32, 17:39:36: Banana froze Aberrant Stegosaurus)
+[2024.09.07-08.31.58:112][114]2024.09.07_08.31.58: Tribe Tribe of Mango, ID 1773629605: Day 32, 17:47:03: Diggs froze Yi Ling)
+[2024.09.07-08.34.16:453][749]2024.09.07_08.34.16: Saving world...
+[2024.09.07-08.34.16:469][749]2024.09.07_08.34.16: World Save Complete. Took: 1.100569
+[2024.09.07-08.34.30:302][894]2024.09.07_08.34.30: Adolescent Ravager - Lvl 223 (Ravager) () was killed!
+[2024.09.07-08.34.47:463][ 69]2024.09.07_08.34.47: Adolescent Ravager - Lvl 223 (Ravager) () was killed!
+[2024.09.07-08.34.53:198][122]2024.09.07_08.34.53: Tribe Tribe of Mango, ID 1773629605: Day 32, 18:56:48: Diggs froze Diggs)
+[2024.09.07-08.35.56:132][728]FNetGUIDCache::PeriodicCleanAndCompact:   8.32ms total time [  7.27ms CleanReferences() and   1.05ms compacting]; ObjectLookup.Num()=30508 [12755 removed]; NetGUIDLookup.Num()=28244 [11801 removed]
+[2024.09.07-08.38.03:276][945]2024.09.07_08.38.03: Tribe Tribe of Mango, ID 1773629605: Day 32, 20:12:50: Mango froze Aberrant Megalosaurus)
+[2024.09.07-08.39.16:217][664]2024.09.07_08.39.16: Saving world...
+[2024.09.07-08.39.16:231][664]2024.09.07_08.39.16: World Save Complete. Took: 0.859628
+[2024.09.07-08.39.53:129][ 88]2024.09.07_08.39.53: Tribe Tribe of Mango, ID 1773629605: Day 32, 20:56:37: <RichColor Color="1, 0, 0, 1">Tribemember Diggs - Lvl 105 was killed by an Aberrant Cnidaria!</>)
+[2024.09.07-08.39.53:130][ 88]2024.09.07_08.39.53: Diggs - Lvl 105 (Tribe of Mango) was killed by an Aberrant Cnidaria ()!
+[2024.09.07-08.39.53:502][ 91]Garbage Collection Triggered!
+[2024.09.07-08.42.59:351][137]2024.09.07_08.42.59: Tribe Tribe of Mango, ID 1773629605: Day 32, 22:10:07: <RichColor Color="1, 0, 0, 1">Your Bulbdog - Lvl 359 (Bulbdog) was killed by an Aberrant Electrophorus - Lvl 115!</>)
+[2024.09.07-08.42.59:352][137]2024.09.07_08.42.59: Bulbdog - Lvl 359 (Bulbdog) () was killed by an Aberrant Electrophorus - Lvl 115 ()!
+[2024.09.07-08.43.24:848][400]2024.09.07_08.43.24: BIGFOOT [UniqueNetId:00021acbaf094a78ab15ec9c1732d4d0 Platform:None] left this ARK!
+[2024.09.07-08.43.24:876][400]2024.09.07_08.43.24: Elisia [UniqueNetId:000267e4f0d84f05825d01a3fbc3287d Platform:None] left this ARK!
+[2024.09.07-08.44.16:651][118]2024.09.07_08.44.16: Saving world...
+[2024.09.07-08.44.16:662][118]2024.09.07_08.44.16: World Save Complete. Took: 1.255278
+[2024.09.07-08.44.29:148][278]2024.09.07_08.44.29: Tribe Tribe of Mango, ID 1773629605: Day 32, 22:44:56: Diggs froze Diggs)
+[2024.09.07-08.45.10:089][742]2024.09.07_08.45.10: Tribe Shwat Team, ID 1482354014: Day 32, 23:01:19: Shwat froze Juvenile Karkinos - Lvl 50 (Karkinos))
+[2024.09.07-08.45.10:099][742]Frozen by ID: 0002789f4f984c6787a5898016eb4375
+[2024.09.07-08.45.56:188][312]FNetGUIDCache::PeriodicCleanAndCompact:   7.85ms total time [  6.52ms CleanReferences() and   1.33ms compacting]; ObjectLookup.Num()=30031 [7859 removed]; NetGUIDLookup.Num()=27580 [7956 removed]
+[2024.09.07-08.46.16:806][645]2024.09.07_08.46.16: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] left this ARK!
+[2024.09.07-08.48.39:377][411]2024.09.07_08.48.39: Tribe Tribe of Mango, ID 1773629605: Day 33, 00:25:03: Diggs froze Diggs)
+[2024.09.07-08.49.02:396][822]IP for incoming account 000267e4f0d84f05825d01a3fbc3287d - IP 107.11.184.93
+[2024.09.07-08.49.15:081][ 42]2024.09.07_08.49.15: Elisia [UniqueNetId:000267e4f0d84f05825d01a3fbc3287d Platform:None] joined this ARK!
+[2024.09.07-08.49.16:409][ 46]2024.09.07_08.49.16: Saving world...
+[2024.09.07-08.49.16:421][ 46]2024.09.07_08.49.16: World Save Complete. Took: 0.942536
+[2024.09.07-08.49.27:576][213]IP for incoming account 00021acbaf094a78ab15ec9c1732d4d0 - IP 107.11.184.93
+[2024.09.07-08.49.28:503][229]IP for incoming account 00027c4976cc49ad86d4c6e0201068dd - IP 185.137.140.174
+[2024.09.07-08.49.36:705][376]2024.09.07_08.49.36: BIGFOOT [UniqueNetId:00021acbaf094a78ab15ec9c1732d4d0 Platform:None] joined this ARK!
+[2024.09.07-08.49.40:792][429]2024.09.07_08.49.40: sergionala2014 [UniqueNetId:00027c4976cc49ad86d4c6e0201068dd Platform:None] joined this ARK!
+[2024.09.07-08.51.15:751][534]2024.09.07_08.51.15: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.07-08.51.17:896][554]2024.09.07_08.51.17: Tribe  Tamed a Baby Ravager - Lvl 223 (Ravager)!
+[2024.09.07-08.51.53:517][910]Garbage Collection Triggered!
+[2024.09.07-08.54.17:035][215]2024.09.07_08.54.17: Saving world...
+[2024.09.07-08.54.17:052][215]2024.09.07_08.54.17: World Save Complete. Took: 1.495335
+[2024.09.07-08.55.04:591][625]2024.09.07_08.55.04: sergionala2014 [UniqueNetId:00027c4976cc49ad86d4c6e0201068dd Platform:None] left this ARK!
+[2024.09.07-08.55.56:272][125]FNetGUIDCache::PeriodicCleanAndCompact:   7.47ms total time [  6.29ms CleanReferences() and   1.18ms compacting]; ObjectLookup.Num()=30920 [5652 removed]; NetGUIDLookup.Num()=29227 [4769 removed]
+[2024.09.07-08.56.39:247][575]2024.09.07_08.56.39: Tribe  Tamed a Baby Aberrant Stegosaurus - Lvl 200 (Aberrant Stegosaurus)!
+[2024.09.07-08.56.42:649][604]2024.09.07_08.56.42: Tribe Tribe of Mango, ID 1773629605: Day 33, 03:36:42: <RichColor Color="1, 0, 1, 1">Banana claimed 'Baby Aberrant Stegosaurus - Lvl 200 (Aberrant Stegosaurus)'!</>)
+[2024.09.07-08.56.57:009][733]2024.09.07_08.56.57: Tribe Tribe of Mango, ID 1773629605: Day 33, 03:42:25: Diggs froze Diggs)
+[2024.09.07-08.56.57:586][738]2024.09.07_08.56.57: Tribe Tribe of Mango, ID 1773629605: Day 33, 03:42:41: Diggs froze Diggs)
+[2024.09.07-08.57.12:276][879]2024.09.07_08.57.12: Tribe  Tamed a Baby Aberrant Stegosaurus - Lvl 209 (Aberrant Stegosaurus)!
+[2024.09.07-08.57.12:292][879]2024.09.07_08.57.12: Tribe  Tamed a Baby Aberrant Stegosaurus - Lvl 209 (Aberrant Stegosaurus)!
+[2024.09.07-08.57.18:075][933]2024.09.07_08.57.18: Tribe Tribe of Mango, ID 1773629605: Day 33, 03:50:52: <RichColor Color="1, 0, 1, 1">Pineapple claimed 'Baby Aberrant Stegosaurus - Lvl 209 (Aberrant Stegosaurus)'!</>)
+[2024.09.07-08.57.20:681][955]2024.09.07_08.57.20: Tribe Tribe of Mango, ID 1773629605: Day 33, 03:51:55: <RichColor Color="1, 0, 1, 1">Banana claimed 'Baby Aberrant Stegosaurus - Lvl 209 (Aberrant Stegosaurus)'!</>)
+[2024.09.07-08.58.30:576][535]2024.09.07_08.58.30: Tribe Tribe of Mango, ID 1773629605: Day 33, 04:19:30: Banana froze 44hp)
+[2024.09.07-08.58.33:057][554]2024.09.07_08.58.33: Tribe HELLS ARMY, ID 1136584465: Day 33, 04:20:31: <RichColor Color="0, 1, 0, 1">Your Tribe Tamed an Aberrant Megalosaurus - Lvl 67 (Aberrant Megalosaurus)!</>)
+[2024.09.07-08.58.33:066][554]2024.09.07_08.58.33: Tribe HELLS ARMY Tamed an Aberrant Megalosaurus - Lvl 67 (Aberrant Megalosaurus)!
+[2024.09.07-08.59.17:111][908]2024.09.07_08.59.17: Saving world...
+[2024.09.07-08.59.17:124][908]2024.09.07_08.59.17: World Save Complete. Took: 1.505629
+[2024.09.07-08.59.34:865][ 49]2024.09.07_08.59.34: Tribe HELLS ARMY, ID 1136584465: Day 33, 04:44:46: <RichColor Color="0, 1, 0, 1">Azaria Tamed a Baby Aberrant Megalosaurus - Lvl 80 (Aberrant Megalosaurus)!</>)
+[2024.09.07-08.59.34:870][ 49]2024.09.07_08.59.34: Azaria of Tribe HELLS ARMY Tamed a Baby Aberrant Megalosaurus - Lvl 80 (Aberrant Megalosaurus)!
+[2024.09.07-08.59.45:214][131]2024.09.07_08.59.45: Tribe HELLS ARMY, ID 1136584465: Day 33, 04:48:56: <RichColor Color="1, 0, 0, 1">Your Baby Aberrant Megalosaurus - Lvl 80 (Aberrant Megalosaurus) was killed by Azaria - Lvl 105-523682463 (HELLS ARMY)!</>)
+[2024.09.07-08.59.45:311][131]2024.09.07_08.59.45: Tribe HELLS ARMY, ID 1136584465: Day 33, 04:48:56: <RichColor Color="1, 0, 1, 1">Your Tribe killed Baby Aberrant Megalosaurus - Lvl 80 (Aberrant Megalosaurus) (HELLS ARMY)!</>)
+[2024.09.07-08.59.45:380][131]2024.09.07_08.59.45: Baby Aberrant Megalosaurus - Lvl 80 (Aberrant Megalosaurus) (HELLS ARMY) was killed by Azaria - Lvl 105-523682463 (HELLS ARMY)! [KillerSID: 523682463]
+[2024.09.07-08.59.50:681][174]IP for incoming account 0002b4462cc84989ba2b343af3532eca - IP 109.137.213.6
+[2024.09.07-08.59.56:054][221]2024.09.07_08.59.56: killeur_741 [UniqueNetId:0002b4462cc84989ba2b343af3532eca Platform:None] joined this ARK!
+[2024.09.07-09.00.05:493][299]2024.09.07_09.00.05: Tribe Tribe of Human3, ID 1905703301: Day 33, 04:57:02: <RichColor Color="0, 1, 1, 1">Human was added to the Tribe!</>)
+[2024.09.07-09.00.05:507][299]2024.09.07_09.00.05: Player killeur_741 with ID 809937933 joined tribe Tribe of Human3 with ID 1905703301.
+[2024.09.07-09.00.09:504][333]2024.09.07_09.00.09: Tribe Tribe of Mango, ID 1773629605: Day 33, 04:58:38: Mango froze Aberrant Megalosaurus)
+[2024.09.07-09.03.53:890][430]Garbage Collection Triggered!
+[2024.09.07-09.04.16:425][611]2024.09.07_09.04.16: Saving world...
+[2024.09.07-09.04.16:558][611]2024.09.07_09.04.16: World Save Complete. Took: 0.915069
+[2024.09.07-09.05.56:354][580]FNetGUIDCache::PeriodicCleanAndCompact:   7.32ms total time [  6.32ms CleanReferences() and   1.00ms compacting]; ObjectLookup.Num()=30606 [7205 removed]; NetGUIDLookup.Num()=28377 [7359 removed]
+[2024.09.07-09.06.52:595][139]2024.09.07_09.06.52: Tribe Tribe of Mango, ID 1773629605: Day 33, 07:38:00: Diggs froze Diggs)
+[2024.09.07-09.07.23:630][453]2024.09.07_09.07.23: Tribe Tribe of Human3, ID 1905703301: Day 33, 07:50:25: <RichColor Color="0, 1, 0, 1">Human Tamed a Baby Aberrant Ovis - Lvl 135 (Aberrant Ovis)!</>)
+[2024.09.07-09.07.23:642][453]2024.09.07_09.07.23: Human of Tribe Tribe of Human3 Tamed a Baby Aberrant Ovis - Lvl 135 (Aberrant Ovis)!
+[2024.09.07-09.07.50:275][721]2024.09.07_09.07.50: Tribe  Tamed a Baby Aberrant Megalosaurus - Lvl 195 (Aberrant Megalosaurus)!
+[2024.09.07-09.07.52:316][744]2024.09.07_09.07.52: Tribe Tribe of Mango, ID 1773629605: Day 33, 08:01:54: <RichColor Color="1, 0, 1, 1">Banana claimed 'Baby Aberrant Megalosaurus - Lvl 195 (Aberrant Megalosaurus)'!</>)
+[2024.09.07-09.08.01:124][832]2024.09.07_09.08.01: Tribe HELLS ARMY, ID 1136584465: Day 33, 08:05:28: <RichColor Color="0, 1, 0, 1">Your Tribe Tamed an Aberrant Megalosaurus - Lvl 194 (Aberrant Megalosaurus)!</>)
+[2024.09.07-09.08.01:131][832]2024.09.07_09.08.01: Tribe HELLS ARMY Tamed an Aberrant Megalosaurus - Lvl 194 (Aberrant Megalosaurus)!
+[2024.09.07-09.09.07:630][511]2024.09.07_09.09.07: Tribe  Tamed a Baby Aberrant Stegosaurus - Lvl 185 (Aberrant Stegosaurus)!
+[2024.09.07-09.09.10:274][536]2024.09.07_09.09.10: Tribe Tribe of Mango, ID 1773629605: Day 33, 08:33:05: <RichColor Color="1, 0, 1, 1">Banana claimed 'Baby Aberrant Stegosaurus - Lvl 185 (Aberrant Stegosaurus)'!</>)
+[2024.09.07-09.09.17:237][586]2024.09.07_09.09.17: Saving world...
+[2024.09.07-09.09.17:248][586]2024.09.07_09.09.17: World Save Complete. Took: 1.516253
+[2024.09.07-09.09.29:583][718]2024.09.07_09.09.29: Tribe HELLS ARMY, ID 1136584465: Day 33, 08:40:22: Azaria froze Aberrant Megalosaurus)
+[2024.09.07-09.09.31:702][740]2024.09.07_09.09.31: Tribe HELLS ARMY, ID 1136584465: Day 33, 08:41:14: Azaria froze Aberrant Megalosaurus)
+[2024.09.07-09.10.36:566][465]2024.09.07_09.10.36: Tribe  Tamed a Baby Aberrant Stegosaurus - Lvl 219 (Aberrant Stegosaurus)!
+[2024.09.07-09.10.44:144][551]2024.09.07_09.10.44: Tribe Tribe of Mango, ID 1773629605: Day 33, 09:10:12: Banana froze Timmy 1)
+[2024.09.07-09.10.55:755][682]2024.09.07_09.10.55: Tribe HELLS ARMY, ID 1136584465: Day 33, 09:14:50: <RichColor Color="0, 1, 0, 1">Lucifer Tamed an Aberrant Arthropluera - Lvl 194 (Aberrant Arthropluera)!</>)
+[2024.09.07-09.10.55:765][682]2024.09.07_09.10.55: Lucifer of Tribe HELLS ARMY Tamed an Aberrant Arthropluera - Lvl 194 (Aberrant Arthropluera)!
+[2024.09.07-09.10.59:264][722]2024.09.07_09.10.59: Tribe HELLS ARMY, ID 1136584465: Day 33, 09:16:15: Lucifer froze Aberrant Arthropluera)
+[2024.09.07-09.11.42:156][231]2024.09.07_09.11.42: Tribe Tribe of Human3, ID 1905703301: Day 33, 09:33:24: <RichColor Color="0, 1, 0, 1">Human Tamed a Bulbdog - Lvl 194 (Bulbdog)!</>)
+[2024.09.07-09.11.42:172][231]2024.09.07_09.11.42: Human of Tribe Tribe of Human3 Tamed a Bulbdog - Lvl 194 (Bulbdog)!
+[2024.09.07-09.11.49:911][306]2024.09.07_09.11.49: Tribe Tribe of Mango, ID 1773629605: Day 33, 09:36:30: <RichColor Color="1, 0, 1, 1">Banana claimed 'Baby Aberrant Stegosaurus - Lvl 219 (Aberrant Stegosaurus)'!</>)
+[2024.09.07-09.11.58:191][375]2024.09.07_09.11.58: Tribe Tribe of Mango, ID 1773629605: Day 33, 09:39:48: Banana froze FFA)

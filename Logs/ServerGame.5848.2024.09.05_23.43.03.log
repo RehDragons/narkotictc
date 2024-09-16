@@ -1,0 +1,36 @@
+﻿[2024.09.05-23.43.03:823][ 10]Log file open, 09/06/24 01:43:03
+[2024.09.05-23.43.03:823][ 10]2024.09.05_23.43.03: [CCA_ASABot_C_2147476376] Loading INI Settings
+[2024.09.05-23.43.03:836][ 10]2024.09.05_23.43.03: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.09.05-23.44.44:843][ 15]2024.09.05_23.44.44: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.09.05-23.44.44:854][ 15]2024.09.05_23.44.44: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.05-23.44.44:866][ 15]2024.09.05_23.44.44: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.05-23.44.44:877][ 15]2024.09.05_23.44.44: [WBUI] [CCA] [Request] Sending request to: https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json
+[2024.09.05-23.44.49:689][ 16]2024.09.05_23.44.49: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.05-23.44.49:694][ 16]2024.09.05_23.44.49: [WBUI] [CCA]  Updated Settings
+[2024.09.05-23.45.37:891][912]2024.09.05_23.45.37: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.09.05-23.46.24:593][243]2024.09.05_23.46.24: Tribe Tribe of RehDragon, ID 1482354014: Day 1, 10:04:13: <RichColor Color="0, 1, 1, 1">RehDragon was added to the Tribe!</>)
+[2024.09.05-23.46.24:602][243]2024.09.05_23.46.24: Player RehDragon with ID 858296109 joined tribe Tribe of RehDragon with ID 1482354014.
+[2024.09.05-23.46.57:399][940]2024.09.05_23.46.57: Tribe Tribe of RehDragon, ID 1482354014: Day 1, 10:17:22: <RichColor Color="1, 0, 0, 1">Tribemember RehDragon - Lvl 1 was killed by an Aberrant Raptor - Lvl 55!</>)
+[2024.09.05-23.46.57:404][940]2024.09.05_23.46.57: RehDragon - Lvl 1 (Tribe of RehDragon) was killed by an Aberrant Raptor - Lvl 55 ()!
+[2024.09.05-23.47.19:442][576]2024.09.05_23.47.19: UnhipGlobe5090 [UniqueNetId:0002db584a8e4a3eb6e621fd8529d731 Platform:None] joined this ARK!
+[2024.09.05-23.48.04:180][897]2024.09.05_23.48.04: Saving world...
+[2024.09.05-23.48.04:193][897]2024.09.05_23.48.04: World Save Complete. Took: 0.425457
+[2024.09.05-23.48.15:771][242]2024.09.05_23.48.15: Tribe Tribe of Ghost, ID 1273419565: Day 1, 10:48:41: <RichColor Color="0, 1, 1, 1">Ghost was added to the Tribe!</>)
+[2024.09.05-23.48.15:776][242]2024.09.05_23.48.15: Player UnhipGlobe5090 with ID 989747719 joined tribe Tribe of Ghost with ID 1273419565.
+[2024.09.05-23.49.57:961][213]2024.09.05_23.49.57: UnhipGlobe5090 [UniqueNetId:0002db584a8e4a3eb6e621fd8529d731 Platform:None] left this ARK!
+[2024.09.05-23.51.03:147][156]2024.09.05_23.51.03: 123 [UniqueNetId:00025cb68bfb438c847ee869ae6dac0b Platform:None] joined this ARK!
+[2024.09.05-23.51.17:923][597]2024.09.05_23.51.17: Tribe Tribe of RehDragon, ID 1482354014: Day 1, 12:01:35: <RichColor Color="1, 0, 0, 1">Tribemember RehDragon - Lvl 1 was killed by a Basilisk - Lvl 125!</>)
+[2024.09.05-23.51.17:927][597]2024.09.05_23.51.17: RehDragon - Lvl 1 (Tribe of RehDragon) was killed by a Basilisk - Lvl 125 ()!
+[2024.09.05-23.51.48:622][519]2024.09.05_23.51.48: Tribe Tribe of Ball Jiggla, ID 1062238687: Day 1, 12:13:51: <RichColor Color="0, 1, 1, 1">Ball Jiggla was added to the Tribe!</>)
+[2024.09.05-23.51.48:626][519]2024.09.05_23.51.48: Player 123 with ID 511535714 joined tribe Tribe of Ball Jiggla with ID 1062238687.
+[2024.09.05-23.52.38:508][  3]2024.09.05_23.52.38: YUD-JI [UniqueNetId:0002d6c7739149e68d51158f9609cd31 Platform:None] joined this ARK!
+[2024.09.05-23.53.04:226][761]2024.09.05_23.53.04: Saving world...
+[2024.09.05-23.53.04:238][761]2024.09.05_23.53.04: World Save Complete. Took: 0.452866
+[2024.09.05-23.53.05:376][794]2024.09.05_23.53.05: Tribe Tribe of Onyx, ID 1533981680: Day 1, 12:44:33: <RichColor Color="0, 1, 1, 1">Onyx was added to the Tribe!</>)
+[2024.09.05-23.53.05:381][794]2024.09.05_23.53.05: Player YUD-JI with ID 213853690 joined tribe Tribe of Onyx with ID 1533981680.
+[2024.09.05-23.53.10:232][931]2024.09.05_23.53.10: PRO [UniqueNetId:0002e8f6b8204e1e95e53966a7471267 Platform:None] joined this ARK!
+[2024.09.05-23.53.38:806][770]2024.09.05_23.53.38: Tribe Tribe of PRO, ID 1639336538: Day 1, 12:57:55: <RichColor Color="0, 1, 1, 1">PRO was added to the Tribe!</>)
+[2024.09.05-23.53.38:810][770]2024.09.05_23.53.38: Player PRO with ID 783813671 joined tribe Tribe of PRO with ID 1639336538.
+[2024.09.05-23.55.15:634][520]2024.09.05_23.55.15: Tribe Tribe of PRO, ID 1639336538: Day 1, 13:36:40: <RichColor Color="1, 0, 0, 1">Tribemember PRO - Lvl 1 was killed by an Aberrant Raptor - Lvl 50!</>)
+[2024.09.05-23.55.15:635][520]2024.09.05_23.55.15: PRO - Lvl 1 (Tribe of PRO) was killed by an Aberrant Raptor - Lvl 50 ()!
+[2024.09.05-23.56.36:257][744]2024.09.05_23.56.36: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] left this ARK!

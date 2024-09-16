@@ -1,0 +1,2214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>C01C40E24D1AF1335F2CCFB806415B71</ExecutionGuid>
+<CrashGUID>UECC-Windows-CC0CDB534A8F4C3232B6718A0E687959_0000</CrashGUID>
+<IsEnsure>false</IsEnsure>
+<IsStall>false</IsStall>
+<IsAssert>false</IsAssert>
+<CrashType>Crash</CrashType>
+<ErrorMessage>Unhandled Exception: EXCEPTION_ACCESS_VIOLATION writing address 0x0000000000000028</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<ProcessId>11624</ProcessId>
+<SecondsSinceStart>3901</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE-ShooterGame</GameName>
+<ExecutableName>ArkAscendedServer</ExecutableName>
+<BuildConfiguration>Shipping</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<PlatformName>WindowsServer</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Server</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>5.2.0-0+UE5</EngineVersion>
+<CommandLine> TheCenter_WP?listen?Port=27022 -servergamelog -servergamelogincludetribelogs -ServerRCONOutputTribeLogs -Mods=928621,928708,928501,939055,929110,939228,933872,947733,929912,940022,936660,931903,967856,928793,937546,980463,929521,936882,929868,931119,950914 -ClusterDirOverride=C:\nARKoticCluster -clusterid=narkotic1 -automanagedmods</CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>en-US</AppDefaultLocale>
+<BuildVersion>UE5-CL-0</BuildVersion>
+<Symbols>UE5-CL-0-Win64-Shipping</Symbols>
+<IsUERelease>false</IsUERelease>
+<IsRequestingExit>false</IsRequestingExit>
+<UserName></UserName>
+<BaseDir>C:/nARKoticTC/ShooterGame/Binaries/Win64/</BaseDir>
+<RootDir>C:/nARKoticTC/</RootDir>
+<MachineId>3EF26AA14882556CF5E1B792570788C7</MachineId>
+<LoginId>3ef26aa14882556cf5e1b792570788c7</LoginId>
+<EpicAccountId></EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName>ShooterGameState</GameStateName>
+<Misc.NumberOfCores>28</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>56</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>Microsoft Remote Display Adapter</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows Server 2022 (21H2) [10.0.20348.524]</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>34259542016</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>91719032832</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>32</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>0</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>0</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>0</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>0</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>0</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>0</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+
+ArkAscendedServer  0x00007ff6170b0000 + 9b2814          
+ArkAscendedServer  0x00007ff6170b0000 + 32d1106         
+ArkAscendedServer  0x00007ff6170b0000 + 32d2633         
+ArkAscendedServer  0x00007ff6170b0000 + 2846e6c         
+ArkAscendedServer  0x00007ff6170b0000 + 25a4535         
+ArkAscendedServer  0x00007ff6170b0000 + 3360c89         
+ArkAscendedServer  0x00007ff6170b0000 + 3436387         
+ArkAscendedServer  0x00007ff6170b0000 + 343cee7         
+ArkAscendedServer  0x00007ff6170b0000 + 343d508         
+ArkAscendedServer  0x00007ff6170b0000 + 3432a86         
+ArkAscendedServer  0x00007ff6170b0000 + 3444a7b         
+ArkAscendedServer  0x00007ff6170b0000 + 343d508         
+ArkAscendedServer  0x00007ff6170b0000 + 343d465         
+ArkAscendedServer  0x00007ff6170b0000 + 3360c89         
+ArkAscendedServer  0x00007ff6170b0000 + 343d31d         
+ArkAscendedServer  0x00007ff6170b0000 + 4a3f962         
+ArkAscendedServer  0x00007ff6170b0000 + b284d5          
+ArkAscendedServer  0x00007ff6170b0000 + 199a7d5         
+ArkAscendedServer  0x00007ff6170b0000 + a123d3          
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</PCallStack>
+<PCallStackHash>7AC35511FC9D8D70FB5328F036EC10D0BBC79AD6</PCallStackHash>
+<Threads><Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 199a471         
+ArkAscendedServer  0x00007ff6170b0000 + 5324afb         
+ArkAscendedServer  0x00007ff6170b0000 + 316461e         
+ArkAscendedServer  0x00007ff6170b0000 + 3167ffd         
+ArkAscendedServer  0x00007ff6170b0000 + 5339bb2         
+ArkAscendedServer  0x00007ff6170b0000 + 533e9b4         
+ArkAscendedServer  0x00007ff6170b0000 + 4f507ed         
+ArkAscendedServer  0x00007ff6170b0000 + 4db9315         
+ArkAscendedServer  0x00007ff6170b0000 + 2aa2a0a         
+ArkAscendedServer  0x00007ff6170b0000 + 9b08a7          
+ArkAscendedServer  0x00007ff6170b0000 + 9b851c          
+ArkAscendedServer  0x00007ff6170b0000 + 9b859a          
+ArkAscendedServer  0x00007ff6170b0000 + 9b917c          
+ArkAscendedServer  0x00007ff6170b0000 + 9c0cc7          
+ArkAscendedServer  0x00007ff6170b0000 + 5f89a02         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11816</ThreadID>
+<ThreadName>GameThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7544</ThreadID>
+<ThreadName>Foreground Worker #0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14244</ThreadID>
+<ThreadName>Foreground Worker #1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10888</ThreadID>
+<ThreadName>Foreground Worker #2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3064</ThreadID>
+<ThreadName>Background Worker #3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8864</ThreadID>
+<ThreadName>Background Worker #4</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6508</ThreadID>
+<ThreadName>Background Worker #5</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17208</ThreadID>
+<ThreadName>Background Worker #6</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14108</ThreadID>
+<ThreadName>Background Worker #7</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1844</ThreadID>
+<ThreadName>Background Worker #8</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13524</ThreadID>
+<ThreadName>Background Worker #9</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17656</ThreadID>
+<ThreadName>Background Worker #10</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1972</ThreadID>
+<ThreadName>Background Worker #11</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13620</ThreadID>
+<ThreadName>Background Worker #12</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16692</ThreadID>
+<ThreadName>Background Worker #13</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8600</ThreadID>
+<ThreadName>Background Worker #14</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12548</ThreadID>
+<ThreadName>Background Worker #15</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13360</ThreadID>
+<ThreadName>Background Worker #16</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14600</ThreadID>
+<ThreadName>Background Worker #17</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16000</ThreadID>
+<ThreadName>Background Worker #18</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>15452</ThreadID>
+<ThreadName>Background Worker #19</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11680</ThreadID>
+<ThreadName>Background Worker #20</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>15600</ThreadID>
+<ThreadName>Background Worker #21</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5720</ThreadID>
+<ThreadName>Background Worker #22</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10752</ThreadID>
+<ThreadName>Background Worker #23</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13480</ThreadID>
+<ThreadName>Background Worker #24</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11188</ThreadID>
+<ThreadName>Background Worker #25</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16472</ThreadID>
+<ThreadName>Background Worker #26</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16356</ThreadID>
+<ThreadName>Background Worker #27</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7608</ThreadID>
+<ThreadName>Background Worker #28</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14848</ThreadID>
+<ThreadName>Background Worker #29</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16648</ThreadID>
+<ThreadName>Background Worker #30</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17796</ThreadID>
+<ThreadName>Background Worker #31</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10792</ThreadID>
+<ThreadName>Background Worker #32</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>916</ThreadID>
+<ThreadName>Background Worker #33</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14088</ThreadID>
+<ThreadName>Background Worker #34</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13788</ThreadID>
+<ThreadName>Background Worker #35</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13796</ThreadID>
+<ThreadName>Background Worker #36</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3932</ThreadID>
+<ThreadName>Background Worker #37</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12528</ThreadID>
+<ThreadName>Background Worker #38</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>15256</ThreadID>
+<ThreadName>Background Worker #39</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14420</ThreadID>
+<ThreadName>Background Worker #40</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18356</ThreadID>
+<ThreadName>Background Worker #41</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14936</ThreadID>
+<ThreadName>Background Worker #42</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12436</ThreadID>
+<ThreadName>Background Worker #43</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8992</ThreadID>
+<ThreadName>Background Worker #44</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16160</ThreadID>
+<ThreadName>Background Worker #45</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12452</ThreadID>
+<ThreadName>Background Worker #46</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3112</ThreadID>
+<ThreadName>Background Worker #47</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>2012</ThreadID>
+<ThreadName>Background Worker #48</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>692</ThreadID>
+<ThreadName>Background Worker #49</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14708</ThreadID>
+<ThreadName>Background Worker #50</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14424</ThreadID>
+<ThreadName>Background Worker #51</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8236</ThreadID>
+<ThreadName>Background Worker #52</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 3167bbd         
+ArkAscendedServer  0x00007ff6170b0000 + 3168925         
+ArkAscendedServer  0x00007ff6170b0000 + 3156c80         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11348</ThreadID>
+<ThreadName>Background Worker #53</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfcbe         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>15404</ThreadID>
+<ThreadName>BackgroundThreadPool #0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17644</ThreadID>
+<ThreadName>Reserve Worker #0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9660</ThreadID>
+<ThreadName>Reserve Worker #1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5212</ThreadID>
+<ThreadName>Reserve Worker #2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9676</ThreadID>
+<ThreadName>Reserve Worker #3</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>15392</ThreadID>
+<ThreadName>Reserve Worker #4</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10364</ThreadID>
+<ThreadName>Reserve Worker #5</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1528</ThreadID>
+<ThreadName>Reserve Worker #6</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12832</ThreadID>
+<ThreadName>Reserve Worker #7</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17556</ThreadID>
+<ThreadName>Reserve Worker #8</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13504</ThreadID>
+<ThreadName>Reserve Worker #9</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16644</ThreadID>
+<ThreadName>Reserve Worker #10</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13668</ThreadID>
+<ThreadName>Reserve Worker #11</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17196</ThreadID>
+<ThreadName>Reserve Worker #12</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17332</ThreadID>
+<ThreadName>Reserve Worker #13</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10756</ThreadID>
+<ThreadName>Reserve Worker #14</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12684</ThreadID>
+<ThreadName>Reserve Worker #15</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17468</ThreadID>
+<ThreadName>Reserve Worker #16</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6496</ThreadID>
+<ThreadName>Reserve Worker #17</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10732</ThreadID>
+<ThreadName>Reserve Worker #18</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17448</ThreadID>
+<ThreadName>Reserve Worker #19</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7612</ThreadID>
+<ThreadName>Reserve Worker #20</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14992</ThreadID>
+<ThreadName>Reserve Worker #21</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12116</ThreadID>
+<ThreadName>Reserve Worker #22</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14056</ThreadID>
+<ThreadName>Reserve Worker #23</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14472</ThreadID>
+<ThreadName>Reserve Worker #24</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16048</ThreadID>
+<ThreadName>Reserve Worker #25</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17388</ThreadID>
+<ThreadName>Reserve Worker #26</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8204</ThreadID>
+<ThreadName>Reserve Worker #27</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>5124</ThreadID>
+<ThreadName>Reserve Worker #28</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14956</ThreadID>
+<ThreadName>Reserve Worker #29</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7560</ThreadID>
+<ThreadName>Reserve Worker #30</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17520</ThreadID>
+<ThreadName>Reserve Worker #31</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17204</ThreadID>
+<ThreadName>Reserve Worker #32</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10828</ThreadID>
+<ThreadName>Reserve Worker #33</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10656</ThreadID>
+<ThreadName>Reserve Worker #34</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9148</ThreadID>
+<ThreadName>Reserve Worker #35</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17000</ThreadID>
+<ThreadName>Reserve Worker #36</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17980</ThreadID>
+<ThreadName>Reserve Worker #37</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7292</ThreadID>
+<ThreadName>Reserve Worker #38</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>15508</ThreadID>
+<ThreadName>Reserve Worker #39</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11272</ThreadID>
+<ThreadName>Reserve Worker #40</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13460</ThreadID>
+<ThreadName>Reserve Worker #41</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7012</ThreadID>
+<ThreadName>Reserve Worker #42</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13036</ThreadID>
+<ThreadName>Reserve Worker #43</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>15788</ThreadID>
+<ThreadName>Reserve Worker #44</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18140</ThreadID>
+<ThreadName>Reserve Worker #45</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16640</ThreadID>
+<ThreadName>Reserve Worker #46</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14204</ThreadID>
+<ThreadName>Reserve Worker #47</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13700</ThreadID>
+<ThreadName>Reserve Worker #48</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>14844</ThreadID>
+<ThreadName>Reserve Worker #49</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13984</ThreadID>
+<ThreadName>Reserve Worker #50</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6676</ThreadID>
+<ThreadName>Reserve Worker #51</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>7296</ThreadID>
+<ThreadName>Reserve Worker #52</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31554f3         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16916</ThreadID>
+<ThreadName>Reserve Worker #53</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9f574           
+ntdll              0x00007ffc64e30000 + 585ca           
+KERNELBASE         0x00007ffc62830000 + 56af1           
+ArkAscendedServer  0x00007ff6170b0000 + 4436271         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9492</ThreadID>
+<ThreadName>HttpManagerThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 326c10e         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfeb4         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16372</ThreadID>
+<ThreadName>OutputDeviceRedirector</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfcbe         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>15324</ThreadID>
+<ThreadName>IOThreadPool #0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfcbe         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>9692</ThreadID>
+<ThreadName>IOThreadPool #1</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 4908912         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16264</ThreadID>
+<ThreadName>IoService</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31f7d16         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>12308</ThreadID>
+<ThreadName>IoDispatcher</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9f574           
+ntdll              0x00007ffc64e30000 + 585ca           
+KERNELBASE         0x00007ffc62830000 + 56af1           
+ArkAscendedServer  0x00007ff6170b0000 + 326a170         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>1688</ThreadID>
+<ThreadName>FAsyncWriter_ShooterGame</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 336a1b1         
+ArkAscendedServer  0x00007ff6170b0000 + 336a17e         
+ArkAscendedServer  0x00007ff6170b0000 + 3351583         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17064</ThreadID>
+<ThreadName>FAsyncLoadingThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9f574           
+ntdll              0x00007ffc64e30000 + 585ca           
+KERNELBASE         0x00007ffc62830000 + 56af1           
+ArkAscendedServer  0x00007ff6170b0000 + 32c7caa         
+ArkAscendedServer  0x00007ff6170b0000 + 4db61e8         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>13828</ThreadID>
+<ThreadName>FHangThreadWatcher</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfcbe         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>15356</ThreadID>
+<ThreadName>cfcore_compression_threads #0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 31bfcbe         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8264</ThreadID>
+<ThreadName>cfcore_io_threads #0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + f24ba5          
+ArkAscendedServer  0x00007ff6170b0000 + a0989b          
+ArkAscendedServer  0x00007ff6170b0000 + 31bfcd8         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>18052</ThreadID>
+<ThreadName>cfcore_logger_thread #0</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + a124e6          
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>10524</ThreadID>
+<ThreadName>OnlineAsyncTaskThreadNull DefaultInstance(1)</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32c90ad         
+ArkAscendedServer  0x00007ff6170b0000 + 33d4752         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>3796</ThreadID>
+<ThreadName>FAsyncPurge</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9f574           
+ntdll              0x00007ffc64e30000 + 585ca           
+KERNELBASE         0x00007ffc62830000 + 56af1           
+ArkAscendedServer  0x00007ff6170b0000 + 32c7caa         
+ArkAscendedServer  0x00007ff6170b0000 + 27f2ef5         
+ArkAscendedServer  0x00007ff6170b0000 + 27f3269         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>6756</ThreadID>
+<ThreadName>FAtlasSaveManager</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9f574           
+ntdll              0x00007ffc64e30000 + 585ca           
+KERNELBASE         0x00007ffc62830000 + 56af1           
+ArkAscendedServer  0x00007ff6170b0000 + 326a170         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>16312</ThreadID>
+<ThreadName>FAsyncWriter_ServerGame.11624.2024.09.14_04.56.17</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9f574           
+ntdll              0x00007ffc64e30000 + 585ca           
+KERNELBASE         0x00007ffc62830000 + 56af1           
+ArkAscendedServer  0x00007ff6170b0000 + 55da026         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>17212</ThreadID>
+<ThreadName>LibwebsocketsThread</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9f574           
+ntdll              0x00007ffc64e30000 + 585ca           
+KERNELBASE         0x00007ffc62830000 + 56af1           
+ArkAscendedServer  0x00007ff6170b0000 + 326a170         
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>11224</ThreadID>
+<ThreadName>FAsyncWriter_FailedWaterDinoSpawns</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32b563c         
+ArkAscendedServer  0x00007ff6170b0000 + 60641b7         
+VCRUNTIME140       0x00007ffc50aa0000 + b900            
+ntdll              0x00007ffc64e30000 + a3e0f           
+ntdll              0x00007ffc64e30000 + 3222e           
+ntdll              0x00007ffc64e30000 + a2e1e           
+ArkAscendedServer  0x00007ff6170b0000 + 9feafe          
+ArkAscendedServer  0x00007ff6170b0000 + 32d117e         
+ArkAscendedServer  0x00007ff6170b0000 + 32d2633         
+ArkAscendedServer  0x00007ff6170b0000 + 2846e6c         
+ArkAscendedServer  0x00007ff6170b0000 + 25a4535         
+ArkAscendedServer  0x00007ff6170b0000 + 3360c89         
+ArkAscendedServer  0x00007ff6170b0000 + 3436387         
+ArkAscendedServer  0x00007ff6170b0000 + 343cee7         
+ArkAscendedServer  0x00007ff6170b0000 + 343d508         
+ArkAscendedServer  0x00007ff6170b0000 + 3432a86         
+ArkAscendedServer  0x00007ff6170b0000 + 3444a7b         
+ArkAscendedServer  0x00007ff6170b0000 + 343d508         
+ArkAscendedServer  0x00007ff6170b0000 + 343d465         
+ArkAscendedServer  0x00007ff6170b0000 + 3360c89         
+ArkAscendedServer  0x00007ff6170b0000 + 343d31d         
+ArkAscendedServer  0x00007ff6170b0000 + 4a3f962         
+ArkAscendedServer  0x00007ff6170b0000 + b284d5          
+ArkAscendedServer  0x00007ff6170b0000 + 199a7d5         
+ArkAscendedServer  0x00007ff6170b0000 + a123d3          
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>false</IsCrashed>
+<Registers></Registers>
+<ThreadID>8616</ThreadID>
+<ThreadName>TAsync 2</ThreadName>
+</Thread>
+<Thread><CallStack>ntdll              0x00007ffc64e30000 + 9ef74           
+KERNELBASE         0x00007ffc62830000 + 1e53e           
+ArkAscendedServer  0x00007ff6170b0000 + 32b563c         
+ArkAscendedServer  0x00007ff6170b0000 + 60641b7         
+VCRUNTIME140       0x00007ffc50aa0000 + b900            
+ntdll              0x00007ffc64e30000 + a3e0f           
+ntdll              0x00007ffc64e30000 + 3222e           
+ntdll              0x00007ffc64e30000 + a2e1e           
+ArkAscendedServer  0x00007ff6170b0000 + 9b2814          
+ArkAscendedServer  0x00007ff6170b0000 + 32d1106         
+ArkAscendedServer  0x00007ff6170b0000 + 32d2633         
+ArkAscendedServer  0x00007ff6170b0000 + 2846e6c         
+ArkAscendedServer  0x00007ff6170b0000 + 25a4535         
+ArkAscendedServer  0x00007ff6170b0000 + 3360c89         
+ArkAscendedServer  0x00007ff6170b0000 + 3436387         
+ArkAscendedServer  0x00007ff6170b0000 + 343cee7         
+ArkAscendedServer  0x00007ff6170b0000 + 343d508         
+ArkAscendedServer  0x00007ff6170b0000 + 3432a86         
+ArkAscendedServer  0x00007ff6170b0000 + 3444a7b         
+ArkAscendedServer  0x00007ff6170b0000 + 343d508         
+ArkAscendedServer  0x00007ff6170b0000 + 343d465         
+ArkAscendedServer  0x00007ff6170b0000 + 3360c89         
+ArkAscendedServer  0x00007ff6170b0000 + 343d31d         
+ArkAscendedServer  0x00007ff6170b0000 + 4a3f962         
+ArkAscendedServer  0x00007ff6170b0000 + b284d5          
+ArkAscendedServer  0x00007ff6170b0000 + 199a7d5         
+ArkAscendedServer  0x00007ff6170b0000 + a123d3          
+ArkAscendedServer  0x00007ff6170b0000 + 32c6e27         
+ArkAscendedServer  0x00007ff6170b0000 + 32c1261         
+KERNEL32           0x00007ffc63f90000 + 14ed0           
+ntdll              0x00007ffc64e30000 + 7e39b           
+</CallStack>
+<IsCrashed>true</IsCrashed>
+<Registers></Registers>
+<ThreadID>11664</ThreadID>
+<ThreadName>TAsync 3</ThreadName>
+</Thread>
+</Threads>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<IsRunningOnBattery>false</IsRunningOnBattery>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+<CrashTrigger>0</CrashTrigger>
+</PlatformProperties>
+<EngineData>
+<MatchingDPStatus>WindowsServerNo errors</MatchingDPStatus>
+<RHI.RHIName>NullRHI</RHI.RHIName>
+<DeviceProfile.Name>WindowsServer</DeviceProfile.Name>
+</EngineData>
+<GameData>
+<EnabledModIds>928621,928708,928501,939055,929110,939228,933872,947733,929912,940022,936660,931903,967856,928793,937546,980463,929521,936882,929868,931119,950914</EnabledModIds>
+</GameData>
+</FGenericCrashContext>

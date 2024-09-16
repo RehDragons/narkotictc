@@ -1,0 +1,563 @@
+﻿[2024.08.29-23.14.06:162][  0]Log file open, 08/30/24 01:14:06
+[2024.08.29-23.14.06:162][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2024.08.29-23.14.06:162][  0]LogMemory: Process Physical Memory: 225.79 MB used, 265.48 MB peak
+[2024.08.29-23.14.06:162][  0]LogMemory: Process Virtual Memory: 250.64 MB used, 250.64 MB peak
+[2024.08.29-23.14.06:162][  0]LogMemory: Physical Memory: 4394.24 MB used,  28278.21 MB free, 32672.45 MB total
+[2024.08.29-23.14.06:162][  0]LogMemory: Virtual Memory: 8755.44 MB used,  29037.00 MB free, 37792.45 MB total
+[2024.08.29-23.14.06:691][  0]11
+
+[2024.08.29-23.14.06:700][  0]ARK Version: 51.23
+[2024.08.29-23.14.06:970][  0]LogCFCore: SetSettings called:
+{
+	"defaultLanguage": "en",
+	"gameId": 83374,
+	"apiKey": "*****1aZe",
+	"maxConcurrentInstallations": 3,
+	"modsDirectory": "ShooterGame/Mods",
+	"modsDirectoryMode": "CFCore",
+	"userDataDirectory": "ShooterGame/ModsUserData",
+	"isServer": true,
+	"isServerPcOnly": false,
+	"throttling":
+	{
+		"diskWriteBytesPerSec": 0
+	},
+	"premiumMods":
+	{
+		"publicKeyPem": "*****"
+	},
+	"logger":
+	{
+		"enabled": true,
+		"history": 8,
+		"maxSizeInMB": 2
+	},
+	"dynamicContentCategoryIds": [ 6844 ]
+}
+[2024.08.29-23.14.06:970][  0]LogCFCore: InternalSettings called:
+{
+	"apiBaseUrl": "https://api.curseforge.com",
+	"chunkedUploadServerUrl": "https://chunk-uploads.curseforge.com",
+	"analyticsUrl": "https://analyticsnew.overwolf.com/analytics/Counter",
+	"userAgent": "cfcore.ue 1.0.99",
+	"platform": "windows",
+	"pluginVersion": "1.0.99",
+	"httpFileDownloadTimeoutSecs": 1200
+}
+[2024.08.29-23.14.07:018][  0]LogCFCore: User context not loaded from disk
+[2024.08.29-23.14.07:296][  8]LogCFCore: Query server result: 21 mods
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: EOS ID Helper (CrossPlay) (980463)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: maewings (929521)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: Pull It! (940022)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: Ammo Box Ascended (967856)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: PVP Scoreboard (931903)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: Solo Farm Mod (928501)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: CliffPlatforms (933872)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: Custom Dino Levels (928708)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: Utilities Plus (928621)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: QoL+ (939228)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: Dino+ (Nanny, Hatchey) (937546)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: Resonant's Shop Mod (936660)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: Super Spyglass Plus (929420)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: Admin Panel (929868)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: TG Stacking Mod 10000-90 (929110)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: Automated Dino Wipes (947733)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: ARKomatic (939055)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: WBUI2 (931119)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: Pelayori's Cryo Storage (Crossplay!) (928793)
+[2024.08.29-23.14.07:332][  9]LogCFCore: No need to update existing mod: ASA-Bot Companion (936882)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: EOS ID Helper (CrossPlay) (980463)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: maewings (929521)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: Pull It! (940022)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: Ammo Box Ascended (967856)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: PVP Scoreboard (931903)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: Solo Farm Mod (928501)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: CliffPlatforms (933872)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: Custom Dino Levels (928708)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: Utilities Plus (928621)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: QoL+ (939228)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: Dino+ (Nanny, Hatchey) (937546)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: Resonant's Shop Mod (936660)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: Super Spyglass Plus (929420)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: Admin Panel (929868)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: TG Stacking Mod 10000-90 (929110)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: Automated Dino Wipes (947733)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: ARKomatic (939055)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: WBUI2 (931119)
+[2024.08.29-23.14.07:332][  9]LogCFCore: Mod valid: Ez's Engram Unlocker (PC/Xbox/PS) (929912)
+[2024.08.29-23.14.07:333][  9]LogCFCore: Mod valid: Pelayori's Cryo Storage (Crossplay!) (928793)
+[2024.08.29-23.14.07:333][  9]LogCFCore: Mod valid: ASA-Bot Companion (936882)
+[2024.08.29-23.14.07:493][ 10]UShooterEngine::LoadGameMods with 21 mods
+[2024.08.29-23.14.07:493][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929420_5509935/SuperSpyglassPlus/Content/PrimalGameData_BP_SSP_Kav.uasset : 929420
+[2024.08.29-23.14.08:174][ 10]UShooterEngine::LoadGameMods Using mod asset Package /SuperSpyglassPlus/PrimalGameData_BP_SSP_Kav as PrimalGameDataOverride.
+[2024.08.29-23.14.08:174][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928621_4856794/UtilsPlus/Content/PrimalGameData_BP_UtilPlus.uasset : 928621
+[2024.08.29-23.14.08:193][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /UtilsPlus/PrimalGameData_BP_UtilPlus with PrimalGameDataOverride.
+[2024.08.29-23.14.08:193][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928708_4894074/LevelTestingMod/Content/PrimalGameData_BP_LevelTesting.uasset : 928708
+[2024.08.29-23.14.08:528][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /LevelTestingMod/PrimalGameData_BP_LevelTesting with PrimalGameDataOverride.
+[2024.08.29-23.14.08:528][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928501_5509903/SoloFarmMod/Content/PrimalGameData_BP_SoloFarmMod.uasset : 928501
+[2024.08.29-23.14.08:550][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /SoloFarmMod/PrimalGameData_BP_SoloFarmMod with PrimalGameDataOverride.
+[2024.08.29-23.14.08:551][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/939055_5639286/ARKomatic/Content/PrimalGameData_BP_ARKomatic.uasset : 939055
+[2024.08.29-23.14.08:567][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /ARKomatic/PrimalGameData_BP_ARKomatic with PrimalGameDataOverride.
+[2024.08.29-23.14.08:567][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929110_5569237/TG_Stack_10000_90/Content/PrimalGameData_TG_Stack_10000_90.uasset : 929110
+[2024.08.29-23.14.08:593][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /TG_Stack_10000_90/PrimalGameData_TG_Stack_10000_90 with PrimalGameDataOverride.
+[2024.08.29-23.14.08:594][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/939228_5078487/QoLPlus/Content/PrimalGameData_QoLPlus.uasset : 939228
+[2024.08.29-23.14.08:706][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /QoLPlus/PrimalGameData_QoLPlus with PrimalGameDataOverride.
+[2024.08.29-23.14.08:706][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/933872_5330183/CliffPlatforms/Content/PrimalGameData_BP_Cliffplatforms.uasset : 933872
+[2024.08.29-23.14.08:722][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /CliffPlatforms/PrimalGameData_BP_Cliffplatforms with PrimalGameDataOverride.
+[2024.08.29-23.14.08:722][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/947733_5521328/AutomatedDinoWipes/Content/PrimalGameData_BP_AutomatedDinoWipes.uasset : 947733
+[2024.08.29-23.14.08:754][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /AutomatedDinoWipes/PrimalGameData_BP_AutomatedDinoWipes with PrimalGameDataOverride.
+[2024.08.29-23.14.08:754][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929912_5669096/EzEngramUnlocker/Content/PrimalGameData_BP_EzEngramUnlocker.uasset : 929912
+[2024.08.29-23.14.08:784][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /EzEngramUnlocker/PrimalGameData_BP_EzEngramUnlocker with PrimalGameDataOverride.
+[2024.08.29-23.14.08:785][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/940022_5102443/PullIt/Content/PrimalGameData_BP_PullIt.uasset : 940022
+[2024.08.29-23.14.08:810][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /PullIt/PrimalGameData_BP_PullIt with PrimalGameDataOverride.
+[2024.08.29-23.14.08:810][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/936660_5568098/ShopMod/Content/PrimalGameData_BP_BlankMod.uasset : 936660
+[2024.08.29-23.14.10:870][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /ShopMod/PrimalGameData_BP_BlankMod with PrimalGameDataOverride.
+[2024.08.29-23.14.10:870][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/931903_5036004/PVPScoreboard/Content/PrimalGameData_BP_PVPScoreboard.uasset : 931903
+[2024.08.29-23.14.10:900][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /PVPScoreboard/PrimalGameData_BP_PVPScoreboard with PrimalGameDataOverride.
+[2024.08.29-23.14.10:900][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/967856_5238619/AmmoBoxAscended/Content/PrimalGameData_BP_AmmoBoxAscended.uasset : 967856
+[2024.08.29-23.14.10:921][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /AmmoBoxAscended/PrimalGameData_BP_AmmoBoxAscended with PrimalGameDataOverride.
+[2024.08.29-23.14.10:921][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/928793_5622484/Cryopods/Content/PrimalGameData_BP_Cryopods.uasset : 928793
+[2024.08.29-23.14.10:979][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /Cryopods/PrimalGameData_BP_Cryopods with PrimalGameDataOverride.
+[2024.08.29-23.14.10:979][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/937546_4928343/DPlusMod/Content/PrimalGameData_BP_DPlusMod.uasset : 937546
+[2024.08.29-23.14.10:995][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /DPlusMod/PrimalGameData_BP_DPlusMod with PrimalGameDataOverride.
+[2024.08.29-23.14.10:996][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/980463_5142852/EOSIDHelper/Content/PrimalGameData_BP_EOSIDHelper.uasset : 980463
+[2024.08.29-23.14.11:017][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /EOSIDHelper/PrimalGameData_BP_EOSIDHelper with PrimalGameDataOverride.
+[2024.08.29-23.14.11:017][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929521_5238433/maewings/Content/PrimalGameData_BP_Maewings.uasset : 929521
+[2024.08.29-23.14.11:035][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /maewings/PrimalGameData_BP_Maewings with PrimalGameDataOverride.
+[2024.08.29-23.14.11:035][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/936882_5662285/ASA-Bot-Companion/Content/PrimalGameData_BP_ASABot.uasset : 936882
+[2024.08.29-23.14.11:059][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /ASA-Bot-Companion/PrimalGameData_BP_ASABot with PrimalGameDataOverride.
+[2024.08.29-23.14.11:059][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/929868_5620117/AdminPanel/Content/PrimalGameData_BP_AdminPanel.uasset : 929868
+[2024.08.29-23.14.11:133][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /AdminPanel/PrimalGameData_BP_AdminPanel with PrimalGameDataOverride.
+[2024.08.29-23.14.11:133][ 10]UShooterEngine::LoadGameMods Loading Mod ShooterGame/Mods/83374/931119_5531437/WBUI2/Content/PrimalGameData_BP_WBUI.uasset : 931119
+[2024.08.29-23.14.11:161][ 10]UShooterEngine::LoadGameMods Merging mod asset Package /WBUI2/PrimalGameData_BP_WBUI with PrimalGameDataOverride.
+[2024.08.29-23.14.11:161][ 10]Initialize Primal Game Data Override.
+[2024.08.29-23.14.11:174][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_1
+[2024.08.29-23.14.11:174][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_2
+[2024.08.29-23.14.11:174][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_3
+[2024.08.29-23.14.11:174][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_4
+[2024.08.29-23.14.11:174][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_5
+[2024.08.29-23.14.11:174][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_6
+[2024.08.29-23.14.11:174][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_7
+[2024.08.29-23.14.11:178][ 10]Primal Game Data Took 0.00 seconds
+[2024.08.29-23.14.11:181][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_1
+[2024.08.29-23.14.11:182][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_2
+[2024.08.29-23.14.11:182][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_3
+[2024.08.29-23.14.11:182][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_4
+[2024.08.29-23.14.11:182][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_5
+[2024.08.29-23.14.11:182][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_6
+[2024.08.29-23.14.11:182][ 10]Added Explorer Note Entry: DEARJANE_EXP_NOTE_7
+[2024.08.29-23.14.11:640][ 10]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2024.08.29-23.14.11:646][ 10]BattlEye successfully started.
+[2024.08.29-23.14.55:924][ 10]2024.08.29_23.14.55: [CCA_ASABot_C_2147186023] Loading INI Settings
+[2024.08.29-23.14.55:938][ 10]2024.08.29_23.14.55: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.08.29-23.15.00:169][ 10][Pelayori's Cryo Storage] Server mod version: 54
+[2024.08.29-23.15.00:169][ 10]ADW_Version_v0.15
+[2024.08.29-23.15.00:169][ 10]ADW_Begin (UTC Time Now = 23:15)
+[2024.08.29-23.15.00:170][ 10]Admin Panel Active
+[2024.08.29-23.15.00:170][ 10]Admin Panel Version:55
+[2024.08.29-23.15.27:585][ 10]Server: "8/29 [NA](TI1) nARKotic 20x/4man/shop/kits/boosted" has successfully started!
+[2024.08.29-23.15.38:101][ 10]Commandline:  TheIsland_WP?listen?Port=27020 -servergamelog -servergamelogincludetribelogs -ServerRCONOutputTribeLogs -Mods=929420,928621,928708,928501,939055,929110,939228,933872,947733,929912,940022,936660,931903,967856,928793,937546,980463,929521,936882,929868,931119
+[2024.08.29-23.15.38:101][ 10]Full Startup: 92.41 seconds
+[2024.08.29-23.15.38:101][ 10]Number of cores 28
+[2024.08.29-23.15.44:681][ 27]2024.08.29_23.15.44: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.08.29-23.15.44:689][ 27]2024.08.29_23.15.44: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.08.29-23.15.44:701][ 27]2024.08.29_23.15.44: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.08.29-23.15.44:713][ 27]2024.08.29_23.15.44: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.08.29-23.15.44:723][ 27]2024.08.29_23.15.44: [WBUI] [CCA]  Updated Settings
+[2024.08.29-23.16.18:686][990]IP for incoming account 0002789f4f984c6787a5898016eb4375 - IP 66.22.145.81
+[2024.08.29-23.16.22:740][109]2024.08.29_23.16.22: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.08.29-23.16.43:493][717]IP for incoming account 0002a0b12ff54d80a45035c18750b660 - IP 75.162.78.13
+[2024.08.29-23.16.47:220][828]2024.08.29_23.16.47: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.08.29-23.19.12:168][152]2024.08.29_23.19.12: Saving world...
+[2024.08.29-23.19.12:179][152]2024.08.29_23.19.12: World Save Complete. Took: 0.571842
+[2024.08.29-23.24.12:174][121]2024.08.29_23.24.12: Saving world...
+[2024.08.29-23.24.12:181][121]2024.08.29_23.24.12: World Save Complete. Took: 0.564902
+[2024.08.29-23.25.44:905][901]FNetGUIDCache::PeriodicCleanAndCompact:   5.82ms total time [  4.72ms CleanReferences() and   1.10ms compacting]; ObjectLookup.Num()=29925 [603 removed]; NetGUIDLookup.Num()=29833 [691 removed]
+[2024.08.29-23.27.44:921][498]Garbage Collection Triggered!
+[2024.08.29-23.28.46:920][344]2024.08.29_23.28.46: AdminCmd: TeleportToPlayer 685611945  (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.28.46:927][344]2024.08.29_23.28.46: SERVER: Teleported To RehDragon - Lvl 28
+[2024.08.29-23.29.12:182][ 82]2024.08.29_23.29.12: Saving world...
+[2024.08.29-23.29.12:187][ 82]2024.08.29_23.29.12: World Save Complete. Took: 0.550948
+[2024.08.29-23.30.22:704][197]2024.08.29_23.30.22: AdminCmd: GiveCreativeMode (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.30.48:768][977]2024.08.29_23.30.48: AdminCmd: TeleportPlayerIdToMe 685611945  (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.31.05:857][490]2024.08.29_23.31.05: AdminCmd: ghost (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.31.13:766][727]2024.08.29_23.31.13: AdminCmd: ghost (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.31.16:572][811]2024.08.29_23.31.16: AdminCmd: walk (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.34.12:198][ 63]2024.08.29_23.34.12: Saving world...
+[2024.08.29-23.34.12:205][ 63]2024.08.29_23.34.12: World Save Complete. Took: 0.558445
+[2024.08.29-23.35.44:911][844]FNetGUIDCache::PeriodicCleanAndCompact:   6.48ms total time [  5.36ms CleanReferences() and   1.12ms compacting]; ObjectLookup.Num()=30253 [1347 removed]; NetGUIDLookup.Num()=30154 [1348 removed]
+[2024.08.29-23.39.12:230][ 34]2024.08.29_23.39.12: Saving world...
+[2024.08.29-23.39.12:242][ 34]2024.08.29_23.39.12: World Save Complete. Took: 0.585038
+[2024.08.29-23.39.44:940][  9]Garbage Collection Triggered!
+[2024.08.29-23.44.12:219][883]2024.08.29_23.44.12: Saving world...
+[2024.08.29-23.44.12:225][883]2024.08.29_23.44.12: World Save Complete. Took: 0.565038
+[2024.08.29-23.45.44:929][662]FNetGUIDCache::PeriodicCleanAndCompact:   8.27ms total time [  6.81ms CleanReferences() and   1.47ms compacting]; ObjectLookup.Num()=37063 [4616 removed]; NetGUIDLookup.Num()=36742 [4836 removed]
+[2024.08.29-23.47.56:358][603]2024.08.29_23.47.56: AdminCmd: setplayerpos -104566.019569 233026.94076 -14272.949961 (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.47.56:369][603]2024.08.29_23.47.56: AdminCmd:  (PlayerName: MartyrD0nk3y, ARKID: 531296528, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.29-23.49.12:236][852]2024.08.29_23.49.12: Saving world...
+[2024.08.29-23.49.12:249][852]2024.08.29_23.49.12: World Save Complete. Took: 0.570979
+[2024.08.29-23.51.44:938][427]Garbage Collection Triggered!
+[2024.08.29-23.54.12:238][763]2024.08.29_23.54.12: Saving world...
+[2024.08.29-23.54.12:245][763]2024.08.29_23.54.12: World Save Complete. Took: 0.553180
+[2024.08.29-23.55.44:937][470]FNetGUIDCache::PeriodicCleanAndCompact:  17.91ms total time [ 14.72ms CleanReferences() and   3.18ms compacting]; ObjectLookup.Num()=81205 [3873 removed]; NetGUIDLookup.Num()=77466 [7288 removed]
+[2024.08.29-23.59.12:272][630]2024.08.29_23.59.12: Saving world...
+[2024.08.29-23.59.12:277][630]2024.08.29_23.59.12: World Save Complete. Took: 0.572245
+[2024.08.30-00.00.23:921][778]IP for incoming account 000284fbd4cd46878f201e25c12c458f - IP 162.206.248.197
+[2024.08.30-00.00.29:641][949]2024.08.30_00.00.29: Got__Heem_ [UniqueNetId:000284fbd4cd46878f201e25c12c458f Platform:None] joined this ARK!
+[2024.08.30-00.00.46:455][452]2024.08.30_00.00.46: Tribe Tribe of Se7en, ID 1602035370: Day 5, 19:04:34: <RichColor Color="0, 1, 1, 1">Se7en was added to the Tribe!</>)
+[2024.08.30-00.00.46:463][452]2024.08.30_00.00.46: Player Got__Heem_ with ID 865477850 joined tribe Tribe of Se7en with ID 1602035370.
+[2024.08.30-00.01.39:446][  9]2024.08.30_00.01.39: Tribe Tribe of Shwat, ID 1432275875: Day 5, 19:14:51: <RichColor Color="1, 0, 0, 1">World barrier destroyed 'Shwat - Lvl 16' at X=227410.903 Y=17464.404 Z=58381.840!</>)
+[2024.08.30-00.01.41:396][ 67]2024.08.30_00.01.41: Tribe Tribe of Se7en, ID 1602035370: Day 5, 19:15:14: <RichColor Color="0, 1, 0, 1">Se7en Tamed a Pteranodon - Lvl 150 (Pteranodon)!</>)
+[2024.08.30-00.01.41:407][ 67]2024.08.30_00.01.41: Se7en of Tribe Tribe of Se7en Tamed a Pteranodon - Lvl 150 (Pteranodon)!
+[2024.08.30-00.01.41:419][ 67]2024.08.30_00.01.41: Tribe Tribe of Se7en, ID 1602035370: Day 5, 19:15:14: Se7en froze Pteranodon - Lvl 150 (Pteranodon))
+[2024.08.30-00.01.41:429][ 67]Frozen by ID: 000284fbd4cd46878f201e25c12c458f
+[2024.08.30-00.03.44:945][772]Garbage Collection Triggered!
+[2024.08.30-00.04.12:285][531]2024.08.30_00.04.12: Saving world...
+[2024.08.30-00.04.12:291][531]2024.08.30_00.04.12: World Save Complete. Took: 0.569050
+[2024.08.30-00.05.44:955][306]FNetGUIDCache::PeriodicCleanAndCompact:  19.15ms total time [ 16.19ms CleanReferences() and   2.96ms compacting]; ObjectLookup.Num()=79116 [17012 removed]; NetGUIDLookup.Num()=78823 [13565 removed]
+[2024.08.30-00.09.12:319][498]2024.08.30_00.09.12: Saving world...
+[2024.08.30-00.09.12:334][498]2024.08.30_00.09.12: World Save Complete. Took: 0.582493
+[2024.08.30-00.13.14:404][751]2024.08.30_00.13.14: Got__Heem_ [UniqueNetId:000284fbd4cd46878f201e25c12c458f Platform:None] left this ARK!
+[2024.08.30-00.14.12:339][470]2024.08.30_00.14.12: Saving world...
+[2024.08.30-00.14.12:347][470]2024.08.30_00.14.12: World Save Complete. Took: 0.577304
+[2024.08.30-00.15.44:942][246]Garbage Collection Triggered!
+[2024.08.30-00.15.45:350][247]FNetGUIDCache::PeriodicCleanAndCompact:  15.98ms total time [ 13.72ms CleanReferences() and   2.26ms compacting]; ObjectLookup.Num()=78548 [2539 removed]; NetGUIDLookup.Num()=78209 [2583 removed]
+[2024.08.30-00.18.26:151][ 67]IP for incoming account 000284fbd4cd46878f201e25c12c458f - IP 162.206.248.197
+[2024.08.30-00.18.31:263][219]2024.08.30_00.18.31: Got__Heem_ [UniqueNetId:000284fbd4cd46878f201e25c12c458f Platform:None] joined this ARK!
+[2024.08.30-00.19.12:347][426]2024.08.30_00.19.12: Saving world...
+[2024.08.30-00.19.12:362][426]2024.08.30_00.19.12: World Save Complete. Took: 0.574267
+[2024.08.30-00.24.12:381][341]2024.08.30_00.24.12: Saving world...
+[2024.08.30-00.24.12:386][341]2024.08.30_00.24.12: World Save Complete. Took: 0.592872
+[2024.08.30-00.25.06:027][946]2024.08.30_00.25.06: Tribe Tribe of Se7en, ID 1602035370: Day 6, 06:22:20: <RichColor Color="1, 0, 0, 1">Your 'Campfire (Locked) ' was destroyed!</>)
+[2024.08.30-00.25.45:354][125]FNetGUIDCache::PeriodicCleanAndCompact:  17.81ms total time [ 14.91ms CleanReferences() and   2.90ms compacting]; ObjectLookup.Num()=81228 [2459 removed]; NetGUIDLookup.Num()=80696 [2652 removed]
+[2024.08.30-00.27.44:962][706]Garbage Collection Triggered!
+[2024.08.30-00.29.12:373][260]2024.08.30_00.29.12: Saving world...
+[2024.08.30-00.29.12:387][260]2024.08.30_00.29.12: World Save Complete. Took: 0.592209
+[2024.08.30-00.34.12:407][232]2024.08.30_00.34.12: Saving world...
+[2024.08.30-00.34.12:413][232]2024.08.30_00.34.12: World Save Complete. Took: 0.589680
+[2024.08.30-00.35.45:367][ 18]FNetGUIDCache::PeriodicCleanAndCompact:  19.24ms total time [ 16.03ms CleanReferences() and   3.21ms compacting]; ObjectLookup.Num()=87323 [3196 removed]; NetGUIDLookup.Num()=86872 [3114 removed]
+[2024.08.30-00.37.57:030][894]2024.08.30_00.37.57: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] left this ARK!
+[2024.08.30-00.38.14:851][415]IP for incoming account 0002789f4f984c6787a5898016eb4375 - IP 66.22.145.81
+[2024.08.30-00.38.19:586][556]2024.08.30_00.38.19: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.08.30-00.39.12:390][969]2024.08.30_00.39.12: Saving world...
+[2024.08.30-00.39.12:404][969]2024.08.30_00.39.12: World Save Complete. Took: 0.572805
+[2024.08.30-00.39.45:003][903]Garbage Collection Triggered!
+[2024.08.30-00.41.05:409][145]2024.08.30_00.41.05: Tribe Tribe of Shwat, ID 1432275875: Day 6, 09:28:12: <RichColor Color="1, 0, 0, 1">Tribemember Shwat - Lvl 16 was killed!</>)
+[2024.08.30-00.41.05:418][145]2024.08.30_00.41.05: Shwat - Lvl 16 (Tribe of Shwat) was killed!
+[2024.08.30-00.41.07:031][193]2024.08.30_00.41.07: Got__Heem_ (Se7en): Hello
+[2024.08.30-00.43.12:705][959]2024.08.30_00.43.12: Tribe Tribe of Shwat, ID 1432275875: Day 6, 09:52:49: <RichColor Color="1, 1, 0, 1">Shwat was removed from the Tribe!</>)
+[2024.08.30-00.43.12:715][959]2024.08.30_00.43.12: Player Shwat with ID 531296528 removed from tribe Tribe of Shwat with ID 1432275875.
+[2024.08.30-00.43.12:797][959]2024.08.30_00.43.12: Tribe Tribe of Shwat1, ID 1826266890: Day 6, 09:52:49: <RichColor Color="0, 1, 1, 1">Shwat was added to the Tribe!</>)
+[2024.08.30-00.43.12:804][959]2024.08.30_00.43.12: Player MartyrD0nk3y with ID 175703758 joined tribe Tribe of Shwat1 with ID 1826266890.
+[2024.08.30-00.43.24:439][282]2024.08.30_00.43.24: MartyrD0nk3y (Shwat): Ayooo
+[2024.08.30-00.44.12:440][696]2024.08.30_00.44.12: Saving world...
+[2024.08.30-00.44.12:453][696]2024.08.30_00.44.12: World Save Complete. Took: 0.595996
+[2024.08.30-00.45.45:389][473]FNetGUIDCache::PeriodicCleanAndCompact:  19.50ms total time [ 17.07ms CleanReferences() and   2.43ms compacting]; ObjectLookup.Num()=93246 [4637 removed]; NetGUIDLookup.Num()=92528 [4897 removed]
+[2024.08.30-00.49.12:446][922]2024.08.30_00.49.12: Saving world...
+[2024.08.30-00.49.12:460][922]2024.08.30_00.49.12: World Save Complete. Took: 0.593587
+[2024.08.30-00.51.32:671][ 94]2024.08.30_00.51.32: Tribe Shwat Team, ID 1826266890: Day 6, 11:29:44: <RichColor Color="1, 0, 0, 1">Tribemember Shwat - Lvl 1 was killed!</>)
+[2024.08.30-00.51.32:672][ 94]2024.08.30_00.51.32: Shwat - Lvl 1 (Shwat Team) was killed!
+[2024.08.30-00.51.45:010][459]Garbage Collection Triggered!
+[2024.08.30-00.52.32:797][846]2024.08.30_00.52.32: Got__Heem_ (Se7en): Drops are weak ...
+[2024.08.30-00.52.55:864][535]2024.08.30_00.52.55: Tribe Shwat Team, ID 1826266890: Day 6, 11:45:49: <RichColor Color="1, 0, 0, 1">Tribemember Shwat - Lvl 1 was killed by a Ceratosaurus - Lvl 9!</>)
+[2024.08.30-00.52.55:872][535]2024.08.30_00.52.55: Shwat - Lvl 1 (Shwat Team) was killed by a Ceratosaurus - Lvl 9 ()!
+[2024.08.30-00.53.10:204][945]2024.08.30_00.53.10: MartyrD0nk3y (Shwat): working on that now
+[2024.08.30-00.53.31:464][554]2024.08.30_00.53.31: Got__Heem_ (Se7en): Nice
+[2024.08.30-00.54.08:160][633]2024.08.30_00.54.08: MartyrD0nk3y (Shwat): We just launched this one today so still ironing out issues. If you notice anything just let us know
+[2024.08.30-00.54.10:812][711]2024.08.30_00.54.10: SERVER: monkeywhisper: .
+[2024.08.30-00.54.12:479][742]2024.08.30_00.54.12: Saving world...
+[2024.08.30-00.54.12:483][742]2024.08.30_00.54.12: World Save Complete. Took: 0.600721
+[2024.08.30-00.54.35:054][416]2024.08.30_00.54.35: SERVER: monkeywhisper: Get to work Donkey!
+[2024.08.30-00.54.46:485][757]2024.08.30_00.54.46: Got__Heem_ (Se7en): Thanks for hosting
+[2024.08.30-00.55.06:350][351]2024.08.30_00.55.06: SERVER: monkeywhisper: You are welcome, it's hosted by my hosting company. 
+[2024.08.30-00.55.15:643][629]2024.08.30_00.55.15: MartyrD0nk3y (Shwat): NP, we got tired of nitrados laggy ass servers, this one will NOT lag.
+[2024.08.30-00.55.40:619][376]2024.08.30_00.55.40: Got__Heem_ (Se7en): Awesome
+[2024.08.30-00.55.45:407][519]FNetGUIDCache::PeriodicCleanAndCompact:  20.73ms total time [ 17.43ms CleanReferences() and   3.29ms compacting]; ObjectLookup.Num()=93366 [7257 removed]; NetGUIDLookup.Num()=92490 [7407 removed]
+[2024.08.30-00.56.59:661][741]2024.08.30_00.56.59: Got__Heem_ (Se7en): Says 4 man,  but I Cant make a tribe
+[2024.08.30-00.59.12:471][704]2024.08.30_00.59.12: Saving world...
+[2024.08.30-00.59.12:483][704]2024.08.30_00.59.12: World Save Complete. Took: 0.587001
+[2024.08.30-00.59.58:382][ 79]2024.08.30_00.59.58: AdminCmd: TeleportToPlayer 685611945  (PlayerName: MartyrD0nk3y, ARKID: 175703758, SteamID: 0002789f4f984c6787a5898016eb4375)
+[2024.08.30-00.59.58:396][ 79]2024.08.30_00.59.58: SERVER: Teleported To RehDragon - Lvl 28
+[2024.08.30-01.00.12:587][500]2024.08.30_01.00.12: Tribe Shwat Team, ID 1826266890: Day 6, 13:10:20: <RichColor Color="0, 1, 1, 1">Tribe of RehDragon tribe was merged in by RehDragon!</>)
+[2024.08.30-01.00.12:624][500]2024.08.30_01.00.12: Tribe Tribe of RehDragon, ID 1843336968: Day 6, 13:10:20: <RichColor Color="1, 1, 0, 1">RehDragon was removed from the Tribe!</>)
+[2024.08.30-01.00.12:627][500]2024.08.30_01.00.12: Player RehDragon with ID 685611945 removed from tribe Tribe of RehDragon with ID 1843336968.
+[2024.08.30-01.00.12:684][500]2024.08.30_01.00.12: Tribe Shwat Team, ID 1826266890: Day 6, 13:10:20: <RichColor Color="0, 1, 1, 1">RehDragon was added to the Tribe by Shwat!</>)
+[2024.08.30-01.00.12:694][500]2024.08.30_01.00.12: Player RehDragon with ID 685611945 joined tribe Shwat Team with ID 1826266890 Invited by Player Shwat with ID 175703758.
+[2024.08.30-01.00.46:541][515]2024.08.30_01.00.46: MartyrD0nk3y (Shwat): It should have auto made your tribe when you joined, are you not able to invite someone?
+[2024.08.30-01.01.53:695][529]2024.08.30_01.01.53: Got__Heem_ (Se7en): Oh, Idk. Cant name your tribe?
+[2024.08.30-01.02.08:728][980]2024.08.30_01.02.08: RehDragon (RehDragon): you should be able to rename it from the trible
+[2024.08.30-01.02.09:899][ 15]2024.08.30_01.02.09: MartyrD0nk3y (Shwat): Yeah you can, go to tribe tab and click the little pencil
+[2024.08.30-01.02.41:934][975]2024.08.30_01.02.41: MartyrD0nk3y (Shwat): I may disable auto create so as not to confuse people.
+[2024.08.30-01.03.19:042][ 89]2024.08.30_01.03.19: Got__Heem_ (Se7en): Got it. Thanks. Different then what i was at before
+[2024.08.30-01.03.45:017][868]Garbage Collection Triggered!
+[2024.08.30-01.04.12:487][662]2024.08.30_01.04.12: Saving world...
+[2024.08.30-01.04.12:495][662]2024.08.30_01.04.12: World Save Complete. Took: 0.587660
+[2024.08.30-01.04.15:338][747]2024.08.30_01.04.15: Tribe Shwat Team, ID 1826266890: Day 6, 13:57:26: <RichColor Color="1, 0, 0, 1">Tribemember Shwat - Lvl 1 was killed!</>)
+[2024.08.30-01.04.15:339][747]2024.08.30_01.04.15: Shwat - Lvl 1 (Shwat Team) was killed! [KillerSID: 175703758]
+[2024.08.30-01.05.14:332][497]2024.08.30_01.05.14: Tribe Shwat Team, ID 1826266890: Day 6, 14:08:52: <RichColor Color="0, 1, 0, 1">Shwat Tamed a Pteranodon - Lvl 150 (Pteranodon)!</>)
+[2024.08.30-01.05.14:342][497]2024.08.30_01.05.14: Shwat of Tribe Shwat Team Tamed a Pteranodon - Lvl 150 (Pteranodon)!
+[2024.08.30-01.05.14:354][497]2024.08.30_01.05.14: Tribe Shwat Team, ID 1826266890: Day 6, 14:08:52: Shwat froze Pteranodon - Lvl 150 (Pteranodon))
+[2024.08.30-01.05.14:365][497]Frozen by ID: 0002789f4f984c6787a5898016eb4375
+[2024.08.30-01.05.45:411][426]FNetGUIDCache::PeriodicCleanAndCompact:  19.90ms total time [ 16.67ms CleanReferences() and   3.23ms compacting]; ObjectLookup.Num()=92521 [1710 removed]; NetGUIDLookup.Num()=92314 [1039 removed]
+[2024.08.30-01.08.54:942][ 89]2024.08.30_01.08.54: Tribe Shwat Team, ID 1826266890: Day 6, 14:51:30: <RichColor Color="1, 0, 0, 1">Tribemember Shwat - Lvl 42 was killed!</>)
+[2024.08.30-01.08.54:949][ 89]2024.08.30_01.08.54: Shwat - Lvl 42 (Shwat Team) was killed!
+[2024.08.30-01.09.12:533][592]2024.08.30_01.09.12: Saving world...
+[2024.08.30-01.09.12:545][592]2024.08.30_01.09.12: World Save Complete. Took: 0.604852
+[2024.08.30-01.11.02:105][873]2024.08.30_01.11.02: Got__Heem_ (Se7en): Is there a discord or line chat?
+[2024.08.30-01.11.03:007][900]2024.08.30_01.11.03: SERVER: nARKotic invite: https://discord.gg/ctTnAypmRU
+[2024.08.30-01.11.31:502][753]2024.08.30_01.11.31: Got__Heem_ (Se7en): Nice
+[2024.08.30-01.11.37:635][937]2024.08.30_01.11.37: MartyrD0nk3y (Shwat): press F1 then click the discord link just FYI its still being worked on lol
+[2024.08.30-01.11.41:397][ 50]2024.08.30_01.11.41: SERVER: nARKotic invite: https://discord.gg/Rcs44vkjsg
+[2024.08.30-01.13.35:683][370]2024.08.30_01.13.35: Got__Heem_ (Se7en): All good. Thanks.
+[2024.08.30-01.13.57:773][ 30]IP for incoming account 0002250f8b3c49179f19e3e4c7a50f6a - IP 35.148.36.162
+[2024.08.30-01.14.12:550][454]2024.08.30_01.14.12: Saving world...
+[2024.08.30-01.14.12:560][454]2024.08.30_01.14.12: World Save Complete. Took: 0.596681
+[2024.08.30-01.14.23:981][796]2024.08.30_01.14.23: Roque_VI [UniqueNetId:0002250f8b3c49179f19e3e4c7a50f6a Platform:None] joined this ARK!
+[2024.08.30-01.15.45:030][223]Garbage Collection Triggered!
+[2024.08.30-01.15.45:819][224]FNetGUIDCache::PeriodicCleanAndCompact:  23.39ms total time [ 20.38ms CleanReferences() and   3.01ms compacting]; ObjectLookup.Num()=95657 [5418 removed]; NetGUIDLookup.Num()=95085 [5767 removed]
+[2024.08.30-01.16.31:790][545]2024.08.30_01.16.31: Tribe Tribe of Rogue, ID 1645415827: Day 6, 16:20:05: <RichColor Color="0, 1, 1, 1">Rogue was added to the Tribe!</>)
+[2024.08.30-01.16.31:796][545]2024.08.30_01.16.31: Player Roque_VI with ID 92384463 joined tribe Tribe of Rogue with ID 1645415827.
+[2024.08.30-01.17.38:214][322]2024.08.30_01.17.38: Tribe Ruckus, ID 1602035370: Day 6, 16:32:53: <RichColor Color="0, 1, 1, 1">Tribe of Rogue tribe was merged in by Rogue!</>)
+[2024.08.30-01.17.38:246][322]2024.08.30_01.17.38: Tribe Tribe of Rogue, ID 1645415827: Day 6, 16:32:53: <RichColor Color="1, 1, 0, 1">Rogue was removed from the Tribe!</>)
+[2024.08.30-01.17.38:250][322]2024.08.30_01.17.38: Player Rogue with ID 92384463 removed from tribe Tribe of Rogue with ID 1645415827.
+[2024.08.30-01.17.38:308][322]2024.08.30_01.17.38: Tribe Ruckus, ID 1602035370: Day 6, 16:32:53: <RichColor Color="0, 1, 1, 1">Rogue was added to the Tribe by Se7en!</>)
+[2024.08.30-01.17.38:317][322]2024.08.30_01.17.38: Player Rogue with ID 92384463 joined tribe Ruckus with ID 1602035370 Invited by Player Se7en with ID 865477850.
+[2024.08.30-01.18.12:417][325]2024.08.30_01.18.12: Tribe Ruckus, ID 1602035370: Day 6, 16:39:28: <RichColor Color="0, 1, 0, 1">Se7en Tamed a Pteranodon - Lvl 150 (Pteranodon)!</>)
+[2024.08.30-01.18.12:424][325]2024.08.30_01.18.12: Se7en of Tribe Ruckus Tamed a Pteranodon - Lvl 150 (Pteranodon)!
+[2024.08.30-01.18.12:436][325]2024.08.30_01.18.12: Tribe Ruckus, ID 1602035370: Day 6, 16:39:28: Rogue froze Pteranodon - Lvl 150 (Pteranodon))
+[2024.08.30-01.18.12:447][325]Frozen by ID: 0002250f8b3c49179f19e3e4c7a50f6a
+[2024.08.30-01.19.12:538][ 93]2024.08.30_01.19.12: Saving world...
+[2024.08.30-01.19.12:552][ 93]2024.08.30_01.19.12: World Save Complete. Took: 0.582606
+[2024.08.30-01.20.58:201][ 42]ADW_Script_RCON_Activated
+[2024.08.30-01.20.58:201][ 42]PCS.SpawnDino - Blueprint'/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP' 150 100 100 1 1  25-? 125 123 123 23-53 124 125 123
+[2024.08.30-01.22.06:517][954][Pelayori's Cryo Storage] (PCS.SpawnDino) ERROR: Dino class not found
+[2024.08.30-01.22.06:517][954]ADW_Script_RCON_Activated
+[2024.08.30-01.22.06:517][954]PCS.SpawnDino "Blueprint'/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP' 150 100 100 1 1  25-? 125 123 123 23-53 124 125 123
+[2024.08.30-01.24.12:566][520]2024.08.30_01.24.12: Saving world...
+[2024.08.30-01.24.12:576][520]2024.08.30_01.24.12: World Save Complete. Took: 0.592613
+[2024.08.30-01.25.30:813][864]'GiveItemToPlayer': Bad or missing property 'bForceBlueprint' when trying to call GiveItemToPlayer
+[2024.08.30-01.25.45:845][313]FNetGUIDCache::PeriodicCleanAndCompact:  21.76ms total time [ 18.34ms CleanReferences() and   3.43ms compacting]; ObjectLookup.Num()=96960 [7903 removed]; NetGUIDLookup.Num()=95982 [8296 removed]
+[2024.08.30-01.27.37:698][662]2024.08.30_01.27.37: Got__Heem_ [UniqueNetId:000284fbd4cd46878f201e25c12c458f Platform:None] left this ARK!
+[2024.08.30-01.27.45:045][881]Garbage Collection Triggered!
+[2024.08.30-01.29.12:574][454]2024.08.30_01.29.12: Saving world...
+[2024.08.30-01.29.12:587][454]2024.08.30_01.29.12: World Save Complete. Took: 0.584865
+[2024.08.30-01.30.23:440][578]2024.08.30_01.30.23: Roque_VI [UniqueNetId:0002250f8b3c49179f19e3e4c7a50f6a Platform:None] left this ARK!
+[2024.08.30-01.34.12:591][425]2024.08.30_01.34.12: Saving world...
+[2024.08.30-01.34.12:600][425]2024.08.30_01.34.12: World Save Complete. Took: 0.585319
+[2024.08.30-01.35.45:843][221]FNetGUIDCache::PeriodicCleanAndCompact:  21.36ms total time [ 17.80ms CleanReferences() and   3.55ms compacting]; ObjectLookup.Num()=96210 [4220 removed]; NetGUIDLookup.Num()=95819 [3633 removed]
+[2024.08.30-01.39.12:598][400]2024.08.30_01.39.12: Saving world...
+[2024.08.30-01.39.12:607][400]2024.08.30_01.39.12: World Save Complete. Took: 0.576884
+[2024.08.30-01.39.45:056][373]Garbage Collection Triggered!
+[2024.08.30-01.44.12:619][368]2024.08.30_01.44.12: Saving world...
+[2024.08.30-01.44.12:622][368]2024.08.30_01.44.12: World Save Complete. Took: 0.575884
+[2024.08.30-01.45.45:852][163]FNetGUIDCache::PeriodicCleanAndCompact:  20.60ms total time [ 17.23ms CleanReferences() and   3.37ms compacting]; ObjectLookup.Num()=96103 [450 removed]; NetGUIDLookup.Num()=95836 [326 removed]
+[2024.08.30-01.49.12:647][347]2024.08.30_01.49.12: Saving world...
+[2024.08.30-01.49.12:660][347]2024.08.30_01.49.12: World Save Complete. Took: 0.596858
+[2024.08.30-01.51.45:064][914]Garbage Collection Triggered!
+[2024.08.30-01.54.12:643][317]2024.08.30_01.54.12: Saving world...
+[2024.08.30-01.54.12:647][317]2024.08.30_01.54.12: World Save Complete. Took: 0.567687
+[2024.08.30-01.55.45:867][111]FNetGUIDCache::PeriodicCleanAndCompact:  20.68ms total time [ 17.31ms CleanReferences() and   3.37ms compacting]; ObjectLookup.Num()=95975 [309 removed]; NetGUIDLookup.Num()=95841 [176 removed]
+[2024.08.30-01.59.12:674][294]2024.08.30_01.59.12: Saving world...
+[2024.08.30-01.59.12:680][294]2024.08.30_01.59.12: World Save Complete. Took: 0.590468
+[2024.08.30-02.03.45:057][462]Garbage Collection Triggered!
+[2024.08.30-02.04.12:674][268]2024.08.30_02.04.12: Saving world...
+[2024.08.30-02.04.12:678][268]2024.08.30_02.04.12: World Save Complete. Took: 0.564853
+[2024.08.30-02.05.05:212][843]2024.08.30_02.05.05: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] left this ARK!
+[2024.08.30-02.05.45:877][ 60]FNetGUIDCache::PeriodicCleanAndCompact:  20.64ms total time [ 17.31ms CleanReferences() and   3.33ms compacting]; ObjectLookup.Num()=95918 [167 removed]; NetGUIDLookup.Num()=95715 [236 removed]
+[2024.08.30-02.07.28:217][131][Pelayori's Cryo Storage] (PCS.SpawnDino) ERROR: Dino class not found
+[2024.08.30-02.07.28:218][131]ADW_Script_RCON_Activated
+[2024.08.30-02.07.28:218][131]PCS.SpawnDino 0002a0b12ff54d80a45035c18750b660 "Blueprint'/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP' 150 100 100 0 0
+[2024.08.30-02.09.08:752][148]'GiveItemToPlayer': Bad or missing property 'QuantityOverride' when trying to call GiveItemToPlayer
+[2024.08.30-02.09.12:694][249]2024.08.30_02.09.12: Saving world...
+[2024.08.30-02.09.12:700][249]2024.08.30_02.09.12: World Save Complete. Took: 0.580194
+[2024.08.30-02.13.50:960][596]'GiveItemToPlayer': Bad or missing property 'QuantityOverride' when trying to call GiveItemToPlayer
+[2024.08.30-02.14.12:719][232]2024.08.30_02.14.12: Saving world...
+[2024.08.30-02.14.12:724][232]2024.08.30_02.14.12: World Save Complete. Took: 0.575416
+[2024.08.30-02.15.45:049][  1]Garbage Collection Triggered!
+[2024.08.30-02.15.45:888][ 21]FNetGUIDCache::PeriodicCleanAndCompact:  20.62ms total time [ 17.29ms CleanReferences() and   3.33ms compacting]; ObjectLookup.Num()=95483 [489 removed]; NetGUIDLookup.Num()=95432 [337 removed]
+[2024.08.30-02.19.12:731][211]2024.08.30_02.19.12: Saving world...
+[2024.08.30-02.19.12:744][211]2024.08.30_02.19.12: World Save Complete. Took: 0.586226
+[2024.08.30-02.19.41:825][ 83][Pelayori's Cryo Storage] (PCS.SpawnDino) ERROR: Dino class not found
+[2024.08.30-02.19.41:825][ 83]ADW_Script_RCON_Activated
+[2024.08.30-02.19.41:825][ 83]PCS.SpawnDino \{playerid\} Blueprint'/DinosaurDiscovery/Dino/Tek/BionicGigant_Character_BP_ASA.BionicGigant_Character_BP_ASA' 150 100 100 ? 0
+[2024.08.30-02.24.12:753][193]2024.08.30_02.24.12: Saving world...
+[2024.08.30-02.24.12:767][193]2024.08.30_02.24.12: World Save Complete. Took: 0.592268
+[2024.08.30-02.24.22:507][486][Pelayori's Cryo Storage] (PCS.SpawnDino) ERROR: Dino class not found
+[2024.08.30-02.24.22:507][486]ADW_Script_RCON_Activated
+[2024.08.30-02.24.22:507][486]PCS.SpawnDino \{specimen\} Blueprint'/DinosaurDiscovery/Dino/Tek/BionicGigant_Character_BP_ASA.BionicGigant_Character_BP_ASA' 150 100 100 ? 0
+[2024.08.30-02.25.11:688][961][Pelayori's Cryo Storage] (PCS.SpawnDino) ERROR: Dino class not found
+[2024.08.30-02.25.11:688][961]ADW_Script_RCON_Activated
+[2024.08.30-02.25.11:688][961]PCS.SpawnDino \{specimen\} Blueprint'/DinosaurDiscovery/Dino/Tek/BionicGigant_Character_BP_ASA.BionicGigant_Character_BP_ASA' 150 100 100 ? 0
+[2024.08.30-02.25.45:894][986]FNetGUIDCache::PeriodicCleanAndCompact:  20.16ms total time [ 17.48ms CleanReferences() and   2.68ms compacting]; ObjectLookup.Num()=95480 [54 removed]; NetGUIDLookup.Num()=95426 [57 removed]
+[2024.08.30-02.25.59:743][402][Pelayori's Cryo Storage] (PCS.SpawnDino) ERROR: Dino class not found
+[2024.08.30-02.25.59:743][402]ADW_Script_RCON_Activated
+[2024.08.30-02.25.59:743][402]PCS.SpawnDino "Blueprint'/DinosaurDiscovery/Dino/Tek/BionicGigant_Character_BP_ASA.BionicGigant_Character_BP_ASA'" 150 100 100 ? 0
+[2024.08.30-02.27.45:050][557]Garbage Collection Triggered!
+[2024.08.30-02.29.12:760][166]2024.08.30_02.29.12: Saving world...
+[2024.08.30-02.29.12:767][166]2024.08.30_02.29.12: World Save Complete. Took: 0.571927
+[2024.08.30-02.34.12:755][143]2024.08.30_02.34.12: Saving world...
+[2024.08.30-02.34.12:759][143]2024.08.30_02.34.12: World Save Complete. Took: 0.557950
+[2024.08.30-02.35.45:911][936]FNetGUIDCache::PeriodicCleanAndCompact:  24.46ms total time [ 21.22ms CleanReferences() and   3.25ms compacting]; ObjectLookup.Num()=95487 [57 removed]; NetGUIDLookup.Num()=95437 [53 removed]
+[2024.08.30-02.39.12:762][122]2024.08.30_02.39.12: Saving world...
+[2024.08.30-02.39.12:774][122]2024.08.30_02.39.12: World Save Complete. Took: 0.570997
+[2024.08.30-02.39.45:069][ 90]Garbage Collection Triggered!
+[2024.08.30-02.44.12:792][ 95]2024.08.30_02.44.12: Saving world...
+[2024.08.30-02.44.12:802][ 95]2024.08.30_02.44.12: World Save Complete. Took: 0.589236
+[2024.08.30-02.45.45:921][887]FNetGUIDCache::PeriodicCleanAndCompact:  19.54ms total time [ 17.18ms CleanReferences() and   2.36ms compacting]; ObjectLookup.Num()=95489 [53 removed]; NetGUIDLookup.Num()=95438 [54 removed]
+[2024.08.30-02.49.12:812][ 74]2024.08.30_02.49.12: Saving world...
+[2024.08.30-02.49.12:818][ 74]2024.08.30_02.49.12: World Save Complete. Took: 0.579652
+[2024.08.30-02.51.45:079][640]Garbage Collection Triggered!
+[2024.08.30-02.54.12:864][ 51]2024.08.30_02.54.12: Saving world...
+[2024.08.30-02.54.12:880][ 51]2024.08.30_02.54.12: World Save Complete. Took: 0.617989
+[2024.08.30-02.55.45:932][842]FNetGUIDCache::PeriodicCleanAndCompact:  22.27ms total time [ 19.03ms CleanReferences() and   3.25ms compacting]; ObjectLookup.Num()=95485 [54 removed]; NetGUIDLookup.Num()=95435 [53 removed]
+[2024.08.30-02.59.12:863][ 33]2024.08.30_02.59.12: Saving world...
+[2024.08.30-02.59.12:876][ 33]2024.08.30_02.59.12: World Save Complete. Took: 0.586035
+[2024.08.30-03.03.45:091][195]Garbage Collection Triggered!
+[2024.08.30-03.04.12:867][  8]2024.08.30_03.04.12: Saving world...
+[2024.08.30-03.04.12:870][  8]2024.08.30_03.04.12: World Save Complete. Took: 0.565664
+[2024.08.30-03.05.45:937][798]FNetGUIDCache::PeriodicCleanAndCompact:  21.46ms total time [ 18.24ms CleanReferences() and   3.22ms compacting]; ObjectLookup.Num()=95472 [53 removed]; NetGUIDLookup.Num()=95425 [50 removed]
+[2024.08.30-03.05.48:197][867]IP for incoming account 0002feec0f06490684b3da9d7b8656ea - IP 49.88.141.182
+[2024.08.30-03.05.59:947][218]2024.08.30_03.05.59: KIBO [UniqueNetId:0002feec0f06490684b3da9d7b8656ea Platform:None] joined this ARK!
+[2024.08.30-03.06.27:530][ 43]2024.08.30_03.06.27: Tribe Tribe of XGG, ID 1055893860: Day 7, 20:12:56: <RichColor Color="0, 1, 1, 1">XGG was added to the Tribe!</>)
+[2024.08.30-03.06.27:537][ 43]2024.08.30_03.06.27: Player KIBO with ID 125446264 joined tribe Tribe of XGG with ID 1055893860.
+[2024.08.30-03.09.12:899][975]2024.08.30_03.09.12: Saving world...
+[2024.08.30-03.09.12:910][975]2024.08.30_03.09.12: World Save Complete. Took: 0.583922
+[2024.08.30-03.10.55:393][ 48]2024.08.30_03.10.55: Tribe Tribe of XGG, ID 1055893860: Day 7, 23:02:45: <RichColor Color="1, 0, 0, 1">Tribemember XGG - Lvl 100 was killed!</>)
+[2024.08.30-03.10.55:403][ 48]2024.08.30_03.10.55: XGG - Lvl 100 (Tribe of XGG) was killed!
+[2024.08.30-03.12.28:958][852]2024.08.30_03.12.28: Tribe Tribe of XGG, ID 1055893860: Day 8, 00:13:45: <RichColor Color="0, 1, 0, 1">XGG Tamed a Pteranodon - Lvl 150 (Pteranodon)!</>)
+[2024.08.30-03.12.28:967][852]2024.08.30_03.12.28: XGG of Tribe Tribe of XGG Tamed a Pteranodon - Lvl 150 (Pteranodon)!
+[2024.08.30-03.12.28:979][852]2024.08.30_03.12.28: Tribe Tribe of XGG, ID 1055893860: Day 8, 00:13:45: XGG froze Pteranodon - Lvl 150 (Pteranodon))
+[2024.08.30-03.12.28:989][852]Frozen by ID: 0002feec0f06490684b3da9d7b8656ea
+[2024.08.30-03.14.12:929][952]2024.08.30_03.14.12: Saving world...
+[2024.08.30-03.14.12:942][952]2024.08.30_03.14.12: World Save Complete. Took: 0.588417
+[2024.08.30-03.15.45:101][717]Garbage Collection Triggered!
+[2024.08.30-03.15.45:936][735]FNetGUIDCache::PeriodicCleanAndCompact:  20.63ms total time [ 17.28ms CleanReferences() and   3.35ms compacting]; ObjectLookup.Num()=96312 [260 removed]; NetGUIDLookup.Num()=96146 [379 removed]
+[2024.08.30-03.19.12:944][923]2024.08.30_03.19.12: Saving world...
+[2024.08.30-03.19.12:955][923]2024.08.30_03.19.12: World Save Complete. Took: 0.583662
+[2024.08.30-03.24.12:974][812]2024.08.30_03.24.12: Saving world...
+[2024.08.30-03.24.12:978][812]2024.08.30_03.24.12: World Save Complete. Took: 0.580757
+[2024.08.30-03.25.45:967][598]FNetGUIDCache::PeriodicCleanAndCompact:  21.48ms total time [ 17.99ms CleanReferences() and   3.49ms compacting]; ObjectLookup.Num()=99137 [3351 removed]; NetGUIDLookup.Num()=98469 [3851 removed]
+[2024.08.30-03.27.45:151][170]Garbage Collection Triggered!
+[2024.08.30-03.29.13:014][764]2024.08.30_03.29.13: Saving world...
+[2024.08.30-03.29.13:022][764]2024.08.30_03.29.13: World Save Complete. Took: 0.593707
+[2024.08.30-03.34.13:022][695]2024.08.30_03.34.13: Saving world...
+[2024.08.30-03.34.13:032][695]2024.08.30_03.34.13: World Save Complete. Took: 0.587819
+[2024.08.30-03.35.46:000][456]FNetGUIDCache::PeriodicCleanAndCompact:  21.73ms total time [ 18.24ms CleanReferences() and   3.49ms compacting]; ObjectLookup.Num()=99900 [5281 removed]; NetGUIDLookup.Num()=99062 [5438 removed]
+[2024.08.30-03.39.13:026][432]2024.08.30_03.39.13: Saving world...
+[2024.08.30-03.39.13:033][432]2024.08.30_03.39.13: World Save Complete. Took: 0.580470
+[2024.08.30-03.39.45:167][384]Garbage Collection Triggered!
+[2024.08.30-03.44.13:026][341]2024.08.30_03.44.13: Saving world...
+[2024.08.30-03.44.13:033][341]2024.08.30_03.44.13: World Save Complete. Took: 0.578216
+[2024.08.30-03.45.46:031][128]FNetGUIDCache::PeriodicCleanAndCompact:  22.03ms total time [ 18.45ms CleanReferences() and   3.58ms compacting]; ObjectLookup.Num()=101361 [5512 removed]; NetGUIDLookup.Num()=100418 [5610 removed]
+[2024.08.30-03.46.45:815][918]2024.08.30_03.46.45: Tribe Tribe of XGG, ID 1055893860: Day 8, 10:36:01: XGG froze Pteranodon - Lvl 215 (Pteranodon))
+[2024.08.30-03.46.45:826][918]Frozen by ID: 0002feec0f06490684b3da9d7b8656ea
+[2024.08.30-03.49.13:068][237]2024.08.30_03.49.13: Saving world...
+[2024.08.30-03.49.13:079][237]2024.08.30_03.49.13: World Save Complete. Took: 0.617820
+[2024.08.30-03.51.45:158][780]Garbage Collection Triggered!
+[2024.08.30-03.54.13:063][170]2024.08.30_03.54.13: Saving world...
+[2024.08.30-03.54.13:073][170]2024.08.30_03.54.13: World Save Complete. Took: 0.599595
+[2024.08.30-03.55.46:047][956]FNetGUIDCache::PeriodicCleanAndCompact:  20.96ms total time [ 18.30ms CleanReferences() and   2.66ms compacting]; ObjectLookup.Num()=101901 [3420 removed]; NetGUIDLookup.Num()=101261 [3099 removed]
+[2024.08.30-03.55.49:994][ 75]IP for incoming account 0002dce1497b4e7a9e1e6d0aea23b989 - IP 70.124.141.151
+[2024.08.30-03.55.54:003][195]2024.08.30_03.55.54: Blakeavelli [UniqueNetId:0002dce1497b4e7a9e1e6d0aea23b989 Platform:None] joined this ARK!
+[2024.08.30-03.59.13:074][145]2024.08.30_03.59.13: Saving world...
+[2024.08.30-03.59.13:081][145]2024.08.30_03.59.13: World Save Complete. Took: 0.587397
+[2024.08.30-03.59.27:966][590]2024.08.30_03.59.27: Tribe Tribe of Yo Daddy, ID 1252050207: Day 8, 13:03:31: <RichColor Color="0, 1, 1, 1">Yo Daddy was added to the Tribe!</>)
+[2024.08.30-03.59.27:977][590]2024.08.30_03.59.27: Player Blakeavelli with ID 962293530 joined tribe Tribe of Yo Daddy with ID 1252050207.
+[2024.08.30-04.01.55:661][944]2024.08.30_04.01.55: Blakeavelli [UniqueNetId:0002dce1497b4e7a9e1e6d0aea23b989 Platform:None] left this ARK!
+[2024.08.30-04.03.37:571][996]2024.08.30_04.03.37: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] left this ARK!
+[2024.08.30-04.03.45:162][223]Garbage Collection Triggered!
+[2024.08.30-04.04.13:094][ 23]2024.08.30_04.04.13: Saving world...
+[2024.08.30-04.04.13:108][ 23]2024.08.30_04.04.13: World Save Complete. Took: 0.595220
+[2024.08.30-04.04.24:558][367]IP for incoming account 0002fa55e0904ad6963055b41af5eb3d - IP 73.175.1.71
+[2024.08.30-04.04.29:009][500]2024.08.30_04.04.29: nickalda [UniqueNetId:0002fa55e0904ad6963055b41af5eb3d Platform:None] joined this ARK!
+[2024.08.30-04.05.46:068][812]FNetGUIDCache::PeriodicCleanAndCompact:  22.23ms total time [ 18.65ms CleanReferences() and   3.58ms compacting]; ObjectLookup.Num()=100479 [6143 removed]; NetGUIDLookup.Num()=100019 [5962 removed]
+[2024.08.30-04.06.32:622][207]2024.08.30_04.06.32: Tribe Tribe of Life, ID 1178879582: Day 8, 14:25:42: <RichColor Color="0, 1, 1, 1">Life was added to the Tribe!</>)
+[2024.08.30-04.06.32:625][207]2024.08.30_04.06.32: Player nickalda with ID 289861057 joined tribe Tribe of Life with ID 1178879582.
+[2024.08.30-04.07.20:379][626]2024.08.30_04.07.20: nickalda (Life): Looking 4 tribe
+[2024.08.30-04.08.25:565][581]2024.08.30_04.08.25: Tribe Tribe of XGG, ID 1055893860: Day 8, 14:47:36: XGG froze Pteranodon - Lvl 215 (Pteranodon))
+[2024.08.30-04.08.25:578][581]Frozen by ID: 0002feec0f06490684b3da9d7b8656ea
+[2024.08.30-04.09.13:126][989]2024.08.30_04.09.13: Saving world...
+[2024.08.30-04.09.13:135][989]2024.08.30_04.09.13: World Save Complete. Took: 0.599504
+[2024.08.30-04.14.13:137][914]2024.08.30_04.14.13: Saving world...
+[2024.08.30-04.14.13:150][914]2024.08.30_04.14.13: World Save Complete. Took: 0.596562
+[2024.08.30-04.15.45:180][615]Garbage Collection Triggered!
+[2024.08.30-04.15.46:078][617]FNetGUIDCache::PeriodicCleanAndCompact:  26.94ms total time [ 23.16ms CleanReferences() and   3.78ms compacting]; ObjectLookup.Num()=102310 [3682 removed]; NetGUIDLookup.Num()=101459 [4071 removed]
+[2024.08.30-04.19.13:156][800]2024.08.30_04.19.13: Saving world...
+[2024.08.30-04.19.13:170][800]2024.08.30_04.19.13: World Save Complete. Took: 0.592874
+[2024.08.30-04.24.13:175][760]2024.08.30_04.24.13: Saving world...
+[2024.08.30-04.24.13:189][760]2024.08.30_04.24.13: World Save Complete. Took: 0.611310
+[2024.08.30-04.25.46:089][538]FNetGUIDCache::PeriodicCleanAndCompact:  21.33ms total time [ 18.71ms CleanReferences() and   2.62ms compacting]; ObjectLookup.Num()=101801 [3971 removed]; NetGUIDLookup.Num()=101187 [3733 removed]
+[2024.08.30-04.27.45:205][106]Garbage Collection Triggered!
+[2024.08.30-04.29.13:194][710]2024.08.30_04.29.13: Saving world...
+[2024.08.30-04.29.13:206][710]2024.08.30_04.29.13: World Save Complete. Took: 0.621085
+[2024.08.30-04.31.56:293][599]2024.08.30_04.31.56: Tribe Tribe of Life, ID 1178879582: Day 8, 19:20:54: <RichColor Color="0, 1, 0, 1">Life Tamed a Pegomastax - Lvl 10 (Pegomastax)!</>)
+[2024.08.30-04.31.56:297][599]2024.08.30_04.31.56: Life of Tribe Tribe of Life Tamed a Pegomastax - Lvl 10 (Pegomastax)!
+[2024.08.30-04.31.56:527][606]2024.08.30_04.31.56: Tribe Tribe of Life, ID 1178879582: Day 8, 19:20:54: <RichColor Color="1, 0, 0, 1">Your Pegomastax - Lvl 10 (Pegomastax) was killed by Life - Lvl 85-289861057 (Tribe of Life)!</>)
+[2024.08.30-04.31.56:529][606]2024.08.30_04.31.56: Tribe Tribe of Life, ID 1178879582: Day 8, 19:20:54: <RichColor Color="1, 0, 1, 1">Your Tribe killed Pegomastax - Lvl 10 (Pegomastax) (Tribe of Life)!</>)
+[2024.08.30-04.31.56:540][606]2024.08.30_04.31.56: Pegomastax - Lvl 10 (Pegomastax) (Tribe of Life) was killed by Life - Lvl 85-289861057 (Tribe of Life)! [KillerSID: 289861057]
+[2024.08.30-04.32.24:822][455]IP for incoming account 00026e00e6474f40beeda1650ab19e52 - IP 186.105.85.67
+[2024.08.30-04.32.35:091][762]2024.08.30_04.32.35: Z O R O [UniqueNetId:00026e00e6474f40beeda1650ab19e52 Platform:None] joined this ARK!
+[2024.08.30-04.33.27:250][324]2024.08.30_04.33.27: Tribe Tribe of Z O R O, ID 1610544522: Day 8, 19:38:32: <RichColor Color="0, 1, 1, 1">Z O R O was added to the Tribe!</>)
+[2024.08.30-04.33.27:259][324]2024.08.30_04.33.27: Player Z O R O with ID 806758280 joined tribe Tribe of Z O R O with ID 1610544522.
+[2024.08.30-04.34.13:209][657]2024.08.30_04.34.13: Saving world...
+[2024.08.30-04.34.13:220][657]2024.08.30_04.34.13: World Save Complete. Took: 0.621896
+[2024.08.30-04.35.46:092][416]FNetGUIDCache::PeriodicCleanAndCompact:  22.22ms total time [ 18.63ms CleanReferences() and   3.58ms compacting]; ObjectLookup.Num()=102683 [1197 removed]; NetGUIDLookup.Num()=102091 [1172 removed]
+[2024.08.30-04.36.19:536][411]2024.08.30_04.36.19: nickalda [UniqueNetId:0002fa55e0904ad6963055b41af5eb3d Platform:None] left this ARK!
+[2024.08.30-04.36.54:371][452]2024.08.30_04.36.54: Tribe Tribe of Z O R O, ID 1610544522: Day 8, 20:18:39: <RichColor Color="0, 1, 0, 1">Z O R O Tamed a Pteranodon - Lvl 150 (Pteranodon)!</>)
+[2024.08.30-04.36.54:375][452]2024.08.30_04.36.54: Z O R O of Tribe Tribe of Z O R O Tamed a Pteranodon - Lvl 150 (Pteranodon)!
+[2024.08.30-04.36.54:387][452]2024.08.30_04.36.54: Tribe Tribe of Z O R O, ID 1610544522: Day 8, 20:18:39: Z O R O froze Pteranodon - Lvl 150 (Pteranodon))
+[2024.08.30-04.36.54:397][452]Frozen by ID: 00026e00e6474f40beeda1650ab19e52
+[2024.08.30-04.39.13:212][595]2024.08.30_04.39.13: Saving world...
+[2024.08.30-04.39.13:220][595]2024.08.30_04.39.13: World Save Complete. Took: 0.597442
+[2024.08.30-04.39.45:241][555]Garbage Collection Triggered!
+[2024.08.30-04.41.03:724][894]2024.08.30_04.41.03: Tribe Tribe of Z O R O, ID 1610544522: Day 8, 23:10:58: <RichColor Color="1, 0, 0, 1">Your Pteranodon - Lvl 199 (Pteranodon) was killed!</>)
+[2024.08.30-04.41.03:742][894]2024.08.30_04.41.03: Tribe Ruckus, ID 1602035370: Day 8, 23:10:58: <RichColor Color="1, 0, 1, 1">Your Tribe killed Pteranodon - Lvl 199 (Pteranodon) (Tribe of Z O R O)!</>)
+[2024.08.30-04.41.03:751][894]2024.08.30_04.41.03: Pteranodon - Lvl 199 (Pteranodon) (Tribe of Z O R O) was killed!
+[2024.08.30-04.43.29:196][247]2024.08.30_04.43.29: Tribe Tribe of Z O R O, ID 1610544522: Day 9, 01:01:12: <RichColor Color="1, 0, 0, 1">Tribemember Z O R O - Lvl 92 was killed!</>)
+[2024.08.30-04.43.29:201][247]2024.08.30_04.43.29: Z O R O - Lvl 92 (Tribe of Z O R O) was killed!
+[2024.08.30-04.44.13:222][541]2024.08.30_04.44.13: Saving world...
+[2024.08.30-04.44.13:231][541]2024.08.30_04.44.13: World Save Complete. Took: 0.587830
+[2024.08.30-04.45.46:098][304]FNetGUIDCache::PeriodicCleanAndCompact:  22.04ms total time [ 18.48ms CleanReferences() and   3.57ms compacting]; ObjectLookup.Num()=101921 [2628 removed]; NetGUIDLookup.Num()=101401 [2547 removed]
+[2024.08.30-04.49.13:235][452]2024.08.30_04.49.13: Saving world...
+[2024.08.30-04.49.13:243][452]2024.08.30_04.49.13: World Save Complete. Took: 0.600736
+[2024.08.30-04.51.27:548][478]2024.08.30_04.51.27: KIBO [UniqueNetId:0002feec0f06490684b3da9d7b8656ea Platform:None] left this ARK!
+[2024.08.30-04.51.45:268][  9]Garbage Collection Triggered!
+[2024.08.30-04.52.17:626][943]2024.08.30_04.52.17: Tribe Tribe of Z O R O, ID 1610544522: Day 9, 05:52:44: <RichColor Color="0, 1, 0, 1">Z O R O Tamed a Pteranodon - Lvl 4 (Pteranodon)!</>)
+[2024.08.30-04.52.17:629][943]2024.08.30_04.52.17: Z O R O of Tribe Tribe of Z O R O Tamed a Pteranodon - Lvl 4 (Pteranodon)!
+[2024.08.30-04.54.13:263][393]2024.08.30_04.54.13: Saving world...
+[2024.08.30-04.54.13:269][393]2024.08.30_04.54.13: World Save Complete. Took: 0.598264
+[2024.08.30-04.55.38:147][931]2024.08.30_04.55.38: Z O R O [UniqueNetId:00026e00e6474f40beeda1650ab19e52 Platform:None] left this ARK!
+[2024.08.30-04.55.46:103][169]FNetGUIDCache::PeriodicCleanAndCompact:  24.11ms total time [ 21.12ms CleanReferences() and   2.99ms compacting]; ObjectLookup.Num()=101655 [2376 removed]; NetGUIDLookup.Num()=101309 [2198 removed]
+[2024.08.30-04.56.52:738][168]2024.08.30_04.56.52: Tribe Tribe of Z O R O, ID 1610544522: Day 9, 06:46:01: <RichColor Color="0, 1, 0, 1">Your Tribe Tamed a Pteranodon - Lvl 37 (Pteranodon)!</>)
+[2024.08.30-04.56.52:744][168]2024.08.30_04.56.52: Tribe  Tamed a Pteranodon - Lvl 37 (Pteranodon)!
+[2024.08.30-04.59.13:270][382]2024.08.30_04.59.13: Saving world...
+[2024.08.30-04.59.13:278][382]2024.08.30_04.59.13: World Save Complete. Took: 0.585394
+[2024.08.30-05.04.13:301][399]2024.08.30_05.04.13: Saving world...
+[2024.08.30-05.04.13:305][399]2024.08.30_05.04.13: World Save Complete. Took: 0.605360
+[2024.08.30-05.05.46:352][198]FNetGUIDCache::PeriodicCleanAndCompact:  21.30ms total time [ 17.79ms CleanReferences() and   3.51ms compacting]; ObjectLookup.Num()=100573 [1082 removed]; NetGUIDLookup.Num()=100529 [780 removed]
+[2024.08.30-05.09.13:318][412]2024.08.30_05.09.13: Saving world...
+[2024.08.30-05.09.13:324][412]2024.08.30_05.09.13: World Save Complete. Took: 0.597924
+[2024.08.30-05.14.13:366][445]2024.08.30_05.14.13: Saving world...
+[2024.08.30-05.14.13:375][445]2024.08.30_05.14.13: World Save Complete. Took: 0.629818
+[2024.08.30-05.15.46:649][261]FNetGUIDCache::PeriodicCleanAndCompact:  32.33ms total time [ 29.46ms CleanReferences() and   2.88ms compacting]; ObjectLookup.Num()=100529 [44 removed]; NetGUIDLookup.Num()=100526 [3 removed]
+[2024.08.30-05.19.13:358][484]2024.08.30_05.19.13: Saving world...
+[2024.08.30-05.19.13:363][484]2024.08.30_05.19.13: World Save Complete. Took: 0.611934
+[2024.08.30-05.24.13:376][519]2024.08.30_05.24.13: Saving world...
+[2024.08.30-05.24.13:385][519]2024.08.30_05.24.13: World Save Complete. Took: 0.604538
+[2024.08.30-05.25.46:880][340]FNetGUIDCache::PeriodicCleanAndCompact:  19.26ms total time [ 16.77ms CleanReferences() and   2.49ms compacting]; ObjectLookup.Num()=100526 [3 removed]; NetGUIDLookup.Num()=100525 [1 removed]
+[2024.08.30-05.29.13:377][560]2024.08.30_05.29.13: Saving world...
+[2024.08.30-05.29.13:384][560]2024.08.30_05.29.13: World Save Complete. Took: 0.590228
+[2024.08.30-05.34.13:379][602]2024.08.30_05.34.13: Saving world...
+[2024.08.30-05.34.13:393][602]2024.08.30_05.34.13: World Save Complete. Took: 0.584583
+[2024.08.30-05.35.47:089][431]FNetGUIDCache::PeriodicCleanAndCompact:  17.67ms total time [ 16.69ms CleanReferences() and   0.98ms compacting]; ObjectLookup.Num()=100525 [1 removed]; NetGUIDLookup.Num()=100525 [0 removed]
+[2024.08.30-05.39.13:423][644]2024.08.30_05.39.13: Saving world...
+[2024.08.30-05.39.13:432][644]2024.08.30_05.39.13: World Save Complete. Took: 0.610195
+[2024.08.30-05.40.52:168][627]Garbage Collection Triggered!
+[2024.08.30-05.40.52:967][642]IP for incoming account 0002feec0f06490684b3da9d7b8656ea - IP 31.216.56.6
+[2024.08.30-05.41.04:245][976]2024.08.30_05.41.04: KIBO [UniqueNetId:0002feec0f06490684b3da9d7b8656ea Platform:None] joined this ARK!
+[2024.08.30-05.43.16:569][942]2024.08.30_05.43.16: SERVER: martyrd0nk3y: Server is going to quickly restart to bump up the loot drops.
+[2024.08.30-05.44.13:451][631]2024.08.30_05.44.13: Saving world...
+[2024.08.30-05.44.13:459][631]2024.08.30_05.44.13: World Save Complete. Took: 0.623520
+[2024.08.30-05.45.46:112][409]2024.08.30_05.45.46: SERVER: martyrd0nk3y: Server shutting down for restart to fix loot drops. Will be back up in 2-3 minutes!
+[2024.08.30-05.45.47:231][442]FNetGUIDCache::PeriodicCleanAndCompact:  19.71ms total time [ 18.16ms CleanReferences() and   1.55ms compacting]; ObjectLookup.Num()=100760 [0 removed]; NetGUIDLookup.Num()=100737 [23 removed]

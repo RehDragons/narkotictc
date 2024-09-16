@@ -1,0 +1,50 @@
+﻿[2024.09.06-00.03.15:562][ 10]Log file open, 09/06/24 02:03:15
+[2024.09.06-00.03.15:562][ 10]2024.09.06_00.03.15: [CCA_ASABot_C_2147476376] Loading INI Settings
+[2024.09.06-00.03.15:575][ 10]2024.09.06_00.03.15: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.09.06-00.04.05:029][ 24]2024.09.06_00.04.05: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.09.06-00.04.05:038][ 24]2024.09.06_00.04.05: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.06-00.04.05:050][ 24]2024.09.06_00.04.05: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.06-00.04.05:062][ 24]2024.09.06_00.04.05: [WBUI] [CCA] [Request] Sending request to: https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json
+[2024.09.06-00.04.05:108][ 25]2024.09.06_00.04.05: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.06-00.04.05:116][ 25]2024.09.06_00.04.05: [WBUI] [CCA]  Updated Settings
+[2024.09.06-00.04.10:199][109]2024.09.06_00.04.10: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.09.06-00.05.10:060][901]2024.09.06_00.05.10: MulletMaster932 [UniqueNetId:00022720309a47abaa857509b3d93774 Platform:None] joined this ARK!
+[2024.09.06-00.05.10:531][915]2024.09.06_00.05.10: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.06-00.05.10:536][915]2024.09.06_00.05.10: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.06-00.05.10:547][915]2024.09.06_00.05.10: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.06-00.05.40:057][801]2024.09.06_00.05.40: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.06-00.05.40:068][801]2024.09.06_00.05.40: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.06-00.05.40:080][801]2024.09.06_00.05.40: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.06-00.06.03:978][517]2024.09.06_00.06.03: Tribe Tribe of Sniggin, ID 1792631149: Day 1, 13:31:15: <RichColor Color="0, 1, 1, 1">Sniggin was added to the Tribe!</>)
+[2024.09.06-00.06.03:987][517]2024.09.06_00.06.03: Player MulletMaster932 with ID 634679569 joined tribe Tribe of Sniggin with ID 1792631149.
+[2024.09.06-00.06.13:158][741]2024.09.06_00.06.13: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] left this ARK!
+[2024.09.06-00.06.31:086][181]2024.09.06_00.06.31: Tribe Tribe of Sniggin, ID 1792631149: Day 1, 13:42:06: <RichColor Color="1, 0, 0, 1">Tribemember Sniggin - Lvl 1 was killed by an Aberrant Pulmonoscorpius - Lvl 35!</>)
+[2024.09.06-00.06.31:092][181]2024.09.06_00.06.31: Sniggin - Lvl 1 (Tribe of Sniggin) was killed by an Aberrant Pulmonoscorpius - Lvl 35 ()!
+[2024.09.06-00.06.35:066][285]2024.09.06_00.06.35: RehDragon [UniqueNetId:0002a0b12ff54d80a45035c18750b660 Platform:None] joined this ARK!
+[2024.09.06-00.07.41:409][ 34]2024.09.06_00.07.41: Saving world...
+[2024.09.06-00.07.41:418][ 34]2024.09.06_00.07.41: World Save Complete. Took: 0.463897
+[2024.09.06-00.08.47:892][837]2024.09.06_00.08.47: MulletMaster932 [UniqueNetId:00022720309a47abaa857509b3d93774 Platform:None] left this ARK!
+[2024.09.06-00.09.08:211][430]2024.09.06_00.09.08: ABN GRANDMA [UniqueNetId:0002687cb3d249f9a9eaf387e9019816 Platform:None] joined this ARK!
+[2024.09.06-00.09.56:392][874]2024.09.06_00.09.56: Tribe Tribe of Sniggin, ID 1792631149: Day 1, 15:04:13: <RichColor Color="1, 0, 0, 1">Tribemember Sniggin - Lvl 2 was killed!</>)
+[2024.09.06-00.09.56:396][874]2024.09.06_00.09.56: Sniggin - Lvl 2 (Tribe of Sniggin) was killed!
+[2024.09.06-00.10.49:974][479]2024.09.06_00.10.49: Tribe Tribe of EAT ME, ID 1907183865: Day 1, 15:25:38: <RichColor Color="0, 1, 1, 1">EAT ME was added to the Tribe!</>)
+[2024.09.06-00.10.49:976][479]2024.09.06_00.10.49: Player ABN GRANDMA with ID 23940367 joined tribe Tribe of EAT ME with ID 1907183865.
+[2024.09.06-00.11.26:092][559]2024.09.06_00.11.26: HiAssJiveTurkey [UniqueNetId:00024f7de7944284a4017e2b97df06e3 Platform:None] joined this ARK!
+[2024.09.06-00.11.37:010][886]2024.09.06_00.11.37: SilkySauce [UniqueNetId:0002af44dbb24634ab866790967c5c1e Platform:None] joined this ARK!
+[2024.09.06-00.12.01:103][608]2024.09.06_00.12.01: TacoTuesday1477 [UniqueNetId:0002d60206864cbcb3f8bea1bc254162 Platform:None] joined this ARK!
+[2024.09.06-00.12.28:285][421]2024.09.06_00.12.28: Tribe Tribe of sauce, ID 1504903447: Day 1, 16:04:58: <RichColor Color="0, 1, 1, 1">sauce was added to the Tribe!</>)
+[2024.09.06-00.12.28:288][421]2024.09.06_00.12.28: Player SilkySauce with ID 16115455 joined tribe Tribe of sauce with ID 1504903447.
+[2024.09.06-00.12.41:426][785]2024.09.06_00.12.41: Saving world...
+[2024.09.06-00.12.41:429][785]2024.09.06_00.12.41: World Save Complete. Took: 0.437904
+[2024.09.06-00.13.24:679][976]2024.09.06_00.13.24: Tribe Tribe of sauce, ID 1504903447: Day 1, 16:27:32: <RichColor Color="1, 0, 0, 1">Tribemember sauce - Lvl 1 was killed by a Basilisk - Lvl 15!</>)
+[2024.09.06-00.13.24:690][976]2024.09.06_00.13.24: sauce - Lvl 1 (Tribe of sauce) was killed by a Basilisk - Lvl 15 ()!
+[2024.09.06-00.13.27:557][ 58]2024.09.06_00.13.27: BIGFOOT [UniqueNetId:00021acbaf094a78ab15ec9c1732d4d0 Platform:None] joined this ARK!
+[2024.09.06-00.13.47:612][636]2024.09.06_00.13.47: Tribe Tribe of Mango, ID 1773629605: Day 1, 16:36:41: <RichColor Color="0, 1, 1, 1">Mango was added to the Tribe!</>)
+[2024.09.06-00.13.47:617][636]2024.09.06_00.13.47: Player BIGFOOT with ID 371148490 joined tribe Tribe of Mango with ID 1773629605.
+[2024.09.06-00.13.49:347][680]2024.09.06_00.13.49: MartyrD0nk3y [UniqueNetId:0002789f4f984c6787a5898016eb4375 Platform:None] joined this ARK!
+[2024.09.06-00.14.20:057][497]2024.09.06_00.14.20: SilkySauce [UniqueNetId:0002af44dbb24634ab866790967c5c1e Platform:None] left this ARK!
+[2024.09.06-00.14.26:740][657]2024.09.06_00.14.26: Tribe Tribe of Shwat, ID 1714227183: Day 1, 16:52:20: <RichColor Color="0, 1, 1, 1">Shwat was added to the Tribe!</>)
+[2024.09.06-00.14.26:743][657]2024.09.06_00.14.26: Player MartyrD0nk3y with ID 859484274 joined tribe Tribe of Shwat with ID 1714227183.
+[2024.09.06-00.14.28:192][676]2024.09.06_00.14.28: HiAssJiveTurkey [UniqueNetId:00024f7de7944284a4017e2b97df06e3 Platform:None] left this ARK!
+[2024.09.06-00.16.00:689][627]2024.09.06_00.16.00: Tribe Tribe of Taco, ID 1280585111: Day 1, 17:29:55: <RichColor Color="0, 1, 1, 1">Taco was added to the Tribe!</>)
+[2024.09.06-00.16.00:701][627]2024.09.06_00.16.00: Player TacoTuesday1477 with ID 438631824 joined tribe Tribe of Taco with ID 1280585111.

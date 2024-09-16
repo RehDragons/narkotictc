@@ -1,0 +1,54 @@
+﻿[2024.08.29-13.52.06:408][  0]Log file open, 08/29/24 15:52:06
+[2024.08.29-13.52.06:408][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2024.08.29-13.52.06:408][  0]LogMemory: Process Physical Memory: 279.22 MB used, 279.22 MB peak
+[2024.08.29-13.52.06:408][  0]LogMemory: Process Virtual Memory: 305.55 MB used, 305.55 MB peak
+[2024.08.29-13.52.06:408][  0]LogMemory: Physical Memory: 3301.47 MB used,  29370.97 MB free, 32672.45 MB total
+[2024.08.29-13.52.06:408][  0]LogMemory: Virtual Memory: 7569.38 MB used,  30223.06 MB free, 37792.45 MB total
+[2024.08.29-13.52.06:909][  0]11
+
+[2024.08.29-13.52.06:914][  0]ARK Version: 51.23
+[2024.08.29-13.52.07:180][  0]LogCFCore: SetSettings called:
+{
+	"defaultLanguage": "en",
+	"gameId": 83374,
+	"apiKey": "*****1aZe",
+	"maxConcurrentInstallations": 3,
+	"modsDirectory": "ShooterGame/Mods",
+	"modsDirectoryMode": "CFCore",
+	"userDataDirectory": "ShooterGame/ModsUserData",
+	"isServer": true,
+	"isServerPcOnly": false,
+	"throttling":
+	{
+		"diskWriteBytesPerSec": 0
+	},
+	"premiumMods":
+	{
+		"publicKeyPem": "*****"
+	},
+	"logger":
+	{
+		"enabled": true,
+		"history": 8,
+		"maxSizeInMB": 2
+	},
+	"dynamicContentCategoryIds": [ 6844 ]
+}
+[2024.08.29-13.52.07:181][  0]LogCFCore: InternalSettings called:
+{
+	"apiBaseUrl": "https://api.curseforge.com",
+	"chunkedUploadServerUrl": "https://chunk-uploads.curseforge.com",
+	"analyticsUrl": "https://analyticsnew.overwolf.com/analytics/Counter",
+	"userAgent": "cfcore.ue 1.0.99",
+	"platform": "windows",
+	"pluginVersion": "1.0.99",
+	"httpFileDownloadTimeoutSecs": 1200
+}
+[2024.08.29-13.52.07:181][  0]LogCFCore: Warning: Couldn't load mods library from disk
+[2024.08.29-13.52.07:182][  0]LogCFCore: User context not loaded from disk
+[2024.08.29-13.52.17:201][294]LogCFCore: Error: Error querying server mods: ApiError: Failed (serverUnreachable)
+[2024.08.29-13.52.20:541][295]LogMemory: Platform Memory Stats for WindowsServer
+[2024.08.29-13.52.20:541][295]LogMemory: Process Physical Memory: 848.67 MB used, 849.20 MB peak
+[2024.08.29-13.52.20:541][295]LogMemory: Process Virtual Memory: 862.14 MB used, 862.77 MB peak
+[2024.08.29-13.52.20:541][295]LogMemory: Physical Memory: 3865.64 MB used,  28806.80 MB free, 32672.45 MB total
+[2024.08.29-13.52.20:541][295]LogMemory: Virtual Memory: 8130.36 MB used,  29662.09 MB free, 37792.45 MB total

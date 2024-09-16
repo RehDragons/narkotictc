@@ -1,0 +1,10 @@
+﻿[2024.09.14-08.44.17:492][  9]Log file open, 09/14/24 10:44:17
+[2024.09.14-08.44.17:493][  9]2024.09.14_08.44.17: [CCA_ASABot_C_2147476545] Loading INI Settings
+[2024.09.14-08.44.17:505][  9]2024.09.14_08.44.17: Version 2.1.0 --- CF Revision 117 --- Build Date Jul 8, 2024, 11:50:00 AM
+[2024.09.14-08.45.02:547][ 15]2024.09.14_08.45.02: [WBUI] [CCA] [Version] Up to Date: v1.22
+[2024.09.14-08.45.02:549][ 15]2024.09.14_08.45.02: [WBUI] [CCA] [INI-Setting] JsonURL= 
+[2024.09.14-08.45.02:561][ 15]2024.09.14_08.45.02: [WBUI] [CCA] [INI-Settings] JsonURL empty. Settings Default: "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json"
+[2024.09.14-08.45.02:573][ 15]2024.09.14_08.45.02: [WBUI] [CCA] [Json] No Errors, Valid WBUI2 Json
+[2024.09.14-08.45.02:583][ 15]2024.09.14_08.45.02: [WBUI] [CCA]  Updated Settings
+[2024.09.14-08.48.48:266][690]2024.09.14_08.48.48: Saving world...
+[2024.09.14-08.48.48:272][690]2024.09.14_08.48.48: World Save Complete. Took: 0.403536
